@@ -1,2 +1,23 @@
 {
-  "name
+  "name": "hrbp-job-intelligence",
+  "version": 2,
+  "builds": [
+    { "src": "api/jobs.js", "use": "@vercel/node" },
+    { "src": "dist/index.html", "use": "@vercel/static" },
+    { "src": "dist/assets/**", "use": "@vercel/static" },
+    { "src": "dist/favicon.svg", "use": "@vercel/static" }
+  ],
+  "routes": [
+    { "src": "/api/jobs", "dest": "/api/jobs.js" },
+    { "src": "/api/status", "dest": "/api/jobs.js" },
+    { "src": "/api/hot-jobs", "dest": "/api/jobs.js" },
+    { "src": "/api/companies", "dest": "/api/jobs.js" },
+    { "src": "/api/stats", "dest": "/api/jobs.js" },
+    { "src": "/", "dest": "/dist/index.html" },
+    { "src": "/assets/(.*)", "dest": "/dist/assets/$1" },
+    { "src": "/favicon.svg", "dest": "/dist/favicon.svg" }
+  ],
+  "env": {
+    "NODE_ENV": "production"
+  }
+}

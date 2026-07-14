@@ -1,6 +1,6 @@
 import { create } from 'zustand'
 import { persist } from 'zustand/middleware'
-import { defaultFilters, type JobFilters, getCrawlerStatus, refreshJobs } from '@/data/dataApi'
+import { defaultFilters, type JobFilters, defaultCrawlerStatus, refreshJobs } from '@/data/dataApi'
 import type { CrawlerStatus } from '@/data/types'
 
 interface AppState {
@@ -17,8 +17,9 @@ interface AppState {
   toggleFavorite: (jobId: string) => void
   isFavorite: (jobId: string) => boolean
   addRecentView: (jobId: string) => void
-  triggerRefresh: () => void
+  triggerRefresh: () => Promise<{ newCount: number; totalCount: number }>
   setNextRefreshIn: (s: number) => void
+  setCrawlerStatus: (status: CrawlerStatus) => void
 }
 
 export const useStore = create<AppState>()(
@@ -28,7 +29,7 @@ export const useStore = create<AppState>()(
       hotMetric: 'heat',
       favorites: [],
       recentViews: [],
-      crawlerStatus: getCrawlerStatus(),
+      crawlerStatus: { ...defaultCrawlerStatus },
       refreshKey: 0,
       nextRefreshIn: 3600,
       setFilters: (filters) =>
@@ -44,21 +45,18 @@ export const useStore = create<AppState>()(
       isFavorite: (jobId) => get().favorites.includes(jobId),
       addRecentView: (jobId) =>
         set((state) => ({
-          recentViews: [
-            jobId,
-            ...state.recentViews.filter((id) => id !== jobId),
-          ].slice(0, 10),
+          recentViews: [jobId, ...state.recentViews.filter((id) => id !== jobId)].slice(0, 10),
         })),
-      triggerRefresh: () => {
-        const result = refreshJobs()
+      triggerRefresh: async () => {
+        const result = await refreshJobs()
         set({
-          crawlerStatus: getCrawlerStatus(),
           refreshKey: get().refreshKey + 1,
           nextRefreshIn: 3600,
         })
         return result
       },
       setNextRefreshIn: (s) => set({ nextRefreshIn: s }),
+      setCrawlerStatus: (status) => set({ crawlerStatus: status }),
     }),
     {
       name: 'hrbp-intel-store',

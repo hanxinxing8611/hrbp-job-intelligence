@@ -17,7 +17,7 @@ export default function App() {
       </main>
       <footer className="border-t border-ink-700/60 px-8 py-5 text-center">
         <p className="font-mono text-[11px] tracking-wider text-muted">
-          HRBP 求职情报站 · 数据为模拟爬虫样本 · 仅供求职决策参考
+          HRBP 求职情报站 · 聚合 BOSS直聘 / 智联招聘 / 前程无忧 公开职位 · 仅供求职参考
         </p>
       </footer>
     </div>

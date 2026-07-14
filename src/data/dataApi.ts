@@ -7,6 +7,7 @@ import type {
   ScoreCard,
   TrendPoint,
 } from './types'
+import { companies } from './companies'
 
 const API_BASE = '/api'
 
@@ -18,6 +19,9 @@ async function fetchApi<T>(path: string, options: RequestInit = {}): Promise<T> 
     },
     ...options,
   })
+  if (!response.ok) {
+    throw new Error(`API error ${response.status}: ${path}`)
+  }
   return response.json()
 }
 
@@ -41,7 +45,19 @@ export const defaultFilters: JobFilters = {
   keyword: '',
 }
 
-export async function getJobs(filters: JobFilters): Promise<{ data: Job[]; total: number }> {
+export const defaultCrawlerStatus: CrawlerStatus = {
+  platforms: 3,
+  todayNew: 0,
+  lastCrawl: new Date().toISOString(),
+  totalJobs: 0,
+}
+
+export async function getJobs(
+  filters: JobFilters,
+  sort: 'heat' | 'salary' | 'time' | 'growth' = 'heat',
+  page = 1,
+  limit = 200,
+): Promise<{ data: Job[]; total: number; page: number; limit: number }> {
   const params = new URLSearchParams()
   params.set('city', filters.city)
   params.set('experience', filters.experience)
@@ -49,21 +65,28 @@ export async function getJobs(filters: JobFilters): Promise<{ data: Job[]; total
   params.set('salaryMax', filters.salaryMax.toString())
   params.set('scale', filters.scale)
   params.set('stage', filters.stage)
+  params.set('sort', sort)
+  params.set('page', page.toString())
+  params.set('limit', limit.toString())
   if (filters.keyword) params.set('keyword', filters.keyword)
-  
-  return fetchApi<{ data: Job[]; total: number }>(`/jobs?${params.toString()}`)
+
+  return fetchApi(`/jobs?${params.toString()}`)
 }
 
 export async function getJobById(jobId: string): Promise<Job | undefined> {
   try {
-    return fetchApi<Job>(`/jobs/${jobId}`)
+    return await fetchApi<Job>(`/jobs/${jobId}`)
   } catch {
     return undefined
   }
 }
 
-export async function getHotJobs(metric: 'heat' | 'salary' | 'growth'): Promise<Job[]> {
-  return fetchApi<Job[]>(`/hot-jobs?metric=${metric}`)
+export async function getHotJobs(metric: 'heat' | 'salary' | 'growth' = 'heat'): Promise<Job[]> {
+  try {
+    return await fetchApi<Job[]>(`/hot-jobs?metric=${metric}`)
+  } catch {
+    return []
+  }
 }
 
 export async function getJobsByCompany(companyId: string): Promise<Job[]> {
@@ -75,30 +98,6 @@ export async function getJobsByCompany(companyId: string): Promise<Job[]> {
   }
 }
 
-export async function getSimilarJobs(jobId: string, limit: number = 5): Promise<Job[]> {
-  const target = await getJobById(jobId)
-  if (!target) return []
-
-  const allJobs = await getJobs(defaultFilters)
-  
-  return allJobs.data
-    .filter((j) => j.jobId !== jobId)
-    .map((j) => {
-      let score = 0
-      if (j.companyId === target.companyId) score += 30
-      if (j.city === target.city) score += 20
-      if (j.experience === target.experience) score += 15
-      if (j.salaryMin <= target.salaryMax && j.salaryMax >= target.salaryMin) score += 20
-      const sharedTags = j.tags.filter((t) => target.tags.includes(t)).length
-      score += sharedTags * 5
-      score += Math.min(j.heat / 100, 10)
-      return { job: j, score }
-    })
-    .sort((a, b) => b.score - a.score)
-    .slice(0, limit)
-    .map((item) => item.job)
-}
-
 export async function getSalaryStats(experience?: string): Promise<{
   avg: number
   median: number
@@ -107,45 +106,48 @@ export async function getSalaryStats(experience?: string): Promise<{
   p25: number
   p75: number
 }> {
-  const allJobs = await getJobs(defaultFilters)
-  const filtered = experience
-    ? allJobs.data.filter((j) => j.experience === experience)
-    : allJobs.data
-  const salaries = filtered.map((j) => j.salaryMin).sort((a, b) => a - b)
-  if (salaries.length === 0)
-    return { avg: 0, median: 0, min: 0, max: 0, p25: 0, p75: 0 }
-  const mid = Math.floor(salaries.length / 2)
-  return {
-    min: salaries[0],
-    max: salaries[salaries.length - 1],
-    median: salaries.length % 2 ? salaries[mid] : (salaries[mid - 1] + salaries[mid]) / 2,
-    p25: salaries[Math.floor(salaries.length * 0.25)],
-    p75: salaries[Math.floor(salaries.length * 0.75)],
-    avg: Math.round(salaries.reduce((a, b) => a + b, 0) / salaries.length),
-  }
-}
-
-export async function getCompanyById(companyId: string): Promise<Company> {
   try {
-    return fetchApi<Company>(`/companies/${companyId}`)
-  } catch {
-    return {
-      companyId,
-      name: '未知公司',
-      industry: '未知',
-      scale: '未知',
-      stage: '未知',
-      logoColor: '#6366f1',
-      logoInitial: '?',
-      description: '',
-      founded: 2000,
-      headquarters: '未知',
+    const allJobs = await getJobs(defaultFilters)
+    const filtered = experience
+      ? allJobs.data.filter((j) => j.experience === experience)
+      : allJobs.data
+    const salaries = filtered.map((j) => j.salaryMin).sort((a, b) => a - b)
+    if (salaries.length === 0) {
+      return { avg: 0, median: 0, min: 0, max: 0, p25: 0, p75: 0 }
     }
+    const mid = Math.floor(salaries.length / 2)
+    return {
+      min: salaries[0],
+      max: salaries[salaries.length - 1],
+      median: salaries.length % 2 ? salaries[mid] : (salaries[mid - 1] + salaries[mid]) / 2,
+      p25: salaries[Math.floor(salaries.length * 0.25)],
+      p75: salaries[Math.floor(salaries.length * 0.75)],
+      avg: Math.round(salaries.reduce((a, b) => a + b, 0) / salaries.length),
+    }
+  } catch {
+    return { avg: 0, median: 0, min: 0, max: 0, p25: 0, p75: 0 }
   }
 }
 
-export async function getAllCompanies(): Promise<Company[]> {
-  return fetchApi<Company[]>('/companies')
+export function getCompanyById(companyId: string): Company {
+  const company = companies.find((c) => c.companyId === companyId)
+  if (company) return company
+  return {
+    companyId,
+    name: '未知公司',
+    industry: '未知',
+    scale: '未知',
+    stage: '未知',
+    logoColor: '#6366f1',
+    logoInitial: '?',
+    description: '',
+    founded: 2000,
+    headquarters: '未知',
+  }
+}
+
+export function getAllCompanies(): Company[] {
+  return companies
 }
 
 export function getCompanyAtmosphere(companyId: string): RadarMetric[] {
@@ -172,8 +174,8 @@ export function getGrowthTrend(companyId: string): TrendPoint[] {
   const years = ['2021', '2022', '2023', '2024', '2025']
   let revenue = Math.floor(Math.random() * 1000 + 500)
   let headcount = Math.floor(Math.random() * 100 + 50)
-  
-  return years.map(year => {
+
+  return years.map((year) => {
     revenue += Math.floor(Math.random() * 500 - 100)
     headcount += Math.floor(Math.random() * 100 - 20)
     return {
@@ -191,13 +193,13 @@ export function getCompanyScoreCard(companyId: string): ScoreCard {
   const competitivenessScore = Math.floor(Math.random() * 20 + 65)
   const potentialScore = Math.floor(Math.random() * 20 + 70)
   const overall = Math.round((atmosphereScore + competitivenessScore + potentialScore) / 3)
-  
+
   let grade = 'B'
   if (overall >= 90) grade = 'S'
   else if (overall >= 80) grade = 'A'
   else if (overall >= 70) grade = 'B'
   else if (overall >= 60) grade = 'C'
-  
+
   return {
     companyId,
     atmosphereScore,
@@ -211,27 +213,39 @@ export function getCompanyScoreCard(companyId: string): ScoreCard {
 }
 
 export async function getCrawlerStatus(): Promise<CrawlerStatus> {
-  return fetchApi<CrawlerStatus>('/status')
+  try {
+    return await fetchApi<CrawlerStatus>('/status')
+  } catch {
+    return { ...defaultCrawlerStatus }
+  }
 }
 
 export async function refreshJobs(): Promise<{ newCount: number; totalCount: number }> {
   try {
     const result = await fetchApi<{ count: number }>('/crawl', { method: 'POST' })
     const status = await getCrawlerStatus()
-    return { newCount: result.count, totalCount: status.totalJobs }
+    return { newCount: result.count || 0, totalCount: status.totalJobs }
   } catch {
     return { newCount: 0, totalCount: 0 }
   }
 }
 
 export async function getCityOptions(): Promise<string[]> {
-  const stats = await fetchApi<{ cityStats: { city: string }[] }>('/stats')
-  return ['全部', ...stats.cityStats.map(s => s.city)]
+  try {
+    const stats = await fetchApi<{ cityStats: { city: string }[] }>('/stats')
+    return ['全部', ...stats.cityStats.map((s) => s.city)]
+  } catch {
+    return ['全部']
+  }
 }
 
 export async function getExperienceOptions(): Promise<string[]> {
-  const stats = await fetchApi<{ expStats: { experience: string }[] }>('/stats')
-  return ['全部', ...stats.expStats.map(s => s.experience)]
+  try {
+    const stats = await fetchApi<{ expStats: { experience: string }[] }>('/stats')
+    return ['全部', ...stats.expStats.map((s) => s.experience)]
+  } catch {
+    return ['全部']
+  }
 }
 
 export function getScaleOptions(): string[] {

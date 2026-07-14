@@ -2,3 +2,5 @@ node_modules
 .tmp-install
 .trae
 *.log
+dist
+ngrok.zip

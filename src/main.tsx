@@ -6,7 +6,7 @@ import './index.css'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <BrowserRouter basename="/hrbp-job-intelligence/">
+    <BrowserRouter>
       <App />
     </BrowserRouter>
   </StrictMode>,

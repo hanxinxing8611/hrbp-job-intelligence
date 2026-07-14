@@ -1,0 +1,177 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background-color: #0e0f13;
+  color: #f5f1e8;
+  font-family: 'Noto Sans SC', system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* 噪点纹理叠加，营造情报室质感 */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 1;
+  opacity: 0.035;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+/* 自定义滚动条 */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #0e0f13;
+}
+::-webkit-scrollbar-thumb {
+  background: #262b3a;
+  border-radius: 5px;
+  border: 2px solid #0e0f13;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #3a4156;
+}
+
+/* 隐藏横向滚动条但保留滚动 */
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* 脉冲指示器 */
+@keyframes intel-pulse {
+  0%,
+  100% {
+    box-shadow: 0 0 0 0 rgba(74, 157, 140, 0.6);
+  }
+  50% {
+    box-shadow: 0 0 0 6px rgba(74, 157, 140, 0);
+  }
+}
+.pulse-dot {
+  animation: intel-pulse 2s ease-in-out infinite;
+}
+
+/* 数字滚动微动效 */
+@keyframes count-flicker {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.85;
+  }
+}
+.count-flicker {
+  animation: count-flicker 3s ease-in-out infinite;
+}
+
+/* 雷达图绘制 */
+@keyframes radar-draw {
+  from {
+    stroke-dashoffset: 600;
+    opacity: 0;
+  }
+  to {
+    stroke-dashoffset: 0;
+    opacity: 1;
+  }
+}
+.radar-poly {
+  stroke-dasharray: 600;
+  animation: radar-draw 1.4s ease-out forwards;
+}
+
+/* 条形图增长 */
+@keyframes bar-grow {
+  from {
+    transform: scaleX(0);
+  }
+  to {
+    transform: scaleX(1);
+  }
+}
+.bar-grow {
+  transform-origin: left center;
+  animation: bar-grow 0.9s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+
+/* 折线图描绘 */
+@keyframes line-draw {
+  from {
+    stroke-dashoffset: 1000;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+.line-draw {
+  stroke-dasharray: 1000;
+  animation: line-draw 1.6s ease-out forwards;
+}
+
+/* 选中卡片左侧金条 */
+.card-accent {
+  position: relative;
+}
+.card-accent::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 12px;
+  bottom: 12px;
+  width: 2px;
+  background: transparent;
+  transition: background 0.25s ease;
+}
+.card-accent:hover::before {
+  background: #e8b547;
+}
+
+/* 范围滑块美化 */
+input[type='range'] {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 3px;
+  background: #262b3a;
+  border-radius: 2px;
+  outline: none;
+}
+input[type='range']::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: #e8b547;
+  cursor: pointer;
+  border: 2px solid #0e0f13;
+}
+input[type='range']::-moz-range-thumb {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: #e8b547;
+  cursor: pointer;
+  border: 2px solid #0e0f13;
+}

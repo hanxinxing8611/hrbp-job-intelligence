@@ -11,8 +11,8 @@ import { companies } from './companies'
 
 const API_BASE = '/api'
 
-async function fetchApi<T>(path: string, options: RequestInit = {}): Promise<T> {
-  const response = await fetch(`${API_BASE}${path}`, {
+async function fetchWithFallback<T>(url: string, options: RequestInit = {}): Promise<T> {
+  const response = await fetch(url, {
     headers: {
       'Content-Type': 'application/json',
       ...options.headers,
@@ -20,9 +20,19 @@ async function fetchApi<T>(path: string, options: RequestInit = {}): Promise<T> 
     ...options,
   })
   if (!response.ok) {
-    throw new Error(`API error ${response.status}: ${path}`)
+    throw new Error(`API error ${response.status}: ${url}`)
   }
   return response.json()
+}
+
+async function fetchApi<T>(path: string, options: RequestInit = {}): Promise<T> {
+  try {
+    return await fetchWithFallback<T>(`${API_BASE}${path}`, options)
+  } catch {
+    // 静态站点 fallback：尝试请求预生成的 .json 文件
+    const staticPath = `${API_BASE}${path.split('?')[0]}.json`
+    return fetchWithFallback<T>(staticPath, options)
+  }
 }
 
 export interface JobFilters {
@@ -126,6 +136,20 @@ export async function getSalaryStats(experience?: string): Promise<{
     }
   } catch {
     return { avg: 0, median: 0, min: 0, max: 0, p25: 0, p75: 0 }
+  }
+}
+
+export async function getSimilarJobs(jobId: string, limit = 4): Promise<Job[]> {
+  try {
+    const target = await getJobById(jobId)
+    if (!target) return []
+    const all = await getJobs(defaultFilters)
+    return all.data
+      .filter((j) => j.jobId !== jobId && (j.city === target.city || j.tags.some((t) => target.tags.includes(t))))
+      .sort((a, b) => b.heat - a.heat)
+      .slice(0, limit)
+  } catch {
+    return []
   }
 }
 

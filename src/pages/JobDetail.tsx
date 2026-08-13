@@ -1,4 +1,4 @@
-import { useEffect } from 'react'
+import { useEffect, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import { motion } from 'framer-motion'
 import {
@@ -28,6 +28,7 @@ import {
   getJobById as findJob,
 } from '@/data/dataApi'
 import { useStore } from '@/store/useStore'
+import type { Job } from '@/data/types'
 import CompanyLogo from '@/components/CompanyLogo'
 import SalaryBreakdownChart from '@/components/SalaryBreakdownChart'
 
@@ -41,7 +42,12 @@ const interviewTips = [
 
 export default function JobDetail() {
   const { jobId } = useParams()
-  const job = jobId ? getJobById(jobId) : undefined
+  const [job, setJob] = useState<Job | undefined>(undefined)
+  const [relatedJobs, setRelatedJobs] = useState<Job[]>([])
+  const [similarJobs, setSimilarJobs] = useState<Job[]>([])
+  const [salaryStats, setSalaryStats] = useState({ avg: 0, median: 0, min: 0, max: 0, p25: 0, p75: 0 })
+  const [recentJobs, setRecentJobs] = useState<Job[]>([])
+  const [loading, setLoading] = useState(true)
   const toggleFavorite = useStore((s) => s.toggleFavorite)
   const isFavorite = useStore((s) => (jobId ? s.favorites.includes(jobId) : false))
   const addRecentView = useStore((s) => s.addRecentView)
@@ -50,6 +56,46 @@ export default function JobDetail() {
   useEffect(() => {
     if (jobId) addRecentView(jobId)
   }, [jobId, addRecentView])
+
+  useEffect(() => {
+    if (!jobId) return
+    let cancelled = false
+    setLoading(true)
+    getJobById(jobId)
+      .then((loadedJob) => {
+        if (cancelled) return
+        setJob(loadedJob)
+        if (!loadedJob) return
+        Promise.all([
+          getJobsByCompany(loadedJob.companyId),
+          getSimilarJobs(jobId, 4),
+          getSalaryStats(),
+        ]).then(([companyJobs, similar, stats]) => {
+          if (cancelled) return
+          setRelatedJobs(companyJobs.filter((j) => j.jobId !== loadedJob.jobId).slice(0, 3))
+          setSimilarJobs(similar)
+          setSalaryStats(stats)
+        })
+        Promise.all(recentViewIds.map((id) => findJob(id))).then((jobs) => {
+          if (cancelled) return
+          setRecentJobs(jobs.filter((j): j is Job => !!j && j.jobId !== jobId).slice(0, 4))
+        })
+      })
+      .finally(() => {
+        if (!cancelled) setLoading(false)
+      })
+    return () => {
+      cancelled = true
+    }
+  }, [jobId, recentViewIds])
+
+  if (loading) {
+    return (
+      <div className="grid place-items-center py-32 text-center">
+        <p className="font-serif text-muted">加载中...</p>
+      </div>
+    )
+  }
 
   if (!job) {
     return (
@@ -63,15 +109,12 @@ export default function JobDetail() {
   }
 
   const company = getCompanyById(job.companyId)
-  const relatedJobs = getJobsByCompany(job.companyId)
-    .filter((j) => j.jobId !== job.jobId)
-    .slice(0, 3)
-  const similarJobs = getSimilarJobs(job.jobId, 4)
-  const salaryStats = getSalaryStats(job.experience)
-  const recentJobs = recentViewIds
-    .map((id) => findJob(id))
-    .filter((j) => j && j.jobId !== job.jobId)
-    .slice(0, 4)
+  const responsibilities = Array.isArray(job.responsibilities)
+    ? job.responsibilities
+    : job.description
+      ? job.description.split('\n').filter((line) => line.trim().length > 0)
+      : []
+  const requirements = Array.isArray(job.requirements) ? job.requirements : []
 
   return (
     <div className="mx-auto max-w-[1200px] px-4 py-4 sm:px-8 sm:py-6">
@@ -144,7 +187,7 @@ export default function JobDetail() {
             </div>
 
             <div className="mt-4 flex flex-wrap gap-1.5">
-              {job.tags.map((tag) => (
+              {(job.tags || []).map((tag) => (
                 <span
                   key={tag}
                   className="rounded border border-gold/20 bg-gold/5 px-2 py-0.5 font-mono text-[10px] text-gold/80"
@@ -229,7 +272,7 @@ export default function JobDetail() {
               岗位职责
             </h3>
             <ul className="space-y-2 sm:space-y-2.5">
-              {job.responsibilities.map((item, i) => (
+              {responsibilities.map((item, i) => (
                 <li key={i} className="flex gap-2.5 text-[12px] leading-relaxed text-paper/80 sm:text-[13px]">
                   <span className="mt-2 h-1 w-1 shrink-0 rounded-full bg-gold" />
                   {item}
@@ -249,7 +292,7 @@ export default function JobDetail() {
               任职要求
             </h3>
             <ul className="space-y-2 sm:space-y-2.5">
-              {job.requirements.map((item, i) => (
+              {requirements.map((item, i) => (
                 <li key={i} className="flex gap-2.5 text-[12px] leading-relaxed text-paper/80 sm:text-[13px]">
                   <CheckCircle2 size={13} className="mt-0.5 shrink-0 text-teal sm:size-[14px]" />
                   {item}
@@ -267,7 +310,7 @@ export default function JobDetail() {
           >
             <h3 className="mb-3 font-serif text-base font-bold text-paper">福利待遇</h3>
             <div className="flex flex-wrap gap-2">
-              {job.benefits.map((b) => (
+              {(job.benefits || []).map((b) => (
                 <span
                   key={b}
                   className="rounded bg-ink-700/50 px-2.5 py-1 text-[11px] text-paper/80"
@@ -485,10 +528,15 @@ export default function JobDetail() {
             </div>
           </div>
 
-          <button className="flex w-full items-center justify-center gap-1.5 rounded border border-gold/40 bg-gold py-2.5 font-mono text-[11px] font-bold tracking-wider text-ink-950 transition hover:bg-gold-soft">
+          <a
+            href={`https://www.zhipin.com/job_detail/?query=${encodeURIComponent(job.title)}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex w-full items-center justify-center gap-1.5 rounded border border-gold/40 bg-gold py-2.5 font-mono text-[11px] font-bold tracking-wider text-ink-950 transition hover:bg-gold-soft"
+          >
             <ExternalLink size={13} />
             前往 {job.source} 投递
-          </button>
+          </a>
         </div>
       </div>
     </div>

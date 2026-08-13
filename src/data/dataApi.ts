@@ -9,7 +9,7 @@ import type {
 } from './types'
 import { companies } from './companies'
 
-const API_BASE = '/api'
+const API_BASE = '/hrbp-job-intelligence/api'
 
 async function fetchWithFallback<T>(url: string, options: RequestInit = {}): Promise<T> {
   const response = await fetch(url, {
@@ -26,13 +26,32 @@ async function fetchWithFallback<T>(url: string, options: RequestInit = {}): Pro
 }
 
 async function fetchApi<T>(path: string, options: RequestInit = {}): Promise<T> {
-  try {
-    return await fetchWithFallback<T>(`${API_BASE}${path}`, options)
-  } catch {
-    // 静态站点 fallback：尝试请求预生成的 .json 文件
-    const staticPath = `${API_BASE}${path.split('?')[0]}.json`
-    return fetchWithFallback<T>(staticPath, options)
-  }
+  const staticPath = `${API_BASE}${path.split('?')[0]}.json`
+  return fetchWithFallback<T>(staticPath, options)
+}
+
+let allJobsCache: Job[] | null = null
+let cachePromise: Promise<Job[]> | null = null
+
+export function clearJobsCache() {
+  allJobsCache = null
+  cachePromise = null
+}
+
+async function getAllJobsCached(): Promise<Job[]> {
+  if (allJobsCache) return allJobsCache
+  if (cachePromise) return cachePromise
+  cachePromise = (async () => {
+    try {
+      const result = await fetchApi<{ data: Job[] }>('/jobs')
+      allJobsCache = result.data
+      return allJobsCache
+    } catch (e) {
+      console.error('Failed to load jobs:', e)
+      return []
+    }
+  })()
+  return cachePromise
 }
 
 export interface JobFilters {
@@ -49,7 +68,7 @@ export const defaultFilters: JobFilters = {
   city: '全部',
   experience: '全部',
   salaryMin: 0,
-  salaryMax: 80,
+  salaryMax: 500,
   scale: '全部',
   stage: '全部',
   keyword: '',
@@ -64,48 +83,77 @@ export const defaultCrawlerStatus: CrawlerStatus = {
 
 export async function getJobs(
   filters: JobFilters,
-  sort: 'heat' | 'salary' | 'time' | 'growth' = 'heat',
+  sort: 'heat' | 'salary' | 'time' | 'growth' | 'value' = 'value',
   page = 1,
   limit = 200,
 ): Promise<{ data: Job[]; total: number; page: number; limit: number }> {
-  const params = new URLSearchParams()
-  params.set('city', filters.city)
-  params.set('experience', filters.experience)
-  params.set('salaryMin', filters.salaryMin.toString())
-  params.set('salaryMax', filters.salaryMax.toString())
-  params.set('scale', filters.scale)
-  params.set('stage', filters.stage)
-  params.set('sort', sort)
-  params.set('page', page.toString())
-  params.set('limit', limit.toString())
-  if (filters.keyword) params.set('keyword', filters.keyword)
+  const allJobs = await getAllJobsCached()
 
-  return fetchApi(`/jobs?${params.toString()}`)
+  let filtered = allJobs.filter((job) => {
+    if (filters.city !== '全部' && job.city !== filters.city) return false
+    if (filters.experience !== '全部' && job.experience !== filters.experience) return false
+    if (job.salaryMin < filters.salaryMin) return false
+    if (job.salaryMax > filters.salaryMax) return false
+    if (filters.scale !== '全部' && job.companyId.includes(filters.scale)) return false
+    if (filters.stage !== '全部' && job.companyId.includes(filters.stage)) return false
+    if (filters.keyword && !job.title.includes(filters.keyword) && !job.companyName.includes(filters.keyword)) return false
+    return true
+  })
+
+  switch (sort) {
+    case 'heat':
+      filtered.sort((a, b) => b.heat - a.heat)
+      break
+    case 'salary':
+      filtered.sort((a, b) => b.salaryMax - a.salaryMax)
+      break
+    case 'time':
+      filtered.sort((a, b) => b.postedAt.localeCompare(a.postedAt))
+      break
+    case 'growth':
+      filtered.sort((a, b) => b.growth - a.growth)
+      break
+    case 'value':
+      filtered.sort((a, b) => (b.valueScore || 0) - (a.valueScore || 0))
+      break
+  }
+
+  const total = filtered.length
+  const start = (page - 1) * limit
+  const data = filtered.slice(start, start + limit)
+
+  return { data, total, page, limit }
 }
 
 export async function getJobById(jobId: string): Promise<Job | undefined> {
   try {
     return await fetchApi<Job>(`/jobs/${jobId}`)
   } catch {
-    return undefined
+    const allJobs = await getAllJobsCached()
+    return allJobs.find((j) => j.jobId === jobId)
   }
 }
 
 export async function getHotJobs(metric: 'heat' | 'salary' | 'growth' = 'heat'): Promise<Job[]> {
-  try {
-    return await fetchApi<Job[]>(`/hot-jobs?metric=${metric}`)
-  } catch {
-    return []
+  const allJobs = await getAllJobsCached()
+  const sorted = [...allJobs]
+  switch (metric) {
+    case 'heat':
+      sorted.sort((a, b) => b.heat - a.heat)
+      break
+    case 'salary':
+      sorted.sort((a, b) => b.salaryMax - a.salaryMax)
+      break
+    case 'growth':
+      sorted.sort((a, b) => b.growth - a.growth)
+      break
   }
+  return sorted.slice(0, 10)
 }
 
 export async function getJobsByCompany(companyId: string): Promise<Job[]> {
-  try {
-    const company = await fetchApi<{ jobs: Job[] }>(`/companies/${companyId}`)
-    return company.jobs || []
-  } catch {
-    return []
-  }
+  const allJobs = await getAllJobsCached()
+  return allJobs.filter((job) => job.companyId === companyId)
 }
 
 export async function getSalaryStats(experience?: string): Promise<{
@@ -255,12 +303,11 @@ export async function refreshJobs(): Promise<{ newCount: number; totalCount: num
 }
 
 export async function getCityOptions(): Promise<string[]> {
-  try {
-    const stats = await fetchApi<{ cityStats: { city: string }[] }>('/stats')
-    return ['全部', ...stats.cityStats.map((s) => s.city)]
-  } catch {
-    return ['全部']
-  }
+  const allJobs = await getAllJobsCached()
+  const citySet = new Set<string>()
+  allJobs.forEach((j) => citySet.add(j.city))
+  const cities = Array.from(citySet).sort()
+  return ['全部', ...cities]
 }
 
 export async function getExperienceOptions(): Promise<string[]> {

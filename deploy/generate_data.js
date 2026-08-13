@@ -1,12 +1,8 @@
-const http = require('http');
 const fs = require('fs');
 const path = require('path');
 
-const PORT = process.env.PORT || 3001;
-const DATA_DIR = path.join(__dirname, 'data');
+const DATA_DIR = path.join(__dirname, 'data_temp');
 if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true });
-
-const DATA_FILE = path.join(DATA_DIR, 'jobs.json');
 
 function seededRandom(seed) {
   let s = seed;
@@ -60,6 +56,7 @@ const cities = [
   '珠海', '中山', '江门', '汕头', '佛山', '肇庆', '湛江', '揭阳', '清远', '阳江',
   '兰州', '太原', '贵阳', '海口', '乌鲁木齐', '呼和浩特', '银川', '西宁', '拉萨',
 ];
+
 const citySalaryFactor = {
   '北京': 1.15, '上海': 1.2, '广州': 0.95, '深圳': 1.15, '杭州': 1.05, '成都': 0.8,
   '南京': 0.85, '武汉': 0.75, '西安': 0.7, '苏州': 0.85, '重庆': 0.72, '天津': 0.85,
@@ -168,7 +165,6 @@ const departments = [
 
 const experiences = ['1-3年', '3-5年', '5-10年', '5-7年', '7-10年', '10年以上', '应届', '不限'];
 const expMinYears = { '1-3年': 1, '3-5年': 3, '5-10年': 5, '5-7年': 5, '7-10年': 7, '10年以上': 10, '应届': 0, '不限': 0 };
-
 const educations = ['大专', '本科', '硕士', '博士'];
 
 const tagPools = {
@@ -192,12 +188,10 @@ const benefitPools = [
 function pick(arr, rand) { return arr[Math.floor(rand() * arr.length)]; }
 function randRange(min, max, rand) { return Math.floor(rand() * (max - min + 1)) + min; }
 
-let globalIdCounter = 1;
-
 function generateJobs(count = 5000, seed = Date.now()) {
   const rand = seededRandom(seed);
   const jobs = [];
-  
+  let idCounter = 1;
   for (let i = 0; i < count; i++) {
     const company = pick(companyTemplates, rand);
     const source = pick(sources, rand);
@@ -206,22 +200,18 @@ function generateJobs(count = 5000, seed = Date.now()) {
     const district = pick(districts[city] || ['市中心'], rand);
     const dept = pick(departments, rand);
     const education = pick(educations, rand);
-    
-    const expPool = titleInfo.level <= 1 ? ['1-3年', '3-5年', '应届', '不限'] 
+    const expPool = titleInfo.level <= 1 ? ['1-3年', '3-5年', '应届', '不限']
       : titleInfo.level <= 2 ? ['3-5年', '5-7年', '5-10年']
       : titleInfo.level <= 3 ? ['3-5年', '5-7年', '5-10年', '7-10年']
       : ['5-10年', '7-10年', '10年以上'];
     const experience = pick(expPool, rand);
-    
     const expFactor = 1 + expMinYears[experience] * 0.08;
     const cityFactor = citySalaryFactor[city] || 1;
     const companyFactor = company.stage === '上市公司' ? 1.1 : company.stage === '外企' ? 1.15 : company.stage === '国企' ? 0.9 : 1;
-    
     const baseMin = Math.round(titleInfo.baseSalary * 0.7 * expFactor * cityFactor * companyFactor);
     const baseMax = Math.round(titleInfo.baseSalary * 1.3 * expFactor * cityFactor * companyFactor);
     const salaryMin = Math.max(10, baseMin + randRange(-2, 3, rand));
     const salaryMax = Math.max(salaryMin + 5, baseMax + randRange(-2, 5, rand));
-    
     const tagPool = [...tagPools.common, ...(
       company.industry === '互联网' ? tagPools.internet :
       ['金融', '银行', '证券'].includes(company.industry) ? tagPools.finance :
@@ -230,29 +220,24 @@ function generateJobs(count = 5000, seed = Date.now()) {
       ['通信', '消费电子'].includes(company.industry) ? tagPools.hardware :
       tagPools.internet
     )];
-    
     const numTags = randRange(3, 6, rand);
     const tags = [];
     while (tags.length < numTags) {
       const t = pick(tagPool, rand);
       if (!tags.includes(t)) tags.push(t);
     }
-    
     const benefits = pick(benefitPools, rand).slice(0, randRange(3, 6, rand));
-    
     const postedDaysAgo = randRange(0, 30, rand);
     const postedAt = new Date(Date.now() - postedDaysAgo * 86400000 - randRange(0, 86400000, rand)).toISOString();
-    
     const baseHeat = Math.round(
-      (50 + (salaryMin + salaryMax) / 2 * 2) * 
-      sourceWeights[source] * 
+      (50 + (salaryMin + salaryMax) / 2 * 2) *
+      sourceWeights[source] *
       cityFactor *
       (1 + titleInfo.level * 0.3) *
       (company.stage === '上市公司' ? 1.1 : 1)
     );
-    
     jobs.push({
-      jobId: `j${globalIdCounter++}`,
+      jobId: `j${idCounter++}`,
       title: `${titleInfo.title}（${dept}）`,
       companyId: `${source}_${company.name}`,
       companyName: company.name,
@@ -272,117 +257,32 @@ function generateJobs(count = 5000, seed = Date.now()) {
       benefits: benefits,
       department: dept,
       jobType: '全职',
-      description: `负责${dept}的人力资源业务伙伴工作，包括招聘、员工关系、组织发展、绩效管理等。
-岗位职责：
-1. 作为${dept}的HRBP，全面负责该业务线的人力资源管理工作；
-2. 深入了解业务需求，提供专业的人力资源解决方案；
-3. 负责招聘配置、绩效管理、员工发展、员工关系等模块工作；
-4. 推动组织发展与变革，提升组织效能；
-5. 传承企业文化，提升员工敬业度与满意度。
-
-任职要求：
-1. ${education}及以上学历，人力资源、心理学、管理学等相关专业优先；
-2. ${experience}HRBP或人力资源相关工作经验；
-3. 熟悉${company.industry}行业，有相关行业经验者优先；
-4. 具备良好的沟通协调能力和解决问题的能力；
-5. 有较强的抗压能力和结果导向思维。`,
+      description: `负责${dept}的人力资源业务伙伴工作，包括招聘、员工关系、组织发展、绩效管理等。`,
     });
   }
-  
   return jobs;
-}
-
-function generateCompanies(jobs) {
-  const companyMap = {};
-  const seenCompanies = new Set();
-  
-  for (const job of jobs) {
-    const template = companyTemplates.find(c => c.name === job.companyName);
-    if (!template) continue;
-    
-    const key = job.companyId;
-    if (!companyMap[key]) {
-      companyMap[key] = {
-        companyId: job.companyId,
-        name: template.name,
-        industry: template.industry,
-        scale: template.scale,
-        stage: template.stage,
-        founded: template.founded,
-        headquarters: template.headquarters,
-        description: `${template.name}是一家${template.stage === '上市公司' ? '上市' : template.stage === '外企' ? '外资' : template.stage === '国企' ? '国有' : '知名'}企业，专注于${template.industry}领域。公司成立于${template.founded}年，总部位于${template.headquarters}。作为行业领先企业，我们致力于为客户提供优质的产品和服务，同时为员工提供广阔的发展空间和有竞争力的薪酬福利。`,
-        logoColor: template.logoColor,
-        logoInitial: template.logoInitial,
-        jobCount: 0,
-        avgSalary: 0,
-        totalSalary: 0,
-        atmosphereScore: 0,
-        competitivenessScore: 0,
-        growthScore: 0,
-        atmosphereReviews: [],
-        tags: [],
-      };
-      seenCompanies.add(template.name);
-    }
-    companyMap[key].jobCount++;
-    companyMap[key].totalSalary += (job.salaryMin + job.salaryMax) / 2;
-  }
-  
-  const rand = seededRandom(42);
-  const companies = Object.values(companyMap).map(c => {
-    c.avgSalary = Math.round(c.totalSalary / c.jobCount);
-    c.atmosphereScore = Math.round((3.8 + rand() * 1.2) * 10) / 10;
-    c.competitivenessScore = Math.round((3.5 + rand() * 1.5) * 10) / 10;
-    c.growthScore = Math.round((3.6 + rand() * 1.4) * 10) / 10;
-    
-    const reviewTemplates = [
-      { user: '匿名员工', content: `${c.name}的工作氛围很好，团队年轻有活力，福利待遇也不错。`, rating: 5, date: '2026-06-15' },
-      { user: '前员工', content: `在${c.name}工作了3年，学到了很多，成长空间大，就是加班有点多。`, rating: 4, date: '2026-05-20' },
-      { user: '在职员工', content: `公司发展很快，机会多，节奏快，适合有追求的人。`, rating: 4, date: '2026-06-28' },
-      { user: '匿名用户', content: `${c.industry}行业的头部企业，平台大，资源多，但压力也不小。`, rating: 4, date: '2026-07-01' },
-      { user: '实习生', content: `实习体验很好，mentor很专业，学到了很多东西。`, rating: 5, date: '2026-06-10' },
-    ];
-    c.atmosphereReviews = reviewTemplates.slice(0, 3 + Math.floor(rand() * 3));
-    
-    const companyTags = ['成长空间大', '氛围好', '压力适中', '加班多', '薪资高', '福利好', '晋升透明', '扁平化', '大厂', '稳定', '技术强', '业务好'];
-    const selectedTags = [];
-    while (selectedTags.length < 5) {
-      const t = pick(companyTags, rand);
-      if (!selectedTags.includes(t)) selectedTags.push(t);
-    }
-    c.tags = selectedTags;
-    
-    delete c.totalSalary;
-    return c;
-  });
-  
-  return companies;
 }
 
 function applyHeatAlgorithm(jobs) {
   const now = Date.now();
-  
   return jobs.map(job => {
     const hoursOld = (now - new Date(job.postedAt).getTime()) / 3600000;
     const recencyFactor = Math.exp(-hoursOld / 48);
     const salaryFactor = (job.salaryMin + job.salaryMax) / 2 / 25;
     const platformFactor = sourceWeights[job.source] || 1.0;
     const cityFactor = citySalaryFactor[job.city] || 1;
-    
     const baseHeat = Math.round(
-      (job.heat * 0.6 + 100 * salaryFactor) * 
-      recencyFactor * 
+      (job.heat * 0.6 + 100 * salaryFactor) *
+      recencyFactor *
       platformFactor *
       (0.8 + cityFactor * 0.2)
     );
-    
     const growth = Math.max(1, Math.min(100, Math.round(
       hoursOld < 6 ? 40 + Math.random() * 40 :
       hoursOld < 24 ? 20 + Math.random() * 30 :
       hoursOld < 72 ? 10 + Math.random() * 20 :
       2 + Math.random() * 10
     )));
-    
     return {
       ...job,
       heat: Math.max(50, baseHeat),
@@ -391,328 +291,56 @@ function applyHeatAlgorithm(jobs) {
   }).sort((a, b) => b.heat - a.heat);
 }
 
-let jobs = [];
-let companies = [];
-let crawlStatus = {
-  running: false,
-  lastCrawl: null,
-  todayNew: 0,
-  totalJobs: 0,
-  platforms: sources.length,
-  nextCrawl: null,
+console.log('生成5000条职位数据...');
+const jobs = applyHeatAlgorithm(generateJobs(5000, Date.now()));
+console.log('生成公司数据...');
+const companyMap = {};
+for (const job of jobs) {
+  const template = companyTemplates.find(c => c.name === job.companyName);
+  if (!template) continue;
+  const key = job.companyId;
+  if (!companyMap[key]) {
+    companyMap[key] = {
+      companyId: job.companyId,
+      name: template.name,
+      industry: template.industry,
+      scale: template.scale,
+      stage: template.stage,
+      founded: template.founded,
+      headquarters: template.headquarters,
+      description: `${template.name}是一家${template.stage === '上市公司' ? '上市' : template.stage === '外企' ? '外资' : template.stage === '国企' ? '国有' : '知名'}企业，专注于${template.industry}领域。`,
+      logoColor: template.logoColor,
+      logoInitial: template.logoInitial,
+      jobCount: 0,
+      avgSalary: 0,
+      totalSalary: 0,
+      atmosphereScore: 0,
+      competitivenessScore: 0,
+      growthScore: 0,
+      atmosphereReviews: [],
+      tags: [],
+    };
+  }
+  companyMap[key].jobCount++;
+  companyMap[key].totalSalary += (job.salaryMin + job.salaryMax) / 2;
+}
+const companies = Object.values(companyMap).map(c => {
+  c.avgSalary = Math.round(c.totalSalary / c.jobCount);
+  c.atmosphereScore = Math.round((3.8 + Math.random() * 1.2) * 10) / 10;
+  c.competitivenessScore = Math.round((3.5 + Math.random() * 1.5) * 10) / 10;
+  c.growthScore = Math.round((3.6 + Math.random() * 1.4) * 10) / 10;
+  c.tags = ['成长空间大', '氛围好', '薪资高', '福利好', '晋升透明'];
+  delete c.totalSalary;
+  return c;
+});
+
+const data = {
+  jobs,
+  companies,
+  lastCrawl: new Date().toISOString(),
+  todayNew: Math.floor(jobs.length * 0.15),
+  updatedAt: new Date().toISOString(),
 };
 
-function loadData() {
-  try {
-    if (fs.existsSync(DATA_FILE)) {
-      const raw = fs.readFileSync(DATA_FILE, 'utf8');
-      const data = JSON.parse(raw);
-      jobs = data.jobs || [];
-      companies = data.companies || [];
-      if (data.lastCrawl) crawlStatus.lastCrawl = data.lastCrawl;
-      crawlStatus.todayNew = data.todayNew || 0;
-      crawlStatus.totalJobs = jobs.length;
-      if (jobs.length > 0) {
-        const maxId = Math.max(...jobs.map(j => parseInt(j.jobId.replace('j', '')) || 0));
-        globalIdCounter = maxId + 1;
-      }
-      console.log(`已加载 ${jobs.length} 条职位数据，${companies.length} 家公司，下一个ID: j${globalIdCounter}`);
-      return true;
-    }
-  } catch (e) {
-    console.log('加载数据失败，将重新生成:', e.message);
-  }
-  return false;
-}
-
-function saveData() {
-  try {
-    const data = {
-      jobs,
-      companies,
-      lastCrawl: crawlStatus.lastCrawl,
-      todayNew: crawlStatus.todayNew,
-      updatedAt: new Date().toISOString(),
-    };
-    fs.writeFileSync(DATA_FILE, JSON.stringify(data));
-    console.log(`数据已保存: ${jobs.length} 条职位`);
-  } catch (e) {
-    console.error('保存数据失败:', e.message);
-  }
-}
-
-function initData() {
-  if (!loadData() || jobs.length < 100) {
-    console.log('生成初始数据...');
-    jobs = applyHeatAlgorithm(generateJobs(5000, Date.now()));
-    companies = generateCompanies(jobs);
-    crawlStatus.lastCrawl = new Date().toISOString();
-    crawlStatus.totalJobs = jobs.length;
-    crawlStatus.todayNew = Math.floor(jobs.length * 0.15);
-    saveData();
-  }
-  
-  scheduleCrawl();
-}
-
-function addNewJobs(count = 15) {
-  const newJobs = generateJobs(count, Date.now());
-  const existingIds = new Set(jobs.map(j => j.jobId));
-  
-  let added = 0;
-  for (const job of newJobs) {
-    if (!existingIds.has(job.jobId)) {
-      jobs.unshift(job);
-      added++;
-    }
-  }
-  
-  if (added > 0) {
-    companies = generateCompanies(jobs);
-    jobs = applyHeatAlgorithm(jobs);
-    crawlStatus.todayNew += added;
-    crawlStatus.totalJobs = jobs.length;
-    console.log(`新增 ${added} 条职位，当前总数: ${jobs.length}`);
-  }
-  
-  return added;
-}
-
-function updateExistingJobs() {
-  const now = Date.now();
-  jobs = jobs.map(job => {
-    const hoursOld = (now - new Date(job.postedAt).getTime()) / 3600000;
-    const heatDelta = Math.floor((Math.random() - 0.4) * 10);
-    const growthDelta = Math.floor((Math.random() - 0.45) * 5);
-    
-    return {
-      ...job,
-      heat: Math.max(30, job.heat + heatDelta),
-      growth: Math.max(1, Math.min(100, job.growth + growthDelta)),
-    };
-  }).sort((a, b) => b.heat - a.heat);
-  
-  console.log('已更新热度数据');
-}
-
-async function crawlAll() {
-  if (crawlStatus.running) return;
-  
-  crawlStatus.running = true;
-  console.log('开始定时数据更新...');
-  
-  try {
-    await new Promise(r => setTimeout(r, 2000));
-    const added = addNewJobs(Math.floor(8 + Math.random() * 12));
-    updateExistingJobs();
-    
-    const today = new Date().toDateString();
-    const lastDate = crawlStatus.lastCrawl ? new Date(crawlStatus.lastCrawl).toDateString() : '';
-    if (today !== lastDate) {
-      crawlStatus.todayNew = added;
-    }
-    
-    crawlStatus.lastCrawl = new Date().toISOString();
-    crawlStatus.totalJobs = jobs.length;
-    saveData();
-    
-    console.log(`数据更新完成，新增 ${added} 条，总数 ${jobs.length} 条`);
-  } catch (e) {
-    console.error('更新失败:', e.message);
-  } finally {
-    crawlStatus.running = false;
-  }
-}
-
-function scheduleCrawl() {
-  const now = new Date();
-  const nextHour = new Date(now.getTime() + (60 - now.getMinutes()) * 60000);
-  nextHour.setSeconds(0, 0);
-  crawlStatus.nextCrawl = nextHour.toISOString();
-  
-  const delay = nextHour.getTime() - now.getTime();
-  console.log(`下次更新时间: ${nextHour.toLocaleString('zh-CN')} (${Math.round(delay / 60000)}分钟后)`);
-  
-  setTimeout(() => {
-    crawlAll();
-    scheduleCrawl();
-  }, delay);
-}
-
-const server = http.createServer((req, res) => {
-  res.setHeader('Access-Control-Allow-Origin', '*');
-  res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
-  res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
-  res.setHeader('Content-Type', 'application/json; charset=utf-8');
-  res.setHeader('Cache-Control', 'no-cache');
-  
-  if (req.method === 'OPTIONS') {
-    res.writeHead(200);
-    res.end();
-    return;
-  }
-  
-  const url = new URL(req.url, 'http://localhost');
-  const pathname = url.pathname;
-  const query = {};
-  url.searchParams.forEach((v, k) => query[k] = v);
-  
-  if (pathname === '/api/status') {
-    res.end(JSON.stringify({ ...crawlStatus, timestamp: new Date().toISOString() }));
-  } else if (pathname === '/api/jobs') {
-    let filtered = [...jobs];
-    if (query.city && query.city !== '全部') filtered = filtered.filter(j => j.city === query.city);
-    if (query.experience && query.experience !== '全部') {
-      filtered = filtered.filter(j => {
-        if (query.experience === '5-10年') return j.experience === '5-7年' || j.experience === '5-10年' || j.experience === '7-10年';
-        return j.experience.includes(query.experience);
-      });
-    }
-    if (query.salaryMin) filtered = filtered.filter(j => j.salaryMax >= parseInt(query.salaryMin));
-    if (query.salaryMax) filtered = filtered.filter(j => j.salaryMin <= parseInt(query.salaryMax));
-    if (query.keyword) {
-      const kw = query.keyword.toLowerCase();
-      filtered = filtered.filter(j => 
-        j.title.toLowerCase().includes(kw) ||
-        j.companyName.toLowerCase().includes(kw) ||
-        j.tags.some(t => t.toLowerCase().includes(kw))
-      );
-    }
-    
-    switch (query.sort) {
-      case 'salary': filtered.sort((a, b) => b.salaryMax - a.salaryMax); break;
-      case 'time': filtered.sort((a, b) => new Date(b.postedAt) - new Date(a.postedAt)); break;
-      case 'growth': filtered.sort((a, b) => b.growth - a.growth); break;
-      default: filtered.sort((a, b) => b.heat - a.heat);
-    }
-    
-    const page = parseInt(query.page) || 1;
-    const limit = parseInt(query.limit) || 20;
-    const offset = (page - 1) * limit;
-    
-    res.end(JSON.stringify({
-      data: filtered.slice(offset, offset + limit).map(j => ({
-        ...j,
-        salaryBreakdown: {
-          p10: j.salaryMin,
-          p25: Math.round(j.salaryMin + (j.salaryMax - j.salaryMin) * 0.2),
-          p50: Math.round((j.salaryMin + j.salaryMax) / 2),
-          p75: Math.round(j.salaryMin + (j.salaryMax - j.salaryMin) * 0.8),
-          p90: j.salaryMax
-        }
-      })),
-      total: filtered.length,
-      page,
-      limit
-    }));
-  } else if (pathname.startsWith('/api/jobs/')) {
-    const jobId = pathname.split('/').pop();
-    const job = jobs.find(j => j.jobId === jobId);
-    if (!job) {
-      res.writeHead(404);
-      res.end(JSON.stringify({ error: '未找到该岗位' }));
-      return;
-    }
-    const company = companies.find(c => c.companyId === job.companyId);
-    res.end(JSON.stringify({
-      ...job,
-      companyName: company?.name || job.companyName,
-      companyIndustry: company?.industry || '',
-      companyScale: company?.scale || '',
-      companyStage: company?.stage || '',
-      salaryBreakdown: {
-        p10: job.salaryMin,
-        p25: Math.round(job.salaryMin + (job.salaryMax - job.salaryMin) * 0.2),
-        p50: Math.round((job.salaryMin + job.salaryMax) / 2),
-        p75: Math.round(job.salaryMin + (job.salaryMax - job.salaryMin) * 0.8),
-        p90: job.salaryMax
-      }
-    }));
-  } else if (pathname === '/api/hot-jobs') {
-    let sorted = [...jobs].sort((a, b) => b.heat - a.heat);
-    res.end(JSON.stringify(sorted.slice(0, parseInt(query.limit) || 6).map(j => ({ ...j, companyName: j.companyName }))));
-  } else if (pathname === '/api/companies') {
-    res.end(JSON.stringify(companies));
-  } else if (pathname.startsWith('/api/companies/')) {
-    const companyId = decodeURIComponent(pathname.split('/').pop());
-    const company = companies.find(c => c.companyId === companyId);
-    if (!company) {
-      res.writeHead(404);
-      res.end(JSON.stringify({ error: '未找到该公司' }));
-      return;
-    }
-    res.end(JSON.stringify({ ...company, jobs: jobs.filter(j => j.companyId === companyId).slice(0, 10) }));
-  } else if (pathname === '/api/stats') {
-    const sourceStats = {};
-    const cityStats = {};
-    const expStats = {};
-    jobs.forEach(j => {
-      sourceStats[j.source] = (sourceStats[j.source] || 0) + 1;
-      cityStats[j.city] = (cityStats[j.city] || 0) + 1;
-      expStats[j.experience] = (expStats[j.experience] || 0) + 1;
-    });
-    res.end(JSON.stringify({
-      sourceStats: Object.entries(sourceStats).map(([source, count]) => ({ source, count })),
-      cityStats: Object.entries(cityStats).map(([city, count]) => ({ city, count })).sort((a, b) => b.count - a.count),
-      expStats: Object.entries(expStats).map(([experience, count]) => ({ experience, count }))
-    }));
-  } else if (pathname === '/api/crawl' && req.method === 'POST') {
-    crawlAll().then((added) => res.end(JSON.stringify({ message: '更新完成', status: 'completed', total: jobs.length })));
-  } else if (pathname === '/api/reset' && req.method === 'POST') {
-    try {
-      if (fs.existsSync(DATA_FILE)) {
-        fs.unlinkSync(DATA_FILE);
-        console.log('已删除旧数据文件');
-      }
-      jobs = [];
-      companies = [];
-      crawlStatus.todayNew = 0;
-      crawlStatus.totalJobs = 0;
-      
-      jobs = applyHeatAlgorithm(generateJobs(5000, Date.now()));
-      companies = generateCompanies(jobs);
-      crawlStatus.lastCrawl = new Date().toISOString();
-      crawlStatus.totalJobs = jobs.length;
-      crawlStatus.todayNew = Math.floor(jobs.length * 0.15);
-      saveData();
-      
-      res.end(JSON.stringify({ message: '数据已重置并重新生成', total: jobs.length, status: 'completed' }));
-    } catch (e) {
-      res.writeHead(500);
-      res.end(JSON.stringify({ error: e.message }));
-    }
-  } else if (pathname === '/api/upload-data' && req.method === 'POST') {
-    let body = '';
-    req.on('data', (chunk) => body += chunk);
-    req.on('end', () => {
-      try {
-        const data = JSON.parse(body);
-        jobs = data.jobs || [];
-        companies = data.companies || [];
-        if (data.lastCrawl) crawlStatus.lastCrawl = data.lastCrawl;
-        if (data.todayNew !== undefined) crawlStatus.todayNew = data.todayNew;
-        crawlStatus.totalJobs = jobs.length;
-        saveData();
-        res.end(JSON.stringify({ message: '数据上传成功', total: jobs.length, status: 'completed' }));
-      } catch (e) {
-        res.writeHead(500);
-        res.end(JSON.stringify({ error: e.message }));
-      }
-    });
-    return;
-  } else if (pathname === '/api/all-jobs') {
-    res.end(JSON.stringify({
-      data: jobs,
-      total: jobs.length,
-      updatedAt: crawlStatus.lastCrawl,
-    }));
-  } else {
-    res.writeHead(404);
-    res.end(JSON.stringify({ error: 'Not found', path: pathname }));
-  }
-});
-
-server.listen(PORT, () => {
-  console.log(`HRBP 求职情报站后端服务运行在 http://0.0.0.0:${PORT}`);
-  initData();
-});
+fs.writeFileSync(path.join(DATA_DIR, 'jobs.json'), JSON.stringify(data));
+console.log(`数据已保存: ${jobs.length} 条职位，${companies.length} 家公司`);

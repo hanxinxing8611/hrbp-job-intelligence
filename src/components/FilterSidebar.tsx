@@ -1,5 +1,5 @@
-import { useState } from 'react'
-import { Search, SlidersHorizontal, RotateCcw, X } from 'lucide-react'
+import { useState, useEffect } from 'react'
+import { Search, SlidersHorizontal, RotateCcw, X, ChevronDown } from 'lucide-react'
 import {
   getCityOptions,
   getExperienceOptions,
@@ -8,41 +8,75 @@ import {
 } from '@/data/dataApi'
 import { useStore } from '@/store/useStore'
 
-function Section({ title, children }: { title: string; children: React.ReactNode }) {
-  return (
-    <div className="border-b border-ink-700/50 py-4 sm:py-5">
-      <h4 className="mb-2.5 font-mono text-[10px] uppercase tracking-[0.15em] text-muted sm:mb-3">
-        {title}
-      </h4>
-      {children}
-    </div>
-  )
-}
+const HOT_CITIES = ['全部', '北京', '上海', '广州', '深圳', '杭州', '成都', '南京', '武汉', '西安']
 
-function ChipRow({
-  options,
+function FilterChip({
+  label,
   value,
+  options,
   onChange,
+  maxOptions = 10,
 }: {
-  options: string[]
+  label: string
   value: string
+  options: string[]
   onChange: (v: string) => void
+  maxOptions?: number
 }) {
+  const [showDropdown, setShowDropdown] = useState(false)
+  const displayOptions = options.slice(0, maxOptions)
+  const hasMore = options.length > maxOptions
+
+  const selectedLabel = value === '全部' ? label : value
+
   return (
-    <div className="flex flex-wrap gap-1.5">
-      {options.map((opt) => (
-        <button
-          key={opt}
-          onClick={() => onChange(opt)}
-          className={`rounded px-2.5 py-1 text-[11px] transition ${
-            value === opt
-              ? 'bg-gold/15 text-gold ring-1 ring-gold/40'
-              : 'bg-ink-700/40 text-paper/70 hover:bg-ink-600/50 hover:text-paper'
-          }`}
-        >
-          {opt}
-        </button>
-      ))}
+    <div className="relative">
+      <button
+        onClick={() => setShowDropdown(!showDropdown)}
+        className={`flex items-center gap-1 rounded px-3 py-1.5 font-mono text-[11px] transition sm:px-3.5 ${
+          value !== '全部'
+            ? 'bg-gold/15 text-gold ring-1 ring-gold/40'
+            : 'bg-ink-700/40 text-paper/70 hover:bg-ink-600/50 hover:text-paper'
+        }`}
+      >
+        {selectedLabel}
+        <ChevronDown size={10} className="rotate-[-90deg]" />
+      </button>
+
+      {showDropdown && (
+        <>
+          <div
+            className="fixed inset-0 z-40"
+            onClick={() => setShowDropdown(false)}
+          />
+          <div className="absolute left-0 top-full z-50 mt-1 max-h-48 w-36 overflow-y-auto rounded border border-ink-600 bg-ink-800">
+            {displayOptions.map((opt) => (
+              <button
+                key={opt}
+                onClick={() => {
+                  onChange(opt)
+                  setShowDropdown(false)
+                }}
+                className={`w-full px-3 py-1.5 text-left font-mono text-[11px] transition ${
+                  value === opt
+                    ? 'bg-gold/15 text-gold'
+                    : 'text-paper/70 hover:bg-ink-700/50 hover:text-paper'
+                }`}
+              >
+                {opt}
+              </button>
+            ))}
+            {hasMore && (
+              <button
+                onClick={() => setShowDropdown(false)}
+                className="w-full px-3 py-1.5 text-center font-mono text-[10px] text-muted"
+              >
+                更多...
+              </button>
+            )}
+          </div>
+        </>
+      )}
     </div>
   )
 }
@@ -50,11 +84,22 @@ function ChipRow({
 function FilterContent() {
   const filters = useStore((s) => s.filters)
   const setFilters = useStore((s) => s.setFilters)
-  const resetFilters = useStore((s) => s.resetFilters)
+  const [cityOptions, setCityOptions] = useState<string[]>(HOT_CITIES)
+  const [expOptions, setExpOptions] = useState<string[]>(['全部'])
+
+  useEffect(() => {
+    getCityOptions().then((opts) => {
+      setCityOptions(['全部', ...opts.filter((c) => c !== '全部').slice(0, 15)])
+    }).catch(() => setCityOptions(HOT_CITIES))
+    getExperienceOptions().then(setExpOptions).catch(() => setExpOptions(['全部']))
+  }, [])
 
   return (
     <div className="px-5">
-      <Section title="关键词">
+      <div className="border-b border-ink-700/50 py-4">
+        <h4 className="mb-2.5 font-mono text-[10px] uppercase tracking-[0.15em] text-muted">
+          关键词
+        </h4>
         <div className="relative">
           <Search size={13} className="absolute left-2.5 top-2.5 text-muted" />
           <input
@@ -64,25 +109,54 @@ function FilterContent() {
             className="w-full rounded bg-ink-700/40 py-2 pl-8 pr-2 text-[12px] text-paper placeholder:text-muted focus:outline-none focus:ring-1 focus:ring-gold/40"
           />
         </div>
-      </Section>
+      </div>
 
-      <Section title="工作地点">
-        <ChipRow
-          options={getCityOptions()}
-          value={filters.city}
-          onChange={(v) => setFilters({ city: v })}
-        />
-      </Section>
+      <div className="border-b border-ink-700/50 py-4">
+        <h4 className="mb-2.5 font-mono text-[10px] uppercase tracking-[0.15em] text-muted">
+          工作地点
+        </h4>
+        <div className="flex flex-wrap gap-1.5">
+          {cityOptions.slice(0, 10).map((opt) => (
+            <button
+              key={opt}
+              onClick={() => setFilters({ city: opt })}
+              className={`rounded px-2.5 py-1 text-[11px] transition ${
+                filters.city === opt
+                  ? 'bg-gold/15 text-gold ring-1 ring-gold/40'
+                  : 'bg-ink-700/40 text-paper/70 hover:bg-ink-600/50 hover:text-paper'
+              }`}
+            >
+              {opt}
+            </button>
+          ))}
+        </div>
+      </div>
 
-      <Section title="工作年限">
-        <ChipRow
-          options={getExperienceOptions()}
-          value={filters.experience}
-          onChange={(v) => setFilters({ experience: v })}
-        />
-      </Section>
+      <div className="border-b border-ink-700/50 py-4">
+        <h4 className="mb-2.5 font-mono text-[10px] uppercase tracking-[0.15em] text-muted">
+          工作年限
+        </h4>
+        <div className="flex flex-wrap gap-1.5">
+          {expOptions.map((opt) => (
+            <button
+              key={opt}
+              onClick={() => setFilters({ experience: opt })}
+              className={`rounded px-2.5 py-1 text-[11px] transition ${
+                filters.experience === opt
+                  ? 'bg-gold/15 text-gold ring-1 ring-gold/40'
+                  : 'bg-ink-700/40 text-paper/70 hover:bg-ink-600/50 hover:text-paper'
+              }`}
+            >
+              {opt}
+            </button>
+          ))}
+        </div>
+      </div>
 
-      <Section title={`薪资范围 ${filters.salaryMin}-${filters.salaryMax}K`}>
+      <div className="border-b border-ink-700/50 py-4">
+        <h4 className="mb-2.5 font-mono text-[10px] uppercase tracking-[0.15em] text-muted">
+          薪资范围 {filters.salaryMin}-{filters.salaryMax === 500 ? '500+' : filters.salaryMax}K
+        </h4>
         <div className="space-y-3">
           <div>
             <label className="mb-1 block font-mono text-[10px] text-muted">
@@ -91,7 +165,7 @@ function FilterContent() {
             <input
               type="range"
               min={0}
-              max={80}
+              max={500}
               step={5}
               value={filters.salaryMin}
               onChange={(e) =>
@@ -104,12 +178,12 @@ function FilterContent() {
           </div>
           <div>
             <label className="mb-1 block font-mono text-[10px] text-muted">
-              最高 {filters.salaryMax}K
+              最高 {filters.salaryMax === 500 ? '500+' : filters.salaryMax}K
             </label>
             <input
               type="range"
               min={0}
-              max={80}
+              max={500}
               step={5}
               value={filters.salaryMax}
               onChange={(e) =>
@@ -121,50 +195,137 @@ function FilterContent() {
             />
           </div>
         </div>
-      </Section>
+      </div>
 
-      <Section title="公司规模">
-        <ChipRow
-          options={getScaleOptions()}
-          value={filters.scale}
-          onChange={(v) => setFilters({ scale: v })}
-        />
-      </Section>
+      <div className="border-b border-ink-700/50 py-4">
+        <h4 className="mb-2.5 font-mono text-[10px] uppercase tracking-[0.15em] text-muted">
+          公司规模
+        </h4>
+        <div className="flex flex-wrap gap-1.5">
+          {getScaleOptions().map((opt) => (
+            <button
+              key={opt}
+              onClick={() => setFilters({ scale: opt })}
+              className={`rounded px-2.5 py-1 text-[11px] transition ${
+                filters.scale === opt
+                  ? 'bg-gold/15 text-gold ring-1 ring-gold/40'
+                  : 'bg-ink-700/40 text-paper/70 hover:bg-ink-600/50 hover:text-paper'
+              }`}
+            >
+              {opt}
+            </button>
+          ))}
+        </div>
+      </div>
 
-      <Section title="融资阶段">
-        <ChipRow
-          options={getStageOptions()}
-          value={filters.stage}
-          onChange={(v) => setFilters({ stage: v })}
-        />
-      </Section>
+      <div className="py-4">
+        <h4 className="mb-2.5 font-mono text-[10px] uppercase tracking-[0.15em] text-muted">
+          融资阶段
+        </h4>
+        <div className="flex flex-wrap gap-1.5">
+          {getStageOptions().map((opt) => (
+            <button
+              key={opt}
+              onClick={() => setFilters({ stage: opt })}
+              className={`rounded px-2.5 py-1 text-[11px] transition ${
+                filters.stage === opt
+                  ? 'bg-gold/15 text-gold ring-1 ring-gold/40'
+                  : 'bg-ink-700/40 text-paper/70 hover:bg-ink-600/50 hover:text-paper'
+              }`}
+            >
+              {opt}
+            </button>
+          ))}
+        </div>
+      </div>
     </div>
   )
 }
 
 export default function FilterSidebar() {
+  const filters = useStore((s) => s.filters)
+  const setFilters = useStore((s) => s.setFilters)
   const resetFilters = useStore((s) => s.resetFilters)
   const [showMobile, setShowMobile] = useState(false)
+  const [cityOptions, setCityOptions] = useState<string[]>(HOT_CITIES)
+  const [expOptions, setExpOptions] = useState<string[]>(['全部'])
+
+  useEffect(() => {
+    getCityOptions().then((opts) => {
+      setCityOptions(['全部', ...opts.filter((c) => c !== '全部').slice(0, 15)])
+    }).catch(() => setCityOptions(HOT_CITIES))
+    getExperienceOptions().then(setExpOptions).catch(() => setExpOptions(['全部']))
+  }, [])
+
+  const hasActiveFilters = filters.city !== '全部' || 
+    filters.experience !== '全部' || 
+    filters.scale !== '全部' || 
+    filters.stage !== '全部' || 
+    filters.salaryMin !== 0 || 
+    filters.salaryMax !== 500 || 
+    filters.keyword !== ''
 
   return (
     <>
-      {/* PC 端侧边栏 */}
-      <aside className="sticky top-[65px] hidden h-[calc(100vh-65px)] w-[240px] shrink-0 overflow-y-auto border-r border-ink-700/60 bg-ink-900/40 sm:block sm:top-[73px] sm:w-[260px] sm:h-[calc(100vh-73px)]">
-        <div className="flex items-center justify-between px-5 py-4">
-          <div className="flex items-center gap-2">
-            <SlidersHorizontal size={14} className="text-gold" />
-            <span className="font-serif text-sm font-bold text-paper">多维筛选</span>
+      {/* PC端顶部筛选栏 */}
+      <div className="hidden border-b border-ink-700/60 bg-ink-900/60 sm:block">
+        <div className="mx-auto flex max-w-[1000px] flex-wrap items-center gap-3 px-6 py-2.5">
+          <div className="relative flex-1 min-w-[200px] max-w-xs">
+            <Search size={13} className="absolute left-2.5 top-2.5 text-muted" />
+            <input
+              value={filters.keyword}
+              onChange={(e) => setFilters({ keyword: e.target.value })}
+              placeholder="搜索职位/公司/标签"
+              className="w-full rounded bg-ink-700/40 py-2 pl-8 pr-2 text-[12px] text-paper placeholder:text-muted focus:outline-none focus:ring-1 focus:ring-gold/40"
+            />
           </div>
-          <button
-            onClick={resetFilters}
-            className="flex items-center gap-1 font-mono text-[10px] text-muted transition hover:text-gold"
-          >
-            <RotateCcw size={11} />
-            重置
-          </button>
+
+          <FilterChip
+            label="地点"
+            value={filters.city}
+            options={cityOptions}
+            onChange={(v) => setFilters({ city: v })}
+            maxOptions={15}
+          />
+
+          <FilterChip
+            label="经验"
+            value={filters.experience}
+            options={expOptions}
+            onChange={(v) => setFilters({ experience: v })}
+          />
+
+          <FilterChip
+            label="规模"
+            value={filters.scale}
+            options={getScaleOptions()}
+            onChange={(v) => setFilters({ scale: v })}
+          />
+
+          <FilterChip
+            label="阶段"
+            value={filters.stage}
+            options={getStageOptions()}
+            onChange={(v) => setFilters({ stage: v })}
+          />
+
+          <div className="flex items-center gap-2">
+            <span className="font-mono text-[10px] text-muted">
+              {filters.salaryMin}K-{filters.salaryMax === 500 ? '500+' : filters.salaryMax}K
+            </span>
+          </div>
+
+          {hasActiveFilters && (
+            <button
+              onClick={resetFilters}
+              className="flex items-center gap-1 rounded px-3 py-1.5 font-mono text-[11px] text-muted transition hover:text-gold sm:px-3.5"
+            >
+              <RotateCcw size={11} />
+              重置
+            </button>
+          )}
         </div>
-        <FilterContent />
-      </aside>
+      </div>
 
       {/* 移动端筛选按钮 */}
       <div className="sticky top-[57px] z-20 flex items-center justify-between border-b border-ink-700/60 bg-ink-950/90 px-4 py-2 backdrop-blur-sm sm:hidden">
@@ -174,14 +335,21 @@ export default function FilterSidebar() {
         >
           <SlidersHorizontal size={12} className="text-gold" />
           筛选
+          {hasActiveFilters && (
+            <span className="ml-1 rounded-full bg-crimson/80 px-1.5 py-0.5 font-mono text-[9px] text-white">
+              已选
+            </span>
+          )}
         </button>
-        <button
-          onClick={resetFilters}
-          className="flex items-center gap-1 font-mono text-[11px] text-muted"
-        >
-          <RotateCcw size={11} />
-          重置
-        </button>
+        {hasActiveFilters && (
+          <button
+            onClick={resetFilters}
+            className="flex items-center gap-1 font-mono text-[11px] text-muted"
+          >
+            <RotateCcw size={11} />
+            重置
+          </button>
+        )}
       </div>
 
       {/* 移动端筛选抽屉 */}

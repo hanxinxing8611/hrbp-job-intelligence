@@ -140,10 +140,18 @@ function applyHeatAlgorithm(jobs) {
     const recencyFactor = Math.exp(-hoursOld / 24)
     const salaryFactor = ((job.salaryMax + job.salaryMin) / 2) / 20
     const platformFactor = sourceWeights[job.source] || 1.0
+
+    // 性价比算法: avgSalary / experienceYears * benefitFactor * companyFactor
+    const expYears = parseFloat(job.experience) || 5
+    const avgSalary = (job.salaryMin + job.salaryMax) / 2
+    const benefitFactor = 1 + (job.benefits?.length || 0) * 0.03
+    const valueScore = Math.round((avgSalary / expYears) * benefitFactor * 10) / 10
+
     return {
       ...job,
       heat: Math.max(50, Math.floor(job.heat * recencyFactor * salaryFactor * platformFactor)),
       growth: Math.max(1, Math.min(100, job.growth + Math.floor((Math.random() - 0.5) * 6))),
+      valueScore,
     }
   }).sort((a, b) => b.heat - a.heat)
 }
@@ -239,16 +247,16 @@ function main() {
     fs.mkdirSync(apiDir, { recursive: true })
   }
 
-  const jobs = applyHeatAlgorithm(generateJobs(300)).map(addSalaryBreakdown)
+  const jobs = applyHeatAlgorithm(generateJobs(1000)).map(addSalaryBreakdown)
   const companies = getCompaniesData()
   const lastCrawl = new Date().toISOString()
 
   // /api/jobs 的默认数据（热门排序，无筛选）
   fs.writeFileSync(path.join(apiDir, 'jobs.json'), JSON.stringify({
-    data: jobs.slice(0, 200),
+    data: jobs,
     total: jobs.length,
     page: 1,
-    limit: 200,
+    limit: jobs.length,
   }, null, 2))
 
   // /api/hot-jobs

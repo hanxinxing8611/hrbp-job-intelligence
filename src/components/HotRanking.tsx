@@ -1,7 +1,9 @@
+import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { Flame, TrendingUp, Coins } from 'lucide-react'
 import { getCompanyById, getHotJobs } from '@/data/dataApi'
 import { useStore } from '@/store/useStore'
+import type { Job } from '@/data/types'
 import CompanyLogo from './CompanyLogo'
 
 const metricConfig = {
@@ -14,9 +16,12 @@ export default function HotRanking() {
   const metric = useStore((s) => s.hotMetric)
   const setMetric = useStore((s) => s.setHotMetric)
   const refreshKey = useStore((s) => s.refreshKey)
-  const jobs = getHotJobs(metric)
-  // 使用 refreshKey 触发重新渲染
-  void refreshKey
+  const [jobs, setJobs] = useState<Job[]>([])
+
+  useEffect(() => {
+    getHotJobs(metric).then(setJobs).catch(() => setJobs([]))
+  }, [metric, refreshKey])
+
   return (
     <section id="hot" className="border-b border-ink-700/60 px-4 py-5 sm:px-8 sm:py-7">
       <div className="mx-auto max-w-[1400px]">
@@ -55,30 +60,34 @@ export default function HotRanking() {
           </div>
         </div>
 
-        <div className="no-scrollbar -mx-1 flex gap-2 overflow-x-auto px-1 pb-2 sm:-mx-2 sm:gap-3 sm:px-2">
+        <div className="no-scrollbar -mx-4 flex gap-2 overflow-x-auto px-4 pb-2 sm:-mx-2 sm:gap-3 sm:px-2">
           {jobs.slice(0, 5).map((job, i) => {
             const company = getCompanyById(job.companyId)
             return (
               <Link
                 key={job.jobId}
                 to={`/job/${job.jobId}`}
-                className="group relative w-[170px] shrink-0 overflow-hidden rounded border border-ink-700/60 bg-ink-800/50 p-3 transition hover:border-gold/40 hover:bg-ink-700/40 sm:w-[220px] sm:p-4"
+                className="group relative w-[160px] shrink-0 overflow-hidden rounded border border-ink-700/60 bg-ink-800/50 p-2.5 transition hover:border-gold/40 hover:bg-ink-700/40 sm:w-[220px] sm:p-4"
               >
-                <div className="absolute right-2 top-1 font-serif text-3xl font-black text-ink-600/50 sm:right-3 sm:top-2 sm:text-4xl">
+                <div className="absolute right-2 top-1 font-serif text-2xl font-black text-ink-600/50 sm:right-3 sm:top-2 sm:text-4xl">
                   {String(i + 1).padStart(2, '0')}
                 </div>
-                <CompanyLogo companyId={job.companyId} size={30} />
-                <h3 className="mt-2 truncate font-serif text-sm font-bold text-paper group-hover:text-gold">
-                  {job.title}
-                </h3>
-                <p className="mt-0.5 truncate text-[11px] text-muted">
-                  {company.name}
+                <div className="relative flex items-start gap-2">
+                  <CompanyLogo companyId={job.companyId} size={28} />
+                  <div className="min-w-0 flex-1">
+                    <h3 className="line-clamp-2 break-all font-serif text-[12px] font-bold leading-tight text-paper group-hover:text-gold sm:text-sm">
+                      {job.title}
+                    </h3>
+                  </div>
+                </div>
+                <p className="mt-1.5 truncate text-[10px] text-muted sm:text-[11px]">
+                  {job.companyName || company.name}
                 </p>
-                <div className="mt-2 flex items-end justify-between">
-                  <span className="font-mono text-sm font-bold text-gold">
+                <div className="mt-1.5 flex items-end justify-between gap-1">
+                  <span className="truncate font-mono text-[11px] font-bold text-gold sm:text-sm">
                     {job.salaryRange}
                   </span>
-                  <span className={`flex items-center gap-0.5 font-mono text-[10px] ${metricConfig[metric].color}`}>
+                  <span className={`flex shrink-0 items-center gap-0.5 font-mono text-[10px] ${metricConfig[metric].color}`}>
                     {metric === 'heat' && <Flame size={10} />}
                     {metric === 'salary' && <Coins size={10} />}
                     {metric === 'growth' && <TrendingUp size={10} />}

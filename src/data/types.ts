@@ -31,6 +31,7 @@ export interface Job {
   postedAt: string
   heat: number
   growth: number
+  valueScore?: number
   responsibilities: string[]
   requirements: string[]
   benefits: string[]

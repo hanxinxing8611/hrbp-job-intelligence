@@ -1,10 +1,19 @@
+import { useEffect } from 'react'
 import { Routes, Route } from 'react-router-dom'
 import Header from '@/components/Header'
 import JobHall from '@/pages/JobHall'
 import JobDetail from '@/pages/JobDetail'
 import CompanyAnalysis from '@/pages/CompanyAnalysis'
+import { getCrawlerStatus } from '@/data/dataApi'
+import { useStore } from '@/store/useStore'
 
 export default function App() {
+  const setCrawlerStatus = useStore((s) => s.setCrawlerStatus)
+
+  useEffect(() => {
+    getCrawlerStatus().then(setCrawlerStatus)
+  }, [setCrawlerStatus])
+
   return (
     <div className="relative z-10 min-h-screen flex flex-col">
       <Header />

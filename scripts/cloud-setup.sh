@@ -17,12 +17,14 @@ echo "========================================"
 if [ -d "$APP_DIR/.git" ]; then
   echo "[1/6] 更新代码..."
   cd "$APP_DIR"
-  git pull origin main 2>/dev/null || git pull origin master 2>/dev/null || true
+  git checkout master 2>/dev/null || true
+  git pull origin master 2>/dev/null || git pull origin main 2>/dev/null || true
 else
   echo "[1/6] 克隆代码..."
   rm -rf "$APP_DIR"
-  git clone "$REPO_URL" "$APP_DIR"
+  git clone -b master "$REPO_URL" "$APP_DIR" 2>/dev/null || git clone "$REPO_URL" "$APP_DIR"
   cd "$APP_DIR"
+  git checkout master 2>/dev/null || true
 fi
 
 # 2. 安装依赖

@@ -24,7 +24,7 @@ export default function App() {
           <Route path="/company/:companyId" element={<CompanyAnalysis />} />
         </Routes>
       </main>
-      <footer className="border-t border-ink-700/60 px-8 py-5 text-center">
+      <footer className="relative border-t border-ink-700/40 px-8 py-5 text-center">
         <p className="font-mono text-[11px] tracking-wider text-muted">
           HRBP 求职情报站 · 聚合 BOSS直聘 / 智联招聘 / 前程无忧 公开职位 · 仅供求职参考
         </p>

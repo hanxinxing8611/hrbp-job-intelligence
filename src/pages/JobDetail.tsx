@@ -18,6 +18,8 @@ import {
   BarChart3,
   Sparkles,
   History,
+  Database,
+  RefreshCw,
 } from 'lucide-react'
 import {
   getCompanyById,
@@ -31,6 +33,11 @@ import { useStore } from '@/store/useStore'
 import type { Job } from '@/data/types'
 import CompanyLogo from '@/components/CompanyLogo'
 import SalaryBreakdownChart from '@/components/SalaryBreakdownChart'
+
+function formatDateTime(iso: string): string {
+  const d = new Date(iso)
+  return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')} ${String(d.getHours()).padStart(2, '0')}:${String(d.getMinutes()).padStart(2, '0')}`
+}
 
 const interviewTips = [
   '准备2-3个业务端HRBP的实战案例，重点描述你如何诊断业务痛点并给出HR解决方案',
@@ -134,7 +141,7 @@ export default function JobDetail() {
             initial={{ opacity: 0, y: 10 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.4 }}
-            className="rounded border border-ink-700/60 bg-ink-800/40 p-4 sm:p-6"
+            className="glass glow-border rounded-xl border border-ink-700/40 p-4 sm:p-6"
           >
             <div className="flex items-start gap-3 sm:gap-4">
               <CompanyLogo companyId={job.companyId} size={48} />
@@ -174,10 +181,10 @@ export default function JobDetail() {
                 </p>
                 <button
                   onClick={() => toggleFavorite(job.jobId)}
-                  className={`mt-2 inline-flex items-center gap-1.5 rounded border px-2.5 py-1.5 text-[10px] transition sm:px-3 sm:text-[11px] ${
+                  className={`mt-2 inline-flex items-center gap-1.5 rounded-lg px-2.5 py-1.5 text-[10px] ring-1 transition sm:px-3 sm:text-[11px] ${
                     isFavorite
-                      ? 'border-gold/40 bg-gold/10 text-gold'
-                      : 'border-ink-600 text-muted hover:text-paper'
+                      ? 'bg-gold/10 text-gold ring-gold/40 shadow-[0_0_8px_rgba(232,181,71,0.12)]'
+                      : 'text-muted ring-ink-600/50 hover:text-paper hover:ring-ink-500'
                   }`}
                 >
                   <Bookmark size={12} fill={isFavorite ? 'currentColor' : 'none'} />
@@ -190,11 +197,40 @@ export default function JobDetail() {
               {(job.tags || []).map((tag) => (
                 <span
                   key={tag}
-                  className="rounded border border-gold/20 bg-gold/5 px-2 py-0.5 font-mono text-[10px] text-gold/80"
+                  className="rounded-md border border-gold/20 bg-gold/5 px-2 py-0.5 font-mono text-[10px] text-gold/80"
                 >
                   {tag}
                 </span>
               ))}
+            </div>
+
+            {/* 数据来源与更新信息 */}
+            <div className="mt-4 flex flex-wrap items-center gap-3 border-t border-ink-700/40 pt-3 text-[11px] text-muted">
+              <span className="flex items-center gap-1">
+                <Database size={11} />
+                数据来源：
+                <a
+                  href={job.sourceUrl || (
+                    job.source === '智联招聘' ? `https://sou.zhaopin.com/?kw=${encodeURIComponent(job.title)}` :
+                    job.source === '前程无忧' ? `https://we.51job.com/pc/search?keyword=${encodeURIComponent(job.title)}` :
+                    job.source === '猎聘' ? `https://www.liepin.com/zhaopin/?key=${encodeURIComponent(job.title)}` :
+                    `https://www.zhipin.com/web/geek/job?query=${encodeURIComponent(job.title)}`
+                  )}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-gold/80 underline-offset-2 hover:underline"
+                >
+                  {job.source}
+                </a>
+              </span>
+              <span className="flex items-center gap-1">
+                <RefreshCw size={11} />
+                更新时间：{job.crawledAt ? formatDateTime(job.crawledAt) : '未知'}
+              </span>
+              <span className="flex items-center gap-1">
+                <Clock size={11} />
+                发布时间：{formatDateTime(job.postedAt)}
+              </span>
             </div>
           </motion.div>
 
@@ -224,32 +260,32 @@ export default function JobDetail() {
               薪资市场对比
             </h3>
             <div className="grid grid-cols-2 gap-3 sm:grid-cols-4 sm:gap-4">
-              <div className="rounded bg-ink-700/30 p-3 text-center">
+              <div className="rounded-lg bg-ink-700/20 p-3 text-center ring-1 ring-ink-700/30">
                 <p className="font-mono text-lg font-bold text-paper sm:text-xl">
                   {salaryStats.avg}K
                 </p>
                 <p className="mt-1 text-[10px] text-muted">市场均价</p>
               </div>
-              <div className="rounded bg-ink-700/30 p-3 text-center">
+              <div className="rounded-lg bg-ink-700/20 p-3 text-center ring-1 ring-ink-700/30">
                 <p className="font-mono text-lg font-bold text-teal sm:text-xl">
                   {salaryStats.median}K
                 </p>
                 <p className="mt-1 text-[10px] text-muted">中位数</p>
               </div>
-              <div className="rounded bg-ink-700/30 p-3 text-center">
+              <div className="rounded-lg bg-ink-700/20 p-3 text-center ring-1 ring-ink-700/30">
                 <p className="font-mono text-lg font-bold text-muted sm:text-xl">
                   {salaryStats.p25}K
                 </p>
                 <p className="mt-1 text-[10px] text-muted">25分位</p>
               </div>
-              <div className="rounded bg-ink-700/30 p-3 text-center">
+              <div className="rounded-lg bg-ink-700/20 p-3 text-center ring-1 ring-ink-700/30">
                 <p className="font-mono text-lg font-bold text-gold sm:text-xl">
                   {salaryStats.p75}K
                 </p>
                 <p className="mt-1 text-[10px] text-muted">75分位</p>
               </div>
             </div>
-            <div className="mt-3 rounded bg-teal/5 p-3 text-[11px] leading-relaxed text-paper/70">
+            <div className="mt-3 rounded-lg bg-teal/5 p-3 text-[11px] leading-relaxed text-paper/70 ring-1 ring-teal/10">
               {job.salaryMin >= salaryStats.p75
                 ? '该岗位薪资处于市场前25%，薪酬竞争力强。'
                 : job.salaryMin >= salaryStats.median
@@ -313,7 +349,7 @@ export default function JobDetail() {
               {(job.benefits || []).map((b) => (
                 <span
                   key={b}
-                  className="rounded bg-ink-700/50 px-2.5 py-1 text-[11px] text-paper/80"
+                  className="rounded-lg bg-ink-700/30 px-2.5 py-1 text-[11px] text-paper/80 ring-1 ring-ink-700/30"
                 >
                   {b}
                 </span>
@@ -326,7 +362,7 @@ export default function JobDetail() {
             initial={{ opacity: 0, y: 10 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.4, delay: 0.3 }}
-            className="mt-4 rounded border border-gold/20 bg-gold/5 p-4 sm:mt-5 sm:p-6"
+            className="mt-4 rounded-xl border border-gold/20 bg-gradient-to-br from-gold/[0.06] to-transparent p-4 sm:mt-5 sm:p-6"
           >
             <h3 className="mb-3 flex items-center gap-2 font-serif text-base font-bold text-gold">
               <Lightbulb size={15} />
@@ -361,7 +397,7 @@ export default function JobDetail() {
                     <Link
                       key={sj.jobId}
                       to={`/job/${sj.jobId}`}
-                      className="flex items-center gap-3 rounded bg-ink-700/30 px-3 py-2.5 transition hover:bg-ink-700/50"
+                      className="flex items-center gap-3 rounded-lg bg-ink-700/20 px-3 py-2.5 ring-1 ring-ink-700/30 transition hover:bg-ink-700/40 hover:ring-gold/20"
                     >
                       <CompanyLogo companyId={sj.companyId} size={32} />
                       <div className="min-w-0 flex-1">
@@ -400,7 +436,7 @@ export default function JobDetail() {
                     <Link
                       key={rj.jobId}
                       to={`/job/${rj.jobId}`}
-                      className="flex items-center gap-3 rounded bg-ink-700/30 px-3 py-2.5 transition hover:bg-ink-700/50"
+                      className="flex items-center gap-3 rounded-lg bg-ink-700/20 px-3 py-2.5 ring-1 ring-ink-700/30 transition hover:bg-ink-700/40 hover:ring-gold/20"
                     >
                       <CompanyLogo companyId={rj.companyId} size={28} />
                       <div className="min-w-0 flex-1">
@@ -426,7 +462,7 @@ export default function JobDetail() {
             initial={{ opacity: 0, x: 10 }}
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.4 }}
-            className="rounded border border-ink-700/60 bg-ink-800/40 p-4 sm:p-5"
+            className="glass glow-border rounded-xl border border-ink-700/40 p-4 sm:p-5"
           >
             <div className="flex items-center gap-2">
               <Building2 size={14} className="text-gold" />
@@ -445,7 +481,7 @@ export default function JobDetail() {
               {company.description}
             </p>
 
-            <dl className="mt-4 space-y-2 border-t border-ink-700/50 pt-4 text-[12px]">
+            <dl className="mt-4 space-y-2 border-t border-ink-700/40 pt-4 text-[12px]">
               <div className="flex justify-between">
                 <dt className="text-muted">规模</dt>
                 <dd className="text-paper/80">{company.scale}</dd>
@@ -466,7 +502,7 @@ export default function JobDetail() {
 
             <Link
               to={`/company/${company.companyId}`}
-              className="mt-4 flex w-full items-center justify-center gap-1.5 rounded bg-gold/15 py-2 font-mono text-[11px] tracking-wider text-gold ring-1 ring-gold/30 transition hover:bg-gold/25"
+              className="mt-4 flex w-full items-center justify-center gap-1.5 rounded-xl bg-gold/15 py-2 font-mono text-[11px] tracking-wider text-gold ring-1 ring-gold/30 transition hover:bg-gold/25 hover:shadow-[0_0_12px_rgba(232,181,71,0.15)]"
             >
               深度公司分析
               <ChevronRight size={12} />
@@ -475,7 +511,7 @@ export default function JobDetail() {
 
           {/* 同公司其他岗位 */}
           {relatedJobs.length > 0 && (
-            <div className="rounded border border-ink-700/60 bg-ink-800/40 p-4 sm:p-5">
+            <div className="glass glow-border rounded-xl border border-ink-700/40 p-4 sm:p-5">
               <h4 className="mb-3 font-serif text-sm font-bold text-paper">
                 同公司岗位
               </h4>
@@ -484,7 +520,7 @@ export default function JobDetail() {
                   <Link
                     key={rj.jobId}
                     to={`/job/${rj.jobId}`}
-                    className="block rounded bg-ink-700/30 px-3 py-2 transition hover:bg-ink-700/50"
+                    className="block rounded-lg bg-ink-700/20 px-3 py-2 ring-1 ring-ink-700/30 transition hover:bg-ink-700/40 hover:ring-gold/20"
                   >
                     <p className="truncate text-[12px] text-paper/80">{rj.title}</p>
                     <p className="mt-0.5 font-mono text-[11px] text-gold">{rj.salaryRange}</p>
@@ -495,7 +531,7 @@ export default function JobDetail() {
           )}
 
           {/* 热度指标 */}
-          <div className="rounded border border-ink-700/60 bg-ink-800/40 p-4 sm:p-5">
+          <div className="glass glow-border rounded-xl border border-ink-700/40 p-4 sm:p-5">
             <h4 className="mb-3 font-serif text-sm font-bold text-paper">岗位热度</h4>
             <div className="space-y-3">
               <div className="flex items-center justify-between">
@@ -529,10 +565,15 @@ export default function JobDetail() {
           </div>
 
           <a
-            href={`https://www.zhipin.com/job_detail/?query=${encodeURIComponent(job.title)}`}
+            href={job.sourceUrl || (
+              job.source === '智联招聘' ? `https://sou.zhaopin.com/?kw=${encodeURIComponent(job.title)}` :
+              job.source === '前程无忧' ? `https://we.51job.com/pc/search?keyword=${encodeURIComponent(job.title)}` :
+              job.source === '猎聘' ? `https://www.liepin.com/zhaopin/?key=${encodeURIComponent(job.title)}` :
+              `https://www.zhipin.com/web/geek/job?query=${encodeURIComponent(job.title)}`
+            )}
             target="_blank"
             rel="noopener noreferrer"
-            className="flex w-full items-center justify-center gap-1.5 rounded border border-gold/40 bg-gold py-2.5 font-mono text-[11px] font-bold tracking-wider text-ink-950 transition hover:bg-gold-soft"
+            className="flex w-full items-center justify-center gap-1.5 rounded-xl border border-gold/40 bg-gradient-to-r from-gold to-gold/80 py-2.5 font-mono text-[11px] font-bold tracking-wider text-ink-950 shadow-lg shadow-gold/20 transition hover:shadow-gold/30 active:scale-[0.98]"
           >
             <ExternalLink size={13} />
             前往 {job.source} 投递

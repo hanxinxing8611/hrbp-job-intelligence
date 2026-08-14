@@ -33,10 +33,10 @@ const trendTabs: { key: TrendMetric; label: string }[] = [
 ]
 
 function gradeColor(grade: string): string {
-  if (grade.startsWith('A+')) return 'text-gold border-gold/40 bg-gold/10'
-  if (grade.startsWith('A')) return 'text-teal border-teal/40 bg-teal/10'
-  if (grade.startsWith('B+')) return 'text-paper border-ink-500 bg-ink-700/40'
-  return 'text-muted border-ink-600 bg-ink-700/30'
+  if (grade.startsWith('A+')) return 'text-gold border border-gold/40 bg-gold/10 ring-1 ring-gold/20'
+  if (grade.startsWith('A')) return 'text-teal border border-teal/40 bg-teal/10 ring-1 ring-teal/20'
+  if (grade.startsWith('B+')) return 'text-paper border border-ink-500 bg-ink-700/40 ring-1 ring-ink-500/20'
+  return 'text-muted border border-ink-600 bg-ink-700/30 ring-1 ring-ink-600/20'
 }
 
 function ScoreBlock({
@@ -51,7 +51,7 @@ function ScoreBlock({
   color: string
 }) {
   return (
-    <div className="rounded border border-ink-700/60 bg-ink-800/40 p-4 text-center">
+    <div className="glass glow-border rounded-xl border border-ink-700/40 p-4 text-center">
       <div className="mx-auto mb-2 flex h-9 w-9 items-center justify-center rounded-full" style={{ background: `${color}1a`, color }}>
         {icon}
       </div>
@@ -96,7 +96,7 @@ export default function CompanyAnalysis() {
         initial={{ opacity: 0, y: 10 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.4 }}
-        className="rounded border border-ink-700/60 bg-gradient-to-br from-ink-800/60 to-ink-900/40 p-4 sm:p-6"
+        className="glass glow-border rounded-xl border border-ink-700/40 bg-gradient-to-br from-ink-800/60 to-ink-900/40 p-4 sm:p-6"
       >
         <div className="flex items-start justify-between gap-4 sm:gap-6">
           <div className="flex items-start gap-3 sm:gap-4">
@@ -166,7 +166,7 @@ export default function CompanyAnalysis() {
         transition={{ duration: 0.4, delay: 0.1 }}
         className="mt-4 grid grid-cols-1 gap-3 sm:mt-6 sm:grid-cols-2 sm:gap-4"
       >
-        <div className="rounded border border-teal/20 bg-teal/5 p-4 sm:p-5">
+        <div className="rounded-xl border border-teal/20 bg-gradient-to-br from-teal/[0.06] to-transparent p-4 sm:p-5">
           <h3 className="mb-3 flex items-center gap-2 font-serif text-sm font-bold text-teal">
             <Award size={14} /> 核心优势
           </h3>
@@ -179,7 +179,7 @@ export default function CompanyAnalysis() {
             ))}
           </ul>
         </div>
-        <div className="rounded border border-crimson/20 bg-crimson/5 p-4 sm:p-5">
+        <div className="rounded-xl border border-crimson/20 bg-gradient-to-br from-crimson/[0.06] to-transparent p-4 sm:p-5">
           <h3 className="mb-3 flex items-center gap-2 font-serif text-sm font-bold text-crimson">
             <AlertTriangle size={14} /> 风险提示
           </h3>
@@ -200,7 +200,7 @@ export default function CompanyAnalysis() {
           initial={{ opacity: 0, y: 10 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.4, delay: 0.15 }}
-          className="rounded border border-ink-700/60 bg-ink-800/40 p-4 sm:p-5"
+          className="glass glow-border rounded-xl border border-ink-700/40 p-4 sm:p-5"
         >
           <h3 className="mb-1 font-serif text-base font-bold text-paper">
             工作氛围雷达
@@ -217,7 +217,7 @@ export default function CompanyAnalysis() {
           initial={{ opacity: 0, y: 10 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.4, delay: 0.2 }}
-          className="rounded border border-ink-700/60 bg-ink-800/40 p-4 sm:p-5"
+          className="glass glow-border rounded-xl border border-ink-700/40 p-4 sm:p-5"
         >
           <h3 className="mb-1 font-serif text-base font-bold text-paper">
             市场竞争力对标
@@ -245,14 +245,14 @@ export default function CompanyAnalysis() {
               近 4 年核心指标增长曲线
             </p>
           </div>
-          <div className="flex gap-1 rounded bg-ink-800/60 p-1">
+          <div className="flex gap-1 rounded-lg bg-ink-800/50 p-1 ring-1 ring-ink-700/40">
             {trendTabs.map((tab) => (
               <button
                 key={tab.key}
                 onClick={() => setTrendMetric(tab.key)}
-                className={`rounded px-2 py-1 font-mono text-[10px] tracking-wider transition sm:px-2.5 ${
+                className={`rounded-md px-2 py-1 font-mono text-[10px] tracking-wider transition sm:px-2.5 ${
                   trendMetric === tab.key
-                    ? 'bg-gold/15 text-gold'
+                    ? 'bg-gold/15 text-gold shadow-[0_0_8px_rgba(232,181,71,0.15)]'
                     : 'text-muted hover:text-paper'
                 }`}
               >
@@ -280,7 +280,7 @@ export default function CompanyAnalysis() {
               <Link
                 key={job.jobId}
                 to={`/job/${job.jobId}`}
-                className="flex items-center justify-between rounded bg-ink-700/30 px-3 py-3 transition hover:bg-ink-700/50 sm:px-4"
+                className="flex items-center justify-between rounded-lg bg-ink-700/20 px-3 py-3 ring-1 ring-ink-700/30 transition hover:bg-ink-700/40 hover:ring-gold/20 sm:px-4"
               >
                 <div className="min-w-0">
                   <p className="truncate text-[12px] text-paper/90 sm:text-[13px]">{job.title}</p>

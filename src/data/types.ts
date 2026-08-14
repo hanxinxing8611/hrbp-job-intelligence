@@ -28,7 +28,9 @@ export interface Job {
   salaryMax: number
   tags: string[]
   source: CrawlerSource
+  sourceUrl?: string
   postedAt: string
+  crawledAt?: string
   heat: number
   growth: number
   valueScore?: number

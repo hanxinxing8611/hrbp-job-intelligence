@@ -1,6 +1,6 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useState, useMemo } from 'react'
 import { motion } from 'framer-motion'
-import { Inbox, RefreshCw } from 'lucide-react'
+import { Inbox, RefreshCw, TrendingUp, MapPin, Building2 } from 'lucide-react'
 import { getJobs, type Job } from '@/data/dataApi'
 import { useStore } from '@/store/useStore'
 import CrawlerBar from '@/components/CrawlerBar'
@@ -11,10 +11,10 @@ type SortKey = 'value' | 'heat' | 'salary' | 'time' | 'growth'
 
 const sortOptions: { key: SortKey; label: string }[] = [
   { key: 'value', label: '性价比' },
-  { key: 'heat', label: '热度优先' },
-  { key: 'salary', label: '薪资优先' },
-  { key: 'time', label: '最新发布' },
-  { key: 'growth', label: '增长优先' },
+  { key: 'heat', label: '热度' },
+  { key: 'salary', label: '薪资' },
+  { key: 'time', label: '最新' },
+  { key: 'growth', label: '增长' },
 ]
 
 const PAGE_SIZE = 20
@@ -77,34 +77,88 @@ export default function JobHall() {
     triggerRefresh()
   }
 
+  // 洞察摘要
+  const insights = useMemo(() => {
+    if (jobs.length === 0) return null
+    const avgSalary = Math.round(
+      jobs.reduce((sum, j) => sum + (j.salaryMin + j.salaryMax) / 2, 0) / jobs.length
+    )
+    const cityCount = new Set(jobs.map((j) => j.city)).size
+    const companyCount = new Set(jobs.map((j) => j.companyName)).size
+    const topCity = jobs.reduce((acc, j) => {
+      acc[j.city] = (acc[j.city] || 0) + 1
+      return acc
+    }, {} as Record<string, number>)
+    const topCityName = Object.entries(topCity).sort((a, b) => b[1] - a[1])[0]?.[0] || '-'
+    return { avgSalary, cityCount, companyCount, topCityName }
+  }, [jobs])
+
   return (
     <>
       <CrawlerBar />
       <FilterSidebar />
 
       <section className="mx-auto max-w-[1000px] px-3 py-3 sm:px-6 sm:py-4">
+        {/* 洞察摘要卡片 */}
+        {insights && (
+          <div className="mb-3 grid grid-cols-3 gap-2 sm:gap-3">
+            <div className="glass glow-border card-hover rounded-xl border border-ink-700/40 px-3 py-2.5">
+              <div className="flex items-center gap-1 text-muted">
+                <TrendingUp size={11} className="text-teal" />
+                <span className="font-mono text-[10px] tracking-wider">均价</span>
+              </div>
+              <p className="mt-1 font-mono text-base font-bold text-gold sm:text-lg">
+                {insights.avgSalary}K
+              </p>
+            </div>
+            <div className="glass glow-border card-hover rounded-xl border border-ink-700/40 px-3 py-2.5">
+              <div className="flex items-center gap-1 text-muted">
+                <MapPin size={11} className="text-gold" />
+                <span className="font-mono text-[10px] tracking-wider">热城</span>
+              </div>
+              <p className="mt-1 truncate font-mono text-base font-bold text-paper sm:text-lg">
+                {insights.topCityName}
+              </p>
+            </div>
+            <div className="glass glow-border card-hover rounded-xl border border-ink-700/40 px-3 py-2.5">
+              <div className="flex items-center gap-1 text-muted">
+                <Building2 size={11} className="text-blue" />
+                <span className="font-mono text-[10px] tracking-wider">企业</span>
+              </div>
+              <p className="mt-1 font-mono text-base font-bold text-paper sm:text-lg">
+                {insights.companyCount}
+                <span className="ml-0.5 text-[10px] text-muted">家</span>
+              </p>
+            </div>
+          </div>
+        )}
+
+        {/* 标题 + 排序栏 */}
         <div className="mb-3 flex items-center justify-between">
-          <h2 className="font-serif text-sm font-bold text-paper sm:text-base">
-            推荐岗位
-            <span className="ml-2 font-mono text-[10px] text-muted">
+          <h2 className="flex items-baseline gap-2 font-serif text-sm font-bold text-paper sm:text-base">
+            <span className={sort === 'value' ? 'gradient-text' : ''}>
+              {sort === 'value' ? '高性价比岗位推荐' : '推荐岗位'}
+            </span>
+            <span className="font-mono text-[10px] text-muted">
               {jobs.length} 条
             </span>
           </h2>
           <div className="flex items-center gap-1.5">
             <button
               onClick={handleRefresh}
-              className="flex items-center gap-1 rounded bg-ink-800/60 px-2 py-1 font-mono text-[10px] text-muted transition hover:text-gold"
+              className="flex items-center gap-1 rounded-lg bg-ink-800/50 px-2 py-1 font-mono text-[10px] text-muted ring-1 ring-ink-700/40 transition hover:text-gold hover:ring-gold/30"
             >
               <RefreshCw size={11} />
             </button>
-            <div className="flex gap-0.5 rounded bg-ink-800/60 p-0.5">
+            {/* 排序栏：移动端横向滚动 */}
+            <div className="flex gap-0.5 overflow-x-auto rounded-lg bg-ink-800/50 p-0.5 ring-1 ring-ink-700/40 sm:overflow-visible">
               {sortOptions.map((opt) => (
                 <button
                   key={opt.key}
                   onClick={() => setSort(opt.key)}
-                  className={`rounded px-2 py-1 font-mono text-[10px] transition ${
+                  className={`shrink-0 rounded-md px-2.5 py-1 font-mono text-[10px] transition ${
                     sort === opt.key
-                      ? 'bg-gold/15 text-gold'
+                      ? 'bg-gold/15 text-gold shadow-[0_0_8px_rgba(232,181,71,0.15)]'
                       : 'text-muted hover:text-paper'
                   }`}
                 >
@@ -116,9 +170,11 @@ export default function JobHall() {
         </div>
 
         {jobs.length === 0 ? (
-          <div className="grid place-items-center py-12 text-center">
-            <Inbox size={28} className="text-ink-600" />
-            <p className="mt-2 font-serif text-xs text-muted">
+          <div className="grid place-items-center py-16 text-center">
+            <div className="grid h-14 w-14 place-items-center rounded-full bg-ink-800/40 ring-1 ring-ink-700/40">
+              <Inbox size={24} className="text-ink-600" />
+            </div>
+            <p className="mt-3 font-serif text-xs text-muted">
               没有匹配的岗位，试试调整筛选条件
             </p>
           </div>
@@ -132,16 +188,16 @@ export default function JobHall() {
                   animate={{ opacity: 1, y: 0 }}
                   transition={{ duration: 0.2, delay: Math.min(i * 0.015, 0.2) }}
                 >
-                  <JobCard job={job} />
+                  <JobCard job={job} rank={sort === 'value' ? i : undefined} />
                 </motion.div>
               ))}
             </div>
 
             {hasMore && (
-              <div className="mt-3 flex justify-center">
+              <div className="mt-4 flex justify-center">
                 <button
                   onClick={handleLoadMore}
-                  className="rounded-full border border-ink-600 bg-ink-800/60 px-6 py-2 font-mono text-xs text-muted transition hover:border-gold/50 hover:text-gold"
+                  className="rounded-full border border-ink-600/60 bg-ink-800/40 px-6 py-2 font-mono text-xs text-muted ring-1 ring-ink-700/30 transition hover:border-gold/40 hover:text-gold hover:ring-gold/20"
                 >
                   加载更多（{jobs.length - displayCount}）
                 </button>

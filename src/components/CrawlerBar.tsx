@@ -28,7 +28,6 @@ function formatTime(seconds: number): string {
 export default function CrawlerBar() {
   const crawlerStatus = useStore((s) => s.crawlerStatus)
   const triggerRefresh = useStore((s) => s.triggerRefresh)
-  const refreshKey = useStore((s) => s.refreshKey)
   const nextRefreshIn = useStore((s) => s.nextRefreshIn)
   const setNextRefreshIn = useStore((s) => s.setNextRefreshIn)
 
@@ -51,41 +50,43 @@ export default function CrawlerBar() {
   const stats = [
     { icon: Database, label: '平台', value: crawlerStatus.platforms, unit: '个', color: 'text-gold' },
     { icon: Activity, label: '今日', value: todayNew, unit: '岗', color: 'text-teal' },
-    { icon: RefreshCw, label: '总收录', value: totalJobs, unit: '条', color: 'text-paper' },
+    { icon: RefreshCw, label: '收录', value: totalJobs, unit: '条', color: 'text-paper' },
   ]
 
   return (
-    <div className="border-b border-ink-700/70 bg-gradient-to-r from-ink-800/60 via-ink-900/40 to-ink-800/60">
-      <div className="mx-auto flex max-w-[1400px] items-center gap-x-4 gap-y-2 px-4 py-2 sm:gap-x-8 sm:px-8 sm:py-3">
-        <div className="flex shrink-0 items-center gap-2">
-          <span className="relative flex h-2 w-2">
+    <div className="border-b border-ink-700/30 bg-ink-900/30">
+      <div className="mx-auto flex max-w-[1000px] items-center gap-x-3 px-4 py-1.5 sm:gap-x-6 sm:px-6 sm:py-2">
+        <div className="flex shrink-0 items-center gap-1.5">
+          <span className="relative flex h-1.5 w-1.5">
             <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-teal opacity-60" />
-            <span className="relative inline-flex h-2 w-2 rounded-full bg-teal" />
+            <span className="relative inline-flex h-1.5 w-1.5 rounded-full bg-teal" />
           </span>
-          <span className="font-mono text-[9px] tracking-[0.15em] text-teal sm:text-[10px] sm:tracking-[0.2em]">
+          <span className="font-mono text-[9px] tracking-[0.15em] text-teal sm:text-[10px]">
             CRAWLER LIVE
           </span>
         </div>
 
-        <div className="flex flex-1 items-center justify-end gap-3 sm:justify-start sm:gap-6">
-          {stats.map((s) => (
-            <div key={s.label} className="flex items-center gap-1.5 sm:gap-2">
-              <s.icon size={11} className={s.color + ' sm:size-[13px]'} />
+        <div className="flex flex-1 items-center justify-end gap-2 sm:gap-5">
+          {stats.map((s, i) => (
+            <div key={s.label} className="flex items-center gap-1.5">
+              <s.icon size={11} className={s.color + ' opacity-80'} />
               <span className="hidden font-mono text-[10px] tracking-wider text-muted sm:block">
                 {s.label}
               </span>
-              <span className={`font-mono text-xs font-bold ${s.color} count-flicker sm:text-sm`}>
+              <span className={`font-mono text-[11px] font-bold ${s.color} count-flicker sm:text-sm`}>
                 {s.value.toLocaleString()}
-                <span className="ml-0.5 text-[9px] text-muted sm:text-[10px]">{s.unit}</span>
+                <span className="ml-0.5 text-[9px] text-muted">{s.unit}</span>
               </span>
+              {i < stats.length - 1 && (
+                <span className="hidden h-3 w-px bg-ink-600/50 sm:block" />
+              )}
             </div>
           ))}
         </div>
 
         <div className="hidden items-center gap-1.5 font-mono text-[10px] text-muted sm:flex">
-          <Clock size={12} />
-          <span>下次刷新</span>
-          <span className="text-gold">{formatTime(nextRefreshIn)}</span>
+          <Clock size={11} className="opacity-60" />
+          <span className="text-gold/80">{formatTime(nextRefreshIn)}</span>
         </div>
       </div>
     </div>

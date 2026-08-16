@@ -144,6 +144,17 @@ const server = http.createServer((req, res) => {
 // ============================================================
 // 启动
 // ============================================================
+server.on('error', (e) => {
+  if (e.code === 'EADDRINUSE') {
+    console.error(`错误: 端口 ${PORT} 已被占用！请先停止旧进程: su - ubuntu -c "pm2 kill"; kill $(lsof -ti :${PORT})`)
+    console.error(`然后重新启动: cd /home/ubuntu/hrbp-job-intelligence && setsid node server/cloud-server.js > /home/ubuntu/hrbp-server.log 2>&1 &`)
+    process.exit(1)
+  } else {
+    console.error('服务器错误:', e.message)
+    process.exit(1)
+  }
+})
+
 server.listen(PORT, '0.0.0.0', () => {
   console.log('========================================')
   console.log('  HRBP 求职情报站 - 云端服务器')

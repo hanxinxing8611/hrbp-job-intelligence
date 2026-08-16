@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [main]
+    branches: [master]
   workflow_dispatch:
   schedule:
     - cron: '0 * * * *'
@@ -38,6 +38,11 @@ jobs:
         run: npm run build
         env:
           BASE_PATH: '/hrbp-job-intelligence/'
+
+      - name: Copy real API data into dist (612 jobs / 241 companies)
+        run: |
+          cp -r api dist/api
+          rm -rf dist/api/jobs dist/api/companies
 
       - name: Setup Pages
         uses: actions/configure-pages@v4

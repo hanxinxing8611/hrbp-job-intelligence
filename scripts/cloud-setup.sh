@@ -100,12 +100,37 @@ fi
 
 # 5. 停止旧进程并启动云端服务器
 echo "[5/6] 启动云端服务器 (端口 $PORT)..."
+
+# 停止所有可能占用端口的旧进程（PM2管理的、setsid启动的、旧hrbp-server目录的）
+echo "  清理旧进程..."
+
+# 5a. 停止 ubuntu 用户的 PM2 进程（旧服务可能由 PM2 管理）
+su - ubuntu -c "pm2 delete all 2>/dev/null; pm2 kill 2>/dev/null" 2>/dev/null || true
+
+# 5b. 停止 root 的 PM2 进程（以防万一）
+pm2 delete all 2>/dev/null || true
+pm2 kill 2>/dev/null || true
+
+# 5c. 杀掉所有占用 3001 端口的进程
 OLD_PID=$(lsof -ti :$PORT 2>/dev/null || true)
 if [ -n "$OLD_PID" ]; then
-  echo "  停止旧进程 (PID: $OLD_PID)..."
+  echo "  杀掉占用端口的进程 (PID: $OLD_PID)..."
   kill -9 $OLD_PID 2>/dev/null || true
-  sleep 1
+  sleep 2
 fi
+
+# 5d. 再次确认端口已释放
+STILL_OCCUPIED=$(lsof -ti :$PORT 2>/dev/null || true)
+if [ -n "$STILL_OCCUPIED" ]; then
+  echo "  ⚠ 端口 $PORT 仍被占用 (PID: $STILL_OCCUPIED)，尝试强制杀..."
+  kill -9 $STILL_OCCUPIED 2>/dev/null || true
+  sleep 2
+fi
+
+# 5e. 杀掉所有旧的 cloud-server.js 进程
+pkill -9 -f "cloud-server.js" 2>/dev/null || true
+pkill -9 -f "hrbp-server/server.js" 2>/dev/null || true
+sleep 1
 
 setsid node server/cloud-server.js > "$SERVER_LOG" 2>&1 &
 SERVER_PID=$!
@@ -155,6 +180,6 @@ echo "API 状态:  curl -s http://localhost:$PORT/api/status"
 echo "手动刷新:  curl -X POST http://localhost:$PORT/api/refresh"
 echo "服务日志:  tail -f $SERVER_LOG"
 echo "定时日志:  tail -f $CRON_LOG"
-echo "停止服务:  kill \$(lsof -ti :$PORT)"
+echo "停止服务:  su - ubuntu -c 'pm2 kill'; kill \$(lsof -ti :$PORT) 2>/dev/null"
 echo "重新部署:  cd $APP_DIR && git pull && bash scripts/cloud-setup.sh"
 echo "========================================"

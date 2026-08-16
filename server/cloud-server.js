@@ -100,16 +100,22 @@ const server = http.createServer((req, res) => {
 
   let pathname = decodeURIComponent(new URL(req.url, 'http://localhost').pathname)
 
-  // 手动刷新数据接口
-  if (pathname === '/api/refresh' && req.method === 'POST') {
+  // 手动刷新数据接口：同时处理根路径和子路径前缀两种访问方式
+  //   1. curl localhost:3001/api/refresh        （cron / 服务器内部调用）
+  //   2. POST /hrbp-job-intelligence/api/refresh  （前端 fetch 调用）
+  const isRefreshReq =
+    (pathname === '/api/refresh' || pathname === `${SUBPATH}/api/refresh`) &&
+    req.method === 'POST'
+  if (isRefreshReq) {
     const result = regenerateData()
     res.setHeader('Content-Type', 'application/json; charset=utf-8')
     res.end(JSON.stringify({ message: '数据刷新完成', ...result }))
     return
   }
 
-  // 状态接口
-  if (pathname === '/api/status') {
+  // 状态接口：同时处理根路径和子路径前缀两种访问方式
+  const isStatusReq = pathname === '/api/status' || pathname === `${SUBPATH}/api/status`
+  if (isStatusReq) {
     const statusFile = path.join(API_DIR, 'status.json')
     if (fs.existsSync(statusFile)) {
       res.setHeader('Content-Type', 'application/json; charset=utf-8')

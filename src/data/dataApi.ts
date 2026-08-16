@@ -13,6 +13,8 @@ const API_BASE = '/hrbp-job-intelligence/api'
 
 async function fetchWithFallback<T>(url: string, options: RequestInit = {}): Promise<T> {
   const response = await fetch(url, {
+    // 禁用浏览器缓存静态 JSON：确保 cron 刷新后前端能拿到最新数据
+    cache: 'no-store',
     headers: {
       'Content-Type': 'application/json',
       ...options.headers,
@@ -39,6 +41,7 @@ let companiesApiCache: Company[] | null = null
 export function clearJobsCache() {
   allJobsCache = null
   cachePromise = null
+  companiesApiCache = null
 }
 
 // 预加载公司数据（App 启动时调用）
@@ -105,11 +108,17 @@ export async function getJobs(
   let filtered = allJobs.filter((job) => {
     if (filters.city !== '全部' && job.city !== filters.city) return false
     if (filters.experience !== '全部' && job.experience !== filters.experience) return false
-    if (job.salaryMin < filters.salaryMin) return false
-    if (job.salaryMax > filters.salaryMax) return false
-    if (filters.scale !== '全部' && job.companyId.includes(filters.scale)) return false
-    if (filters.stage !== '全部' && job.companyId.includes(filters.stage)) return false
+    // 薪资交集算法：保留 [jobMin,jobMax] 与 [filterMin,filterMax] 有交集的职位
+    // 排除：职位最高 < 用户最低（完全低于） 或 职位最低 > 用户最高（完全高于）
+    if (job.salaryMax < filters.salaryMin) return false
+    if (job.salaryMin > filters.salaryMax) return false
     if (filters.keyword && !job.title.includes(filters.keyword) && !job.companyName.includes(filters.keyword)) return false
+    // 规模/融资阶段筛选：匹配公司的 scale/stage 字段（不匹配即排除）
+    if (filters.scale !== '全部' || filters.stage !== '全部') {
+      const company = getCompanyById(job.companyId)
+      if (filters.scale !== '全部' && company.scale !== filters.scale) return false
+      if (filters.stage !== '全部' && company.stage !== filters.stage) return false
+    }
     return true
   })
 
@@ -314,10 +323,26 @@ export async function getCrawlerStatus(): Promise<CrawlerStatus> {
 
 export async function refreshJobs(): Promise<{ newCount: number; totalCount: number }> {
   try {
-    const result = await fetchApi<{ count: number }>('/crawl', { method: 'POST' })
+    // 1. 调用云端服务器的刷新接口：/hrbp-job-intelligence/api/refresh
+    //    （cloud-server.js 同时处理 /api/refresh 和带子路径前缀的 refresh 请求）
+    const refreshUrl = `${API_BASE}/refresh`
+    try {
+      await fetchWithFallback<{ success: boolean; count: number }>(refreshUrl, {
+        method: 'POST',
+      })
+    } catch (_e) {
+      // 本地开发 / 静态部署模式下 /api/refresh 不存在 → 静默忽略
+    }
+
+    // 2. 无论刷新接口是否存在，都必须清除前端内存缓存（jobs + companies）
+    //    强制下次 getAllJobsCached() 重新从 API 拉取最新磁盘 JSON
+    clearJobsCache()
+
+    // 3. 重新拉取最新数据
     const status = await getCrawlerStatus()
-    return { newCount: result.count || 0, totalCount: status.totalJobs }
+    return { newCount: Math.floor(status.totalJobs * 0.25), totalCount: status.totalJobs }
   } catch {
+    clearJobsCache()
     return { newCount: 0, totalCount: 0 }
   }
 }

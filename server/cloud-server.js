@@ -123,8 +123,14 @@ const server = http.createServer((req, res) => {
     pathname = pathname.slice(SUBPATH.length) || '/'
   }
 
+  // 规范化路径：去掉开头的 /，防止 path.join 将其视为绝对路径
+  let relativePath = pathname.replace(/^\/+/, '')
+  if (relativePath === '' || relativePath === '/') {
+    relativePath = 'index.html'
+  }
+
   // 映射到 dist 目录
-  let filePath = path.join(DIST_DIR, pathname)
+  let filePath = path.join(DIST_DIR, relativePath)
   if (filePath.endsWith('/') || filePath.endsWith('\\')) filePath += 'index.html'
 
   const stat = fs.statSync(filePath, { throwIfNoEntry: false })

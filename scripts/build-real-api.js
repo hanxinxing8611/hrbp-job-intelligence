@@ -327,6 +327,92 @@ function generateBenefits(job, rand) {
   return pickN(benefitPool, Math.min(count, benefitPool.length), rand)
 }
 
+// 根据职位标题与行业生成岗位职责
+function generateResponsibilities(job, rand) {
+  const title = job.title
+  const industry = companyIndustryMap[job.company] || ''
+  const duties = []
+
+  // 基础职责（所有 HRBP 通用）
+  duties.push('深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持')
+  duties.push('负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给')
+  duties.push('主导绩效管理体系的落地执行，推动团队目标达成与持续优化')
+  duties.push('关注员工关系与组织氛围，及时诊断并解决团队协作中的问题')
+
+  // 根据职位方向补充
+  if (title.includes('AI') || title.includes('人工智能')) {
+    duties.push('关注AI领域前沿人才动态，制定针对性的人才吸引与保留策略')
+  }
+  if (title.includes('研发') || title.includes('技术') || title.includes('硬件')) {
+    duties.push('理解研发团队运作特点，支持技术团队的人才评估与技术梯队建设')
+  }
+  if (title.includes('管理') || title.includes('Leader') || title.includes('总监') || title.includes('主管')) {
+    duties.push('搭建并管理HRBP团队，制定团队发展计划与考核机制')
+  }
+  if (title.includes('出海') || title.includes('海外') || title.includes('外派') || title.includes('日本')) {
+    duties.push('支持海外团队的本地化人力资源建设，确保跨文化团队的顺畅协作')
+  }
+  if (title.includes('游戏') || title.includes('发行')) {
+    duties.push('深入游戏发行业务流程，为业务团队提供定制化的人才与组织解决方案')
+  }
+  if (industry.includes('新能源') || industry.includes('汽车')) {
+    duties.push('熟悉新能源汽车行业人才图谱，支撑研发与制造团队的人才布局')
+  }
+  if (industry.includes('医药') || industry.includes('医疗')) {
+    duties.push('理解医药/医疗行业监管要求，为业务团队提供合规视角的HR支持')
+  }
+
+  // 补充至5-6条
+  const extra = [
+    '协助业务负责人进行组织诊断，识别组织效能提升点并推动改进',
+    '主导人才盘点与高潜员工识别，制定关键人才的发展与保留计划',
+    '通过数据分析与洞察，为管理层提供人力资源决策支持',
+  ]
+  while (duties.length < 5) {
+    const item = extra[duties.length - 4] || extra[extra.length - 1]
+    if (!duties.includes(item)) duties.push(item)
+  }
+  if (duties.length < 6 && rand() > 0.4) {
+    const item = extra.find(e => !duties.includes(e))
+    if (item) duties.push(item)
+  }
+
+  return duties
+}
+
+// 根据职位经验与行业生成任职要求
+function generateRequirements(job, rand) {
+  const exp = job.experience || '3-5年'
+  const requirements = []
+
+  requirements.push('本科及以上学历，人力资源管理、企业管理或相关专业背景优先')
+  requirements.push(`${exp.replace(/以上$/, '')}以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先`)
+  requirements.push('熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底')
+  requirements.push('优秀的沟通协调能力与业务理解力，能与业务团队高效协作')
+  requirements.push('数据驱动思维，能通过数据分析支撑HR决策与组织诊断')
+
+  // 根据行业补充
+  const industry = companyIndustryMap[job.company] || ''
+  if (industry.includes('互联网')) {
+    requirements.push('熟悉互联网行业运作模式与人才特点，具备快速学习与适应能力')
+  }
+  if (industry.includes('新能源') || industry.includes('汽车')) {
+    requirements.push('了解新能源汽车或智能制造行业，有相关领域HRBP经验者优先')
+  }
+  if (industry.includes('医药') || industry.includes('医疗')) {
+    requirements.push('熟悉医药/医疗行业监管环境，有医疗健康领域HR经验者优先')
+  }
+  if (job.title.includes('管理') || job.title.includes('Leader') || job.title.includes('总监')) {
+    requirements.push('具备团队管理经验，能搭建并带领HRBP团队支撑业务发展')
+  }
+  if (job.education === '大专') {
+    // 大专岗位放宽学历要求
+    requirements[0] = '大专及以上学历，人力资源管理或相关专业背景'
+  }
+
+  return requirements.slice(0, 6)
+}
+
 // ============================================================
 // 将 realJobs 转换为完整的职位对象
 // ============================================================
@@ -352,7 +438,7 @@ function buildJobs() {
     return {
       jobId,
       title: raw.title,
-      companyId: `${raw.source}_${raw.company}`,
+      companyId: raw.company,
       companyName: raw.company,
       companyIndustry,
       city: raw.city,
@@ -372,6 +458,9 @@ function buildJobs() {
       growth,
       url: raw.sourceUrl,
       benefits: generateBenefits(raw, rand),
+      responsibilities: generateResponsibilities(raw, rand),
+      requirements: generateRequirements(raw, rand),
+      description: `${raw.company}招聘${raw.title}，工作地点${raw.city}${raw.district ? '·' + raw.district : ''}，薪资${raw.salary || '面议'}，要求${raw.experience}经验、${raw.education}学历。`,
     }
   })
 }

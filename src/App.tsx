@@ -4,7 +4,7 @@ import Header from '@/components/Header'
 import JobHall from '@/pages/JobHall'
 import JobDetail from '@/pages/JobDetail'
 import CompanyAnalysis from '@/pages/CompanyAnalysis'
-import { getCrawlerStatus } from '@/data/dataApi'
+import { getCrawlerStatus, loadCompanies } from '@/data/dataApi'
 import { useStore } from '@/store/useStore'
 
 export default function App() {
@@ -12,6 +12,7 @@ export default function App() {
 
   useEffect(() => {
     getCrawlerStatus().then(setCrawlerStatus)
+    loadCompanies()
   }, [setCrawlerStatus])
 
   return (

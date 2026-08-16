@@ -33,9 +33,22 @@ async function fetchApi<T>(path: string, options: RequestInit = {}): Promise<T> 
 let allJobsCache: Job[] | null = null
 let cachePromise: Promise<Job[]> | null = null
 
+// 公司数据缓存（从 API 异步加载）
+let companiesApiCache: Company[] | null = null
+
 export function clearJobsCache() {
   allJobsCache = null
   cachePromise = null
+}
+
+// 预加载公司数据（App 启动时调用）
+export async function loadCompanies(): Promise<void> {
+  if (companiesApiCache) return
+  try {
+    companiesApiCache = await fetchApi<Company[]>('/companies')
+  } catch {
+    companiesApiCache = []
+  }
 }
 
 async function getAllJobsCached(): Promise<Job[]> {
@@ -202,16 +215,23 @@ export async function getSimilarJobs(jobId: string, limit = 4): Promise<Job[]> {
 }
 
 export function getCompanyById(companyId: string): Company {
+  // 优先从 API 加载的真实公司数据查找
+  if (companiesApiCache) {
+    const apiCompany = companiesApiCache.find((c) => c.companyId === companyId)
+    if (apiCompany) return apiCompany
+  }
+  // 回退到静态公司列表
   const company = companies.find((c) => c.companyId === companyId)
   if (company) return company
+  // 最终 fallback：用 companyId 作为公司名（现在 companyId 就是公司名）
   return {
     companyId,
-    name: '未知公司',
+    name: companyId,
     industry: '未知',
     scale: '未知',
     stage: '未知',
     logoColor: '#6366f1',
-    logoInitial: '?',
+    logoInitial: companyId.charAt(0),
     description: '',
     founded: 2000,
     headquarters: '未知',
@@ -219,7 +239,7 @@ export function getCompanyById(companyId: string): Company {
 }
 
 export function getAllCompanies(): Company[] {
-  return companies
+  return companiesApiCache && companiesApiCache.length > 0 ? companiesApiCache : companies
 }
 
 export function getCompanyAtmosphere(companyId: string): RadarMetric[] {

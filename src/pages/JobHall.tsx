@@ -1,6 +1,6 @@
 import { useEffect, useState, useMemo } from 'react'
 import { motion } from 'framer-motion'
-import { Inbox, RefreshCw, TrendingUp, MapPin, Building2 } from 'lucide-react'
+import { Inbox, RefreshCw, TrendingUp, MapPin, Building2, ChevronLeft, ChevronRight } from 'lucide-react'
 import { getJobs, type Job } from '@/data/dataApi'
 import { useStore } from '@/store/useStore'
 import CrawlerBar from '@/components/CrawlerBar'
@@ -17,7 +17,7 @@ const sortOptions: { key: SortKey; label: string }[] = [
   { key: 'growth', label: '增长' },
 ]
 
-const PAGE_SIZE = 20
+const PAGE_SIZE = 10
 const MAX_LIMIT = 1200
 
 export default function JobHall() {
@@ -25,7 +25,7 @@ export default function JobHall() {
   const refreshKey = useStore((s) => s.refreshKey)
   const triggerRefresh = useStore((s) => s.triggerRefresh)
   const [sort, setSort] = useState<SortKey>('value')
-  const [displayCount, setDisplayCount] = useState(PAGE_SIZE)
+  const [currentPage, setCurrentPage] = useState(1)
   const [jobs, setJobs] = useState<Job[]>([])
   const [loading, setLoading] = useState(false)
 
@@ -63,19 +63,41 @@ export default function JobHall() {
   }, [filters, sort, refreshKey])
 
   useEffect(() => {
-    setDisplayCount(PAGE_SIZE)
+    setCurrentPage(1)
   }, [filters, sort, refreshKey])
 
-  const displayJobs = jobs.slice(0, displayCount)
-  const hasMore = displayCount < jobs.length
+  const totalPages = Math.max(1, Math.ceil(jobs.length / PAGE_SIZE))
+  const safePage = Math.min(currentPage, totalPages)
+  const startIdx = (safePage - 1) * PAGE_SIZE
+  const endIdx = startIdx + PAGE_SIZE
+  const displayJobs = jobs.slice(startIdx, endIdx)
 
-  const handleLoadMore = () => {
-    setDisplayCount((c) => Math.min(c + PAGE_SIZE, jobs.length))
+  const goToPage = (page: number) => {
+    const clamped = Math.max(1, Math.min(page, totalPages))
+    setCurrentPage(clamped)
+    window.scrollTo({ top: 0, behavior: 'smooth' })
   }
 
   const handleRefresh = () => {
     triggerRefresh()
   }
+
+  // 生成分页页码按钮（最多显示7个，带省略号）
+  const pageButtons = useMemo(() => {
+    const pages: (number | '...')[] = []
+    if (totalPages <= 7) {
+      for (let i = 1; i <= totalPages; i++) pages.push(i)
+    } else {
+      pages.push(1)
+      if (safePage > 3) pages.push('...')
+      const start = Math.max(2, safePage - 1)
+      const end = Math.min(totalPages - 1, safePage + 1)
+      for (let i = start; i <= end; i++) pages.push(i)
+      if (safePage < totalPages - 2) pages.push('...')
+      pages.push(totalPages)
+    }
+    return pages
+  }, [safePage, totalPages])
 
   // 洞察摘要
   const insights = useMemo(() => {
@@ -188,19 +210,58 @@ export default function JobHall() {
                   animate={{ opacity: 1, y: 0 }}
                   transition={{ duration: 0.2, delay: Math.min(i * 0.015, 0.2) }}
                 >
-                  <JobCard job={job} rank={sort === 'value' ? i : undefined} />
+                  <JobCard job={job} rank={sort === 'value' ? startIdx + i : undefined} />
                 </motion.div>
               ))}
             </div>
 
-            {hasMore && (
-              <div className="mt-4 flex justify-center">
+            {/* 分页器：上一页 / 页码 / 下一页 */}
+            {totalPages > 1 && (
+              <div className="mt-5 flex flex-wrap items-center justify-center gap-1.5 sm:gap-2">
                 <button
-                  onClick={handleLoadMore}
-                  className="rounded-full border border-ink-600/60 bg-ink-800/40 px-6 py-2 font-mono text-xs text-muted ring-1 ring-ink-700/30 transition hover:border-gold/40 hover:text-gold hover:ring-gold/20"
+                  onClick={() => goToPage(safePage - 1)}
+                  disabled={safePage <= 1}
+                  className="flex items-center gap-0.5 rounded-lg border border-ink-600/60 bg-ink-800/40 px-3 py-1.5 font-mono text-[11px] text-muted ring-1 ring-ink-700/30 transition hover:border-gold/40 hover:text-gold hover:ring-gold/20 disabled:cursor-not-allowed disabled:opacity-40 disabled:hover:border-ink-600/60 disabled:hover:text-muted disabled:hover:ring-ink-700/30"
                 >
-                  加载更多（{jobs.length - displayCount}）
+                  <ChevronLeft size={12} />
+                  上一页
                 </button>
+
+                {pageButtons.map((pb, idx) =>
+                  pb === '...' ? (
+                    <span
+                      key={`dots-${idx}`}
+                      className="px-2 py-1.5 font-mono text-[11px] text-muted"
+                    >
+                      …
+                    </span>
+                  ) : (
+                    <button
+                      key={pb}
+                      onClick={() => goToPage(pb)}
+                      className={`min-w-[32px] rounded-lg px-2.5 py-1.5 font-mono text-[11px] transition ${
+                        pb === safePage
+                          ? 'bg-gold/15 text-gold ring-1 ring-gold/40 shadow-[0_0_8px_rgba(232,181,71,0.12)]'
+                          : 'border border-ink-600/60 bg-ink-800/40 text-muted ring-1 ring-ink-700/30 hover:border-gold/40 hover:text-gold hover:ring-gold/20'
+                      }`}
+                    >
+                      {pb}
+                    </button>
+                  )
+                )}
+
+                <button
+                  onClick={() => goToPage(safePage + 1)}
+                  disabled={safePage >= totalPages}
+                  className="flex items-center gap-0.5 rounded-lg border border-ink-600/60 bg-ink-800/40 px-3 py-1.5 font-mono text-[11px] text-muted ring-1 ring-ink-700/30 transition hover:border-gold/40 hover:text-gold hover:ring-gold/20 disabled:cursor-not-allowed disabled:opacity-40 disabled:hover:border-ink-600/60 disabled:hover:text-muted disabled:hover:ring-ink-700/30"
+                >
+                  下一页
+                  <ChevronRight size={12} />
+                </button>
+
+                <span className="ml-2 font-mono text-[10px] text-muted">
+                  共 {jobs.length} 条 · 第 {safePage}/{totalPages} 页
+                </span>
               </div>
             )}
           </>

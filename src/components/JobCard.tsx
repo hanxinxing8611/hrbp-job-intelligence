@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom'
 import { Bookmark, Zap, ExternalLink, Clock } from 'lucide-react'
 import type { Job } from '@/data/types'
-import { getCompanyById } from '@/data/dataApi'
+import { getCompanyById, getSafeSourceUrl, openExternalLinkSafe } from '@/data/dataApi'
 import { useStore } from '@/store/useStore'
 
 function timeAgo(iso: string): string {
@@ -46,6 +46,7 @@ export default function JobCard({ job, rank }: { job: Job; index?: number; rank?
   const level = getJobLevel(avgSalary)
   const valuePercent = job.valueScore ? getValuePercent(job.valueScore) : 0
   const isTopValue = rank !== undefined && rank < 3
+  const safeSourceUrl = getSafeSourceUrl(job.sourceUrl, job.source, job.title)
 
   return (
     <Link
@@ -118,12 +119,12 @@ export default function JobCard({ job, rank }: { job: Job; index?: number; rank?
           </span>
         </div>
         <div className="flex shrink-0 items-center gap-1.5">
-          {job.sourceUrl && (
+          {safeSourceUrl && (
             <a
-              href={job.sourceUrl}
+              href={safeSourceUrl}
               target="_blank"
               rel="noopener noreferrer"
-              onClick={(e) => e.stopPropagation()}
+              onClick={(e) => openExternalLinkSafe(e, safeSourceUrl)}
               className="flex items-center gap-0.5 rounded-md bg-ink-700/30 px-1.5 py-0.5 font-mono text-[10px] text-paper/50 transition hover:bg-gold/10 hover:text-gold"
             >
               {job.source}

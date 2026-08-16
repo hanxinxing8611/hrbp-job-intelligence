@@ -28,6 +28,8 @@ import {
   getSimilarJobs,
   getSalaryStats,
   getJobById as findJob,
+  getSafeSourceUrl,
+  openExternalLinkSafe,
 } from '@/data/dataApi'
 import { useStore } from '@/store/useStore'
 import type { Job } from '@/data/types'
@@ -122,6 +124,7 @@ export default function JobDetail() {
       ? job.description.split('\n').filter((line) => line.trim().length > 0)
       : []
   const requirements = Array.isArray(job.requirements) ? job.requirements : []
+  const safeSourceDetailUrl = getSafeSourceUrl(job.sourceUrl, job.source, job.title)
 
   return (
     <div className="mx-auto max-w-[1200px] px-4 py-4 sm:px-8 sm:py-6">
@@ -210,15 +213,10 @@ export default function JobDetail() {
                 <Database size={11} />
                 数据来源：
                 <a
-                  href={job.sourceUrl || (
-                    job.source === '智联招聘' ? `https://sou.zhaopin.com/?kw=${encodeURIComponent(job.title)}` :
-                    job.source === '前程无忧' ? `https://we.51job.com/pc/search?keyword=${encodeURIComponent(job.title)}` :
-                    job.source === '猎聘' ? `https://www.liepin.com/zhaopin/?key=${encodeURIComponent(job.title)}` :
-                    job.source === '汇博网' ? `https://www.huibo.com/cq/joblist/?keyword=${encodeURIComponent(job.title)}` :
-                    `https://www.zhipin.com/web/geek/job?query=${encodeURIComponent(job.title)}`
-                  )}
+                  href={safeSourceDetailUrl}
                   target="_blank"
                   rel="noopener noreferrer"
+                  onClick={(e) => openExternalLinkSafe(e, safeSourceDetailUrl)}
                   className="text-gold/80 underline-offset-2 hover:underline"
                 >
                   {job.source}
@@ -566,14 +564,10 @@ export default function JobDetail() {
           </div>
 
           <a
-            href={job.sourceUrl || (
-              job.source === '智联招聘' ? `https://sou.zhaopin.com/?kw=${encodeURIComponent(job.title)}` :
-              job.source === '前程无忧' ? `https://we.51job.com/pc/search?keyword=${encodeURIComponent(job.title)}` :
-              job.source === '猎聘' ? `https://www.liepin.com/zhaopin/?key=${encodeURIComponent(job.title)}` :
-              `https://www.zhipin.com/web/geek/job?query=${encodeURIComponent(job.title)}`
-            )}
+            href={safeSourceDetailUrl}
             target="_blank"
             rel="noopener noreferrer"
+            onClick={(e) => openExternalLinkSafe(e, safeSourceDetailUrl)}
             className="flex w-full items-center justify-center gap-1.5 rounded-xl border border-gold/40 bg-gradient-to-r from-gold to-gold/80 py-2.5 font-mono text-[11px] font-bold tracking-wider text-ink-950 shadow-lg shadow-gold/20 transition hover:shadow-gold/30 active:scale-[0.98]"
           >
             <ExternalLink size={13} />

@@ -371,3 +371,107 @@ export function getScaleOptions(): string[] {
 export function getStageOptions(): string[] {
   return ['全部', '初创期', '成长期', '成熟期', '上市公司']
 }
+
+// ========== 链接安全打开辅助 ==========
+
+/**
+ * 规范化招聘网站链接：
+ * - 去除空白字符
+ * - 无协议时补全 https://（http:// 强制升级为 https:// 避免 GitHub Pages 混合内容）
+ * - 格式非法时返回空字符串，由调用方走 fallback
+ */
+export function normalizeSourceUrl(rawUrl: string | undefined | null): string {
+  if (!rawUrl) return ''
+  let url = String(rawUrl).trim()
+  if (!url) return ''
+  // 去重协议头前后空白
+  if (url.startsWith('http://')) {
+    url = 'https://' + url.slice(7)
+  } else if (!/^https:\/\//i.test(url)) {
+    // 既不是 http 也不是 https → 补 https://
+    if (url.startsWith('//')) {
+      url = 'https:' + url
+    } else if (url.startsWith('www.')) {
+      url = 'https://' + url
+    } else if (/^[a-zA-Z0-9-]+\.[a-zA-Z]{2,}/.test(url)) {
+      url = 'https://' + url
+    } else {
+      return ''
+    }
+  }
+  // 基本合法性校验：必须有域名点
+  try {
+    const u = new URL(url)
+    if (!u.hostname || !u.hostname.includes('.')) return ''
+    return u.toString()
+  } catch {
+    return ''
+  }
+}
+
+/**
+ * 按招聘来源生成 fallback 搜索页链接（当原始 sourceUrl 失效/缺失时使用）
+ */
+export function getSourceFallbackUrl(source: string, title: string): string {
+  const kw = encodeURIComponent(title || 'HRBP')
+  switch (source) {
+    case 'BOSS直聘':
+      return `https://www.zhipin.com/web/geek/job?query=${kw}`
+    case '智联招聘':
+      return `https://sou.zhaopin.com/?kw=${kw}`
+    case '前程无忧':
+      return `https://we.51job.com/pc/search?keyword=${kw}`
+    case '猎聘':
+      return `https://www.liepin.com/zhaopin/?key=${kw}`
+    case '汇博网':
+      return `https://www.huibo.com/cq/joblist/?keyword=${kw}`
+    case '拉勾网':
+      return `https://www.lagou.com/wn/jobs?kd=${kw}`
+    case '58同城':
+      return `https://www.58.com/zhaopin/?key=${kw}`
+    default:
+      return `https://www.zhipin.com/web/geek/job?query=${kw}`
+  }
+}
+
+/**
+ * 获取安全可用的招聘网站跳转链接：优先 normalize(sourceUrl)，失效则走来源 fallback
+ */
+export function getSafeSourceUrl(
+  sourceUrl: string | undefined | null,
+  source: string,
+  title: string
+): string {
+  const normalized = normalizeSourceUrl(sourceUrl)
+  if (normalized) return normalized
+  return getSourceFallbackUrl(source || 'BOSS直聘', title || 'HRBP')
+}
+
+/**
+ * 安全打开外部链接：通过 onClick 调用，规避 target="_blank" 被浏览器策略拦截的场景
+ * e.g. <a onClick={(e) => openExternalLinkSafe(e, url)} />
+ */
+export function openExternalLinkSafe(
+  e: React.MouseEvent | undefined,
+  url: string,
+  sourceUrl?: string
+): boolean {
+  if (e) {
+    e.preventDefault()
+    e.stopPropagation()
+  }
+  const finalUrl = url || sourceUrl || ''
+  if (!finalUrl) return false
+  try {
+    const win = window.open(finalUrl, '_blank', 'noopener,noreferrer')
+    if (win) {
+      win.opener = null
+      return true
+    }
+    // 弹窗被拦截 → 回退到 location.href 新标签打开
+    window.location.assign(finalUrl)
+    return true
+  } catch {
+    return false
+  }
+}

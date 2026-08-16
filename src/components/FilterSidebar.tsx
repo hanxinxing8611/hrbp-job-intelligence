@@ -30,26 +30,26 @@ function FilterChip({
   const selectedLabel = value === '全部' ? label : value
 
   return (
-    <div className="relative">
+    <div className="relative isolate">
       <button
         onClick={() => setShowDropdown(!showDropdown)}
-        className={`flex items-center gap-1 rounded-lg px-3 py-1.5 font-mono text-[11px] transition sm:px-3.5 ${
+        className={`relative z-[60] flex items-center gap-1 rounded-lg px-3 py-1.5 font-mono text-[11px] transition sm:px-3.5 ${
           value !== '全部'
             ? 'bg-gold/15 text-gold ring-1 ring-gold/40 shadow-[0_0_8px_rgba(232,181,71,0.12)]'
             : 'bg-ink-700/30 text-paper/70 ring-1 ring-ink-700/40 hover:bg-ink-600/40 hover:text-paper hover:ring-ink-600/50'
         }`}
       >
         {selectedLabel}
-        <ChevronDown size={10} className={`transition-transform ${showDropdown ? 'rotate-[-90deg]' : 'rotate-[-90deg]'}`} />
+        <ChevronDown size={10} className={`transition-transform ${showDropdown ? 'rotate-180' : ''}`} />
       </button>
 
       {showDropdown && (
         <>
           <div
-            className="fixed inset-0 z-40"
+            className="fixed inset-0 z-[55]"
             onClick={() => setShowDropdown(false)}
           />
-          <div className="glass absolute left-0 top-full z-50 mt-1 max-h-48 w-36 overflow-y-auto rounded-lg border border-ink-600/60 shadow-xl shadow-black/40">
+          <div className="glass absolute left-0 top-full z-[70] mt-1 max-h-64 w-40 overflow-y-auto rounded-lg border border-ink-600/60 shadow-2xl shadow-black/60 ring-1 ring-ink-700/30">
             {displayOptions.map((opt) => (
               <button
                 key={opt}
@@ -57,7 +57,7 @@ function FilterChip({
                   onChange(opt)
                   setShowDropdown(false)
                 }}
-                className={`w-full px-3 py-1.5 text-left font-mono text-[11px] transition ${
+                className={`w-full px-3 py-2 text-left font-mono text-[11px] transition ${
                   value === opt
                     ? 'bg-gold/15 text-gold'
                     : 'text-paper/70 hover:bg-ink-700/50 hover:text-paper'
@@ -69,9 +69,9 @@ function FilterChip({
             {hasMore && (
               <button
                 onClick={() => setShowDropdown(false)}
-                className="w-full px-3 py-1.5 text-center font-mono text-[10px] text-muted"
+                className="w-full border-t border-ink-700/40 px-3 py-2 text-center font-mono text-[10px] text-muted hover:text-paper"
               >
-                更多...
+                更多城市请使用关键词搜索
               </button>
             )}
           </div>
@@ -268,8 +268,8 @@ export default function FilterSidebar() {
   return (
     <>
       {/* PC端顶部筛选栏 */}
-      <div className="hidden border-b border-ink-700/40 bg-ink-900/40 backdrop-blur-sm sm:block">
-        <div className="mx-auto flex max-w-[1000px] flex-wrap items-center gap-3 px-6 py-2.5">
+      <div className="sticky top-0 z-40 hidden border-b border-ink-700/40 bg-ink-900/80 backdrop-blur-xl sm:block">
+        <div className="mx-auto flex max-w-[1000px] flex-wrap items-center gap-3 overflow-visible px-6 py-2.5">
           <div className="relative flex-1 min-w-[200px] max-w-xs">
             <Search size={13} className="absolute left-2.5 top-2.5 text-muted" />
             <input

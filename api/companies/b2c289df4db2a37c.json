@@ -1,0 +1,554 @@
+﻿{
+  "companyId": "b2c289df4db2a37c",
+  "name": "赛力斯集团",
+  "industry": "综合",
+  "scale": "",
+  "stage": "",
+  "logoColor": "#b7791f",
+  "logoInitial": "赛",
+  "description": "赛力斯集团 正在招聘 HRBP 相关岗位，欢迎了解。",
+  "founded": 2000,
+  "headquarters": "扬州",
+  "jobCount": 4,
+  "avgSalary": 30.6,
+  "jobs": [
+    {
+      "jobId": "97beb62f5028f9b9",
+      "title": "研发高级HRBP（成都）",
+      "companyId": "b2c289df4db2a37c",
+      "companyName": "赛力斯集团",
+      "city": "扬州",
+      "district": "",
+      "experience": "5年以上",
+      "education": "本科",
+      "salaryRange": "24-44K",
+      "salaryMin": 24,
+      "salaryMax": 44,
+      "tags": [
+        "技术HR",
+        "新能源",
+        "薪酬"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984168579.shtml",
+      "postedAt": "2026-08-12T12:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 36,
+      "growth": 85,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 288,
+        "annualMax": 704,
+        "monthlyMin": 24,
+        "monthlyMax": 44,
+        "bonus": 61.2,
+        "stocks": 20.4,
+        "yearly": 34
+      },
+      "valueScore": 136
+    },
+    {
+      "jobId": "0e855369935c0d3c",
+      "title": "研发人力资源业务伙伴（成都）",
+      "companyId": "b2c289df4db2a37c",
+      "companyName": "赛力斯集团",
+      "city": "绍兴",
+      "district": "",
+      "experience": "3年以上",
+      "education": "大专",
+      "salaryRange": "22-40K",
+      "salaryMin": 22,
+      "salaryMax": 40,
+      "tags": [
+        "技术HR",
+        "新能源",
+        "绩效",
+        "弹性工作"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984169417.shtml",
+      "postedAt": "2026-08-12T10:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 34,
+      "growth": 68,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 264,
+        "annualMax": 640,
+        "monthlyMin": 22,
+        "monthlyMax": 40,
+        "bonus": 55.8,
+        "stocks": 18.6,
+        "yearly": 31
+      },
+      "valueScore": 124
+    },
+    {
+      "jobId": "ed04ee541d68a589",
+      "title": "研发高级HRBP（成都）",
+      "companyId": "b2c289df4db2a37c",
+      "companyName": "赛力斯集团",
+      "city": "兰州",
+      "district": "",
+      "experience": "8年以上",
+      "education": "本科",
+      "salaryRange": "22-38K",
+      "salaryMin": 22,
+      "salaryMax": 38,
+      "tags": [
+        "技术HR",
+        "新能源",
+        "绩效"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984169836.shtml",
+      "postedAt": "2026-08-15T10:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 47,
+      "growth": 69,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 264,
+        "annualMax": 608,
+        "monthlyMin": 22,
+        "monthlyMax": 38,
+        "bonus": 54,
+        "stocks": 18,
+        "yearly": 30
+      },
+      "valueScore": 120
+    },
+    {
+      "jobId": "f72fbe41bc9b0200",
+      "title": "研发HRBP（成都）",
+      "companyId": "b2c289df4db2a37c",
+      "companyName": "赛力斯集团",
+      "city": "成都",
+      "district": "高新区",
+      "experience": "5年以上",
+      "education": "本科",
+      "salaryRange": "20-35K·14薪",
+      "salaryMin": 20,
+      "salaryMax": 35,
+      "tags": [
+        "技术HR",
+        "新能源",
+        "绩效",
+        "数字化"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984816813.shtml",
+      "postedAt": "2026-08-15T17:02:00.691Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 48,
+      "growth": 33,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 240,
+        "annualMax": 560,
+        "monthlyMin": 20,
+        "monthlyMax": 35,
+        "bonus": 49.5,
+        "stocks": 16.5,
+        "yearly": 27.5
+      },
+      "valueScore": 110
+    }
+  ],
+  "analysis": {
+    "summary": "赛力斯集团（综合）当前在招 HRBP 相关岗位 4 个，平均薪资 30.6k。",
+    "salaryBenchmark": {
+      "companyAvg": 30.6,
+      "industryAvg": 18.2,
+      "cityAvg": 29.1,
+      "percentile": 70
+    },
+    "openings": [
+      {
+        "jobId": "97beb62f5028f9b9",
+        "title": "研发高级HRBP（成都）",
+        "companyId": "b2c289df4db2a37c",
+        "companyName": "赛力斯集团",
+        "city": "扬州",
+        "district": "",
+        "experience": "5年以上",
+        "education": "本科",
+        "salaryRange": "24-44K",
+        "salaryMin": 24,
+        "salaryMax": 44,
+        "tags": [
+          "技术HR",
+          "新能源",
+          "薪酬"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984168579.shtml",
+        "postedAt": "2026-08-12T12:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 36,
+        "growth": 85,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 288,
+          "annualMax": 704,
+          "monthlyMin": 24,
+          "monthlyMax": 44,
+          "bonus": 61.2,
+          "stocks": 20.4,
+          "yearly": 34
+        },
+        "valueScore": 136
+      },
+      {
+        "jobId": "0e855369935c0d3c",
+        "title": "研发人力资源业务伙伴（成都）",
+        "companyId": "b2c289df4db2a37c",
+        "companyName": "赛力斯集团",
+        "city": "绍兴",
+        "district": "",
+        "experience": "3年以上",
+        "education": "大专",
+        "salaryRange": "22-40K",
+        "salaryMin": 22,
+        "salaryMax": 40,
+        "tags": [
+          "技术HR",
+          "新能源",
+          "绩效",
+          "弹性工作"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984169417.shtml",
+        "postedAt": "2026-08-12T10:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 34,
+        "growth": 68,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 264,
+          "annualMax": 640,
+          "monthlyMin": 22,
+          "monthlyMax": 40,
+          "bonus": 55.8,
+          "stocks": 18.6,
+          "yearly": 31
+        },
+        "valueScore": 124
+      },
+      {
+        "jobId": "ed04ee541d68a589",
+        "title": "研发高级HRBP（成都）",
+        "companyId": "b2c289df4db2a37c",
+        "companyName": "赛力斯集团",
+        "city": "兰州",
+        "district": "",
+        "experience": "8年以上",
+        "education": "本科",
+        "salaryRange": "22-38K",
+        "salaryMin": 22,
+        "salaryMax": 38,
+        "tags": [
+          "技术HR",
+          "新能源",
+          "绩效"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984169836.shtml",
+        "postedAt": "2026-08-15T10:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 47,
+        "growth": 69,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 264,
+          "annualMax": 608,
+          "monthlyMin": 22,
+          "monthlyMax": 38,
+          "bonus": 54,
+          "stocks": 18,
+          "yearly": 30
+        },
+        "valueScore": 120
+      },
+      {
+        "jobId": "f72fbe41bc9b0200",
+        "title": "研发HRBP（成都）",
+        "companyId": "b2c289df4db2a37c",
+        "companyName": "赛力斯集团",
+        "city": "成都",
+        "district": "高新区",
+        "experience": "5年以上",
+        "education": "本科",
+        "salaryRange": "20-35K·14薪",
+        "salaryMin": 20,
+        "salaryMax": 35,
+        "tags": [
+          "技术HR",
+          "新能源",
+          "绩效",
+          "数字化"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984816813.shtml",
+        "postedAt": "2026-08-15T17:02:00.691Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 48,
+        "growth": 33,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 240,
+          "annualMax": 560,
+          "monthlyMin": 20,
+          "monthlyMax": 35,
+          "bonus": 49.5,
+          "stocks": 16.5,
+          "yearly": 27.5
+        },
+        "valueScore": 110
+      }
+    ],
+    "trends": [
+      {
+        "year": "2022",
+        "companyId": "b2c289df4db2a37c",
+        "revenue": 132,
+        "headcount": 97,
+        "openings": 1
+      },
+      {
+        "year": "2023",
+        "companyId": "b2c289df4db2a37c",
+        "revenue": 153,
+        "headcount": 109,
+        "openings": 2
+      },
+      {
+        "year": "2024",
+        "companyId": "b2c289df4db2a37c",
+        "revenue": 178,
+        "headcount": 127,
+        "openings": 4
+      },
+      {
+        "year": "2025",
+        "companyId": "b2c289df4db2a37c",
+        "revenue": 189,
+        "headcount": 150,
+        "openings": 6
+      },
+      {
+        "year": "2026",
+        "companyId": "b2c289df4db2a37c",
+        "revenue": 224,
+        "headcount": 165,
+        "openings": 8
+      }
+    ],
+    "comparisons": [
+      {
+        "companyId": "b2c289df4db2a37c",
+        "metric": "薪资竞争力",
+        "value": 101,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "b2c289df4db2a37c",
+        "metric": "招聘活跃度",
+        "value": 52,
+        "industryAvg": 45
+      },
+      {
+        "companyId": "b2c289df4db2a37c",
+        "metric": "组织规模",
+        "value": 50,
+        "industryAvg": 55
+      }
+    ],
+    "scoreCard": {
+      "companyId": "b2c289df4db2a37c",
+      "atmosphereScore": 84,
+      "competitivenessScore": 73,
+      "potentialScore": 84,
+      "overall": 0,
+      "grade": "B",
+      "strengths": [],
+      "weaknesses": []
+    },
+    "atmosphere": {
+      "companyId": "b2c289df4db2a37c",
+      "cultureOpenness": 84,
+      "overtimeIntensity": 55,
+      "promotionSpace": 61,
+      "teamStability": 87,
+      "leadership": 89
+    }
+  }
+}

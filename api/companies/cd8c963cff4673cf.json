@@ -1,0 +1,554 @@
+﻿{
+  "companyId": "cd8c963cff4673cf",
+  "name": "上海港汇房地产",
+  "industry": "综合",
+  "scale": "",
+  "stage": "",
+  "logoColor": "#dd6b20",
+  "logoInitial": "上",
+  "description": "上海港汇房地产 正在招聘 HRBP 相关岗位，欢迎了解。",
+  "founded": 2007,
+  "headquarters": "太原",
+  "jobCount": 4,
+  "avgSalary": 19,
+  "jobs": [
+    {
+      "jobId": "a7b528c80ad480f1",
+      "title": "人力资源伙伴（高级HRBP）",
+      "companyId": "cd8c963cff4673cf",
+      "companyName": "上海港汇房地产",
+      "city": "太原",
+      "district": "",
+      "experience": "10年及以上",
+      "education": "大专",
+      "salaryRange": "18-30K·14薪",
+      "salaryMin": 18,
+      "salaryMax": 30,
+      "tags": [
+        "大厂",
+        "绩效",
+        "新能源"
+      ],
+      "source": "前程无忧",
+      "sourceUrl": "https://msearch.51job.com/jobs/shanghai/170043155.html",
+      "postedAt": "2026-08-16T04:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 41,
+      "growth": 41,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 216,
+        "annualMax": 480,
+        "monthlyMin": 18,
+        "monthlyMax": 30,
+        "bonus": 43.2,
+        "stocks": 14.4,
+        "yearly": 24
+      },
+      "valueScore": 96
+    },
+    {
+      "jobId": "1b804493d986d66c",
+      "title": "人力资源伙伴（HRBP）",
+      "companyId": "cd8c963cff4673cf",
+      "companyName": "上海港汇房地产",
+      "city": "上海",
+      "district": "静安区",
+      "experience": "10年及以上",
+      "education": "本科",
+      "salaryRange": "15-25K",
+      "salaryMin": 15,
+      "salaryMax": 25,
+      "tags": [
+        "战略",
+        "校招",
+        "管理岗"
+      ],
+      "source": "前程无忧",
+      "sourceUrl": "https://msearch.51job.com/jobs/shanghai-jaq/172139322.html",
+      "postedAt": "2026-08-13T14:02:00.691Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 29,
+      "growth": 72,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 180,
+        "annualMax": 400,
+        "monthlyMin": 15,
+        "monthlyMax": 25,
+        "bonus": 36,
+        "stocks": 12,
+        "yearly": 20
+      },
+      "valueScore": 80
+    },
+    {
+      "jobId": "c23422bce2768743",
+      "title": "人力资源伙伴（高级HRBP）",
+      "companyId": "cd8c963cff4673cf",
+      "companyName": "上海港汇房地产",
+      "city": "贵阳",
+      "district": "",
+      "experience": "10年及以上",
+      "education": "本科",
+      "salaryRange": "12-20K",
+      "salaryMin": 12,
+      "salaryMax": 20,
+      "tags": [
+        "商业保险",
+        "社招",
+        "绩效",
+        "组织发展"
+      ],
+      "source": "前程无忧",
+      "sourceUrl": "https://msearch.51job.com/jobs/shanghai/170042744.html",
+      "postedAt": "2026-08-15T07:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 34,
+      "growth": 15,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 144,
+        "annualMax": 320,
+        "monthlyMin": 12,
+        "monthlyMax": 20,
+        "bonus": 28.8,
+        "stocks": 9.6,
+        "yearly": 16
+      },
+      "valueScore": 64
+    },
+    {
+      "jobId": "cde3cd215d57ee92",
+      "title": "人力资源伙伴（HRBP）",
+      "companyId": "cd8c963cff4673cf",
+      "companyName": "上海港汇房地产",
+      "city": "金华",
+      "district": "",
+      "experience": "10年及以上",
+      "education": "本科",
+      "salaryRange": "12-20K·15薪",
+      "salaryMin": 12,
+      "salaryMax": 20,
+      "tags": [
+        "商业保险",
+        "大厂",
+        "研究院",
+        "弹性工作"
+      ],
+      "source": "前程无忧",
+      "sourceUrl": "https://msearch.51job.com/jobs/shanghai/170042881.html",
+      "postedAt": "2026-08-12T15:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 24,
+      "growth": 85,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 144,
+        "annualMax": 320,
+        "monthlyMin": 12,
+        "monthlyMax": 20,
+        "bonus": 28.8,
+        "stocks": 9.6,
+        "yearly": 16
+      },
+      "valueScore": 64
+    }
+  ],
+  "analysis": {
+    "summary": "上海港汇房地产（综合）当前在招 HRBP 相关岗位 4 个，平均薪资 19k。",
+    "salaryBenchmark": {
+      "companyAvg": 19,
+      "industryAvg": 18.3,
+      "cityAvg": 18.1,
+      "percentile": 70
+    },
+    "openings": [
+      {
+        "jobId": "a7b528c80ad480f1",
+        "title": "人力资源伙伴（高级HRBP）",
+        "companyId": "cd8c963cff4673cf",
+        "companyName": "上海港汇房地产",
+        "city": "太原",
+        "district": "",
+        "experience": "10年及以上",
+        "education": "大专",
+        "salaryRange": "18-30K·14薪",
+        "salaryMin": 18,
+        "salaryMax": 30,
+        "tags": [
+          "大厂",
+          "绩效",
+          "新能源"
+        ],
+        "source": "前程无忧",
+        "sourceUrl": "https://msearch.51job.com/jobs/shanghai/170043155.html",
+        "postedAt": "2026-08-16T04:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 41,
+        "growth": 41,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 216,
+          "annualMax": 480,
+          "monthlyMin": 18,
+          "monthlyMax": 30,
+          "bonus": 43.2,
+          "stocks": 14.4,
+          "yearly": 24
+        },
+        "valueScore": 96
+      },
+      {
+        "jobId": "1b804493d986d66c",
+        "title": "人力资源伙伴（HRBP）",
+        "companyId": "cd8c963cff4673cf",
+        "companyName": "上海港汇房地产",
+        "city": "上海",
+        "district": "静安区",
+        "experience": "10年及以上",
+        "education": "本科",
+        "salaryRange": "15-25K",
+        "salaryMin": 15,
+        "salaryMax": 25,
+        "tags": [
+          "战略",
+          "校招",
+          "管理岗"
+        ],
+        "source": "前程无忧",
+        "sourceUrl": "https://msearch.51job.com/jobs/shanghai-jaq/172139322.html",
+        "postedAt": "2026-08-13T14:02:00.691Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 29,
+        "growth": 72,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 180,
+          "annualMax": 400,
+          "monthlyMin": 15,
+          "monthlyMax": 25,
+          "bonus": 36,
+          "stocks": 12,
+          "yearly": 20
+        },
+        "valueScore": 80
+      },
+      {
+        "jobId": "c23422bce2768743",
+        "title": "人力资源伙伴（高级HRBP）",
+        "companyId": "cd8c963cff4673cf",
+        "companyName": "上海港汇房地产",
+        "city": "贵阳",
+        "district": "",
+        "experience": "10年及以上",
+        "education": "本科",
+        "salaryRange": "12-20K",
+        "salaryMin": 12,
+        "salaryMax": 20,
+        "tags": [
+          "商业保险",
+          "社招",
+          "绩效",
+          "组织发展"
+        ],
+        "source": "前程无忧",
+        "sourceUrl": "https://msearch.51job.com/jobs/shanghai/170042744.html",
+        "postedAt": "2026-08-15T07:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 34,
+        "growth": 15,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 144,
+          "annualMax": 320,
+          "monthlyMin": 12,
+          "monthlyMax": 20,
+          "bonus": 28.8,
+          "stocks": 9.6,
+          "yearly": 16
+        },
+        "valueScore": 64
+      },
+      {
+        "jobId": "cde3cd215d57ee92",
+        "title": "人力资源伙伴（HRBP）",
+        "companyId": "cd8c963cff4673cf",
+        "companyName": "上海港汇房地产",
+        "city": "金华",
+        "district": "",
+        "experience": "10年及以上",
+        "education": "本科",
+        "salaryRange": "12-20K·15薪",
+        "salaryMin": 12,
+        "salaryMax": 20,
+        "tags": [
+          "商业保险",
+          "大厂",
+          "研究院",
+          "弹性工作"
+        ],
+        "source": "前程无忧",
+        "sourceUrl": "https://msearch.51job.com/jobs/shanghai/170042881.html",
+        "postedAt": "2026-08-12T15:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 24,
+        "growth": 85,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 144,
+          "annualMax": 320,
+          "monthlyMin": 12,
+          "monthlyMax": 20,
+          "bonus": 28.8,
+          "stocks": 9.6,
+          "yearly": 16
+        },
+        "valueScore": 64
+      }
+    ],
+    "trends": [
+      {
+        "year": "2022",
+        "companyId": "cd8c963cff4673cf",
+        "revenue": 120,
+        "headcount": 90,
+        "openings": 1
+      },
+      {
+        "year": "2023",
+        "companyId": "cd8c963cff4673cf",
+        "revenue": 155,
+        "headcount": 115,
+        "openings": 2
+      },
+      {
+        "year": "2024",
+        "companyId": "cd8c963cff4673cf",
+        "revenue": 172,
+        "headcount": 124,
+        "openings": 4
+      },
+      {
+        "year": "2025",
+        "companyId": "cd8c963cff4673cf",
+        "revenue": 186,
+        "headcount": 152,
+        "openings": 6
+      },
+      {
+        "year": "2026",
+        "companyId": "cd8c963cff4673cf",
+        "revenue": 220,
+        "headcount": 169,
+        "openings": 8
+      }
+    ],
+    "comparisons": [
+      {
+        "companyId": "cd8c963cff4673cf",
+        "metric": "薪资竞争力",
+        "value": 62,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "cd8c963cff4673cf",
+        "metric": "招聘活跃度",
+        "value": 52,
+        "industryAvg": 45
+      },
+      {
+        "companyId": "cd8c963cff4673cf",
+        "metric": "组织规模",
+        "value": 50,
+        "industryAvg": 55
+      }
+    ],
+    "scoreCard": {
+      "companyId": "cd8c963cff4673cf",
+      "atmosphereScore": 84,
+      "competitivenessScore": 75,
+      "potentialScore": 81,
+      "overall": 0,
+      "grade": "B",
+      "strengths": [],
+      "weaknesses": []
+    },
+    "atmosphere": {
+      "companyId": "cd8c963cff4673cf",
+      "cultureOpenness": 82,
+      "overtimeIntensity": 54,
+      "promotionSpace": 71,
+      "teamStability": 76,
+      "leadership": 74
+    }
+  }
+}

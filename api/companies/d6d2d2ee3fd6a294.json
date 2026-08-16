@@ -1,0 +1,556 @@
+﻿{
+  "companyId": "d6d2d2ee3fd6a294",
+  "name": "优矩互动",
+  "industry": "综合",
+  "scale": "",
+  "stage": "",
+  "logoColor": "#9f1239",
+  "logoInitial": "优",
+  "description": "优矩互动 正在招聘 HRBP 相关岗位，欢迎了解。",
+  "founded": 2005,
+  "headquarters": "中山",
+  "jobCount": 4,
+  "avgSalary": 7.8,
+  "jobs": [
+    {
+      "jobId": "4ef3a499fcb817fd",
+      "title": "HRBP【阿里中心&百捷大厦】",
+      "companyId": "d6d2d2ee3fd6a294",
+      "companyName": "优矩互动",
+      "city": "中山",
+      "district": "",
+      "experience": "1-3年",
+      "education": "本科",
+      "salaryRange": "8-12K",
+      "salaryMin": 8,
+      "salaryMax": 12,
+      "tags": [
+        "互联网",
+        "硕博团队",
+        "校招",
+        "研究院"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/3a8dnV_0129FlVY.html",
+      "postedAt": "2026-08-14T07:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 35,
+      "growth": 45,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 96,
+        "annualMax": 192,
+        "monthlyMin": 8,
+        "monthlyMax": 12,
+        "bonus": 18,
+        "stocks": 6,
+        "yearly": 10
+      },
+      "valueScore": 40
+    },
+    {
+      "jobId": "bf462d05f5fcd5a5",
+      "title": "HRBP【阿里中心&百捷大厦】",
+      "companyId": "d6d2d2ee3fd6a294",
+      "companyName": "优矩互动",
+      "city": "武汉",
+      "district": "江夏区",
+      "experience": "3-5年",
+      "education": "本科",
+      "salaryRange": "6-10K",
+      "salaryMin": 6,
+      "salaryMax": 10,
+      "tags": [
+        "互联网",
+        "稳定",
+        "商业保险",
+        "出海"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/7dc2da997d34733e0nJ43Nq1GVpQ.html",
+      "postedAt": "2026-08-14T23:02:00.691Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 39,
+      "growth": 36,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 72,
+        "annualMax": 160,
+        "monthlyMin": 6,
+        "monthlyMax": 10,
+        "bonus": 14.4,
+        "stocks": 4.8,
+        "yearly": 8
+      },
+      "valueScore": 32
+    },
+    {
+      "jobId": "977d88769ffc7ddd",
+      "title": "HRBP【阿里中心&百捷大厦】",
+      "companyId": "d6d2d2ee3fd6a294",
+      "companyName": "优矩互动",
+      "city": "太原",
+      "district": "",
+      "experience": "5-10年",
+      "education": "硕士",
+      "salaryRange": "6-8K·14薪",
+      "salaryMin": 6,
+      "salaryMax": 8,
+      "tags": [
+        "互联网",
+        "技术HR",
+        "商业化"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/3a5anV_0126FlVY.html",
+      "postedAt": "2026-08-15T11:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 41,
+      "growth": 40,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 72,
+        "annualMax": 128,
+        "monthlyMin": 6,
+        "monthlyMax": 8,
+        "bonus": 12.6,
+        "stocks": 4.2,
+        "yearly": 7
+      },
+      "valueScore": 28
+    },
+    {
+      "jobId": "2b4b6286e36e728d",
+      "title": "HRBP【阿里中心&百捷大厦】",
+      "companyId": "d6d2d2ee3fd6a294",
+      "companyName": "优矩互动",
+      "city": "佛山",
+      "district": "顺德区",
+      "experience": "5-10年",
+      "education": "本科",
+      "salaryRange": "4-8K",
+      "salaryMin": 4,
+      "salaryMax": 8,
+      "tags": [
+        "互联网",
+        "硕博团队",
+        "核心业务",
+        "组织发展"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/3a7cnV_0128FlVY.html",
+      "postedAt": "2026-08-15T06:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 40,
+      "growth": 30,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 48,
+        "annualMax": 128,
+        "monthlyMin": 4,
+        "monthlyMax": 8,
+        "bonus": 10.8,
+        "stocks": 3.6,
+        "yearly": 6
+      },
+      "valueScore": 24
+    }
+  ],
+  "analysis": {
+    "summary": "优矩互动（综合）当前在招 HRBP 相关岗位 4 个，平均薪资 7.8k。",
+    "salaryBenchmark": {
+      "companyAvg": 7.8,
+      "industryAvg": 18.3,
+      "cityAvg": 7.4,
+      "percentile": 70
+    },
+    "openings": [
+      {
+        "jobId": "4ef3a499fcb817fd",
+        "title": "HRBP【阿里中心&百捷大厦】",
+        "companyId": "d6d2d2ee3fd6a294",
+        "companyName": "优矩互动",
+        "city": "中山",
+        "district": "",
+        "experience": "1-3年",
+        "education": "本科",
+        "salaryRange": "8-12K",
+        "salaryMin": 8,
+        "salaryMax": 12,
+        "tags": [
+          "互联网",
+          "硕博团队",
+          "校招",
+          "研究院"
+        ],
+        "source": "BOSS直聘",
+        "sourceUrl": "https://m.zhipin.com/job_detail/3a8dnV_0129FlVY.html",
+        "postedAt": "2026-08-14T07:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 35,
+        "growth": 45,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 96,
+          "annualMax": 192,
+          "monthlyMin": 8,
+          "monthlyMax": 12,
+          "bonus": 18,
+          "stocks": 6,
+          "yearly": 10
+        },
+        "valueScore": 40
+      },
+      {
+        "jobId": "bf462d05f5fcd5a5",
+        "title": "HRBP【阿里中心&百捷大厦】",
+        "companyId": "d6d2d2ee3fd6a294",
+        "companyName": "优矩互动",
+        "city": "武汉",
+        "district": "江夏区",
+        "experience": "3-5年",
+        "education": "本科",
+        "salaryRange": "6-10K",
+        "salaryMin": 6,
+        "salaryMax": 10,
+        "tags": [
+          "互联网",
+          "稳定",
+          "商业保险",
+          "出海"
+        ],
+        "source": "BOSS直聘",
+        "sourceUrl": "https://m.zhipin.com/job_detail/7dc2da997d34733e0nJ43Nq1GVpQ.html",
+        "postedAt": "2026-08-14T23:02:00.691Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 39,
+        "growth": 36,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 72,
+          "annualMax": 160,
+          "monthlyMin": 6,
+          "monthlyMax": 10,
+          "bonus": 14.4,
+          "stocks": 4.8,
+          "yearly": 8
+        },
+        "valueScore": 32
+      },
+      {
+        "jobId": "977d88769ffc7ddd",
+        "title": "HRBP【阿里中心&百捷大厦】",
+        "companyId": "d6d2d2ee3fd6a294",
+        "companyName": "优矩互动",
+        "city": "太原",
+        "district": "",
+        "experience": "5-10年",
+        "education": "硕士",
+        "salaryRange": "6-8K·14薪",
+        "salaryMin": 6,
+        "salaryMax": 8,
+        "tags": [
+          "互联网",
+          "技术HR",
+          "商业化"
+        ],
+        "source": "BOSS直聘",
+        "sourceUrl": "https://m.zhipin.com/job_detail/3a5anV_0126FlVY.html",
+        "postedAt": "2026-08-15T11:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 41,
+        "growth": 40,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 72,
+          "annualMax": 128,
+          "monthlyMin": 6,
+          "monthlyMax": 8,
+          "bonus": 12.6,
+          "stocks": 4.2,
+          "yearly": 7
+        },
+        "valueScore": 28
+      },
+      {
+        "jobId": "2b4b6286e36e728d",
+        "title": "HRBP【阿里中心&百捷大厦】",
+        "companyId": "d6d2d2ee3fd6a294",
+        "companyName": "优矩互动",
+        "city": "佛山",
+        "district": "顺德区",
+        "experience": "5-10年",
+        "education": "本科",
+        "salaryRange": "4-8K",
+        "salaryMin": 4,
+        "salaryMax": 8,
+        "tags": [
+          "互联网",
+          "硕博团队",
+          "核心业务",
+          "组织发展"
+        ],
+        "source": "BOSS直聘",
+        "sourceUrl": "https://m.zhipin.com/job_detail/3a7cnV_0128FlVY.html",
+        "postedAt": "2026-08-15T06:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 40,
+        "growth": 30,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 48,
+          "annualMax": 128,
+          "monthlyMin": 4,
+          "monthlyMax": 8,
+          "bonus": 10.8,
+          "stocks": 3.6,
+          "yearly": 6
+        },
+        "valueScore": 24
+      }
+    ],
+    "trends": [
+      {
+        "year": "2022",
+        "companyId": "d6d2d2ee3fd6a294",
+        "revenue": 131,
+        "headcount": 90,
+        "openings": 1
+      },
+      {
+        "year": "2023",
+        "companyId": "d6d2d2ee3fd6a294",
+        "revenue": 154,
+        "headcount": 118,
+        "openings": 2
+      },
+      {
+        "year": "2024",
+        "companyId": "d6d2d2ee3fd6a294",
+        "revenue": 165,
+        "headcount": 136,
+        "openings": 4
+      },
+      {
+        "year": "2025",
+        "companyId": "d6d2d2ee3fd6a294",
+        "revenue": 200,
+        "headcount": 149,
+        "openings": 6
+      },
+      {
+        "year": "2026",
+        "companyId": "d6d2d2ee3fd6a294",
+        "revenue": 225,
+        "headcount": 162,
+        "openings": 8
+      }
+    ],
+    "comparisons": [
+      {
+        "companyId": "d6d2d2ee3fd6a294",
+        "metric": "薪资竞争力",
+        "value": 26,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "d6d2d2ee3fd6a294",
+        "metric": "招聘活跃度",
+        "value": 52,
+        "industryAvg": 45
+      },
+      {
+        "companyId": "d6d2d2ee3fd6a294",
+        "metric": "组织规模",
+        "value": 50,
+        "industryAvg": 55
+      }
+    ],
+    "scoreCard": {
+      "companyId": "d6d2d2ee3fd6a294",
+      "atmosphereScore": 70,
+      "competitivenessScore": 81,
+      "potentialScore": 64,
+      "overall": 0,
+      "grade": "B",
+      "strengths": [],
+      "weaknesses": []
+    },
+    "atmosphere": {
+      "companyId": "d6d2d2ee3fd6a294",
+      "cultureOpenness": 69,
+      "overtimeIntensity": 60,
+      "promotionSpace": 79,
+      "teamStability": 71,
+      "leadership": 73
+    }
+  }
+}

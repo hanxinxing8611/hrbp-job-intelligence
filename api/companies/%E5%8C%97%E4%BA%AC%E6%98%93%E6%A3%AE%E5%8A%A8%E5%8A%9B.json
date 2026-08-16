@@ -1,0 +1,358 @@
+﻿{
+  "companyId": "北京易森动力",
+  "name": "北京易森动力",
+  "industry": "企业服务",
+  "scale": "150-500人",
+  "stage": "成熟期",
+  "founded": "2019",
+  "headquarters": "泉州",
+  "branches": [],
+  "description": "北京易森动力是企业服务领域的企业。",
+  "logoColor": "#36571d",
+  "logoInitial": "北",
+  "jobs": [
+    {
+      "jobId": "aug_0095",
+      "title": "HRBP for 销售团队",
+      "companyId": "北京易森动力",
+      "companyName": "北京易森动力",
+      "companyIndustry": "企业服务",
+      "city": "泉州",
+      "district": "",
+      "experience": "10年以上",
+      "education": "本科",
+      "salaryRange": "24-36K",
+      "salaryMin": 24,
+      "salaryMax": 36,
+      "bonusMonths": 13,
+      "tags": [
+        "AI赛道",
+        "培训",
+        "社招",
+        "硬科技"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/33uznV_0095FlVY.html",
+      "postedAt": "2026-08-15T09:41:50.107Z",
+      "crawledAt": "2026-08-16T16:41:50.107Z",
+      "heat": 256,
+      "growth": 26,
+      "url": "https://m.zhipin.com/job_detail/33uznV_0095FlVY.html",
+      "benefits": [
+        "员工宿舍",
+        "年度体检",
+        "六险一金",
+        "免费班车"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进",
+        "主导人才盘点与高潜员工识别，制定关键人才的发展与保留计划"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "北京易森动力招聘HRBP for 销售团队，工作地点泉州，薪资24-36K，要求10年以上经验、本科学历。",
+      "valueScore": 3.4,
+      "salaryBreakdown": {
+        "p10": 24,
+        "p25": 26,
+        "p50": 30,
+        "p75": 34,
+        "p90": 38
+      }
+    },
+    {
+      "jobId": "real_019",
+      "title": "HRBP for 销售团队",
+      "companyId": "北京易森动力",
+      "companyName": "北京易森动力",
+      "companyIndustry": "企业服务",
+      "city": "北京",
+      "district": "海淀区",
+      "experience": "5-10年",
+      "education": "本科",
+      "salaryRange": "20-30K·15薪",
+      "salaryMin": 20,
+      "salaryMax": 30,
+      "bonusMonths": 15,
+      "tags": [
+        "雇主品牌",
+        "绩效",
+        "稳定"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/08a0d431455cbb3c1nV83d64Eg~~.html",
+      "postedAt": "2026-08-15T01:41:50.102Z",
+      "crawledAt": "2026-08-16T14:41:50.102Z",
+      "heat": 228,
+      "growth": 61,
+      "url": "https://m.zhipin.com/job_detail/08a0d431455cbb3c1nV83d64Eg~~.html",
+      "benefits": [
+        "项目奖金",
+        "免费班车",
+        "弹性工作",
+        "年终奖"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进",
+        "主导人才盘点与高潜员工识别，制定关键人才的发展与保留计划"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "5-10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "北京易森动力招聘HRBP for 销售团队，工作地点北京·海淀区，薪资20-30K·15薪，要求5-10年经验、本科学历。",
+      "valueScore": 5.6,
+      "salaryBreakdown": {
+        "p10": 20,
+        "p25": 22,
+        "p50": 25,
+        "p75": 28,
+        "p90": 32
+      }
+    },
+    {
+      "jobId": "aug_0091",
+      "title": "高级HRBP for 销售团队",
+      "companyId": "北京易森动力",
+      "companyName": "北京易森动力",
+      "companyIndustry": "企业服务",
+      "city": "无锡",
+      "district": "",
+      "experience": "10年以上",
+      "education": "大专",
+      "salaryRange": "18-26K·14薪",
+      "salaryMin": 18,
+      "salaryMax": 26,
+      "bonusMonths": 14,
+      "tags": [
+        "硬科技",
+        "核心业务",
+        "技术HR",
+        "战略"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/33qvnV_0091FlVY.html",
+      "postedAt": "2026-08-13T01:41:50.107Z",
+      "crawledAt": "2026-08-16T15:41:50.107Z",
+      "heat": 50,
+      "growth": 49,
+      "url": "https://m.zhipin.com/job_detail/33qvnV_0091FlVY.html",
+      "benefits": [
+        "年终奖",
+        "项目奖金",
+        "带薪年假",
+        "免费班车"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进",
+        "主导人才盘点与高潜员工识别，制定关键人才的发展与保留计划"
+      ],
+      "requirements": [
+        "大专及以上学历，人力资源管理或相关专业背景",
+        "10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "北京易森动力招聘高级HRBP for 销售团队，工作地点无锡，薪资18-26K·14薪，要求10年以上经验、大专学历。",
+      "valueScore": 2.5,
+      "salaryBreakdown": {
+        "p10": 18,
+        "p25": 20,
+        "p50": 22,
+        "p75": 24,
+        "p90": 28
+      }
+    },
+    {
+      "jobId": "aug_0093",
+      "title": "HRBP for 销售团队",
+      "companyId": "北京易森动力",
+      "companyName": "北京易森动力",
+      "companyIndustry": "企业服务",
+      "city": "济南",
+      "district": "",
+      "experience": "10年以上",
+      "education": "本科",
+      "salaryRange": "16-24K",
+      "salaryMin": 16,
+      "salaryMax": 24,
+      "bonusMonths": 13,
+      "tags": [
+        "AI赛道",
+        "商业保险",
+        "互联网",
+        "研究院"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/33sxnV_0093FlVY.html",
+      "postedAt": "2026-08-12T18:41:50.107Z",
+      "crawledAt": "2026-08-16T06:41:50.107Z",
+      "heat": 50,
+      "growth": 19,
+      "url": "https://m.zhipin.com/job_detail/33sxnV_0093FlVY.html",
+      "benefits": [
+        "带薪年假",
+        "企业年金",
+        "项目奖金",
+        "五险一金"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "北京易森动力招聘HRBP for 销售团队，工作地点济南，薪资16-24K，要求10年以上经验、本科学历。",
+      "valueScore": 2.2,
+      "salaryBreakdown": {
+        "p10": 16,
+        "p25": 18,
+        "p50": 20,
+        "p75": 22,
+        "p90": 26
+      }
+    }
+  ],
+  "analysis": {
+    "companyId": "北京易森动力",
+    "atmosphereScore": 74,
+    "competitivenessScore": 74,
+    "potentialScore": 89,
+    "overall": 79,
+    "grade": "B",
+    "strengths": [
+      "团队氛围好",
+      "发展空间大",
+      "福利待遇优"
+    ],
+    "weaknesses": [
+      "部分流程待优化",
+      "行业竞争激烈"
+    ],
+    "radar": [
+      {
+        "label": "文化开放度",
+        "value": 68,
+        "key": "cultureOpenness"
+      },
+      {
+        "label": "晋升空间",
+        "value": 76,
+        "key": "promotionSpace"
+      },
+      {
+        "label": "团队稳定",
+        "value": 91,
+        "key": "teamStability"
+      },
+      {
+        "label": "领导力",
+        "value": 83,
+        "key": "leadership"
+      },
+      {
+        "label": "加班强度",
+        "value": 64,
+        "key": "overtimeIntensity"
+      }
+    ],
+    "competitors": [
+      {
+        "companyId": "北京易森动力",
+        "metric": "薪资竞争力",
+        "value": 83,
+        "industryAvg": 65
+      },
+      {
+        "companyId": "北京易森动力",
+        "metric": "发展潜力",
+        "value": 77,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "北京易森动力",
+        "metric": "团队氛围",
+        "value": 77,
+        "industryAvg": 70
+      },
+      {
+        "companyId": "北京易森动力",
+        "metric": "稳定性",
+        "value": 62,
+        "industryAvg": 55
+      },
+      {
+        "companyId": "北京易森动力",
+        "metric": "行业地位",
+        "value": 63,
+        "industryAvg": 50
+      }
+    ],
+    "trend": [
+      {
+        "companyId": "北京易森动力",
+        "year": "2021",
+        "revenue": 1324,
+        "headcount": 127,
+        "openings": 52
+      },
+      {
+        "companyId": "北京易森动力",
+        "year": "2022",
+        "revenue": 1073,
+        "headcount": 86,
+        "openings": 16
+      },
+      {
+        "companyId": "北京易森动力",
+        "year": "2023",
+        "revenue": 824,
+        "headcount": 121,
+        "openings": 31
+      },
+      {
+        "companyId": "北京易森动力",
+        "year": "2024",
+        "revenue": 1081,
+        "headcount": 121,
+        "openings": 38
+      },
+      {
+        "companyId": "北京易森动力",
+        "year": "2025",
+        "revenue": 1200,
+        "headcount": 107,
+        "openings": 21
+      }
+    ]
+  }
+}

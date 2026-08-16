@@ -1,0 +1,672 @@
+﻿{
+  "companyId": "阿里巴巴",
+  "name": "阿里巴巴",
+  "industry": "互联网",
+  "scale": "1000人以上",
+  "stage": "上市公司",
+  "founded": "1997",
+  "headquarters": "杭州",
+  "branches": [],
+  "description": "阿里巴巴是互联网领域的企业。",
+  "logoColor": "#a8a2f7",
+  "logoInitial": "阿",
+  "jobs": [
+    {
+      "jobId": "real_021",
+      "title": "1688-HRBP Leader",
+      "companyId": "阿里巴巴",
+      "companyName": "阿里巴巴",
+      "companyIndustry": "互联网",
+      "city": "杭州",
+      "district": "滨江区",
+      "experience": "10年以上",
+      "education": "本科",
+      "salaryRange": "80-110K·16薪",
+      "salaryMin": 80,
+      "salaryMax": 110,
+      "bonusMonths": 16,
+      "tags": [
+        "管理岗",
+        "大厂",
+        "互联网",
+        "金融"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/ae6c6429444aca1f0nB82dS_EFpY.html",
+      "postedAt": "2026-08-14T22:41:50.102Z",
+      "crawledAt": "2026-08-16T16:41:50.102Z",
+      "heat": 1169,
+      "growth": 23,
+      "url": "https://m.zhipin.com/job_detail/ae6c6429444aca1f0nB82dS_EFpY.html",
+      "benefits": [
+        "免费三餐",
+        "商业保险",
+        "补充医疗",
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "员工宿舍"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "搭建并管理HRBP团队，制定团队发展计划与考核机制",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "熟悉互联网行业运作模式与人才特点，具备快速学习与适应能力"
+      ],
+      "description": "阿里巴巴招聘1688-HRBP Leader，工作地点杭州·滨江区，薪资80-110K·16薪，要求10年以上经验、本科学历。",
+      "valueScore": 11.5,
+      "salaryBreakdown": {
+        "p10": 80,
+        "p25": 86,
+        "p50": 95,
+        "p75": 104,
+        "p90": 116
+      }
+    },
+    {
+      "jobId": "aug_0098",
+      "title": "阿里国际-高级HRBP(技术)",
+      "companyId": "阿里巴巴",
+      "companyName": "阿里巴巴",
+      "companyIndustry": "互联网",
+      "city": "南通",
+      "district": "",
+      "experience": "10年以上",
+      "education": "本科",
+      "salaryRange": "30-44K",
+      "salaryMin": 30,
+      "salaryMax": 44,
+      "bonusMonths": 13,
+      "tags": [
+        "技术HR",
+        "大厂",
+        "互联网"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/34punV_0098FlVY.html",
+      "postedAt": "2026-08-16T03:41:50.107Z",
+      "crawledAt": "2026-08-16T12:41:50.107Z",
+      "heat": 1141,
+      "growth": 32,
+      "url": "https://m.zhipin.com/job_detail/34punV_0098FlVY.html",
+      "benefits": [
+        "免费三餐",
+        "股票期权",
+        "节日福利",
+        "六险一金",
+        "补充医疗",
+        "项目奖金"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "理解研发团队运作特点，支持技术团队的人才评估与技术梯队建设",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "熟悉互联网行业运作模式与人才特点，具备快速学习与适应能力"
+      ],
+      "description": "阿里巴巴招聘阿里国际-高级HRBP(技术)，工作地点南通，薪资30-44K，要求10年以上经验、本科学历。",
+      "valueScore": 4.4,
+      "salaryBreakdown": {
+        "p10": 30,
+        "p25": 33,
+        "p50": 37,
+        "p75": 41,
+        "p90": 47
+      }
+    },
+    {
+      "jobId": "real_020",
+      "title": "阿里国际-HRBP(技术)",
+      "companyId": "阿里巴巴",
+      "companyName": "阿里巴巴",
+      "companyIndustry": "互联网",
+      "city": "杭州",
+      "district": "余杭区",
+      "experience": "5-10年",
+      "education": "本科",
+      "salaryRange": "30-45K·13薪",
+      "salaryMin": 30,
+      "salaryMax": 45,
+      "bonusMonths": 13,
+      "tags": [
+        "技术HR",
+        "大厂",
+        "互联网"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/3b74eba8ea08f2f40nd40t27FVVT.html",
+      "postedAt": "2026-08-15T00:41:50.102Z",
+      "crawledAt": "2026-08-16T15:41:50.102Z",
+      "heat": 415,
+      "growth": 13,
+      "url": "https://m.zhipin.com/job_detail/3b74eba8ea08f2f40nd40t27FVVT.html",
+      "benefits": [
+        "项目奖金",
+        "年度体检",
+        "免费三餐",
+        "员工宿舍",
+        "五险一金",
+        "补充医疗",
+        "年度旅游"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "理解研发团队运作特点，支持技术团队的人才评估与技术梯队建设",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "5-10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "熟悉互联网行业运作模式与人才特点，具备快速学习与适应能力"
+      ],
+      "description": "阿里巴巴招聘阿里国际-HRBP(技术)，工作地点杭州·余杭区，薪资30-45K·13薪，要求5-10年经验、本科学历。",
+      "valueScore": 9.1,
+      "salaryBreakdown": {
+        "p10": 30,
+        "p25": 33,
+        "p50": 38,
+        "p75": 42,
+        "p90": 48
+      }
+    },
+    {
+      "jobId": "aug_0097",
+      "title": "阿里国际-人力资源业务伙伴(技术)",
+      "companyId": "阿里巴巴",
+      "companyName": "阿里巴巴",
+      "companyIndustry": "互联网",
+      "city": "金华",
+      "district": "",
+      "experience": "3-5年",
+      "education": "大专",
+      "salaryRange": "32-48K",
+      "salaryMin": 32,
+      "salaryMax": 48,
+      "bonusMonths": 13,
+      "tags": [
+        "技术HR",
+        "大厂",
+        "互联网"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/34otnV_0097FlVY.html",
+      "postedAt": "2026-08-15T13:41:50.107Z",
+      "crawledAt": "2026-08-16T06:41:50.107Z",
+      "heat": 399,
+      "growth": 30,
+      "url": "https://m.zhipin.com/job_detail/34otnV_0097FlVY.html",
+      "benefits": [
+        "企业年金",
+        "带薪年假",
+        "商业保险",
+        "年终奖",
+        "补充医疗",
+        "员工宿舍"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "理解研发团队运作特点，支持技术团队的人才评估与技术梯队建设",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "大专及以上学历，人力资源管理或相关专业背景",
+        "3-5年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "熟悉互联网行业运作模式与人才特点，具备快速学习与适应能力"
+      ],
+      "description": "阿里巴巴招聘阿里国际-人力资源业务伙伴(技术)，工作地点金华，薪资32-48K，要求3-5年经验、大专学历。",
+      "valueScore": 15.7,
+      "salaryBreakdown": {
+        "p10": 32,
+        "p25": 35,
+        "p50": 40,
+        "p75": 45,
+        "p90": 51
+      }
+    },
+    {
+      "jobId": "aug_0101",
+      "title": "1688-人力资源业务伙伴 Leader",
+      "companyId": "阿里巴巴",
+      "companyName": "阿里巴巴",
+      "companyIndustry": "互联网",
+      "city": "佛山",
+      "district": "南海区",
+      "experience": "1年以上",
+      "education": "大专",
+      "salaryRange": "64-88K",
+      "salaryMin": 64,
+      "salaryMax": 88,
+      "bonusMonths": 13,
+      "tags": [
+        "管理岗",
+        "大厂",
+        "互联网"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/35kpnV_0101FlVY.html",
+      "postedAt": "2026-08-13T14:41:50.107Z",
+      "crawledAt": "2026-08-16T13:41:50.107Z",
+      "heat": 130,
+      "growth": 24,
+      "url": "https://m.zhipin.com/job_detail/35kpnV_0101FlVY.html",
+      "benefits": [
+        "六险一金",
+        "租房补贴",
+        "商业保险",
+        "补充医疗",
+        "免费三餐",
+        "年度体检"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "搭建并管理HRBP团队，制定团队发展计划与考核机制",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "大专及以上学历，人力资源管理或相关专业背景",
+        "1年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "熟悉互联网行业运作模式与人才特点，具备快速学习与适应能力"
+      ],
+      "description": "阿里巴巴招聘1688-人力资源业务伙伴 Leader，工作地点佛山·南海区，薪资64-88K，要求1年以上经验、大专学历。",
+      "valueScore": 89.7,
+      "salaryBreakdown": {
+        "p10": 64,
+        "p25": 69,
+        "p50": 76,
+        "p75": 83,
+        "p90": 93
+      }
+    },
+    {
+      "jobId": "aug_0103",
+      "title": "1688-高级HRBP Leader",
+      "companyId": "阿里巴巴",
+      "companyName": "阿里巴巴",
+      "companyIndustry": "互联网",
+      "city": "烟台",
+      "district": "",
+      "experience": "1年以上",
+      "education": "本科",
+      "salaryRange": "98-129K·14薪",
+      "salaryMin": 98,
+      "salaryMax": 129,
+      "bonusMonths": 14,
+      "tags": [
+        "管理岗",
+        "大厂",
+        "互联网"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/35mrnV_0103FlVY.html",
+      "postedAt": "2026-08-12T20:41:50.107Z",
+      "crawledAt": "2026-08-16T11:41:50.107Z",
+      "heat": 100,
+      "growth": 64,
+      "url": "https://m.zhipin.com/job_detail/35mrnV_0103FlVY.html",
+      "benefits": [
+        "通勤班车",
+        "免费三餐",
+        "员工宿舍",
+        "年终奖",
+        "带薪年假",
+        "商业保险"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "搭建并管理HRBP团队，制定团队发展计划与考核机制",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "1年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "熟悉互联网行业运作模式与人才特点，具备快速学习与适应能力"
+      ],
+      "description": "阿里巴巴招聘1688-高级HRBP Leader，工作地点烟台，薪资98-129K·14薪，要求1年以上经验、本科学历。",
+      "valueScore": 133.9,
+      "salaryBreakdown": {
+        "p10": 98,
+        "p25": 104,
+        "p50": 114,
+        "p75": 123,
+        "p90": 135
+      }
+    },
+    {
+      "jobId": "aug_0100",
+      "title": "阿里国际-人力资源业务伙伴(技术)",
+      "companyId": "阿里巴巴",
+      "companyName": "阿里巴巴",
+      "companyIndustry": "互联网",
+      "city": "哈尔滨",
+      "district": "",
+      "experience": "10年以上",
+      "education": "本科",
+      "salaryRange": "28-40K·14薪",
+      "salaryMin": 28,
+      "salaryMax": 40,
+      "bonusMonths": 14,
+      "tags": [
+        "技术HR",
+        "大厂",
+        "互联网"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/34rwnV_0100FlVY.html",
+      "postedAt": "2026-08-14T18:41:50.107Z",
+      "crawledAt": "2026-08-16T10:41:50.107Z",
+      "heat": 61,
+      "growth": 34,
+      "url": "https://m.zhipin.com/job_detail/34rwnV_0100FlVY.html",
+      "benefits": [
+        "租房补贴",
+        "通勤班车",
+        "年度旅游",
+        "免费班车",
+        "年度体检",
+        "节日福利"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "理解研发团队运作特点，支持技术团队的人才评估与技术梯队建设",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "熟悉互联网行业运作模式与人才特点，具备快速学习与适应能力"
+      ],
+      "description": "阿里巴巴招聘阿里国际-人力资源业务伙伴(技术)，工作地点哈尔滨，薪资28-40K·14薪，要求10年以上经验、本科学历。",
+      "valueScore": 4,
+      "salaryBreakdown": {
+        "p10": 28,
+        "p25": 30,
+        "p50": 34,
+        "p75": 38,
+        "p90": 42
+      }
+    },
+    {
+      "jobId": "aug_0102",
+      "title": "1688-高级HRBP Leader",
+      "companyId": "阿里巴巴",
+      "companyName": "阿里巴巴",
+      "companyIndustry": "互联网",
+      "city": "中山",
+      "district": "",
+      "experience": "10年以上",
+      "education": "本科",
+      "salaryRange": "60-84K·15薪",
+      "salaryMin": 60,
+      "salaryMax": 84,
+      "bonusMonths": 15,
+      "tags": [
+        "管理岗",
+        "大厂",
+        "互联网"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/35lqnV_0102FlVY.html",
+      "postedAt": "2026-08-13T05:41:50.107Z",
+      "crawledAt": "2026-08-16T06:41:50.107Z",
+      "heat": 50,
+      "growth": 14,
+      "url": "https://m.zhipin.com/job_detail/35lqnV_0102FlVY.html",
+      "benefits": [
+        "年终奖",
+        "员工宿舍",
+        "五险一金",
+        "六险一金",
+        "企业年金",
+        "年度体检",
+        "商业保险"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "搭建并管理HRBP团队，制定团队发展计划与考核机制",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "熟悉互联网行业运作模式与人才特点，具备快速学习与适应能力"
+      ],
+      "description": "阿里巴巴招聘1688-高级HRBP Leader，工作地点中山，薪资60-84K·15薪，要求10年以上经验、本科学历。",
+      "valueScore": 8.7,
+      "salaryBreakdown": {
+        "p10": 60,
+        "p25": 65,
+        "p50": 72,
+        "p75": 79,
+        "p90": 89
+      }
+    },
+    {
+      "jobId": "aug_0104",
+      "title": "1688-HRBP Leader",
+      "companyId": "阿里巴巴",
+      "companyName": "阿里巴巴",
+      "companyIndustry": "互联网",
+      "city": "扬州",
+      "district": "",
+      "experience": "1年以上",
+      "education": "本科",
+      "salaryRange": "94-122K",
+      "salaryMin": 94,
+      "salaryMax": 122,
+      "bonusMonths": 13,
+      "tags": [
+        "管理岗",
+        "大厂",
+        "互联网"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/35nsnV_0104FlVY.html",
+      "postedAt": "2026-08-12T10:41:50.107Z",
+      "crawledAt": "2026-08-16T16:41:50.107Z",
+      "heat": 50,
+      "growth": 57,
+      "url": "https://m.zhipin.com/job_detail/35nsnV_0104FlVY.html",
+      "benefits": [
+        "租房补贴",
+        "员工宿舍",
+        "免费三餐",
+        "年终奖",
+        "通勤班车",
+        "补充医疗"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "搭建并管理HRBP团队，制定团队发展计划与考核机制",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "1年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "熟悉互联网行业运作模式与人才特点，具备快速学习与适应能力"
+      ],
+      "description": "阿里巴巴招聘1688-HRBP Leader，工作地点扬州，薪资94-122K，要求1年以上经验、本科学历。",
+      "valueScore": 127.4,
+      "salaryBreakdown": {
+        "p10": 94,
+        "p25": 100,
+        "p50": 108,
+        "p75": 116,
+        "p90": 128
+      }
+    }
+  ],
+  "analysis": {
+    "companyId": "阿里巴巴",
+    "atmosphereScore": 75,
+    "competitivenessScore": 78,
+    "potentialScore": 70,
+    "overall": 74,
+    "grade": "B",
+    "strengths": [
+      "团队氛围好",
+      "发展空间大",
+      "福利待遇优"
+    ],
+    "weaknesses": [
+      "部分流程待优化",
+      "行业竞争激烈"
+    ],
+    "radar": [
+      {
+        "label": "文化开放度",
+        "value": 86,
+        "key": "cultureOpenness"
+      },
+      {
+        "label": "晋升空间",
+        "value": 72,
+        "key": "promotionSpace"
+      },
+      {
+        "label": "团队稳定",
+        "value": 65,
+        "key": "teamStability"
+      },
+      {
+        "label": "领导力",
+        "value": 88,
+        "key": "leadership"
+      },
+      {
+        "label": "加班强度",
+        "value": 62,
+        "key": "overtimeIntensity"
+      }
+    ],
+    "competitors": [
+      {
+        "companyId": "阿里巴巴",
+        "metric": "薪资竞争力",
+        "value": 92,
+        "industryAvg": 65
+      },
+      {
+        "companyId": "阿里巴巴",
+        "metric": "发展潜力",
+        "value": 92,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "阿里巴巴",
+        "metric": "团队氛围",
+        "value": 84,
+        "industryAvg": 70
+      },
+      {
+        "companyId": "阿里巴巴",
+        "metric": "稳定性",
+        "value": 84,
+        "industryAvg": 55
+      },
+      {
+        "companyId": "阿里巴巴",
+        "metric": "行业地位",
+        "value": 82,
+        "industryAvg": 50
+      }
+    ],
+    "trend": [
+      {
+        "companyId": "阿里巴巴",
+        "year": "2021",
+        "revenue": 1022,
+        "headcount": 112,
+        "openings": 35
+      },
+      {
+        "companyId": "阿里巴巴",
+        "year": "2022",
+        "revenue": 636,
+        "headcount": 99,
+        "openings": 24
+      },
+      {
+        "companyId": "阿里巴巴",
+        "year": "2023",
+        "revenue": 1295,
+        "headcount": 148,
+        "openings": 58
+      },
+      {
+        "companyId": "阿里巴巴",
+        "year": "2024",
+        "revenue": 698,
+        "headcount": 89,
+        "openings": 36
+      },
+      {
+        "companyId": "阿里巴巴",
+        "year": "2025",
+        "revenue": 1182,
+        "headcount": 70,
+        "openings": 26
+      }
+    ]
+  }
+}

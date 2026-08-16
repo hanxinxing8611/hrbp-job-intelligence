@@ -1,0 +1,556 @@
+﻿{
+  "companyId": "9c24139882dff7d8",
+  "name": "牧原食品",
+  "industry": "综合",
+  "scale": "",
+  "stage": "",
+  "logoColor": "#319795",
+  "logoInitial": "牧",
+  "description": "牧原食品 正在招聘 HRBP 相关岗位，欢迎了解。",
+  "founded": 2009,
+  "headquarters": "天津",
+  "jobCount": 4,
+  "avgSalary": 10.6,
+  "jobs": [
+    {
+      "jobId": "fe16b916bb218453",
+      "title": "HRBP",
+      "companyId": "9c24139882dff7d8",
+      "companyName": "牧原食品",
+      "city": "天津",
+      "district": "西青区",
+      "experience": "1-3年",
+      "education": "本科",
+      "salaryRange": "8-15K",
+      "salaryMin": 8,
+      "salaryMax": 15,
+      "tags": [
+        "AI赛道",
+        "专家岗",
+        "战略"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC495147320J40862927411.htm",
+      "postedAt": "2026-08-13T10:02:00.691Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 28,
+      "growth": 66,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 96,
+        "annualMax": 240,
+        "monthlyMin": 8,
+        "monthlyMax": 15,
+        "bonus": 20.7,
+        "stocks": 6.9,
+        "yearly": 11.5
+      },
+      "valueScore": 46
+    },
+    {
+      "jobId": "eaa58e877b2a12d4",
+      "title": "HRBP",
+      "companyId": "9c24139882dff7d8",
+      "companyName": "牧原食品",
+      "city": "烟台",
+      "district": "",
+      "experience": "3-5年",
+      "education": "硕士",
+      "salaryRange": "8-14K",
+      "salaryMin": 8,
+      "salaryMax": 14,
+      "tags": [
+        "数字化",
+        "AI赛道",
+        "稳定",
+        "商业保险"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC44CKJ00000292.htm",
+      "postedAt": "2026-08-12T22:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 25,
+      "growth": 30,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 96,
+        "annualMax": 224,
+        "monthlyMin": 8,
+        "monthlyMax": 14,
+        "bonus": 19.8,
+        "stocks": 6.6,
+        "yearly": 11
+      },
+      "valueScore": 44
+    },
+    {
+      "jobId": "242d2c6026f1f81a",
+      "title": "HRBP",
+      "companyId": "9c24139882dff7d8",
+      "companyName": "牧原食品",
+      "city": "扬州",
+      "district": "",
+      "experience": "1-3年",
+      "education": "本科",
+      "salaryRange": "8-14K·16薪",
+      "salaryMin": 8,
+      "salaryMax": 14,
+      "tags": [
+        "数字化",
+        "商业化",
+        "AI赛道",
+        "高增长"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC44DLJ00000293.htm",
+      "postedAt": "2026-08-12T12:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 23,
+      "growth": 68,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 96,
+        "annualMax": 224,
+        "monthlyMin": 8,
+        "monthlyMax": 14,
+        "bonus": 19.8,
+        "stocks": 6.6,
+        "yearly": 11
+      },
+      "valueScore": 44
+    },
+    {
+      "jobId": "c5a5fd4efc6d4188",
+      "title": "HRBP",
+      "companyId": "9c24139882dff7d8",
+      "companyName": "牧原食品",
+      "city": "绍兴",
+      "district": "",
+      "experience": "经验不限",
+      "education": "本科",
+      "salaryRange": "6-12K·14薪",
+      "salaryMin": 6,
+      "salaryMax": 12,
+      "tags": [
+        "战略",
+        "核心业务",
+        "数字化",
+        "商业保险"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC44FNJ00000295.htm",
+      "postedAt": "2026-08-15T18:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 37,
+      "growth": 75,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 72,
+        "annualMax": 192,
+        "monthlyMin": 6,
+        "monthlyMax": 12,
+        "bonus": 16.2,
+        "stocks": 5.4,
+        "yearly": 9
+      },
+      "valueScore": 36
+    }
+  ],
+  "analysis": {
+    "summary": "牧原食品（综合）当前在招 HRBP 相关岗位 4 个，平均薪资 10.6k。",
+    "salaryBenchmark": {
+      "companyAvg": 10.6,
+      "industryAvg": 18.3,
+      "cityAvg": 10.1,
+      "percentile": 70
+    },
+    "openings": [
+      {
+        "jobId": "fe16b916bb218453",
+        "title": "HRBP",
+        "companyId": "9c24139882dff7d8",
+        "companyName": "牧原食品",
+        "city": "天津",
+        "district": "西青区",
+        "experience": "1-3年",
+        "education": "本科",
+        "salaryRange": "8-15K",
+        "salaryMin": 8,
+        "salaryMax": 15,
+        "tags": [
+          "AI赛道",
+          "专家岗",
+          "战略"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC495147320J40862927411.htm",
+        "postedAt": "2026-08-13T10:02:00.691Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 28,
+        "growth": 66,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 96,
+          "annualMax": 240,
+          "monthlyMin": 8,
+          "monthlyMax": 15,
+          "bonus": 20.7,
+          "stocks": 6.9,
+          "yearly": 11.5
+        },
+        "valueScore": 46
+      },
+      {
+        "jobId": "eaa58e877b2a12d4",
+        "title": "HRBP",
+        "companyId": "9c24139882dff7d8",
+        "companyName": "牧原食品",
+        "city": "烟台",
+        "district": "",
+        "experience": "3-5年",
+        "education": "硕士",
+        "salaryRange": "8-14K",
+        "salaryMin": 8,
+        "salaryMax": 14,
+        "tags": [
+          "数字化",
+          "AI赛道",
+          "稳定",
+          "商业保险"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC44CKJ00000292.htm",
+        "postedAt": "2026-08-12T22:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 25,
+        "growth": 30,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 96,
+          "annualMax": 224,
+          "monthlyMin": 8,
+          "monthlyMax": 14,
+          "bonus": 19.8,
+          "stocks": 6.6,
+          "yearly": 11
+        },
+        "valueScore": 44
+      },
+      {
+        "jobId": "242d2c6026f1f81a",
+        "title": "HRBP",
+        "companyId": "9c24139882dff7d8",
+        "companyName": "牧原食品",
+        "city": "扬州",
+        "district": "",
+        "experience": "1-3年",
+        "education": "本科",
+        "salaryRange": "8-14K·16薪",
+        "salaryMin": 8,
+        "salaryMax": 14,
+        "tags": [
+          "数字化",
+          "商业化",
+          "AI赛道",
+          "高增长"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC44DLJ00000293.htm",
+        "postedAt": "2026-08-12T12:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 23,
+        "growth": 68,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 96,
+          "annualMax": 224,
+          "monthlyMin": 8,
+          "monthlyMax": 14,
+          "bonus": 19.8,
+          "stocks": 6.6,
+          "yearly": 11
+        },
+        "valueScore": 44
+      },
+      {
+        "jobId": "c5a5fd4efc6d4188",
+        "title": "HRBP",
+        "companyId": "9c24139882dff7d8",
+        "companyName": "牧原食品",
+        "city": "绍兴",
+        "district": "",
+        "experience": "经验不限",
+        "education": "本科",
+        "salaryRange": "6-12K·14薪",
+        "salaryMin": 6,
+        "salaryMax": 12,
+        "tags": [
+          "战略",
+          "核心业务",
+          "数字化",
+          "商业保险"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC44FNJ00000295.htm",
+        "postedAt": "2026-08-15T18:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 37,
+        "growth": 75,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 72,
+          "annualMax": 192,
+          "monthlyMin": 6,
+          "monthlyMax": 12,
+          "bonus": 16.2,
+          "stocks": 5.4,
+          "yearly": 9
+        },
+        "valueScore": 36
+      }
+    ],
+    "trends": [
+      {
+        "year": "2022",
+        "companyId": "9c24139882dff7d8",
+        "revenue": 132,
+        "headcount": 99,
+        "openings": 1
+      },
+      {
+        "year": "2023",
+        "companyId": "9c24139882dff7d8",
+        "revenue": 156,
+        "headcount": 109,
+        "openings": 2
+      },
+      {
+        "year": "2024",
+        "companyId": "9c24139882dff7d8",
+        "revenue": 174,
+        "headcount": 130,
+        "openings": 4
+      },
+      {
+        "year": "2025",
+        "companyId": "9c24139882dff7d8",
+        "revenue": 186,
+        "headcount": 156,
+        "openings": 6
+      },
+      {
+        "year": "2026",
+        "companyId": "9c24139882dff7d8",
+        "revenue": 218,
+        "headcount": 169,
+        "openings": 8
+      }
+    ],
+    "comparisons": [
+      {
+        "companyId": "9c24139882dff7d8",
+        "metric": "薪资竞争力",
+        "value": 35,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "9c24139882dff7d8",
+        "metric": "招聘活跃度",
+        "value": 52,
+        "industryAvg": 45
+      },
+      {
+        "companyId": "9c24139882dff7d8",
+        "metric": "组织规模",
+        "value": 50,
+        "industryAvg": 55
+      }
+    ],
+    "scoreCard": {
+      "companyId": "9c24139882dff7d8",
+      "atmosphereScore": 82,
+      "competitivenessScore": 85,
+      "potentialScore": 65,
+      "overall": 0,
+      "grade": "B",
+      "strengths": [],
+      "weaknesses": []
+    },
+    "atmosphere": {
+      "companyId": "9c24139882dff7d8",
+      "cultureOpenness": 84,
+      "overtimeIntensity": 61,
+      "promotionSpace": 56,
+      "teamStability": 70,
+      "leadership": 85
+    }
+  }
+}

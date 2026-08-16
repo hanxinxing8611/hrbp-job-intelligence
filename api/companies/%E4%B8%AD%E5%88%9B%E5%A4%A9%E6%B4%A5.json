@@ -1,0 +1,360 @@
+﻿{
+  "companyId": "中创天津",
+  "name": "中创天津",
+  "industry": "科技",
+  "scale": "500-1000人",
+  "stage": "成长期",
+  "founded": "2010",
+  "headquarters": "天津",
+  "branches": [],
+  "description": "中创天津是科技领域的企业。",
+  "logoColor": "#b23bc7",
+  "logoInitial": "中",
+  "jobs": [
+    {
+      "jobId": "real_054",
+      "title": "HRBP/人事主管",
+      "companyId": "中创天津",
+      "companyName": "中创天津",
+      "companyIndustry": "科技",
+      "city": "天津",
+      "district": "滨海新区",
+      "experience": "3-5年",
+      "education": "本科",
+      "salaryRange": "8-10K",
+      "salaryMin": 8,
+      "salaryMax": 10,
+      "bonusMonths": 13,
+      "tags": [
+        "管理岗",
+        "弹性工作",
+        "大厂",
+        "培训"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CCL1486393170J40835786509.htm",
+      "postedAt": "2026-08-13T20:41:50.102Z",
+      "crawledAt": "2026-08-16T11:41:50.102Z",
+      "heat": 50,
+      "growth": 11,
+      "url": "http://www.zhaopin.com/jobdetail/CCL1486393170J40835786509.htm",
+      "benefits": [
+        "年度旅游",
+        "企业年金",
+        "租房补贴",
+        "补充医疗",
+        "股票期权"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "搭建并管理HRBP团队，制定团队发展计划与考核机制",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "3-5年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "中创天津招聘HRBP/人事主管，工作地点天津·滨海新区，薪资8-10K，要求3-5年经验、本科学历。",
+      "valueScore": 3.5,
+      "salaryBreakdown": {
+        "p10": 8,
+        "p25": 8,
+        "p50": 9,
+        "p75": 10,
+        "p90": 10
+      }
+    },
+    {
+      "jobId": "aug_0266",
+      "title": "HRBP/人事经理",
+      "companyId": "中创天津",
+      "companyName": "中创天津",
+      "companyIndustry": "科技",
+      "city": "扬州",
+      "district": "",
+      "experience": "5-10年",
+      "education": "本科",
+      "salaryRange": "8-10K",
+      "salaryMin": 8,
+      "salaryMax": 10,
+      "bonusMonths": 13,
+      "tags": [
+        "管理岗",
+        "社招",
+        "员工关系",
+        "商业化"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3ZQYJ00000266.htm",
+      "postedAt": "2026-08-12T19:41:50.107Z",
+      "crawledAt": "2026-08-16T13:41:50.107Z",
+      "heat": 50,
+      "growth": 27,
+      "url": "http://www.zhaopin.com/jobdetail/CC3ZQYJ00000266.htm",
+      "benefits": [
+        "带薪年假",
+        "股票期权",
+        "免费三餐",
+        "免费班车"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进",
+        "主导人才盘点与高潜员工识别，制定关键人才的发展与保留计划"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "5-10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "中创天津招聘HRBP/人事经理，工作地点扬州，薪资8-10K，要求5-10年经验、本科学历。",
+      "valueScore": 2,
+      "salaryBreakdown": {
+        "p10": 8,
+        "p25": 8,
+        "p50": 9,
+        "p75": 10,
+        "p90": 10
+      }
+    },
+    {
+      "jobId": "aug_0268",
+      "title": "HRBP/人事主管",
+      "companyId": "中创天津",
+      "companyName": "中创天津",
+      "companyIndustry": "科技",
+      "city": "绍兴",
+      "district": "",
+      "experience": "3-5年",
+      "education": "本科",
+      "salaryRange": "6-8K",
+      "salaryMin": 6,
+      "salaryMax": 8,
+      "bonusMonths": 13,
+      "tags": [
+        "管理岗",
+        "社招",
+        "研究院"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3ZT0J00000268.htm",
+      "postedAt": "2026-08-14T15:41:50.107Z",
+      "crawledAt": "2026-08-16T11:41:50.107Z",
+      "heat": 50,
+      "growth": 55,
+      "url": "http://www.zhaopin.com/jobdetail/CC3ZT0J00000268.htm",
+      "benefits": [
+        "年度体检",
+        "股票期权",
+        "补充医疗",
+        "节日福利"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "搭建并管理HRBP团队，制定团队发展计划与考核机制",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "3-5年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "中创天津招聘HRBP/人事主管，工作地点绍兴，薪资6-8K，要求3-5年经验、本科学历。",
+      "valueScore": 2.6,
+      "salaryBreakdown": {
+        "p10": 6,
+        "p25": 6,
+        "p50": 7,
+        "p75": 8,
+        "p90": 8
+      }
+    },
+    {
+      "jobId": "aug_0270",
+      "title": "人力资源业务伙伴/人事主管",
+      "companyId": "中创天津",
+      "companyName": "中创天津",
+      "companyIndustry": "科技",
+      "city": "昆明",
+      "district": "",
+      "experience": "1-3年",
+      "education": "本科",
+      "salaryRange": "10-12K·16薪",
+      "salaryMin": 10,
+      "salaryMax": 12,
+      "bonusMonths": 16,
+      "tags": [
+        "管理岗",
+        "培训",
+        "AI赛道",
+        "稳定"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3ZV2J00000270.htm",
+      "postedAt": "2026-08-13T21:41:50.107Z",
+      "crawledAt": "2026-08-16T09:41:50.107Z",
+      "heat": 50,
+      "growth": 39,
+      "url": "http://www.zhaopin.com/jobdetail/CC3ZV2J00000270.htm",
+      "benefits": [
+        "项目奖金",
+        "补充医疗",
+        "企业年金",
+        "员工宿舍",
+        "免费班车"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "搭建并管理HRBP团队，制定团队发展计划与考核机制"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "1-3年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "中创天津招聘人力资源业务伙伴/人事主管，工作地点昆明，薪资10-12K·16薪，要求1-3年经验、本科学历。",
+      "valueScore": 12.6,
+      "salaryBreakdown": {
+        "p10": 10,
+        "p25": 10,
+        "p50": 11,
+        "p75": 12,
+        "p90": 12
+      }
+    }
+  ],
+  "analysis": {
+    "companyId": "中创天津",
+    "atmosphereScore": 86,
+    "competitivenessScore": 79,
+    "potentialScore": 83,
+    "overall": 83,
+    "grade": "A",
+    "strengths": [
+      "团队氛围好",
+      "发展空间大",
+      "福利待遇优"
+    ],
+    "weaknesses": [
+      "部分流程待优化",
+      "行业竞争激烈"
+    ],
+    "radar": [
+      {
+        "label": "文化开放度",
+        "value": 87,
+        "key": "cultureOpenness"
+      },
+      {
+        "label": "晋升空间",
+        "value": 76,
+        "key": "promotionSpace"
+      },
+      {
+        "label": "团队稳定",
+        "value": 94,
+        "key": "teamStability"
+      },
+      {
+        "label": "领导力",
+        "value": 77,
+        "key": "leadership"
+      },
+      {
+        "label": "加班强度",
+        "value": 59,
+        "key": "overtimeIntensity"
+      }
+    ],
+    "competitors": [
+      {
+        "companyId": "中创天津",
+        "metric": "薪资竞争力",
+        "value": 86,
+        "industryAvg": 65
+      },
+      {
+        "companyId": "中创天津",
+        "metric": "发展潜力",
+        "value": 72,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "中创天津",
+        "metric": "团队氛围",
+        "value": 102,
+        "industryAvg": 70
+      },
+      {
+        "companyId": "中创天津",
+        "metric": "稳定性",
+        "value": 63,
+        "industryAvg": 55
+      },
+      {
+        "companyId": "中创天津",
+        "metric": "行业地位",
+        "value": 70,
+        "industryAvg": 50
+      }
+    ],
+    "trend": [
+      {
+        "companyId": "中创天津",
+        "year": "2021",
+        "revenue": 1339,
+        "headcount": 143,
+        "openings": 16
+      },
+      {
+        "companyId": "中创天津",
+        "year": "2022",
+        "revenue": 1458,
+        "headcount": 116,
+        "openings": 50
+      },
+      {
+        "companyId": "中创天津",
+        "year": "2023",
+        "revenue": 841,
+        "headcount": 142,
+        "openings": 15
+      },
+      {
+        "companyId": "中创天津",
+        "year": "2024",
+        "revenue": 920,
+        "headcount": 52,
+        "openings": 54
+      },
+      {
+        "companyId": "中创天津",
+        "year": "2025",
+        "revenue": 1139,
+        "headcount": 50,
+        "openings": 38
+      }
+    ]
+  }
+}

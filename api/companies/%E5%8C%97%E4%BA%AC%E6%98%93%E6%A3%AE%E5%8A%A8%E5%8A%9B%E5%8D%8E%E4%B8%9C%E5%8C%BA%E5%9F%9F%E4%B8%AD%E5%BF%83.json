@@ -1,0 +1,186 @@
+﻿{
+  "companyId": "北京易森动力华东区域中心",
+  "name": "北京易森动力华东区域中心",
+  "industry": "企业服务",
+  "scale": "150-500人",
+  "stage": "成熟期",
+  "founded": "1992",
+  "headquarters": "厦门",
+  "branches": [],
+  "description": "北京易森动力华东区域中心是企业服务领域的企业。",
+  "logoColor": "#6bcebd",
+  "logoInitial": "北",
+  "jobs": [
+    {
+      "jobId": "aug_0092",
+      "title": "HRBP for 销售团队",
+      "companyId": "北京易森动力华东区域中心",
+      "companyName": "北京易森动力华东区域中心",
+      "companyIndustry": "企业服务",
+      "city": "厦门",
+      "district": "",
+      "experience": "3-5年",
+      "education": "硕士",
+      "salaryRange": "16-24K",
+      "salaryMin": 16,
+      "salaryMax": 24,
+      "bonusMonths": 13,
+      "tags": [
+        "硬科技",
+        "校招",
+        "期权激励",
+        "硬科技"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/33rwnV_0092FlVY.html",
+      "postedAt": "2026-08-13T00:41:50.107Z",
+      "crawledAt": "2026-08-16T09:41:50.107Z",
+      "heat": 50,
+      "growth": 47,
+      "url": "https://m.zhipin.com/job_detail/33rwnV_0092FlVY.html",
+      "benefits": [
+        "补充医疗",
+        "企业年金",
+        "股票期权",
+        "员工宿舍",
+        "项目奖金"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "3-5年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "北京易森动力华东区域中心招聘HRBP for 销售团队，工作地点厦门，薪资16-24K，要求3-5年经验、硕士学历。",
+      "valueScore": 7.7,
+      "salaryBreakdown": {
+        "p10": 16,
+        "p25": 18,
+        "p50": 20,
+        "p75": 22,
+        "p90": 26
+      }
+    }
+  ],
+  "analysis": {
+    "companyId": "北京易森动力华东区域中心",
+    "atmosphereScore": 79,
+    "competitivenessScore": 71,
+    "potentialScore": 71,
+    "overall": 74,
+    "grade": "B",
+    "strengths": [
+      "团队氛围好",
+      "发展空间大",
+      "福利待遇优"
+    ],
+    "weaknesses": [
+      "部分流程待优化",
+      "行业竞争激烈"
+    ],
+    "radar": [
+      {
+        "label": "文化开放度",
+        "value": 76,
+        "key": "cultureOpenness"
+      },
+      {
+        "label": "晋升空间",
+        "value": 76,
+        "key": "promotionSpace"
+      },
+      {
+        "label": "团队稳定",
+        "value": 70,
+        "key": "teamStability"
+      },
+      {
+        "label": "领导力",
+        "value": 59,
+        "key": "leadership"
+      },
+      {
+        "label": "加班强度",
+        "value": 69,
+        "key": "overtimeIntensity"
+      }
+    ],
+    "competitors": [
+      {
+        "companyId": "北京易森动力华东区域中心",
+        "metric": "薪资竞争力",
+        "value": 96,
+        "industryAvg": 65
+      },
+      {
+        "companyId": "北京易森动力华东区域中心",
+        "metric": "发展潜力",
+        "value": 85,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "北京易森动力华东区域中心",
+        "metric": "团队氛围",
+        "value": 77,
+        "industryAvg": 70
+      },
+      {
+        "companyId": "北京易森动力华东区域中心",
+        "metric": "稳定性",
+        "value": 80,
+        "industryAvg": 55
+      },
+      {
+        "companyId": "北京易森动力华东区域中心",
+        "metric": "行业地位",
+        "value": 64,
+        "industryAvg": 50
+      }
+    ],
+    "trend": [
+      {
+        "companyId": "北京易森动力华东区域中心",
+        "year": "2021",
+        "revenue": 1430,
+        "headcount": 105,
+        "openings": 38
+      },
+      {
+        "companyId": "北京易森动力华东区域中心",
+        "year": "2022",
+        "revenue": 670,
+        "headcount": 59,
+        "openings": 53
+      },
+      {
+        "companyId": "北京易森动力华东区域中心",
+        "year": "2023",
+        "revenue": 832,
+        "headcount": 133,
+        "openings": 47
+      },
+      {
+        "companyId": "北京易森动力华东区域中心",
+        "year": "2024",
+        "revenue": 1420,
+        "headcount": 141,
+        "openings": 25
+      },
+      {
+        "companyId": "北京易森动力华东区域中心",
+        "year": "2025",
+        "revenue": 1450,
+        "headcount": 142,
+        "openings": 24
+      }
+    ]
+  }
+}

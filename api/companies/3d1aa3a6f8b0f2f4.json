@@ -1,0 +1,666 @@
+﻿{
+  "companyId": "3d1aa3a6f8b0f2f4",
+  "name": "上海博恩登特科技",
+  "industry": "综合",
+  "scale": "",
+  "stage": "",
+  "logoColor": "#9f1239",
+  "logoInitial": "上",
+  "description": "上海博恩登特科技 正在招聘 HRBP 相关岗位，欢迎了解。",
+  "founded": 2004,
+  "headquarters": "哈尔滨",
+  "jobCount": 5,
+  "avgSalary": 17.3,
+  "jobs": [
+    {
+      "jobId": "0f5676ef029de62d",
+      "title": "高级HRBP",
+      "companyId": "3d1aa3a6f8b0f2f4",
+      "companyName": "上海博恩登特科技",
+      "city": "哈尔滨",
+      "district": "",
+      "experience": "5年及以上",
+      "education": "本科",
+      "salaryRange": "16-22K·16薪",
+      "salaryMin": 16,
+      "salaryMax": 22,
+      "tags": [
+        "硬科技",
+        "商业保险",
+        "专家岗"
+      ],
+      "source": "前程无忧",
+      "sourceUrl": "https://msearch.51job.com/jobs/shanghai/170043292.html",
+      "postedAt": "2026-08-15T05:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 35,
+      "growth": 17,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 192,
+        "annualMax": 352,
+        "monthlyMin": 16,
+        "monthlyMax": 22,
+        "bonus": 34.2,
+        "stocks": 11.4,
+        "yearly": 19
+      },
+      "valueScore": 76
+    },
+    {
+      "jobId": "ec30aeca66bc34e5",
+      "title": "HRBP",
+      "companyId": "3d1aa3a6f8b0f2f4",
+      "companyName": "上海博恩登特科技",
+      "city": "佛山",
+      "district": "北滘镇",
+      "experience": "8年及以上",
+      "education": "本科",
+      "salaryRange": "16-20K·14薪",
+      "salaryMin": 16,
+      "salaryMax": 20,
+      "tags": [
+        "硬科技",
+        "大厂",
+        "核心业务"
+      ],
+      "source": "前程无忧",
+      "sourceUrl": "https://msearch.51job.com/jobs/shanghai/170043429.html",
+      "postedAt": "2026-08-13T16:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 29,
+      "growth": 55,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 192,
+        "annualMax": 320,
+        "monthlyMin": 16,
+        "monthlyMax": 20,
+        "bonus": 32.4,
+        "stocks": 10.8,
+        "yearly": 18
+      },
+      "valueScore": 72
+    },
+    {
+      "jobId": "934a475ccfe0bcd9",
+      "title": "HRBP",
+      "companyId": "3d1aa3a6f8b0f2f4",
+      "companyName": "上海博恩登特科技",
+      "city": "上海",
+      "district": "嘉定区",
+      "experience": "5年及以上",
+      "education": "本科",
+      "salaryRange": "15-20K",
+      "salaryMin": 15,
+      "salaryMax": 20,
+      "tags": [
+        "硬科技",
+        "研究院",
+        "员工关系"
+      ],
+      "source": "前程无忧",
+      "sourceUrl": "https://msearch.51job.com/jobs/shanghai-jdq/170953438.html",
+      "postedAt": "2026-08-13T13:02:00.691Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 28,
+      "growth": 57,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 180,
+        "annualMax": 320,
+        "monthlyMin": 15,
+        "monthlyMax": 20,
+        "bonus": 31.5,
+        "stocks": 10.5,
+        "yearly": 17.5
+      },
+      "valueScore": 70
+    },
+    {
+      "jobId": "a84df77ae00a6c33",
+      "title": "高级HRBP",
+      "companyId": "3d1aa3a6f8b0f2f4",
+      "companyName": "上海博恩登特科技",
+      "city": "烟台",
+      "district": "",
+      "experience": "8年及以上",
+      "education": "本科",
+      "salaryRange": "14-18K",
+      "salaryMin": 14,
+      "salaryMax": 18,
+      "tags": [
+        "硬科技",
+        "大厂",
+        "免费三餐",
+        "社招"
+      ],
+      "source": "前程无忧",
+      "sourceUrl": "https://msearch.51job.com/jobs/shanghai/170043703.html",
+      "postedAt": "2026-08-16T07:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 38,
+      "growth": 17,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 168,
+        "annualMax": 288,
+        "monthlyMin": 14,
+        "monthlyMax": 18,
+        "bonus": 28.8,
+        "stocks": 9.6,
+        "yearly": 16
+      },
+      "valueScore": 64
+    },
+    {
+      "jobId": "e2876f0823b6effd",
+      "title": "HRBP",
+      "companyId": "3d1aa3a6f8b0f2f4",
+      "companyName": "上海博恩登特科技",
+      "city": "扬州",
+      "district": "",
+      "experience": "3年及以上",
+      "education": "本科",
+      "salaryRange": "14-18K",
+      "salaryMin": 14,
+      "salaryMax": 18,
+      "tags": [
+        "硬科技",
+        "互联网",
+        "高增长",
+        "组织发展"
+      ],
+      "source": "前程无忧",
+      "sourceUrl": "https://msearch.51job.com/jobs/shanghai/170043840.html",
+      "postedAt": "2026-08-13T16:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 28,
+      "growth": 65,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 168,
+        "annualMax": 288,
+        "monthlyMin": 14,
+        "monthlyMax": 18,
+        "bonus": 28.8,
+        "stocks": 9.6,
+        "yearly": 16
+      },
+      "valueScore": 64
+    }
+  ],
+  "analysis": {
+    "summary": "上海博恩登特科技（综合）当前在招 HRBP 相关岗位 5 个，平均薪资 17.3k。",
+    "salaryBenchmark": {
+      "companyAvg": 17.3,
+      "industryAvg": 18.3,
+      "cityAvg": 16.4,
+      "percentile": 70
+    },
+    "openings": [
+      {
+        "jobId": "0f5676ef029de62d",
+        "title": "高级HRBP",
+        "companyId": "3d1aa3a6f8b0f2f4",
+        "companyName": "上海博恩登特科技",
+        "city": "哈尔滨",
+        "district": "",
+        "experience": "5年及以上",
+        "education": "本科",
+        "salaryRange": "16-22K·16薪",
+        "salaryMin": 16,
+        "salaryMax": 22,
+        "tags": [
+          "硬科技",
+          "商业保险",
+          "专家岗"
+        ],
+        "source": "前程无忧",
+        "sourceUrl": "https://msearch.51job.com/jobs/shanghai/170043292.html",
+        "postedAt": "2026-08-15T05:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 35,
+        "growth": 17,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 192,
+          "annualMax": 352,
+          "monthlyMin": 16,
+          "monthlyMax": 22,
+          "bonus": 34.2,
+          "stocks": 11.4,
+          "yearly": 19
+        },
+        "valueScore": 76
+      },
+      {
+        "jobId": "ec30aeca66bc34e5",
+        "title": "HRBP",
+        "companyId": "3d1aa3a6f8b0f2f4",
+        "companyName": "上海博恩登特科技",
+        "city": "佛山",
+        "district": "北滘镇",
+        "experience": "8年及以上",
+        "education": "本科",
+        "salaryRange": "16-20K·14薪",
+        "salaryMin": 16,
+        "salaryMax": 20,
+        "tags": [
+          "硬科技",
+          "大厂",
+          "核心业务"
+        ],
+        "source": "前程无忧",
+        "sourceUrl": "https://msearch.51job.com/jobs/shanghai/170043429.html",
+        "postedAt": "2026-08-13T16:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 29,
+        "growth": 55,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 192,
+          "annualMax": 320,
+          "monthlyMin": 16,
+          "monthlyMax": 20,
+          "bonus": 32.4,
+          "stocks": 10.8,
+          "yearly": 18
+        },
+        "valueScore": 72
+      },
+      {
+        "jobId": "934a475ccfe0bcd9",
+        "title": "HRBP",
+        "companyId": "3d1aa3a6f8b0f2f4",
+        "companyName": "上海博恩登特科技",
+        "city": "上海",
+        "district": "嘉定区",
+        "experience": "5年及以上",
+        "education": "本科",
+        "salaryRange": "15-20K",
+        "salaryMin": 15,
+        "salaryMax": 20,
+        "tags": [
+          "硬科技",
+          "研究院",
+          "员工关系"
+        ],
+        "source": "前程无忧",
+        "sourceUrl": "https://msearch.51job.com/jobs/shanghai-jdq/170953438.html",
+        "postedAt": "2026-08-13T13:02:00.691Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 28,
+        "growth": 57,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 180,
+          "annualMax": 320,
+          "monthlyMin": 15,
+          "monthlyMax": 20,
+          "bonus": 31.5,
+          "stocks": 10.5,
+          "yearly": 17.5
+        },
+        "valueScore": 70
+      },
+      {
+        "jobId": "a84df77ae00a6c33",
+        "title": "高级HRBP",
+        "companyId": "3d1aa3a6f8b0f2f4",
+        "companyName": "上海博恩登特科技",
+        "city": "烟台",
+        "district": "",
+        "experience": "8年及以上",
+        "education": "本科",
+        "salaryRange": "14-18K",
+        "salaryMin": 14,
+        "salaryMax": 18,
+        "tags": [
+          "硬科技",
+          "大厂",
+          "免费三餐",
+          "社招"
+        ],
+        "source": "前程无忧",
+        "sourceUrl": "https://msearch.51job.com/jobs/shanghai/170043703.html",
+        "postedAt": "2026-08-16T07:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 38,
+        "growth": 17,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 168,
+          "annualMax": 288,
+          "monthlyMin": 14,
+          "monthlyMax": 18,
+          "bonus": 28.8,
+          "stocks": 9.6,
+          "yearly": 16
+        },
+        "valueScore": 64
+      },
+      {
+        "jobId": "e2876f0823b6effd",
+        "title": "HRBP",
+        "companyId": "3d1aa3a6f8b0f2f4",
+        "companyName": "上海博恩登特科技",
+        "city": "扬州",
+        "district": "",
+        "experience": "3年及以上",
+        "education": "本科",
+        "salaryRange": "14-18K",
+        "salaryMin": 14,
+        "salaryMax": 18,
+        "tags": [
+          "硬科技",
+          "互联网",
+          "高增长",
+          "组织发展"
+        ],
+        "source": "前程无忧",
+        "sourceUrl": "https://msearch.51job.com/jobs/shanghai/170043840.html",
+        "postedAt": "2026-08-13T16:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 28,
+        "growth": 65,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 168,
+          "annualMax": 288,
+          "monthlyMin": 14,
+          "monthlyMax": 18,
+          "bonus": 28.8,
+          "stocks": 9.6,
+          "yearly": 16
+        },
+        "valueScore": 64
+      }
+    ],
+    "trends": [
+      {
+        "year": "2022",
+        "companyId": "3d1aa3a6f8b0f2f4",
+        "revenue": 121,
+        "headcount": 89,
+        "openings": 1
+      },
+      {
+        "year": "2023",
+        "companyId": "3d1aa3a6f8b0f2f4",
+        "revenue": 151,
+        "headcount": 118,
+        "openings": 3
+      },
+      {
+        "year": "2024",
+        "companyId": "3d1aa3a6f8b0f2f4",
+        "revenue": 166,
+        "headcount": 133,
+        "openings": 5
+      },
+      {
+        "year": "2025",
+        "companyId": "3d1aa3a6f8b0f2f4",
+        "revenue": 200,
+        "headcount": 144,
+        "openings": 7
+      },
+      {
+        "year": "2026",
+        "companyId": "3d1aa3a6f8b0f2f4",
+        "revenue": 220,
+        "headcount": 164,
+        "openings": 9
+      }
+    ],
+    "comparisons": [
+      {
+        "companyId": "3d1aa3a6f8b0f2f4",
+        "metric": "薪资竞争力",
+        "value": 57,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "3d1aa3a6f8b0f2f4",
+        "metric": "招聘活跃度",
+        "value": 55,
+        "industryAvg": 45
+      },
+      {
+        "companyId": "3d1aa3a6f8b0f2f4",
+        "metric": "组织规模",
+        "value": 50,
+        "industryAvg": 55
+      }
+    ],
+    "scoreCard": {
+      "companyId": "3d1aa3a6f8b0f2f4",
+      "atmosphereScore": 80,
+      "competitivenessScore": 86,
+      "potentialScore": 64,
+      "overall": 0,
+      "grade": "B",
+      "strengths": [],
+      "weaknesses": []
+    },
+    "atmosphere": {
+      "companyId": "3d1aa3a6f8b0f2f4",
+      "cultureOpenness": 84,
+      "overtimeIntensity": 55,
+      "promotionSpace": 59,
+      "teamStability": 85,
+      "leadership": 73
+    }
+  }
+}

@@ -1,0 +1,57 @@
+﻿{
+  "jobId": "real_030",
+  "title": "HRBP",
+  "companyId": "迈金科技",
+  "companyName": "迈金科技",
+  "companyIndustry": "智能硬件",
+  "city": "青岛",
+  "district": "",
+  "experience": "3-5年",
+  "education": "本科",
+  "salaryRange": "9-14K·14薪",
+  "salaryMin": 9,
+  "salaryMax": 14,
+  "bonusMonths": 14,
+  "tags": [
+    "互联网",
+    "薪酬",
+    "WLB",
+    "培训"
+  ],
+  "source": "BOSS直聘",
+  "sourceUrl": "https://m.zhipin.com/job_detail/fdbfab484ad6fff60nBz39-9EVBW.html",
+  "postedAt": "2026-08-14T17:41:50.102Z",
+  "crawledAt": "2026-08-16T14:41:50.102Z",
+  "heat": 50,
+  "growth": 42,
+  "url": "https://m.zhipin.com/job_detail/fdbfab484ad6fff60nBz39-9EVBW.html",
+  "benefits": [
+    "年度旅游",
+    "补充医疗",
+    "带薪年假",
+    "节日福利"
+  ],
+  "responsibilities": [
+    "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+    "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+    "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+    "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+    "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+  ],
+  "requirements": [
+    "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+    "3-5年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+    "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+    "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+    "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+  ],
+  "description": "迈金科技招聘HRBP，工作地点青岛，薪资9-14K·14薪，要求3-5年经验、本科学历。",
+  "valueScore": 4.3,
+  "salaryBreakdown": {
+    "p10": 9,
+    "p25": 10,
+    "p50": 12,
+    "p75": 13,
+    "p90": 15
+  }
+}

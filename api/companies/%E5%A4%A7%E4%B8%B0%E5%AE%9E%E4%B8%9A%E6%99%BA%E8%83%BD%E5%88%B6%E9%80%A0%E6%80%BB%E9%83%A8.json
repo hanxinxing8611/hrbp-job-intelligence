@@ -1,0 +1,185 @@
+﻿{
+  "companyId": "大丰实业智能制造总部",
+  "name": "大丰实业智能制造总部",
+  "industry": "舞台设备",
+  "scale": "150-500人",
+  "stage": "成熟期",
+  "founded": "2011",
+  "headquarters": "昆明",
+  "branches": [],
+  "description": "大丰实业智能制造总部是舞台设备领域的企业。",
+  "logoColor": "#f69e36",
+  "logoInitial": "大",
+  "jobs": [
+    {
+      "jobId": "aug_0378",
+      "title": "人力资源业务伙伴主管（余姚）",
+      "companyId": "大丰实业智能制造总部",
+      "companyName": "大丰实业智能制造总部",
+      "companyIndustry": "舞台设备",
+      "city": "昆明",
+      "district": "",
+      "experience": "8年以上",
+      "education": "本科",
+      "salaryRange": "16-22K",
+      "salaryMin": 16,
+      "salaryMax": 22,
+      "bonusMonths": 13,
+      "tags": [
+        "管理岗",
+        "商业化",
+        "大厂",
+        "员工关系"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984158907.shtml",
+      "postedAt": "2026-08-13T21:41:50.107Z",
+      "crawledAt": "2026-08-16T07:41:50.107Z",
+      "heat": 50,
+      "growth": 28,
+      "url": "https://www.liepin.com/job/1984158907.shtml",
+      "benefits": [
+        "员工宿舍",
+        "六险一金",
+        "商业保险",
+        "年度体检"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "搭建并管理HRBP团队，制定团队发展计划与考核机制"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "8年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "大丰实业智能制造总部招聘人力资源业务伙伴主管（余姚），工作地点昆明，薪资16-22K，要求8年以上经验、本科学历。",
+      "valueScore": 2.7,
+      "salaryBreakdown": {
+        "p10": 16,
+        "p25": 17,
+        "p50": 19,
+        "p75": 21,
+        "p90": 23
+      }
+    }
+  ],
+  "analysis": {
+    "companyId": "大丰实业智能制造总部",
+    "atmosphereScore": 70,
+    "competitivenessScore": 70,
+    "potentialScore": 84,
+    "overall": 75,
+    "grade": "B",
+    "strengths": [
+      "团队氛围好",
+      "发展空间大",
+      "福利待遇优"
+    ],
+    "weaknesses": [
+      "部分流程待优化",
+      "行业竞争激烈"
+    ],
+    "radar": [
+      {
+        "label": "文化开放度",
+        "value": 98,
+        "key": "cultureOpenness"
+      },
+      {
+        "label": "晋升空间",
+        "value": 59,
+        "key": "promotionSpace"
+      },
+      {
+        "label": "团队稳定",
+        "value": 85,
+        "key": "teamStability"
+      },
+      {
+        "label": "领导力",
+        "value": 83,
+        "key": "leadership"
+      },
+      {
+        "label": "加班强度",
+        "value": 44,
+        "key": "overtimeIntensity"
+      }
+    ],
+    "competitors": [
+      {
+        "companyId": "大丰实业智能制造总部",
+        "metric": "薪资竞争力",
+        "value": 81,
+        "industryAvg": 65
+      },
+      {
+        "companyId": "大丰实业智能制造总部",
+        "metric": "发展潜力",
+        "value": 88,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "大丰实业智能制造总部",
+        "metric": "团队氛围",
+        "value": 94,
+        "industryAvg": 70
+      },
+      {
+        "companyId": "大丰实业智能制造总部",
+        "metric": "稳定性",
+        "value": 65,
+        "industryAvg": 55
+      },
+      {
+        "companyId": "大丰实业智能制造总部",
+        "metric": "行业地位",
+        "value": 81,
+        "industryAvg": 50
+      }
+    ],
+    "trend": [
+      {
+        "companyId": "大丰实业智能制造总部",
+        "year": "2021",
+        "revenue": 695,
+        "headcount": 116,
+        "openings": 57
+      },
+      {
+        "companyId": "大丰实业智能制造总部",
+        "year": "2022",
+        "revenue": 1002,
+        "headcount": 116,
+        "openings": 29
+      },
+      {
+        "companyId": "大丰实业智能制造总部",
+        "year": "2023",
+        "revenue": 695,
+        "headcount": 65,
+        "openings": 19
+      },
+      {
+        "companyId": "大丰实业智能制造总部",
+        "year": "2024",
+        "revenue": 663,
+        "headcount": 116,
+        "openings": 42
+      },
+      {
+        "companyId": "大丰实业智能制造总部",
+        "year": "2025",
+        "revenue": 692,
+        "headcount": 99,
+        "openings": 32
+      }
+    ]
+  }
+}

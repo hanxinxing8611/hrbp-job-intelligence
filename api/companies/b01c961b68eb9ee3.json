@@ -1,0 +1,556 @@
+﻿{
+  "companyId": "b01c961b68eb9ee3",
+  "name": "新东方",
+  "industry": "综合",
+  "scale": "",
+  "stage": "",
+  "logoColor": "#9f1239",
+  "logoInitial": "新",
+  "description": "新东方 正在招聘 HRBP 相关岗位，欢迎了解。",
+  "founded": 2009,
+  "headquarters": "厦门",
+  "jobCount": 4,
+  "avgSalary": 14.1,
+  "jobs": [
+    {
+      "jobId": "7901c1ebe5fb2269",
+      "title": "HRBP(J40556)",
+      "companyId": "b01c961b68eb9ee3",
+      "companyName": "新东方",
+      "city": "厦门",
+      "district": "",
+      "experience": "5-10年",
+      "education": "本科",
+      "salaryRange": "16-20K",
+      "salaryMin": 16,
+      "salaryMax": 20,
+      "tags": [
+        "大厂",
+        "电商",
+        "组织发展",
+        "出海"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3N28J00000200.htm",
+      "postedAt": "2026-08-13T22:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 33,
+      "growth": 48,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 192,
+        "annualMax": 320,
+        "monthlyMin": 16,
+        "monthlyMax": 20,
+        "bonus": 32.4,
+        "stocks": 10.8,
+        "yearly": 18
+      },
+      "valueScore": 72
+    },
+    {
+      "jobId": "e3b474736d92f21d",
+      "title": "HRBP(J40556)",
+      "companyId": "b01c961b68eb9ee3",
+      "companyName": "新东方",
+      "city": "北京",
+      "district": "",
+      "experience": "3-5年",
+      "education": "本科",
+      "salaryRange": "13-16K",
+      "salaryMin": 13,
+      "salaryMax": 16,
+      "tags": [
+        "大厂",
+        "社招",
+        "硕博团队",
+        "互联网"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC120002360J40946589002.htm",
+      "postedAt": "2026-08-14T09:02:00.691Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 33,
+      "growth": 37,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 156,
+        "annualMax": 256,
+        "monthlyMin": 13,
+        "monthlyMax": 16,
+        "bonus": 26.1,
+        "stocks": 8.7,
+        "yearly": 14.5
+      },
+      "valueScore": 58
+    },
+    {
+      "jobId": "f583f893ded55c0e",
+      "title": "人力资源业务伙伴(J40556)",
+      "companyId": "b01c961b68eb9ee3",
+      "companyName": "新东方",
+      "city": "青岛",
+      "district": "胶州市",
+      "experience": "3-5年",
+      "education": "本科",
+      "salaryRange": "12-14K",
+      "salaryMin": 12,
+      "salaryMax": 14,
+      "tags": [
+        "大厂",
+        "互联网",
+        "研究院"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3MZ5J00000197.htm",
+      "postedAt": "2026-08-15T01:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 36,
+      "growth": 88,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 144,
+        "annualMax": 224,
+        "monthlyMin": 12,
+        "monthlyMax": 14,
+        "bonus": 23.4,
+        "stocks": 7.8,
+        "yearly": 13
+      },
+      "valueScore": 52
+    },
+    {
+      "jobId": "b01a9ac6c4bd2458",
+      "title": "HRBP(J40556)",
+      "companyId": "b01c961b68eb9ee3",
+      "companyName": "新东方",
+      "city": "无锡",
+      "district": "",
+      "experience": "1-3年",
+      "education": "本科",
+      "salaryRange": "10-12K·14薪",
+      "salaryMin": 10,
+      "salaryMax": 12,
+      "tags": [
+        "大厂",
+        "电商",
+        "期权激励",
+        "技术HR"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3N17J00000199.htm",
+      "postedAt": "2026-08-14T06:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 31,
+      "growth": 67,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 120,
+        "annualMax": 192,
+        "monthlyMin": 10,
+        "monthlyMax": 12,
+        "bonus": 19.8,
+        "stocks": 6.6,
+        "yearly": 11
+      },
+      "valueScore": 44
+    }
+  ],
+  "analysis": {
+    "summary": "新东方（综合）当前在招 HRBP 相关岗位 4 个，平均薪资 14.1k。",
+    "salaryBenchmark": {
+      "companyAvg": 14.1,
+      "industryAvg": 18.3,
+      "cityAvg": 13.4,
+      "percentile": 70
+    },
+    "openings": [
+      {
+        "jobId": "7901c1ebe5fb2269",
+        "title": "HRBP(J40556)",
+        "companyId": "b01c961b68eb9ee3",
+        "companyName": "新东方",
+        "city": "厦门",
+        "district": "",
+        "experience": "5-10年",
+        "education": "本科",
+        "salaryRange": "16-20K",
+        "salaryMin": 16,
+        "salaryMax": 20,
+        "tags": [
+          "大厂",
+          "电商",
+          "组织发展",
+          "出海"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3N28J00000200.htm",
+        "postedAt": "2026-08-13T22:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 33,
+        "growth": 48,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 192,
+          "annualMax": 320,
+          "monthlyMin": 16,
+          "monthlyMax": 20,
+          "bonus": 32.4,
+          "stocks": 10.8,
+          "yearly": 18
+        },
+        "valueScore": 72
+      },
+      {
+        "jobId": "e3b474736d92f21d",
+        "title": "HRBP(J40556)",
+        "companyId": "b01c961b68eb9ee3",
+        "companyName": "新东方",
+        "city": "北京",
+        "district": "",
+        "experience": "3-5年",
+        "education": "本科",
+        "salaryRange": "13-16K",
+        "salaryMin": 13,
+        "salaryMax": 16,
+        "tags": [
+          "大厂",
+          "社招",
+          "硕博团队",
+          "互联网"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC120002360J40946589002.htm",
+        "postedAt": "2026-08-14T09:02:00.691Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 33,
+        "growth": 37,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 156,
+          "annualMax": 256,
+          "monthlyMin": 13,
+          "monthlyMax": 16,
+          "bonus": 26.1,
+          "stocks": 8.7,
+          "yearly": 14.5
+        },
+        "valueScore": 58
+      },
+      {
+        "jobId": "f583f893ded55c0e",
+        "title": "人力资源业务伙伴(J40556)",
+        "companyId": "b01c961b68eb9ee3",
+        "companyName": "新东方",
+        "city": "青岛",
+        "district": "胶州市",
+        "experience": "3-5年",
+        "education": "本科",
+        "salaryRange": "12-14K",
+        "salaryMin": 12,
+        "salaryMax": 14,
+        "tags": [
+          "大厂",
+          "互联网",
+          "研究院"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3MZ5J00000197.htm",
+        "postedAt": "2026-08-15T01:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 36,
+        "growth": 88,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 144,
+          "annualMax": 224,
+          "monthlyMin": 12,
+          "monthlyMax": 14,
+          "bonus": 23.4,
+          "stocks": 7.8,
+          "yearly": 13
+        },
+        "valueScore": 52
+      },
+      {
+        "jobId": "b01a9ac6c4bd2458",
+        "title": "HRBP(J40556)",
+        "companyId": "b01c961b68eb9ee3",
+        "companyName": "新东方",
+        "city": "无锡",
+        "district": "",
+        "experience": "1-3年",
+        "education": "本科",
+        "salaryRange": "10-12K·14薪",
+        "salaryMin": 10,
+        "salaryMax": 12,
+        "tags": [
+          "大厂",
+          "电商",
+          "期权激励",
+          "技术HR"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3N17J00000199.htm",
+        "postedAt": "2026-08-14T06:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 31,
+        "growth": 67,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 120,
+          "annualMax": 192,
+          "monthlyMin": 10,
+          "monthlyMax": 12,
+          "bonus": 19.8,
+          "stocks": 6.6,
+          "yearly": 11
+        },
+        "valueScore": 44
+      }
+    ],
+    "trends": [
+      {
+        "year": "2022",
+        "companyId": "b01c961b68eb9ee3",
+        "revenue": 133,
+        "headcount": 95,
+        "openings": 1
+      },
+      {
+        "year": "2023",
+        "companyId": "b01c961b68eb9ee3",
+        "revenue": 154,
+        "headcount": 116,
+        "openings": 2
+      },
+      {
+        "year": "2024",
+        "companyId": "b01c961b68eb9ee3",
+        "revenue": 171,
+        "headcount": 131,
+        "openings": 4
+      },
+      {
+        "year": "2025",
+        "companyId": "b01c961b68eb9ee3",
+        "revenue": 203,
+        "headcount": 147,
+        "openings": 6
+      },
+      {
+        "year": "2026",
+        "companyId": "b01c961b68eb9ee3",
+        "revenue": 211,
+        "headcount": 169,
+        "openings": 8
+      }
+    ],
+    "comparisons": [
+      {
+        "companyId": "b01c961b68eb9ee3",
+        "metric": "薪资竞争力",
+        "value": 46,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "b01c961b68eb9ee3",
+        "metric": "招聘活跃度",
+        "value": 52,
+        "industryAvg": 45
+      },
+      {
+        "companyId": "b01c961b68eb9ee3",
+        "metric": "组织规模",
+        "value": 50,
+        "industryAvg": 55
+      }
+    ],
+    "scoreCard": {
+      "companyId": "b01c961b68eb9ee3",
+      "atmosphereScore": 69,
+      "competitivenessScore": 81,
+      "potentialScore": 62,
+      "overall": 0,
+      "grade": "B",
+      "strengths": [],
+      "weaknesses": []
+    },
+    "atmosphere": {
+      "companyId": "b01c961b68eb9ee3",
+      "cultureOpenness": 79,
+      "overtimeIntensity": 57,
+      "promotionSpace": 75,
+      "teamStability": 69,
+      "leadership": 69
+    }
+  }
+}

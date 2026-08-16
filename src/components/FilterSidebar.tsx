@@ -1,12 +1,139 @@
-import { useState, useEffect } from 'react'
-import { Search, SlidersHorizontal, RotateCcw, X, ChevronDown } from 'lucide-react'
+﻿import { useState, useEffect } from 'react'
+import { Search, SlidersHorizontal, RotateCcw, X, ChevronDown, RefreshCw } from 'lucide-react'
 import {
   getCityOptions,
   getExperienceOptions,
   getScaleOptions,
   getStageOptions,
+  getCrawlerStatus,
+  refreshJobs,
 } from '@/data/dataApi'
 import { useStore } from '@/store/useStore'
+
+// UTC ISO → 北京时间 MM-DD HH:mm
+function formatBJ(iso?: string): string {
+  if (!iso) return '--'
+  const d = new Date(iso)
+  if (Number.isNaN(d.getTime())) return '--'
+  const bj = new Date(d.getTime() + 8 * 3600 * 1000)
+  const MM = String(bj.getUTCMonth() + 1).padStart(2, '0')
+  const DD = String(bj.getUTCDate()).padStart(2, '0')
+  const hh = String(bj.getUTCHours()).padStart(2, '0')
+  const mm = String(bj.getUTCMinutes()).padStart(2, '0')
+  return `${MM}-${DD} ${hh}:${mm}`
+}
+
+const WORKFLOW_RUN_URL =
+  'https://github.com/hanxinxing8611/hrbp-job-intelligence/actions/workflows/deploy-pages.yml'
+
+function SourceChips({ perSource }: { perSource?: Record<string, number> }) {
+  if (!perSource || !Object.keys(perSource).length) return null
+  const entries = Object.entries(perSource).sort((a, b) => b[1] - a[1])
+  const palette: Record<string, string> = {
+    '智联招聘': 'bg-sky-500/10 text-sky-300/90 ring-sky-400/20',
+    'BOSS直聘': 'bg-emerald-500/10 text-emerald-300/90 ring-emerald-400/20',
+    '前程无忧': 'bg-amber-500/10 text-amber-300/90 ring-amber-400/20',
+    '猎聘': 'bg-violet-500/10 text-violet-300/90 ring-violet-400/20',
+  }
+  return (
+    <>
+      <span className="mx-1 hidden h-3 w-px bg-ink-700/60 sm:inline-block" />
+      <div className="flex flex-wrap items-center gap-1">
+        {entries.map(([src, n]) => (
+          <span
+            key={src}
+            className={`rounded-full px-1.5 py-0.5 text-[9px] font-bold ring-1 ${palette[src] || 'bg-ink-800 text-paper/70 ring-ink-700/50'}`}
+          >
+            {src.replace('招聘', '').replace('前程无忧', '无忧').replace('直聘', '')} {n}
+          </span>
+        ))}
+      </div>
+    </>
+  )
+}
+
+function CrawlStatusBar() {
+  const [status, setStatus] = useState<any>(null)
+  const [refreshing, setRefreshing] = useState(false)
+  const refreshKey = useStore((s) => s.refreshKey ?? 0)
+
+  const load = async () => {
+    try {
+      const s = await getCrawlerStatus()
+      setStatus(s as any)
+    } catch { setStatus(null) }
+  }
+
+  useEffect(() => { load() }, [refreshKey])
+
+  const totalJobs = status?.totalJobs ?? 0
+  const updatedAt = status?.crawlReport?.updatedAt || status?.lastCrawl
+  const mergeTag = (() => {
+    const s = String(status?.crawlReport?.mergeStrategy || '')
+    if (s.startsWith('FULL_LIVE')) return '实时全量'
+    if (s.startsWith('LIVE_70')) return '70%实时'
+    if (s.startsWith('LIVE_1_OLD')) return '实时不足'
+    if (s.startsWith('OLD_FALLBACK')) return '历史兜底'
+    return ''
+  })()
+
+  const onRefresh = async () => {
+    setRefreshing(true)
+    try {
+      await refreshJobs()
+      await load()
+    } finally {
+      try { window.open(WORKFLOW_RUN_URL, '_blank', 'noopener noreferrer') } catch {}
+      setTimeout(() => setRefreshing(false), 1500)
+    }
+  }
+
+  return (
+    <div className="border-b border-ink-700/40 bg-ink-950/80 backdrop-blur-xl">
+      <div className="mx-auto flex max-w-[1000px] flex-wrap items-center justify-between gap-2 px-4 py-2 sm:px-6">
+        <div className="flex flex-wrap items-center gap-2 text-[10px] font-mono text-muted sm:gap-3">
+          <span className="inline-flex items-center gap-1">
+            <span className="text-ink-500">🕒</span>
+            <span>最近抓取</span>
+            <span className="ml-0.5 text-paper/85">{formatBJ(updatedAt)}</span>
+          </span>
+          <span className="hidden h-3 w-px bg-ink-700/60 sm:inline-block" />
+          <span>
+            <span className="text-ink-500">📊</span>
+            <span className="ml-0.5">总计 </span>
+            <b className="text-paper">{totalJobs}</b>
+            <span className="text-ink-500"> 职位 · </span>
+            <b className="text-paper">{status?.platforms ?? 0}</b>
+            <span className="text-ink-500"> 平台</span>
+          </span>
+          <SourceChips perSource={status?.crawlReport?.perSource} />
+          {mergeTag && (
+            <span
+              className={`rounded-full px-1.5 py-0.5 text-[9px] font-bold ring-1 ${
+                mergeTag === '历史兜底'
+                  ? 'bg-crimson/10 text-crimson/85 ring-crimson/25'
+                  : mergeTag === '实时全量'
+                    ? 'bg-emerald-500/10 text-emerald-300/90 ring-emerald-400/25'
+                    : 'bg-amber-500/10 text-amber-300/90 ring-amber-400/25'
+              }`}
+            >
+              {mergeTag}
+            </span>
+          )}
+        </div>
+        <button
+          onClick={onRefresh}
+          disabled={refreshing}
+          className="inline-flex items-center gap-1.5 rounded-lg bg-gold/12 px-2.5 py-1 font-mono text-[10px] font-bold text-gold ring-1 ring-gold/30 transition hover:bg-gold/20 hover:shadow-[0_0_10px_rgba(232,181,71,0.18)] active:scale-95 disabled:cursor-not-allowed disabled:opacity-50 sm:px-3"
+          title="清除本地缓存并打开 Actions 页面点 Run workflow 立即重新抓取"
+        >
+          <RefreshCw size={10} className={refreshing ? 'animate-spin' : ''} />
+          {refreshing ? '刷新中…' : '立即刷新'}
+        </button>
+      </div>
+    </div>
+  )
+}
 
 const HOT_CITIES = ['全部', '北京', '上海', '广州', '深圳', '杭州', '成都', '南京', '武汉', '西安']
 
@@ -267,6 +394,7 @@ export default function FilterSidebar() {
 
   return (
     <>
+      <CrawlStatusBar />
       {/* PC端顶部筛选栏 */}
       <div className="sticky top-0 z-40 hidden border-b border-ink-700/40 bg-ink-900/80 backdrop-blur-xl sm:block">
         <div className="mx-auto flex max-w-[1000px] flex-wrap items-center gap-3 overflow-visible px-6 py-2.5">

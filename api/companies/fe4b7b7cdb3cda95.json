@@ -1,0 +1,550 @@
+﻿{
+  "companyId": "fe4b7b7cdb3cda95",
+  "name": "鑫荣懋集团",
+  "industry": "综合",
+  "scale": "",
+  "stage": "",
+  "logoColor": "#dd6b20",
+  "logoInitial": "鑫",
+  "description": "鑫荣懋集团 正在招聘 HRBP 相关岗位，欢迎了解。",
+  "founded": 2001,
+  "headquarters": "济南",
+  "jobCount": 4,
+  "avgSalary": 12.9,
+  "jobs": [
+    {
+      "jobId": "0d9c1a9d41f25ec2",
+      "title": "HRBP",
+      "companyId": "fe4b7b7cdb3cda95",
+      "companyName": "鑫荣懋集团",
+      "city": "济南",
+      "district": "",
+      "experience": "10年以上",
+      "education": "本科",
+      "salaryRange": "12-16K·15薪",
+      "salaryMin": 12,
+      "salaryMax": 16,
+      "tags": [
+        "电商",
+        "员工关系",
+        "硬科技"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3NV1J00000201.htm",
+      "postedAt": "2026-08-15T01:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 36,
+      "growth": 50,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 144,
+        "annualMax": 256,
+        "monthlyMin": 12,
+        "monthlyMax": 16,
+        "bonus": 25.2,
+        "stocks": 8.4,
+        "yearly": 14
+      },
+      "valueScore": 56
+    },
+    {
+      "jobId": "0c9bb12a60e901a5",
+      "title": "HRBP",
+      "companyId": "fe4b7b7cdb3cda95",
+      "companyName": "鑫荣懋集团",
+      "city": "南宁",
+      "district": "",
+      "experience": "3-5年",
+      "education": "本科",
+      "salaryRange": "10-16K·14薪",
+      "salaryMin": 10,
+      "salaryMax": 16,
+      "tags": [
+        "电商",
+        "新能源",
+        "商业保险"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3NW2J00000202.htm",
+      "postedAt": "2026-08-12T20:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 26,
+      "growth": 27,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 120,
+        "annualMax": 256,
+        "monthlyMin": 10,
+        "monthlyMax": 16,
+        "bonus": 23.4,
+        "stocks": 7.8,
+        "yearly": 13
+      },
+      "valueScore": 52
+    },
+    {
+      "jobId": "2dbf9b07dda1e875",
+      "title": "HRBP",
+      "companyId": "fe4b7b7cdb3cda95",
+      "companyName": "鑫荣懋集团",
+      "city": "北京",
+      "district": "大兴区",
+      "experience": "5-10年",
+      "education": "本科",
+      "salaryRange": "10-15K",
+      "salaryMin": 10,
+      "salaryMax": 15,
+      "tags": [
+        "高增长",
+        "培训",
+        "WLB"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC136398060J40860965414.htm",
+      "postedAt": "2026-08-14T07:02:00.691Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 32,
+      "growth": 18,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 120,
+        "annualMax": 240,
+        "monthlyMin": 10,
+        "monthlyMax": 15,
+        "bonus": 22.5,
+        "stocks": 7.5,
+        "yearly": 12.5
+      },
+      "valueScore": 50
+    },
+    {
+      "jobId": "61d1e76f865612c1",
+      "title": "HRBP",
+      "companyId": "fe4b7b7cdb3cda95",
+      "companyName": "鑫荣懋集团",
+      "city": "贵阳",
+      "district": "",
+      "experience": "5-10年",
+      "education": "本科",
+      "salaryRange": "10-14K",
+      "salaryMin": 10,
+      "salaryMax": 14,
+      "tags": [
+        "金融",
+        "战略",
+        "组织发展"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3NY4J00000204.htm",
+      "postedAt": "2026-08-16T01:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 40,
+      "growth": 40,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 120,
+        "annualMax": 224,
+        "monthlyMin": 10,
+        "monthlyMax": 14,
+        "bonus": 21.6,
+        "stocks": 7.2,
+        "yearly": 12
+      },
+      "valueScore": 48
+    }
+  ],
+  "analysis": {
+    "summary": "鑫荣懋集团（综合）当前在招 HRBP 相关岗位 4 个，平均薪资 12.9k。",
+    "salaryBenchmark": {
+      "companyAvg": 12.9,
+      "industryAvg": 18.3,
+      "cityAvg": 12.3,
+      "percentile": 70
+    },
+    "openings": [
+      {
+        "jobId": "0d9c1a9d41f25ec2",
+        "title": "HRBP",
+        "companyId": "fe4b7b7cdb3cda95",
+        "companyName": "鑫荣懋集团",
+        "city": "济南",
+        "district": "",
+        "experience": "10年以上",
+        "education": "本科",
+        "salaryRange": "12-16K·15薪",
+        "salaryMin": 12,
+        "salaryMax": 16,
+        "tags": [
+          "电商",
+          "员工关系",
+          "硬科技"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3NV1J00000201.htm",
+        "postedAt": "2026-08-15T01:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 36,
+        "growth": 50,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 144,
+          "annualMax": 256,
+          "monthlyMin": 12,
+          "monthlyMax": 16,
+          "bonus": 25.2,
+          "stocks": 8.4,
+          "yearly": 14
+        },
+        "valueScore": 56
+      },
+      {
+        "jobId": "0c9bb12a60e901a5",
+        "title": "HRBP",
+        "companyId": "fe4b7b7cdb3cda95",
+        "companyName": "鑫荣懋集团",
+        "city": "南宁",
+        "district": "",
+        "experience": "3-5年",
+        "education": "本科",
+        "salaryRange": "10-16K·14薪",
+        "salaryMin": 10,
+        "salaryMax": 16,
+        "tags": [
+          "电商",
+          "新能源",
+          "商业保险"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3NW2J00000202.htm",
+        "postedAt": "2026-08-12T20:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 26,
+        "growth": 27,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 120,
+          "annualMax": 256,
+          "monthlyMin": 10,
+          "monthlyMax": 16,
+          "bonus": 23.4,
+          "stocks": 7.8,
+          "yearly": 13
+        },
+        "valueScore": 52
+      },
+      {
+        "jobId": "2dbf9b07dda1e875",
+        "title": "HRBP",
+        "companyId": "fe4b7b7cdb3cda95",
+        "companyName": "鑫荣懋集团",
+        "city": "北京",
+        "district": "大兴区",
+        "experience": "5-10年",
+        "education": "本科",
+        "salaryRange": "10-15K",
+        "salaryMin": 10,
+        "salaryMax": 15,
+        "tags": [
+          "高增长",
+          "培训",
+          "WLB"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC136398060J40860965414.htm",
+        "postedAt": "2026-08-14T07:02:00.691Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 32,
+        "growth": 18,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 120,
+          "annualMax": 240,
+          "monthlyMin": 10,
+          "monthlyMax": 15,
+          "bonus": 22.5,
+          "stocks": 7.5,
+          "yearly": 12.5
+        },
+        "valueScore": 50
+      },
+      {
+        "jobId": "61d1e76f865612c1",
+        "title": "HRBP",
+        "companyId": "fe4b7b7cdb3cda95",
+        "companyName": "鑫荣懋集团",
+        "city": "贵阳",
+        "district": "",
+        "experience": "5-10年",
+        "education": "本科",
+        "salaryRange": "10-14K",
+        "salaryMin": 10,
+        "salaryMax": 14,
+        "tags": [
+          "金融",
+          "战略",
+          "组织发展"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3NY4J00000204.htm",
+        "postedAt": "2026-08-16T01:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 40,
+        "growth": 40,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 120,
+          "annualMax": 224,
+          "monthlyMin": 10,
+          "monthlyMax": 14,
+          "bonus": 21.6,
+          "stocks": 7.2,
+          "yearly": 12
+        },
+        "valueScore": 48
+      }
+    ],
+    "trends": [
+      {
+        "year": "2022",
+        "companyId": "fe4b7b7cdb3cda95",
+        "revenue": 128,
+        "headcount": 89,
+        "openings": 1
+      },
+      {
+        "year": "2023",
+        "companyId": "fe4b7b7cdb3cda95",
+        "revenue": 144,
+        "headcount": 115,
+        "openings": 2
+      },
+      {
+        "year": "2024",
+        "companyId": "fe4b7b7cdb3cda95",
+        "revenue": 176,
+        "headcount": 127,
+        "openings": 4
+      },
+      {
+        "year": "2025",
+        "companyId": "fe4b7b7cdb3cda95",
+        "revenue": 196,
+        "headcount": 152,
+        "openings": 6
+      },
+      {
+        "year": "2026",
+        "companyId": "fe4b7b7cdb3cda95",
+        "revenue": 215,
+        "headcount": 160,
+        "openings": 8
+      }
+    ],
+    "comparisons": [
+      {
+        "companyId": "fe4b7b7cdb3cda95",
+        "metric": "薪资竞争力",
+        "value": 42,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "fe4b7b7cdb3cda95",
+        "metric": "招聘活跃度",
+        "value": 52,
+        "industryAvg": 45
+      },
+      {
+        "companyId": "fe4b7b7cdb3cda95",
+        "metric": "组织规模",
+        "value": 50,
+        "industryAvg": 55
+      }
+    ],
+    "scoreCard": {
+      "companyId": "fe4b7b7cdb3cda95",
+      "atmosphereScore": 82,
+      "competitivenessScore": 80,
+      "potentialScore": 84,
+      "overall": 0,
+      "grade": "B",
+      "strengths": [],
+      "weaknesses": []
+    },
+    "atmosphere": {
+      "companyId": "fe4b7b7cdb3cda95",
+      "cultureOpenness": 80,
+      "overtimeIntensity": 53,
+      "promotionSpace": 75,
+      "teamStability": 74,
+      "leadership": 86
+    }
+  }
+}

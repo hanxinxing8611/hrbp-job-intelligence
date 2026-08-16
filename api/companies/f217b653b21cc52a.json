@@ -1,0 +1,328 @@
+﻿{
+  "companyId": "f217b653b21cc52a",
+  "name": "丽滋卡尔医院华中区域中心",
+  "industry": "综合",
+  "scale": "",
+  "stage": "",
+  "logoColor": "#2c5282",
+  "logoInitial": "丽",
+  "description": "丽滋卡尔医院华中区域中心 正在招聘 HRBP 相关岗位，欢迎了解。",
+  "founded": 2003,
+  "headquarters": "昆明",
+  "jobCount": 2,
+  "avgSalary": 18.5,
+  "jobs": [
+    {
+      "jobId": "c977cdac956fc56f",
+      "title": "高级HRBP经理",
+      "companyId": "f217b653b21cc52a",
+      "companyName": "丽滋卡尔医院华中区域中心",
+      "city": "昆明",
+      "district": "",
+      "experience": "10年以上",
+      "education": "本科",
+      "salaryRange": "14-26K",
+      "salaryMin": 14,
+      "salaryMax": 26,
+      "tags": [
+        "管理岗",
+        "技术HR",
+        "数字化",
+        "硬科技"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984204313.shtml",
+      "postedAt": "2026-08-14T20:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 40,
+      "growth": 49,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 168,
+        "annualMax": 416,
+        "monthlyMin": 14,
+        "monthlyMax": 26,
+        "bonus": 36,
+        "stocks": 12,
+        "yearly": 20
+      },
+      "valueScore": 80
+    },
+    {
+      "jobId": "700c8aed174d832d",
+      "title": "HRBP经理",
+      "companyId": "f217b653b21cc52a",
+      "companyName": "丽滋卡尔医院华中区域中心",
+      "city": "杭州",
+      "district": "上城区",
+      "experience": "10年以上",
+      "education": "本科",
+      "salaryRange": "12-22K·14薪",
+      "salaryMin": 12,
+      "salaryMax": 22,
+      "tags": [
+        "管理岗",
+        "硕博团队",
+        "专家岗"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984205570.shtml",
+      "postedAt": "2026-08-13T16:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 33,
+      "growth": 61,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 144,
+        "annualMax": 352,
+        "monthlyMin": 12,
+        "monthlyMax": 22,
+        "bonus": 30.6,
+        "stocks": 10.2,
+        "yearly": 17
+      },
+      "valueScore": 68
+    }
+  ],
+  "analysis": {
+    "summary": "丽滋卡尔医院华中区域中心（综合）当前在招 HRBP 相关岗位 2 个，平均薪资 18.5k。",
+    "salaryBenchmark": {
+      "companyAvg": 18.5,
+      "industryAvg": 18.3,
+      "cityAvg": 17.6,
+      "percentile": 70
+    },
+    "openings": [
+      {
+        "jobId": "c977cdac956fc56f",
+        "title": "高级HRBP经理",
+        "companyId": "f217b653b21cc52a",
+        "companyName": "丽滋卡尔医院华中区域中心",
+        "city": "昆明",
+        "district": "",
+        "experience": "10年以上",
+        "education": "本科",
+        "salaryRange": "14-26K",
+        "salaryMin": 14,
+        "salaryMax": 26,
+        "tags": [
+          "管理岗",
+          "技术HR",
+          "数字化",
+          "硬科技"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984204313.shtml",
+        "postedAt": "2026-08-14T20:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 40,
+        "growth": 49,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 168,
+          "annualMax": 416,
+          "monthlyMin": 14,
+          "monthlyMax": 26,
+          "bonus": 36,
+          "stocks": 12,
+          "yearly": 20
+        },
+        "valueScore": 80
+      },
+      {
+        "jobId": "700c8aed174d832d",
+        "title": "HRBP经理",
+        "companyId": "f217b653b21cc52a",
+        "companyName": "丽滋卡尔医院华中区域中心",
+        "city": "杭州",
+        "district": "上城区",
+        "experience": "10年以上",
+        "education": "本科",
+        "salaryRange": "12-22K·14薪",
+        "salaryMin": 12,
+        "salaryMax": 22,
+        "tags": [
+          "管理岗",
+          "硕博团队",
+          "专家岗"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984205570.shtml",
+        "postedAt": "2026-08-13T16:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 33,
+        "growth": 61,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 144,
+          "annualMax": 352,
+          "monthlyMin": 12,
+          "monthlyMax": 22,
+          "bonus": 30.6,
+          "stocks": 10.2,
+          "yearly": 17
+        },
+        "valueScore": 68
+      }
+    ],
+    "trends": [
+      {
+        "year": "2022",
+        "companyId": "f217b653b21cc52a",
+        "revenue": 133,
+        "headcount": 90,
+        "openings": 1
+      },
+      {
+        "year": "2023",
+        "companyId": "f217b653b21cc52a",
+        "revenue": 142,
+        "headcount": 118,
+        "openings": 1
+      },
+      {
+        "year": "2024",
+        "companyId": "f217b653b21cc52a",
+        "revenue": 179,
+        "headcount": 135,
+        "openings": 2
+      },
+      {
+        "year": "2025",
+        "companyId": "f217b653b21cc52a",
+        "revenue": 199,
+        "headcount": 151,
+        "openings": 4
+      },
+      {
+        "year": "2026",
+        "companyId": "f217b653b21cc52a",
+        "revenue": 220,
+        "headcount": 170,
+        "openings": 6
+      }
+    ],
+    "comparisons": [
+      {
+        "companyId": "f217b653b21cc52a",
+        "metric": "薪资竞争力",
+        "value": 61,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "f217b653b21cc52a",
+        "metric": "招聘活跃度",
+        "value": 46,
+        "industryAvg": 45
+      },
+      {
+        "companyId": "f217b653b21cc52a",
+        "metric": "组织规模",
+        "value": 50,
+        "industryAvg": 55
+      }
+    ],
+    "scoreCard": {
+      "companyId": "f217b653b21cc52a",
+      "atmosphereScore": 87,
+      "competitivenessScore": 80,
+      "potentialScore": 84,
+      "overall": 0,
+      "grade": "B",
+      "strengths": [],
+      "weaknesses": []
+    },
+    "atmosphere": {
+      "companyId": "f217b653b21cc52a",
+      "cultureOpenness": 84,
+      "overtimeIntensity": 54,
+      "promotionSpace": 56,
+      "teamStability": 85,
+      "leadership": 88
+    }
+  }
+}

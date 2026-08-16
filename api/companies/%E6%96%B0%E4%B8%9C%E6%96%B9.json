@@ -1,0 +1,367 @@
+﻿{
+  "companyId": "新东方",
+  "name": "新东方",
+  "industry": "教育科技",
+  "scale": "1000人以上",
+  "stage": "上市公司",
+  "founded": "1994",
+  "headquarters": "青岛",
+  "branches": [],
+  "description": "新东方是教育科技领域的企业。",
+  "logoColor": "#354dcd",
+  "logoInitial": "新",
+  "jobs": [
+    {
+      "jobId": "aug_0197",
+      "title": "人力资源业务伙伴(J40556)",
+      "companyId": "新东方",
+      "companyName": "新东方",
+      "companyIndustry": "教育科技",
+      "city": "青岛",
+      "district": "胶州市",
+      "experience": "3-5年",
+      "education": "本科",
+      "salaryRange": "12-14K",
+      "salaryMin": 12,
+      "salaryMax": 14,
+      "bonusMonths": 13,
+      "tags": [
+        "大厂",
+        "互联网",
+        "研究院"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3MZ5J00000197.htm",
+      "postedAt": "2026-08-15T02:41:50.107Z",
+      "crawledAt": "2026-08-16T12:41:50.107Z",
+      "heat": 75,
+      "growth": 35,
+      "url": "http://www.zhaopin.com/jobdetail/CC3MZ5J00000197.htm",
+      "benefits": [
+        "企业年金",
+        "租房补贴",
+        "弹性工作",
+        "五险一金",
+        "项目奖金",
+        "节日福利"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进",
+        "主导人才盘点与高潜员工识别，制定关键人才的发展与保留计划"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "3-5年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "新东方招聘人力资源业务伙伴(J40556)，工作地点青岛·胶州市，薪资12-14K，要求3-5年经验、本科学历。",
+      "valueScore": 5.1,
+      "salaryBreakdown": {
+        "p10": 12,
+        "p25": 12,
+        "p50": 13,
+        "p75": 14,
+        "p90": 14
+      }
+    },
+    {
+      "jobId": "real_040",
+      "title": "HRBP(J40556)",
+      "companyId": "新东方",
+      "companyName": "新东方",
+      "companyIndustry": "教育科技",
+      "city": "北京",
+      "district": "",
+      "experience": "3-5年",
+      "education": "本科",
+      "salaryRange": "13-16K",
+      "salaryMin": 13,
+      "salaryMax": 16,
+      "bonusMonths": 13,
+      "tags": [
+        "大厂",
+        "社招",
+        "硕博团队",
+        "互联网"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC120002360J40946589002.htm",
+      "postedAt": "2026-08-14T10:41:50.102Z",
+      "crawledAt": "2026-08-16T14:41:50.102Z",
+      "heat": 50,
+      "growth": 13,
+      "url": "http://www.zhaopin.com/jobdetail/CC120002360J40946589002.htm",
+      "benefits": [
+        "弹性工作",
+        "员工宿舍",
+        "年度体检",
+        "商业保险",
+        "通勤班车",
+        "企业年金"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进",
+        "主导人才盘点与高潜员工识别，制定关键人才的发展与保留计划"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "3-5年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "新东方招聘HRBP(J40556)，工作地点北京，薪资13-16K，要求3-5年经验、本科学历。",
+      "valueScore": 5.7,
+      "salaryBreakdown": {
+        "p10": 13,
+        "p25": 14,
+        "p50": 15,
+        "p75": 15,
+        "p90": 17
+      }
+    },
+    {
+      "jobId": "aug_0199",
+      "title": "HRBP(J40556)",
+      "companyId": "新东方",
+      "companyName": "新东方",
+      "companyIndustry": "教育科技",
+      "city": "无锡",
+      "district": "",
+      "experience": "1-3年",
+      "education": "本科",
+      "salaryRange": "10-12K·14薪",
+      "salaryMin": 10,
+      "salaryMax": 12,
+      "bonusMonths": 14,
+      "tags": [
+        "大厂",
+        "电商",
+        "期权激励",
+        "技术HR"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3N17J00000199.htm",
+      "postedAt": "2026-08-14T07:41:50.107Z",
+      "crawledAt": "2026-08-16T10:41:50.107Z",
+      "heat": 50,
+      "growth": 12,
+      "url": "http://www.zhaopin.com/jobdetail/CC3N17J00000199.htm",
+      "benefits": [
+        "商业保险",
+        "节日福利",
+        "员工宿舍",
+        "租房补贴",
+        "年终奖",
+        "通勤班车"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "1-3年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "新东方招聘HRBP(J40556)，工作地点无锡，薪资10-12K·14薪，要求1-3年经验、本科学历。",
+      "valueScore": 13,
+      "salaryBreakdown": {
+        "p10": 10,
+        "p25": 10,
+        "p50": 11,
+        "p75": 12,
+        "p90": 12
+      }
+    },
+    {
+      "jobId": "aug_0200",
+      "title": "HRBP(J40556)",
+      "companyId": "新东方",
+      "companyName": "新东方",
+      "companyIndustry": "教育科技",
+      "city": "厦门",
+      "district": "",
+      "experience": "5-10年",
+      "education": "本科",
+      "salaryRange": "16-20K",
+      "salaryMin": 16,
+      "salaryMax": 20,
+      "bonusMonths": 13,
+      "tags": [
+        "大厂",
+        "电商",
+        "组织发展",
+        "出海"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3N28J00000200.htm",
+      "postedAt": "2026-08-13T23:41:50.107Z",
+      "crawledAt": "2026-08-16T09:41:50.107Z",
+      "heat": 50,
+      "growth": 7,
+      "url": "http://www.zhaopin.com/jobdetail/CC3N28J00000200.htm",
+      "benefits": [
+        "六险一金",
+        "节日福利",
+        "免费班车",
+        "免费三餐",
+        "年度体检",
+        "五险一金",
+        "员工宿舍"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进",
+        "主导人才盘点与高潜员工识别，制定关键人才的发展与保留计划"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "5-10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "新东方招聘HRBP(J40556)，工作地点厦门，薪资16-20K，要求5-10年经验、本科学历。",
+      "valueScore": 4.4,
+      "salaryBreakdown": {
+        "p10": 16,
+        "p25": 17,
+        "p50": 18,
+        "p75": 19,
+        "p90": 21
+      }
+    }
+  ],
+  "analysis": {
+    "companyId": "新东方",
+    "atmosphereScore": 73,
+    "competitivenessScore": 69,
+    "potentialScore": 71,
+    "overall": 71,
+    "grade": "B",
+    "strengths": [
+      "团队氛围好",
+      "发展空间大",
+      "福利待遇优"
+    ],
+    "weaknesses": [
+      "部分流程待优化",
+      "行业竞争激烈"
+    ],
+    "radar": [
+      {
+        "label": "文化开放度",
+        "value": 76,
+        "key": "cultureOpenness"
+      },
+      {
+        "label": "晋升空间",
+        "value": 87,
+        "key": "promotionSpace"
+      },
+      {
+        "label": "团队稳定",
+        "value": 70,
+        "key": "teamStability"
+      },
+      {
+        "label": "领导力",
+        "value": 80,
+        "key": "leadership"
+      },
+      {
+        "label": "加班强度",
+        "value": 66,
+        "key": "overtimeIntensity"
+      }
+    ],
+    "competitors": [
+      {
+        "companyId": "新东方",
+        "metric": "薪资竞争力",
+        "value": 72,
+        "industryAvg": 65
+      },
+      {
+        "companyId": "新东方",
+        "metric": "发展潜力",
+        "value": 90,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "新东方",
+        "metric": "团队氛围",
+        "value": 85,
+        "industryAvg": 70
+      },
+      {
+        "companyId": "新东方",
+        "metric": "稳定性",
+        "value": 73,
+        "industryAvg": 55
+      },
+      {
+        "companyId": "新东方",
+        "metric": "行业地位",
+        "value": 55,
+        "industryAvg": 50
+      }
+    ],
+    "trend": [
+      {
+        "companyId": "新东方",
+        "year": "2021",
+        "revenue": 929,
+        "headcount": 78,
+        "openings": 36
+      },
+      {
+        "companyId": "新东方",
+        "year": "2022",
+        "revenue": 878,
+        "headcount": 128,
+        "openings": 12
+      },
+      {
+        "companyId": "新东方",
+        "year": "2023",
+        "revenue": 544,
+        "headcount": 97,
+        "openings": 12
+      },
+      {
+        "companyId": "新东方",
+        "year": "2024",
+        "revenue": 900,
+        "headcount": 77,
+        "openings": 47
+      },
+      {
+        "companyId": "新东方",
+        "year": "2025",
+        "revenue": 648,
+        "headcount": 138,
+        "openings": 57
+      }
+    ]
+  }
+}

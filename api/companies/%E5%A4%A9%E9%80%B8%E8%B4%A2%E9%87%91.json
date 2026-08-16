@@ -1,0 +1,359 @@
+﻿{
+  "companyId": "天逸财金",
+  "name": "天逸财金",
+  "industry": "金融科技",
+  "scale": "500-1000人",
+  "stage": "成熟期",
+  "founded": "2011",
+  "headquarters": "上海",
+  "branches": [],
+  "description": "天逸财金是金融科技领域的企业。",
+  "logoColor": "#6557d6",
+  "logoInitial": "天",
+  "jobs": [
+    {
+      "jobId": "real_061",
+      "title": "HRBP负责人",
+      "companyId": "天逸财金",
+      "companyName": "天逸财金",
+      "companyIndustry": "金融科技",
+      "city": "上海",
+      "district": "浦东新区",
+      "experience": "8年及以上",
+      "education": "本科",
+      "salaryRange": "18-35K",
+      "salaryMin": 18,
+      "salaryMax": 35,
+      "bonusMonths": 13,
+      "tags": [
+        "研究院",
+        "核心业务",
+        "组织发展"
+      ],
+      "source": "前程无忧",
+      "sourceUrl": "https://msearch.51job.com/jobs/shanghai-pdxq/173261149.html",
+      "postedAt": "2026-08-13T19:41:50.102Z",
+      "crawledAt": "2026-08-16T13:41:50.102Z",
+      "heat": 50,
+      "growth": 18,
+      "url": "https://msearch.51job.com/jobs/shanghai-pdxq/173261149.html",
+      "benefits": [
+        "五险一金",
+        "项目奖金",
+        "六险一金",
+        "带薪年假"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进",
+        "主导人才盘点与高潜员工识别，制定关键人才的发展与保留计划"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "8年及以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "天逸财金招聘HRBP负责人，工作地点上海·浦东新区，薪资18-35K，要求8年及以上经验、本科学历。",
+      "valueScore": 3.7,
+      "salaryBreakdown": {
+        "p10": 18,
+        "p25": 21,
+        "p50": 27,
+        "p75": 32,
+        "p90": 38
+      }
+    },
+    {
+      "jobId": "aug_0301",
+      "title": "高级HRBP负责人",
+      "companyId": "天逸财金",
+      "companyName": "天逸财金",
+      "companyIndustry": "金融科技",
+      "city": "西安",
+      "district": "高新区",
+      "experience": "5年及以上",
+      "education": "本科",
+      "salaryRange": "16-32K·14薪",
+      "salaryMin": 16,
+      "salaryMax": 32,
+      "bonusMonths": 14,
+      "tags": [
+        "专家岗",
+        "电商",
+        "员工关系",
+        "免费三餐"
+      ],
+      "source": "前程无忧",
+      "sourceUrl": "https://msearch.51job.com/jobs/shanghai/170041237.html",
+      "postedAt": "2026-08-12T22:41:50.107Z",
+      "crawledAt": "2026-08-16T10:41:50.107Z",
+      "heat": 50,
+      "growth": 33,
+      "url": "https://msearch.51job.com/jobs/shanghai/170041237.html",
+      "benefits": [
+        "弹性工作",
+        "商业保险",
+        "股票期权",
+        "带薪年假"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进",
+        "主导人才盘点与高潜员工识别，制定关键人才的发展与保留计划"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "5年及以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "天逸财金招聘高级HRBP负责人，工作地点西安·高新区，薪资16-32K·14薪，要求5年及以上经验、本科学历。",
+      "valueScore": 5.4,
+      "salaryBreakdown": {
+        "p10": 16,
+        "p25": 19,
+        "p50": 24,
+        "p75": 29,
+        "p90": 35
+      }
+    },
+    {
+      "jobId": "aug_0303",
+      "title": "HRBP负责人",
+      "companyId": "天逸财金",
+      "companyName": "天逸财金",
+      "companyIndustry": "金融科技",
+      "city": "天津",
+      "district": "西青区",
+      "experience": "8年及以上",
+      "education": "本科",
+      "salaryRange": "16-30K",
+      "salaryMin": 16,
+      "salaryMax": 30,
+      "bonusMonths": 13,
+      "tags": [
+        "弹性工作",
+        "雇主品牌",
+        "WLB",
+        "校招"
+      ],
+      "source": "前程无忧",
+      "sourceUrl": "https://msearch.51job.com/jobs/shanghai/170041511.html",
+      "postedAt": "2026-08-12T03:41:50.107Z",
+      "crawledAt": "2026-08-16T08:41:50.107Z",
+      "heat": 50,
+      "growth": 14,
+      "url": "https://msearch.51job.com/jobs/shanghai/170041511.html",
+      "benefits": [
+        "股票期权",
+        "补充医疗",
+        "通勤班车",
+        "员工宿舍"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进",
+        "主导人才盘点与高潜员工识别，制定关键人才的发展与保留计划"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "8年及以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "天逸财金招聘HRBP负责人，工作地点天津·西青区，薪资16-30K，要求8年及以上经验、本科学历。",
+      "valueScore": 3.2,
+      "salaryBreakdown": {
+        "p10": 16,
+        "p25": 19,
+        "p50": 23,
+        "p75": 27,
+        "p90": 33
+      }
+    },
+    {
+      "jobId": "aug_0304",
+      "title": "高级HRBP负责人",
+      "companyId": "天逸财金",
+      "companyName": "天逸财金",
+      "companyIndustry": "金融科技",
+      "city": "郑州",
+      "district": "经开区",
+      "experience": "10年及以上",
+      "education": "本科",
+      "salaryRange": "14-28K",
+      "salaryMin": 14,
+      "salaryMax": 28,
+      "bonusMonths": 13,
+      "tags": [
+        "弹性工作",
+        "新能源",
+        "硬科技",
+        "免费三餐"
+      ],
+      "source": "前程无忧",
+      "sourceUrl": "https://msearch.51job.com/jobs/shanghai/170041648.html",
+      "postedAt": "2026-08-12T06:41:50.107Z",
+      "crawledAt": "2026-08-16T16:41:50.107Z",
+      "heat": 50,
+      "growth": 23,
+      "url": "https://msearch.51job.com/jobs/shanghai/170041648.html",
+      "benefits": [
+        "补充医疗",
+        "免费班车",
+        "节日福利",
+        "免费三餐",
+        "年终奖"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "10年及以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "天逸财金招聘高级HRBP负责人，工作地点郑州·经开区，薪资14-28K，要求10年及以上经验、本科学历。",
+      "valueScore": 2.4,
+      "salaryBreakdown": {
+        "p10": 14,
+        "p25": 17,
+        "p50": 21,
+        "p75": 25,
+        "p90": 31
+      }
+    }
+  ],
+  "analysis": {
+    "companyId": "天逸财金",
+    "atmosphereScore": 87,
+    "competitivenessScore": 72,
+    "potentialScore": 84,
+    "overall": 81,
+    "grade": "A",
+    "strengths": [
+      "团队氛围好",
+      "发展空间大",
+      "福利待遇优"
+    ],
+    "weaknesses": [
+      "部分流程待优化",
+      "行业竞争激烈"
+    ],
+    "radar": [
+      {
+        "label": "文化开放度",
+        "value": 75,
+        "key": "cultureOpenness"
+      },
+      {
+        "label": "晋升空间",
+        "value": 64,
+        "key": "promotionSpace"
+      },
+      {
+        "label": "团队稳定",
+        "value": 83,
+        "key": "teamStability"
+      },
+      {
+        "label": "领导力",
+        "value": 58,
+        "key": "leadership"
+      },
+      {
+        "label": "加班强度",
+        "value": 66,
+        "key": "overtimeIntensity"
+      }
+    ],
+    "competitors": [
+      {
+        "companyId": "天逸财金",
+        "metric": "薪资竞争力",
+        "value": 81,
+        "industryAvg": 65
+      },
+      {
+        "companyId": "天逸财金",
+        "metric": "发展潜力",
+        "value": 93,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "天逸财金",
+        "metric": "团队氛围",
+        "value": 101,
+        "industryAvg": 70
+      },
+      {
+        "companyId": "天逸财金",
+        "metric": "稳定性",
+        "value": 73,
+        "industryAvg": 55
+      },
+      {
+        "companyId": "天逸财金",
+        "metric": "行业地位",
+        "value": 68,
+        "industryAvg": 50
+      }
+    ],
+    "trend": [
+      {
+        "companyId": "天逸财金",
+        "year": "2021",
+        "revenue": 1299,
+        "headcount": 53,
+        "openings": 23
+      },
+      {
+        "companyId": "天逸财金",
+        "year": "2022",
+        "revenue": 961,
+        "headcount": 55,
+        "openings": 59
+      },
+      {
+        "companyId": "天逸财金",
+        "year": "2023",
+        "revenue": 884,
+        "headcount": 57,
+        "openings": 39
+      },
+      {
+        "companyId": "天逸财金",
+        "year": "2024",
+        "revenue": 575,
+        "headcount": 72,
+        "openings": 52
+      },
+      {
+        "companyId": "天逸财金",
+        "year": "2025",
+        "revenue": 769,
+        "headcount": 123,
+        "openings": 14
+      }
+    ]
+  }
+}

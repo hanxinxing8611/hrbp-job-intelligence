@@ -1,0 +1,662 @@
+﻿{
+  "companyId": "adae772b76cf94de",
+  "name": "天津鼎维固",
+  "industry": "综合",
+  "scale": "",
+  "stage": "",
+  "logoColor": "#2b6cb0",
+  "logoInitial": "天",
+  "description": "天津鼎维固 正在招聘 HRBP 相关岗位，欢迎了解。",
+  "founded": 2000,
+  "headquarters": "佛山",
+  "jobCount": 5,
+  "avgSalary": 7.5,
+  "jobs": [
+    {
+      "jobId": "3a49cad87b751807",
+      "title": "人力资源/HRBP",
+      "companyId": "adae772b76cf94de",
+      "companyName": "天津鼎维固",
+      "city": "佛山",
+      "district": "千灯湖",
+      "experience": "3-5年",
+      "education": "大专",
+      "salaryRange": "8-10K",
+      "salaryMin": 8,
+      "salaryMax": 10,
+      "tags": [
+        "绩效",
+        "电商",
+        "核心业务"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC41NVJ00000279.htm",
+      "postedAt": "2026-08-13T19:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 29,
+      "growth": 51,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 96,
+        "annualMax": 160,
+        "monthlyMin": 8,
+        "monthlyMax": 10,
+        "bonus": 16.2,
+        "stocks": 5.4,
+        "yearly": 9
+      },
+      "valueScore": 36
+    },
+    {
+      "jobId": "da987dbf41bd30ac",
+      "title": "人力资源/HRBP",
+      "companyId": "adae772b76cf94de",
+      "companyName": "天津鼎维固",
+      "city": "无锡",
+      "district": "",
+      "experience": "1-3年",
+      "education": "本科",
+      "salaryRange": "6-10K",
+      "salaryMin": 6,
+      "salaryMax": 10,
+      "tags": [
+        "绩效",
+        "出海",
+        "电商"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC41OWJ00000280.htm",
+      "postedAt": "2026-08-13T09:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 27,
+      "growth": 25,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 72,
+        "annualMax": 160,
+        "monthlyMin": 6,
+        "monthlyMax": 10,
+        "bonus": 14.4,
+        "stocks": 4.8,
+        "yearly": 8
+      },
+      "valueScore": 32
+    },
+    {
+      "jobId": "e5e47a9a843c65fc",
+      "title": "人力资源/HRBP",
+      "companyId": "adae772b76cf94de",
+      "companyName": "天津鼎维固",
+      "city": "天津",
+      "district": "滨海新区",
+      "experience": "1-3年",
+      "education": "本科",
+      "salaryRange": "6-9K",
+      "salaryMin": 6,
+      "salaryMax": 9,
+      "tags": [
+        "期权激励",
+        "WLB",
+        "员工关系"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC531226620J40880534110.htm",
+      "postedAt": "2026-08-13T15:02:00.691Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 28,
+      "growth": 81,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 72,
+        "annualMax": 144,
+        "monthlyMin": 6,
+        "monthlyMax": 9,
+        "bonus": 13.5,
+        "stocks": 4.5,
+        "yearly": 7.5
+      },
+      "valueScore": 30
+    },
+    {
+      "jobId": "c5cb4f2672aee3f0",
+      "title": "人力资源/HRBP",
+      "companyId": "adae772b76cf94de",
+      "companyName": "天津鼎维固",
+      "city": "天津",
+      "district": "河北区",
+      "experience": "经验不限",
+      "education": "本科",
+      "salaryRange": "6-8K",
+      "salaryMin": 6,
+      "salaryMax": 8,
+      "tags": [
+        "薪酬",
+        "商业保险",
+        "战略"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC41KSJ00000276.htm",
+      "postedAt": "2026-08-14T23:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 34,
+      "growth": 30,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 72,
+        "annualMax": 128,
+        "monthlyMin": 6,
+        "monthlyMax": 8,
+        "bonus": 12.6,
+        "stocks": 4.2,
+        "yearly": 7
+      },
+      "valueScore": 28
+    },
+    {
+      "jobId": "15d98df551b5c93c",
+      "title": "人力资源/HRBP",
+      "companyId": "adae772b76cf94de",
+      "companyName": "天津鼎维固",
+      "city": "郑州",
+      "district": "惠济区",
+      "experience": "3-5年",
+      "education": "本科",
+      "salaryRange": "4-8K·15薪",
+      "salaryMin": 4,
+      "salaryMax": 8,
+      "tags": [
+        "薪酬",
+        "WLB",
+        "培训"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC41LTJ00000277.htm",
+      "postedAt": "2026-08-12T19:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 24,
+      "growth": 16,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 48,
+        "annualMax": 128,
+        "monthlyMin": 4,
+        "monthlyMax": 8,
+        "bonus": 10.8,
+        "stocks": 3.6,
+        "yearly": 6
+      },
+      "valueScore": 24
+    }
+  ],
+  "analysis": {
+    "summary": "天津鼎维固（综合）当前在招 HRBP 相关岗位 5 个，平均薪资 7.5k。",
+    "salaryBenchmark": {
+      "companyAvg": 7.5,
+      "industryAvg": 18.3,
+      "cityAvg": 7.1,
+      "percentile": 70
+    },
+    "openings": [
+      {
+        "jobId": "3a49cad87b751807",
+        "title": "人力资源/HRBP",
+        "companyId": "adae772b76cf94de",
+        "companyName": "天津鼎维固",
+        "city": "佛山",
+        "district": "千灯湖",
+        "experience": "3-5年",
+        "education": "大专",
+        "salaryRange": "8-10K",
+        "salaryMin": 8,
+        "salaryMax": 10,
+        "tags": [
+          "绩效",
+          "电商",
+          "核心业务"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC41NVJ00000279.htm",
+        "postedAt": "2026-08-13T19:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 29,
+        "growth": 51,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 96,
+          "annualMax": 160,
+          "monthlyMin": 8,
+          "monthlyMax": 10,
+          "bonus": 16.2,
+          "stocks": 5.4,
+          "yearly": 9
+        },
+        "valueScore": 36
+      },
+      {
+        "jobId": "da987dbf41bd30ac",
+        "title": "人力资源/HRBP",
+        "companyId": "adae772b76cf94de",
+        "companyName": "天津鼎维固",
+        "city": "无锡",
+        "district": "",
+        "experience": "1-3年",
+        "education": "本科",
+        "salaryRange": "6-10K",
+        "salaryMin": 6,
+        "salaryMax": 10,
+        "tags": [
+          "绩效",
+          "出海",
+          "电商"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC41OWJ00000280.htm",
+        "postedAt": "2026-08-13T09:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 27,
+        "growth": 25,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 72,
+          "annualMax": 160,
+          "monthlyMin": 6,
+          "monthlyMax": 10,
+          "bonus": 14.4,
+          "stocks": 4.8,
+          "yearly": 8
+        },
+        "valueScore": 32
+      },
+      {
+        "jobId": "e5e47a9a843c65fc",
+        "title": "人力资源/HRBP",
+        "companyId": "adae772b76cf94de",
+        "companyName": "天津鼎维固",
+        "city": "天津",
+        "district": "滨海新区",
+        "experience": "1-3年",
+        "education": "本科",
+        "salaryRange": "6-9K",
+        "salaryMin": 6,
+        "salaryMax": 9,
+        "tags": [
+          "期权激励",
+          "WLB",
+          "员工关系"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC531226620J40880534110.htm",
+        "postedAt": "2026-08-13T15:02:00.691Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 28,
+        "growth": 81,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 72,
+          "annualMax": 144,
+          "monthlyMin": 6,
+          "monthlyMax": 9,
+          "bonus": 13.5,
+          "stocks": 4.5,
+          "yearly": 7.5
+        },
+        "valueScore": 30
+      },
+      {
+        "jobId": "c5cb4f2672aee3f0",
+        "title": "人力资源/HRBP",
+        "companyId": "adae772b76cf94de",
+        "companyName": "天津鼎维固",
+        "city": "天津",
+        "district": "河北区",
+        "experience": "经验不限",
+        "education": "本科",
+        "salaryRange": "6-8K",
+        "salaryMin": 6,
+        "salaryMax": 8,
+        "tags": [
+          "薪酬",
+          "商业保险",
+          "战略"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC41KSJ00000276.htm",
+        "postedAt": "2026-08-14T23:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 34,
+        "growth": 30,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 72,
+          "annualMax": 128,
+          "monthlyMin": 6,
+          "monthlyMax": 8,
+          "bonus": 12.6,
+          "stocks": 4.2,
+          "yearly": 7
+        },
+        "valueScore": 28
+      },
+      {
+        "jobId": "15d98df551b5c93c",
+        "title": "人力资源/HRBP",
+        "companyId": "adae772b76cf94de",
+        "companyName": "天津鼎维固",
+        "city": "郑州",
+        "district": "惠济区",
+        "experience": "3-5年",
+        "education": "本科",
+        "salaryRange": "4-8K·15薪",
+        "salaryMin": 4,
+        "salaryMax": 8,
+        "tags": [
+          "薪酬",
+          "WLB",
+          "培训"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC41LTJ00000277.htm",
+        "postedAt": "2026-08-12T19:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 24,
+        "growth": 16,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 48,
+          "annualMax": 128,
+          "monthlyMin": 4,
+          "monthlyMax": 8,
+          "bonus": 10.8,
+          "stocks": 3.6,
+          "yearly": 6
+        },
+        "valueScore": 24
+      }
+    ],
+    "trends": [
+      {
+        "year": "2022",
+        "companyId": "adae772b76cf94de",
+        "revenue": 123,
+        "headcount": 92,
+        "openings": 1
+      },
+      {
+        "year": "2023",
+        "companyId": "adae772b76cf94de",
+        "revenue": 159,
+        "headcount": 112,
+        "openings": 3
+      },
+      {
+        "year": "2024",
+        "companyId": "adae772b76cf94de",
+        "revenue": 180,
+        "headcount": 124,
+        "openings": 5
+      },
+      {
+        "year": "2025",
+        "companyId": "adae772b76cf94de",
+        "revenue": 193,
+        "headcount": 144,
+        "openings": 7
+      },
+      {
+        "year": "2026",
+        "companyId": "adae772b76cf94de",
+        "revenue": 219,
+        "headcount": 164,
+        "openings": 9
+      }
+    ],
+    "comparisons": [
+      {
+        "companyId": "adae772b76cf94de",
+        "metric": "薪资竞争力",
+        "value": 25,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "adae772b76cf94de",
+        "metric": "招聘活跃度",
+        "value": 55,
+        "industryAvg": 45
+      },
+      {
+        "companyId": "adae772b76cf94de",
+        "metric": "组织规模",
+        "value": 50,
+        "industryAvg": 55
+      }
+    ],
+    "scoreCard": {
+      "companyId": "adae772b76cf94de",
+      "atmosphereScore": 77,
+      "competitivenessScore": 85,
+      "potentialScore": 64,
+      "overall": 0,
+      "grade": "B",
+      "strengths": [],
+      "weaknesses": []
+    },
+    "atmosphere": {
+      "companyId": "adae772b76cf94de",
+      "cultureOpenness": 69,
+      "overtimeIntensity": 59,
+      "promotionSpace": 72,
+      "teamStability": 70,
+      "leadership": 89
+    }
+  }
+}

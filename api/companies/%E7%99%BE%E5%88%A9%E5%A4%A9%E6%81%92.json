@@ -1,0 +1,366 @@
+﻿{
+  "companyId": "百利天恒",
+  "name": "百利天恒",
+  "industry": "医药",
+  "scale": "500-1000人",
+  "stage": "成熟期",
+  "founded": "1996",
+  "headquarters": "成都",
+  "branches": [],
+  "description": "百利天恒是医药领域的企业。",
+  "logoColor": "#bc52b5",
+  "logoInitial": "百",
+  "jobs": [
+    {
+      "jobId": "real_100",
+      "title": "总部职能HRBP",
+      "companyId": "百利天恒",
+      "companyName": "百利天恒",
+      "companyIndustry": "医药",
+      "city": "成都",
+      "district": "桐梓林",
+      "experience": "5年以上",
+      "education": "大专",
+      "salaryRange": "15-25K",
+      "salaryMin": 15,
+      "salaryMax": 25,
+      "bonusMonths": 13,
+      "tags": [
+        "硬科技",
+        "管理岗",
+        "期权激励",
+        "互联网"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://m.liepin.com/job/1983358503.shtml",
+      "postedAt": "2026-08-15T06:41:50.102Z",
+      "crawledAt": "2026-08-16T15:41:50.102Z",
+      "heat": 279,
+      "growth": 60,
+      "url": "https://m.liepin.com/job/1983358503.shtml",
+      "benefits": [
+        "股票期权",
+        "免费三餐",
+        "五险一金",
+        "年终奖"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "理解医药/医疗行业监管要求，为业务团队提供合规视角的HR支持",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "大专及以上学历，人力资源管理或相关专业背景",
+        "5年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "熟悉医药/医疗行业监管环境，有医疗健康领域HR经验者优先"
+      ],
+      "description": "百利天恒招聘总部职能HRBP，工作地点成都·桐梓林，薪资15-25K，要求5年以上经验、大专学历。",
+      "valueScore": 4.5,
+      "salaryBreakdown": {
+        "p10": 15,
+        "p25": 17,
+        "p50": 20,
+        "p75": 23,
+        "p90": 27
+      }
+    },
+    {
+      "jobId": "aug_0496",
+      "title": "总部职能HRBP",
+      "companyId": "百利天恒",
+      "companyName": "百利天恒",
+      "companyIndustry": "医药",
+      "city": "无锡",
+      "district": "",
+      "experience": "8年以上",
+      "education": "大专",
+      "salaryRange": "12-20K·14薪",
+      "salaryMin": 12,
+      "salaryMax": 20,
+      "bonusMonths": 14,
+      "tags": [
+        "硬科技",
+        "硕博团队",
+        "大厂"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984208517.shtml",
+      "postedAt": "2026-08-14T10:41:50.107Z",
+      "crawledAt": "2026-08-16T14:41:50.107Z",
+      "heat": 65,
+      "growth": 55,
+      "url": "https://www.liepin.com/job/1984208517.shtml",
+      "benefits": [
+        "通勤班车",
+        "企业年金",
+        "弹性工作",
+        "免费班车",
+        "五险一金"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "理解医药/医疗行业监管要求，为业务团队提供合规视角的HR支持",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "大专及以上学历，人力资源管理或相关专业背景",
+        "8年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "熟悉医药/医疗行业监管环境，有医疗健康领域HR经验者优先"
+      ],
+      "description": "百利天恒招聘总部职能HRBP，工作地点无锡，薪资12-20K·14薪，要求8年以上经验、大专学历。",
+      "valueScore": 2.3,
+      "salaryBreakdown": {
+        "p10": 12,
+        "p25": 14,
+        "p50": 16,
+        "p75": 18,
+        "p90": 22
+      }
+    },
+    {
+      "jobId": "aug_0498",
+      "title": "总部职能HRBP",
+      "companyId": "百利天恒",
+      "companyName": "百利天恒",
+      "companyIndustry": "医药",
+      "city": "济南",
+      "district": "",
+      "experience": "8年以上",
+      "education": "大专",
+      "salaryRange": "18-30K",
+      "salaryMin": 18,
+      "salaryMax": 30,
+      "bonusMonths": 13,
+      "tags": [
+        "硬科技",
+        "研究院",
+        "绩效",
+        "弹性工作"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984209355.shtml",
+      "postedAt": "2026-08-13T01:41:50.107Z",
+      "crawledAt": "2026-08-16T10:41:50.107Z",
+      "heat": 50,
+      "growth": 46,
+      "url": "https://www.liepin.com/job/1984209355.shtml",
+      "benefits": [
+        "五险一金",
+        "通勤班车",
+        "租房补贴",
+        "免费班车",
+        "员工宿舍"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "理解医药/医疗行业监管要求，为业务团队提供合规视角的HR支持",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "大专及以上学历，人力资源管理或相关专业背景",
+        "8年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "熟悉医药/医疗行业监管环境，有医疗健康领域HR经验者优先"
+      ],
+      "description": "百利天恒招聘总部职能HRBP，工作地点济南，薪资18-30K，要求8年以上经验、大专学历。",
+      "valueScore": 3.5,
+      "salaryBreakdown": {
+        "p10": 18,
+        "p25": 20,
+        "p50": 24,
+        "p75": 28,
+        "p90": 32
+      }
+    },
+    {
+      "jobId": "aug_0499",
+      "title": "总部职能HRBP",
+      "companyId": "百利天恒",
+      "companyName": "百利天恒",
+      "companyIndustry": "医药",
+      "city": "南宁",
+      "district": "",
+      "experience": "3年以上",
+      "education": "本科",
+      "salaryRange": "18-30K",
+      "salaryMin": 18,
+      "salaryMax": 30,
+      "bonusMonths": 13,
+      "tags": [
+        "硬科技",
+        "研究院",
+        "电商",
+        "战略"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984209774.shtml",
+      "postedAt": "2026-08-12T02:41:50.107Z",
+      "crawledAt": "2026-08-16T14:41:50.107Z",
+      "heat": 50,
+      "growth": 9,
+      "url": "https://www.liepin.com/job/1984209774.shtml",
+      "benefits": [
+        "免费班车",
+        "项目奖金",
+        "企业年金",
+        "节日福利",
+        "带薪年假"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "理解医药/医疗行业监管要求，为业务团队提供合规视角的HR支持",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "3年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "熟悉医药/医疗行业监管环境，有医疗健康领域HR经验者优先"
+      ],
+      "description": "百利天恒招聘总部职能HRBP，工作地点南宁，薪资18-30K，要求3年以上经验、本科学历。",
+      "valueScore": 9.2,
+      "salaryBreakdown": {
+        "p10": 18,
+        "p25": 20,
+        "p50": 24,
+        "p75": 28,
+        "p90": 32
+      }
+    }
+  ],
+  "analysis": {
+    "companyId": "百利天恒",
+    "atmosphereScore": 80,
+    "competitivenessScore": 71,
+    "potentialScore": 74,
+    "overall": 75,
+    "grade": "B",
+    "strengths": [
+      "团队氛围好",
+      "发展空间大",
+      "福利待遇优"
+    ],
+    "weaknesses": [
+      "部分流程待优化",
+      "行业竞争激烈"
+    ],
+    "radar": [
+      {
+        "label": "文化开放度",
+        "value": 89,
+        "key": "cultureOpenness"
+      },
+      {
+        "label": "晋升空间",
+        "value": 72,
+        "key": "promotionSpace"
+      },
+      {
+        "label": "团队稳定",
+        "value": 88,
+        "key": "teamStability"
+      },
+      {
+        "label": "领导力",
+        "value": 64,
+        "key": "leadership"
+      },
+      {
+        "label": "加班强度",
+        "value": 50,
+        "key": "overtimeIntensity"
+      }
+    ],
+    "competitors": [
+      {
+        "companyId": "百利天恒",
+        "metric": "薪资竞争力",
+        "value": 99,
+        "industryAvg": 65
+      },
+      {
+        "companyId": "百利天恒",
+        "metric": "发展潜力",
+        "value": 75,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "百利天恒",
+        "metric": "团队氛围",
+        "value": 92,
+        "industryAvg": 70
+      },
+      {
+        "companyId": "百利天恒",
+        "metric": "稳定性",
+        "value": 72,
+        "industryAvg": 55
+      },
+      {
+        "companyId": "百利天恒",
+        "metric": "行业地位",
+        "value": 65,
+        "industryAvg": 50
+      }
+    ],
+    "trend": [
+      {
+        "companyId": "百利天恒",
+        "year": "2021",
+        "revenue": 557,
+        "headcount": 59,
+        "openings": 11
+      },
+      {
+        "companyId": "百利天恒",
+        "year": "2022",
+        "revenue": 501,
+        "headcount": 136,
+        "openings": 31
+      },
+      {
+        "companyId": "百利天恒",
+        "year": "2023",
+        "revenue": 1419,
+        "headcount": 97,
+        "openings": 18
+      },
+      {
+        "companyId": "百利天恒",
+        "year": "2024",
+        "revenue": 1401,
+        "headcount": 122,
+        "openings": 48
+      },
+      {
+        "companyId": "百利天恒",
+        "year": "2025",
+        "revenue": 791,
+        "headcount": 95,
+        "openings": 59
+      }
+    ]
+  }
+}

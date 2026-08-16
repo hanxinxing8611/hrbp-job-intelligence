@@ -1,0 +1,214 @@
+﻿{
+  "companyId": "4d344c990709220a",
+  "name": "好未来研发中心",
+  "industry": "综合",
+  "scale": "",
+  "stage": "",
+  "logoColor": "#b7791f",
+  "logoInitial": "好",
+  "description": "好未来研发中心 正在招聘 HRBP 相关岗位，欢迎了解。",
+  "founded": 2005,
+  "headquarters": "青岛",
+  "jobCount": 1,
+  "avgSalary": 13,
+  "jobs": [
+    {
+      "jobId": "26027b6d6d5c5e2e",
+      "title": "青藤计划-人力资源管培生（COE/HRBP方向）",
+      "companyId": "4d344c990709220a",
+      "companyName": "好未来研发中心",
+      "city": "青岛",
+      "district": "市南区",
+      "experience": "经验不限",
+      "education": "本科",
+      "salaryRange": "12-14K·14薪",
+      "salaryMin": 12,
+      "salaryMax": 14,
+      "tags": [
+        "校招",
+        "硕博团队",
+        "研究院"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/2o9cnV_0008FlVY.html",
+      "postedAt": "2026-08-14T12:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 38,
+      "growth": 40,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 144,
+        "annualMax": 224,
+        "monthlyMin": 12,
+        "monthlyMax": 14,
+        "bonus": 23.4,
+        "stocks": 7.8,
+        "yearly": 13
+      },
+      "valueScore": 52
+    }
+  ],
+  "analysis": {
+    "summary": "好未来研发中心（综合）当前在招 HRBP 相关岗位 1 个，平均薪资 13k。",
+    "salaryBenchmark": {
+      "companyAvg": 13,
+      "industryAvg": 18.3,
+      "cityAvg": 12.4,
+      "percentile": 70
+    },
+    "openings": [
+      {
+        "jobId": "26027b6d6d5c5e2e",
+        "title": "青藤计划-人力资源管培生（COE/HRBP方向）",
+        "companyId": "4d344c990709220a",
+        "companyName": "好未来研发中心",
+        "city": "青岛",
+        "district": "市南区",
+        "experience": "经验不限",
+        "education": "本科",
+        "salaryRange": "12-14K·14薪",
+        "salaryMin": 12,
+        "salaryMax": 14,
+        "tags": [
+          "校招",
+          "硕博团队",
+          "研究院"
+        ],
+        "source": "BOSS直聘",
+        "sourceUrl": "https://m.zhipin.com/job_detail/2o9cnV_0008FlVY.html",
+        "postedAt": "2026-08-14T12:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 38,
+        "growth": 40,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 144,
+          "annualMax": 224,
+          "monthlyMin": 12,
+          "monthlyMax": 14,
+          "bonus": 23.4,
+          "stocks": 7.8,
+          "yearly": 13
+        },
+        "valueScore": 52
+      }
+    ],
+    "trends": [
+      {
+        "year": "2022",
+        "companyId": "4d344c990709220a",
+        "revenue": 137,
+        "headcount": 97,
+        "openings": 1
+      },
+      {
+        "year": "2023",
+        "companyId": "4d344c990709220a",
+        "revenue": 144,
+        "headcount": 116,
+        "openings": 1
+      },
+      {
+        "year": "2024",
+        "companyId": "4d344c990709220a",
+        "revenue": 179,
+        "headcount": 133,
+        "openings": 1
+      },
+      {
+        "year": "2025",
+        "companyId": "4d344c990709220a",
+        "revenue": 189,
+        "headcount": 145,
+        "openings": 3
+      },
+      {
+        "year": "2026",
+        "companyId": "4d344c990709220a",
+        "revenue": 225,
+        "headcount": 174,
+        "openings": 5
+      }
+    ],
+    "comparisons": [
+      {
+        "companyId": "4d344c990709220a",
+        "metric": "薪资竞争力",
+        "value": 43,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "4d344c990709220a",
+        "metric": "招聘活跃度",
+        "value": 43,
+        "industryAvg": 45
+      },
+      {
+        "companyId": "4d344c990709220a",
+        "metric": "组织规模",
+        "value": 50,
+        "industryAvg": 55
+      }
+    ],
+    "scoreCard": {
+      "companyId": "4d344c990709220a",
+      "atmosphereScore": 87,
+      "competitivenessScore": 82,
+      "potentialScore": 64,
+      "overall": 0,
+      "grade": "B",
+      "strengths": [],
+      "weaknesses": []
+    },
+    "atmosphere": {
+      "companyId": "4d344c990709220a",
+      "cultureOpenness": 82,
+      "overtimeIntensity": 56,
+      "promotionSpace": 77,
+      "teamStability": 74,
+      "leadership": 72
+    }
+  }
+}

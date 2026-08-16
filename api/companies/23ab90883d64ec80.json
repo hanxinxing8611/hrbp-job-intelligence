@@ -1,0 +1,328 @@
+﻿{
+  "companyId": "23ab90883d64ec80",
+  "name": "爱谱华顿（广州）分公司",
+  "industry": "综合",
+  "scale": "",
+  "stage": "",
+  "logoColor": "#d53f8c",
+  "logoInitial": "爱",
+  "description": "爱谱华顿（广州）分公司 正在招聘 HRBP 相关岗位，欢迎了解。",
+  "founded": 2004,
+  "headquarters": "上海",
+  "jobCount": 2,
+  "avgSalary": 17,
+  "jobs": [
+    {
+      "jobId": "2a666873f5a4817c",
+      "title": "区域HRBP总监",
+      "companyId": "23ab90883d64ec80",
+      "companyName": "爱谱华顿（广州）分公司",
+      "city": "上海",
+      "district": "闵行区",
+      "experience": "5-10年",
+      "education": "本科",
+      "salaryRange": "14-22K",
+      "salaryMin": 14,
+      "salaryMax": 22,
+      "tags": [
+        "管理岗",
+        "培训",
+        "稳定"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC40NVJ00000271.htm",
+      "postedAt": "2026-08-12T15:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 27,
+      "growth": 65,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 168,
+        "annualMax": 352,
+        "monthlyMin": 14,
+        "monthlyMax": 22,
+        "bonus": 32.4,
+        "stocks": 10.8,
+        "yearly": 18
+      },
+      "valueScore": 72
+    },
+    {
+      "jobId": "2e9c3e352beb75d0",
+      "title": "区域高级HRBP总监",
+      "companyId": "23ab90883d64ec80",
+      "companyName": "爱谱华顿（广州）分公司",
+      "city": "西安",
+      "district": "莲湖区",
+      "experience": "3-5年",
+      "education": "本科",
+      "salaryRange": "12-20K·15薪",
+      "salaryMin": 12,
+      "salaryMax": 20,
+      "tags": [
+        "管理岗",
+        "薪酬",
+        "硕博团队",
+        "WLB"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC40QYJ00000274.htm",
+      "postedAt": "2026-08-13T14:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 31,
+      "growth": 71,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 144,
+        "annualMax": 320,
+        "monthlyMin": 12,
+        "monthlyMax": 20,
+        "bonus": 28.8,
+        "stocks": 9.6,
+        "yearly": 16
+      },
+      "valueScore": 64
+    }
+  ],
+  "analysis": {
+    "summary": "爱谱华顿（广州）分公司（综合）当前在招 HRBP 相关岗位 2 个，平均薪资 17k。",
+    "salaryBenchmark": {
+      "companyAvg": 17,
+      "industryAvg": 18.3,
+      "cityAvg": 16.2,
+      "percentile": 70
+    },
+    "openings": [
+      {
+        "jobId": "2a666873f5a4817c",
+        "title": "区域HRBP总监",
+        "companyId": "23ab90883d64ec80",
+        "companyName": "爱谱华顿（广州）分公司",
+        "city": "上海",
+        "district": "闵行区",
+        "experience": "5-10年",
+        "education": "本科",
+        "salaryRange": "14-22K",
+        "salaryMin": 14,
+        "salaryMax": 22,
+        "tags": [
+          "管理岗",
+          "培训",
+          "稳定"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC40NVJ00000271.htm",
+        "postedAt": "2026-08-12T15:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 27,
+        "growth": 65,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 168,
+          "annualMax": 352,
+          "monthlyMin": 14,
+          "monthlyMax": 22,
+          "bonus": 32.4,
+          "stocks": 10.8,
+          "yearly": 18
+        },
+        "valueScore": 72
+      },
+      {
+        "jobId": "2e9c3e352beb75d0",
+        "title": "区域高级HRBP总监",
+        "companyId": "23ab90883d64ec80",
+        "companyName": "爱谱华顿（广州）分公司",
+        "city": "西安",
+        "district": "莲湖区",
+        "experience": "3-5年",
+        "education": "本科",
+        "salaryRange": "12-20K·15薪",
+        "salaryMin": 12,
+        "salaryMax": 20,
+        "tags": [
+          "管理岗",
+          "薪酬",
+          "硕博团队",
+          "WLB"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC40QYJ00000274.htm",
+        "postedAt": "2026-08-13T14:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 31,
+        "growth": 71,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 144,
+          "annualMax": 320,
+          "monthlyMin": 12,
+          "monthlyMax": 20,
+          "bonus": 28.8,
+          "stocks": 9.6,
+          "yearly": 16
+        },
+        "valueScore": 64
+      }
+    ],
+    "trends": [
+      {
+        "year": "2022",
+        "companyId": "23ab90883d64ec80",
+        "revenue": 121,
+        "headcount": 91,
+        "openings": 1
+      },
+      {
+        "year": "2023",
+        "companyId": "23ab90883d64ec80",
+        "revenue": 151,
+        "headcount": 117,
+        "openings": 1
+      },
+      {
+        "year": "2024",
+        "companyId": "23ab90883d64ec80",
+        "revenue": 179,
+        "headcount": 127,
+        "openings": 2
+      },
+      {
+        "year": "2025",
+        "companyId": "23ab90883d64ec80",
+        "revenue": 203,
+        "headcount": 151,
+        "openings": 4
+      },
+      {
+        "year": "2026",
+        "companyId": "23ab90883d64ec80",
+        "revenue": 223,
+        "headcount": 169,
+        "openings": 6
+      }
+    ],
+    "comparisons": [
+      {
+        "companyId": "23ab90883d64ec80",
+        "metric": "薪资竞争力",
+        "value": 56,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "23ab90883d64ec80",
+        "metric": "招聘活跃度",
+        "value": 46,
+        "industryAvg": 45
+      },
+      {
+        "companyId": "23ab90883d64ec80",
+        "metric": "组织规模",
+        "value": 50,
+        "industryAvg": 55
+      }
+    ],
+    "scoreCard": {
+      "companyId": "23ab90883d64ec80",
+      "atmosphereScore": 82,
+      "competitivenessScore": 73,
+      "potentialScore": 65,
+      "overall": 0,
+      "grade": "B",
+      "strengths": [],
+      "weaknesses": []
+    },
+    "atmosphere": {
+      "companyId": "23ab90883d64ec80",
+      "cultureOpenness": 86,
+      "overtimeIntensity": 62,
+      "promotionSpace": 72,
+      "teamStability": 74,
+      "leadership": 82
+    }
+  }
+}

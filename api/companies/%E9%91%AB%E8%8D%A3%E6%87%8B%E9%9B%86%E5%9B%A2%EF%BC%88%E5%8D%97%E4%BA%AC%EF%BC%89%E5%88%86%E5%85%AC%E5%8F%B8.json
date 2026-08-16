@@ -1,0 +1,186 @@
+﻿{
+  "companyId": "鑫荣懋集团（南京）分公司",
+  "name": "鑫荣懋集团（南京）分公司",
+  "industry": "食品/农业",
+  "scale": "500-1000人",
+  "stage": "成熟期",
+  "founded": "1998",
+  "headquarters": "泉州",
+  "branches": [],
+  "description": "鑫荣懋集团（南京）分公司是食品/农业领域的企业。",
+  "logoColor": "#3683f6",
+  "logoInitial": "鑫",
+  "jobs": [
+    {
+      "jobId": "aug_0203",
+      "title": "HRBP",
+      "companyId": "鑫荣懋集团（南京）分公司",
+      "companyName": "鑫荣懋集团（南京）分公司",
+      "companyIndustry": "食品/农业",
+      "city": "泉州",
+      "district": "",
+      "experience": "10年以上",
+      "education": "本科",
+      "salaryRange": "10-16K·14薪",
+      "salaryMin": 10,
+      "salaryMax": 16,
+      "bonusMonths": 14,
+      "tags": [
+        "金融",
+        "硕博团队",
+        "雇主品牌"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3NX3J00000203.htm",
+      "postedAt": "2026-08-12T11:41:50.107Z",
+      "crawledAt": "2026-08-16T09:41:50.107Z",
+      "heat": 50,
+      "growth": 6,
+      "url": "http://www.zhaopin.com/jobdetail/CC3NX3J00000203.htm",
+      "benefits": [
+        "通勤班车",
+        "节日福利",
+        "项目奖金",
+        "股票期权",
+        "企业年金"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进",
+        "主导人才盘点与高潜员工识别，制定关键人才的发展与保留计划"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "鑫荣懋集团（南京）分公司招聘HRBP，工作地点泉州，薪资10-16K·14薪，要求10年以上经验、本科学历。",
+      "valueScore": 1.5,
+      "salaryBreakdown": {
+        "p10": 10,
+        "p25": 11,
+        "p50": 13,
+        "p75": 15,
+        "p90": 17
+      }
+    }
+  ],
+  "analysis": {
+    "companyId": "鑫荣懋集团（南京）分公司",
+    "atmosphereScore": 80,
+    "competitivenessScore": 71,
+    "potentialScore": 75,
+    "overall": 75,
+    "grade": "B",
+    "strengths": [
+      "团队氛围好",
+      "发展空间大",
+      "福利待遇优"
+    ],
+    "weaknesses": [
+      "部分流程待优化",
+      "行业竞争激烈"
+    ],
+    "radar": [
+      {
+        "label": "文化开放度",
+        "value": 68,
+        "key": "cultureOpenness"
+      },
+      {
+        "label": "晋升空间",
+        "value": 75,
+        "key": "promotionSpace"
+      },
+      {
+        "label": "团队稳定",
+        "value": 74,
+        "key": "teamStability"
+      },
+      {
+        "label": "领导力",
+        "value": 75,
+        "key": "leadership"
+      },
+      {
+        "label": "加班强度",
+        "value": 56,
+        "key": "overtimeIntensity"
+      }
+    ],
+    "competitors": [
+      {
+        "companyId": "鑫荣懋集团（南京）分公司",
+        "metric": "薪资竞争力",
+        "value": 74,
+        "industryAvg": 65
+      },
+      {
+        "companyId": "鑫荣懋集团（南京）分公司",
+        "metric": "发展潜力",
+        "value": 89,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "鑫荣懋集团（南京）分公司",
+        "metric": "团队氛围",
+        "value": 85,
+        "industryAvg": 70
+      },
+      {
+        "companyId": "鑫荣懋集团（南京）分公司",
+        "metric": "稳定性",
+        "value": 60,
+        "industryAvg": 55
+      },
+      {
+        "companyId": "鑫荣懋集团（南京）分公司",
+        "metric": "行业地位",
+        "value": 70,
+        "industryAvg": 50
+      }
+    ],
+    "trend": [
+      {
+        "companyId": "鑫荣懋集团（南京）分公司",
+        "year": "2021",
+        "revenue": 769,
+        "headcount": 91,
+        "openings": 59
+      },
+      {
+        "companyId": "鑫荣懋集团（南京）分公司",
+        "year": "2022",
+        "revenue": 731,
+        "headcount": 93,
+        "openings": 41
+      },
+      {
+        "companyId": "鑫荣懋集团（南京）分公司",
+        "year": "2023",
+        "revenue": 858,
+        "headcount": 64,
+        "openings": 18
+      },
+      {
+        "companyId": "鑫荣懋集团（南京）分公司",
+        "year": "2024",
+        "revenue": 973,
+        "headcount": 101,
+        "openings": 59
+      },
+      {
+        "companyId": "鑫荣懋集团（南京）分公司",
+        "year": "2025",
+        "revenue": 1132,
+        "headcount": 106,
+        "openings": 40
+      }
+    ]
+  }
+}

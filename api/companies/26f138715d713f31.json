@@ -1,0 +1,556 @@
+﻿{
+  "companyId": "26f138715d713f31",
+  "name": "上海任仕达",
+  "industry": "综合",
+  "scale": "",
+  "stage": "",
+  "logoColor": "#d53f8c",
+  "logoInitial": "上",
+  "description": "上海任仕达 正在招聘 HRBP 相关岗位，欢迎了解。",
+  "founded": 2002,
+  "headquarters": "无锡",
+  "jobCount": 4,
+  "avgSalary": 38.3,
+  "jobs": [
+    {
+      "jobId": "e5aed2146c2cbc5b",
+      "title": "游戏发行线HRBP/TA专家",
+      "companyId": "26f138715d713f31",
+      "companyName": "上海任仕达",
+      "city": "无锡",
+      "district": "",
+      "experience": "5-10年",
+      "education": "本科",
+      "salaryRange": "30-54K·14薪",
+      "salaryMin": 30,
+      "salaryMax": 54,
+      "tags": [
+        "核心业务",
+        "战略",
+        "电商",
+        "核心业务"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3SFMJ00000226.htm",
+      "postedAt": "2026-08-15T21:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 53,
+      "growth": 82,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 360,
+        "annualMax": 864,
+        "monthlyMin": 30,
+        "monthlyMax": 54,
+        "bonus": 75.6,
+        "stocks": 25.2,
+        "yearly": 42
+      },
+      "valueScore": 168
+    },
+    {
+      "jobId": "74b279696c956177",
+      "title": "游戏发行线HRBP/TA专家",
+      "companyId": "26f138715d713f31",
+      "companyName": "上海任仕达",
+      "city": "济南",
+      "district": "",
+      "experience": "5-10年",
+      "education": "大专",
+      "salaryRange": "28-50K",
+      "salaryMin": 28,
+      "salaryMax": 50,
+      "tags": [
+        "管理岗",
+        "组织发展",
+        "培训",
+        "弹性工作"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3SHOJ00000228.htm",
+      "postedAt": "2026-08-14T08:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 45,
+      "growth": 32,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 336,
+        "annualMax": 800,
+        "monthlyMin": 28,
+        "monthlyMax": 50,
+        "bonus": 70.2,
+        "stocks": 23.4,
+        "yearly": 39
+      },
+      "valueScore": 156
+    },
+    {
+      "jobId": "1e1d232b641f1ef0",
+      "title": "游戏发行线HRBP/TA专家",
+      "companyId": "26f138715d713f31",
+      "companyName": "上海任仕达",
+      "city": "南宁",
+      "district": "",
+      "experience": "3-5年",
+      "education": "本科",
+      "salaryRange": "26-48K",
+      "salaryMin": 26,
+      "salaryMax": 48,
+      "tags": [
+        "管理岗",
+        "弹性工作",
+        "硕博团队",
+        "核心业务"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3SIPJ00000229.htm",
+      "postedAt": "2026-08-13T23:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 42,
+      "growth": 19,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 312,
+        "annualMax": 768,
+        "monthlyMin": 26,
+        "monthlyMax": 48,
+        "bonus": 66.6,
+        "stocks": 22.2,
+        "yearly": 37
+      },
+      "valueScore": 148
+    },
+    {
+      "jobId": "d10ab0d867bd5fda",
+      "title": "游戏发行线HRBP/TA专家",
+      "companyId": "26f138715d713f31",
+      "companyName": "上海任仕达",
+      "city": "北京",
+      "district": "朝阳区",
+      "experience": "3-5年",
+      "education": "本科",
+      "salaryRange": "25-45K",
+      "salaryMin": 25,
+      "salaryMax": 45,
+      "tags": [
+        "校招",
+        "组织发展",
+        "新能源"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC255880510J40933911008.htm",
+      "postedAt": "2026-08-13T22:02:00.691Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 41,
+      "growth": 20,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 300,
+        "annualMax": 720,
+        "monthlyMin": 25,
+        "monthlyMax": 45,
+        "bonus": 63,
+        "stocks": 21,
+        "yearly": 35
+      },
+      "valueScore": 140
+    }
+  ],
+  "analysis": {
+    "summary": "上海任仕达（综合）当前在招 HRBP 相关岗位 4 个，平均薪资 38.3k。",
+    "salaryBenchmark": {
+      "companyAvg": 38.3,
+      "industryAvg": 18.2,
+      "cityAvg": 36.4,
+      "percentile": 70
+    },
+    "openings": [
+      {
+        "jobId": "e5aed2146c2cbc5b",
+        "title": "游戏发行线HRBP/TA专家",
+        "companyId": "26f138715d713f31",
+        "companyName": "上海任仕达",
+        "city": "无锡",
+        "district": "",
+        "experience": "5-10年",
+        "education": "本科",
+        "salaryRange": "30-54K·14薪",
+        "salaryMin": 30,
+        "salaryMax": 54,
+        "tags": [
+          "核心业务",
+          "战略",
+          "电商",
+          "核心业务"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3SFMJ00000226.htm",
+        "postedAt": "2026-08-15T21:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 53,
+        "growth": 82,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 360,
+          "annualMax": 864,
+          "monthlyMin": 30,
+          "monthlyMax": 54,
+          "bonus": 75.6,
+          "stocks": 25.2,
+          "yearly": 42
+        },
+        "valueScore": 168
+      },
+      {
+        "jobId": "74b279696c956177",
+        "title": "游戏发行线HRBP/TA专家",
+        "companyId": "26f138715d713f31",
+        "companyName": "上海任仕达",
+        "city": "济南",
+        "district": "",
+        "experience": "5-10年",
+        "education": "大专",
+        "salaryRange": "28-50K",
+        "salaryMin": 28,
+        "salaryMax": 50,
+        "tags": [
+          "管理岗",
+          "组织发展",
+          "培训",
+          "弹性工作"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3SHOJ00000228.htm",
+        "postedAt": "2026-08-14T08:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 45,
+        "growth": 32,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 336,
+          "annualMax": 800,
+          "monthlyMin": 28,
+          "monthlyMax": 50,
+          "bonus": 70.2,
+          "stocks": 23.4,
+          "yearly": 39
+        },
+        "valueScore": 156
+      },
+      {
+        "jobId": "1e1d232b641f1ef0",
+        "title": "游戏发行线HRBP/TA专家",
+        "companyId": "26f138715d713f31",
+        "companyName": "上海任仕达",
+        "city": "南宁",
+        "district": "",
+        "experience": "3-5年",
+        "education": "本科",
+        "salaryRange": "26-48K",
+        "salaryMin": 26,
+        "salaryMax": 48,
+        "tags": [
+          "管理岗",
+          "弹性工作",
+          "硕博团队",
+          "核心业务"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3SIPJ00000229.htm",
+        "postedAt": "2026-08-13T23:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 42,
+        "growth": 19,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 312,
+          "annualMax": 768,
+          "monthlyMin": 26,
+          "monthlyMax": 48,
+          "bonus": 66.6,
+          "stocks": 22.2,
+          "yearly": 37
+        },
+        "valueScore": 148
+      },
+      {
+        "jobId": "d10ab0d867bd5fda",
+        "title": "游戏发行线HRBP/TA专家",
+        "companyId": "26f138715d713f31",
+        "companyName": "上海任仕达",
+        "city": "北京",
+        "district": "朝阳区",
+        "experience": "3-5年",
+        "education": "本科",
+        "salaryRange": "25-45K",
+        "salaryMin": 25,
+        "salaryMax": 45,
+        "tags": [
+          "校招",
+          "组织发展",
+          "新能源"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC255880510J40933911008.htm",
+        "postedAt": "2026-08-13T22:02:00.691Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 41,
+        "growth": 20,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 300,
+          "annualMax": 720,
+          "monthlyMin": 25,
+          "monthlyMax": 45,
+          "bonus": 63,
+          "stocks": 21,
+          "yearly": 35
+        },
+        "valueScore": 140
+      }
+    ],
+    "trends": [
+      {
+        "year": "2022",
+        "companyId": "26f138715d713f31",
+        "revenue": 122,
+        "headcount": 93,
+        "openings": 1
+      },
+      {
+        "year": "2023",
+        "companyId": "26f138715d713f31",
+        "revenue": 154,
+        "headcount": 109,
+        "openings": 2
+      },
+      {
+        "year": "2024",
+        "companyId": "26f138715d713f31",
+        "revenue": 176,
+        "headcount": 137,
+        "openings": 4
+      },
+      {
+        "year": "2025",
+        "companyId": "26f138715d713f31",
+        "revenue": 193,
+        "headcount": 146,
+        "openings": 6
+      },
+      {
+        "year": "2026",
+        "companyId": "26f138715d713f31",
+        "revenue": 210,
+        "headcount": 164,
+        "openings": 8
+      }
+    ],
+    "comparisons": [
+      {
+        "companyId": "26f138715d713f31",
+        "metric": "薪资竞争力",
+        "value": 126,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "26f138715d713f31",
+        "metric": "招聘活跃度",
+        "value": 52,
+        "industryAvg": 45
+      },
+      {
+        "companyId": "26f138715d713f31",
+        "metric": "组织规模",
+        "value": 50,
+        "industryAvg": 55
+      }
+    ],
+    "scoreCard": {
+      "companyId": "26f138715d713f31",
+      "atmosphereScore": 70,
+      "competitivenessScore": 82,
+      "potentialScore": 84,
+      "overall": 0,
+      "grade": "B",
+      "strengths": [],
+      "weaknesses": []
+    },
+    "atmosphere": {
+      "companyId": "26f138715d713f31",
+      "cultureOpenness": 79,
+      "overtimeIntensity": 52,
+      "promotionSpace": 57,
+      "teamStability": 70,
+      "leadership": 81
+    }
+  }
+}

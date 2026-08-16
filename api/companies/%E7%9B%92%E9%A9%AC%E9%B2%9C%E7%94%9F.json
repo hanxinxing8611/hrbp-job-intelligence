@@ -1,0 +1,724 @@
+﻿{
+  "companyId": "盒马鲜生",
+  "name": "盒马鲜生",
+  "industry": "新零售",
+  "scale": "1000人以上",
+  "stage": "上市公司",
+  "founded": "2005",
+  "headquarters": "南昌",
+  "branches": [],
+  "description": "盒马鲜生是新零售领域的企业。",
+  "logoColor": "#12c2bb",
+  "logoInitial": "盒",
+  "jobs": [
+    {
+      "jobId": "real_025",
+      "title": "HRBP(base安徽)",
+      "companyId": "盒马鲜生",
+      "companyName": "盒马鲜生",
+      "companyIndustry": "新零售",
+      "city": "南昌",
+      "district": "青云谱区",
+      "experience": "1-3年",
+      "education": "本科",
+      "salaryRange": "7-12K·16薪",
+      "salaryMin": 7,
+      "salaryMax": 12,
+      "bonusMonths": 16,
+      "tags": [
+        "大厂",
+        "绩效",
+        "雇主品牌"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/4e999472eb18e7380nB63NS-GVVZ.html",
+      "postedAt": "2026-08-15T02:41:50.102Z",
+      "crawledAt": "2026-08-16T15:41:50.102Z",
+      "heat": 128,
+      "growth": 55,
+      "url": "https://m.zhipin.com/job_detail/4e999472eb18e7380nB63NS-GVVZ.html",
+      "benefits": [
+        "免费三餐",
+        "企业年金",
+        "员工宿舍",
+        "年度旅游",
+        "商业保险",
+        "通勤班车",
+        "带薪年假"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进",
+        "主导人才盘点与高潜员工识别，制定关键人才的发展与保留计划"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "1-3年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "盒马鲜生招聘HRBP(base安徽)，工作地点南昌·青云谱区，薪资7-12K·16薪，要求1-3年经验、本科学历。",
+      "valueScore": 11.5,
+      "salaryBreakdown": {
+        "p10": 7,
+        "p25": 8,
+        "p50": 10,
+        "p75": 11,
+        "p90": 13
+      }
+    },
+    {
+      "jobId": "aug_0113",
+      "title": "人事主管高级HRBP",
+      "companyId": "盒马鲜生",
+      "companyName": "盒马鲜生",
+      "companyIndustry": "新零售",
+      "city": "南京",
+      "district": "江宁区",
+      "experience": "3-5年",
+      "education": "大专",
+      "salaryRange": "10-12K",
+      "salaryMin": 10,
+      "salaryMax": 12,
+      "bonusMonths": 13,
+      "tags": [
+        "管理岗",
+        "大厂",
+        "稳定"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/37glnV_0113FlVY.html",
+      "postedAt": "2026-08-15T05:41:50.107Z",
+      "crawledAt": "2026-08-16T06:41:50.107Z",
+      "heat": 113,
+      "growth": 60,
+      "url": "https://m.zhipin.com/job_detail/37glnV_0113FlVY.html",
+      "benefits": [
+        "通勤班车",
+        "免费班车",
+        "项目奖金",
+        "免费三餐",
+        "员工宿舍",
+        "六险一金"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "搭建并管理HRBP团队，制定团队发展计划与考核机制"
+      ],
+      "requirements": [
+        "大专及以上学历，人力资源管理或相关专业背景",
+        "3-5年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "盒马鲜生招聘人事主管高级HRBP，工作地点南京·江宁区，薪资10-12K，要求3-5年经验、大专学历。",
+      "valueScore": 4.3,
+      "salaryBreakdown": {
+        "p10": 10,
+        "p25": 10,
+        "p50": 11,
+        "p75": 12,
+        "p90": 12
+      }
+    },
+    {
+      "jobId": "real_024",
+      "title": "HRBP（BASE六安）",
+      "companyId": "盒马鲜生",
+      "companyName": "盒马鲜生",
+      "companyIndustry": "新零售",
+      "city": "六安",
+      "district": "金安区",
+      "experience": "1-3年",
+      "education": "本科",
+      "salaryRange": "10-14K·13薪",
+      "salaryMin": 10,
+      "salaryMax": 14,
+      "bonusMonths": 13,
+      "tags": [
+        "大厂",
+        "金融",
+        "校招"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/760dd8ec3cd580450nB93ti6ElJQ.html",
+      "postedAt": "2026-08-14T16:41:50.102Z",
+      "crawledAt": "2026-08-16T14:41:50.102Z",
+      "heat": 86,
+      "growth": 44,
+      "url": "https://m.zhipin.com/job_detail/760dd8ec3cd580450nB93ti6ElJQ.html",
+      "benefits": [
+        "节日福利",
+        "项目奖金",
+        "补充医疗",
+        "股票期权",
+        "弹性工作",
+        "通勤班车"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进",
+        "主导人才盘点与高潜员工识别，制定关键人才的发展与保留计划"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "1-3年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "盒马鲜生招聘HRBP（BASE六安），工作地点六安·金安区，薪资10-14K·13薪，要求1-3年经验、本科学历。",
+      "valueScore": 14.2,
+      "salaryBreakdown": {
+        "p10": 10,
+        "p25": 11,
+        "p50": 12,
+        "p75": 13,
+        "p90": 15
+      }
+    },
+    {
+      "jobId": "real_023",
+      "title": "人事主管HRBP",
+      "companyId": "盒马鲜生",
+      "companyName": "盒马鲜生",
+      "companyIndustry": "新零售",
+      "city": "上海",
+      "district": "青浦区",
+      "experience": "1-3年",
+      "education": "大专",
+      "salaryRange": "9-10K·13薪",
+      "salaryMin": 9,
+      "salaryMax": 10,
+      "bonusMonths": 13,
+      "tags": [
+        "管理岗",
+        "大厂",
+        "技术HR"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/11e3daed825fd8191Xx_09m7GFNQ.html",
+      "postedAt": "2026-08-14T18:41:50.102Z",
+      "crawledAt": "2026-08-16T12:41:50.102Z",
+      "heat": 57,
+      "growth": 39,
+      "url": "https://m.zhipin.com/job_detail/11e3daed825fd8191Xx_09m7GFNQ.html",
+      "benefits": [
+        "员工宿舍",
+        "商业保险",
+        "股票期权",
+        "节日福利",
+        "年度旅游",
+        "六险一金",
+        "通勤班车"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "搭建并管理HRBP团队，制定团队发展计划与考核机制"
+      ],
+      "requirements": [
+        "大专及以上学历，人力资源管理或相关专业背景",
+        "1-3年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "盒马鲜生招聘人事主管HRBP，工作地点上海·青浦区，薪资9-10K·13薪，要求1-3年经验、大专学历。",
+      "valueScore": 11.5,
+      "salaryBreakdown": {
+        "p10": 9,
+        "p25": 9,
+        "p50": 10,
+        "p75": 10,
+        "p90": 10
+      }
+    },
+    {
+      "jobId": "aug_0117",
+      "title": "HRBP（BASE六安）",
+      "companyId": "盒马鲜生",
+      "companyName": "盒马鲜生",
+      "companyIndustry": "新零售",
+      "city": "佛山",
+      "district": "禅城区",
+      "experience": "经验不限",
+      "education": "本科",
+      "salaryRange": "10-12K",
+      "salaryMin": 10,
+      "salaryMax": 12,
+      "bonusMonths": 13,
+      "tags": [
+        "大厂",
+        "稳定",
+        "培训",
+        "绩效"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/38chnV_0117FlVY.html",
+      "postedAt": "2026-08-14T13:41:50.107Z",
+      "crawledAt": "2026-08-16T08:41:50.107Z",
+      "heat": 53,
+      "growth": 31,
+      "url": "https://m.zhipin.com/job_detail/38chnV_0117FlVY.html",
+      "benefits": [
+        "股票期权",
+        "节日福利",
+        "员工宿舍",
+        "企业年金",
+        "项目奖金",
+        "五险一金"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进",
+        "主导人才盘点与高潜员工识别，制定关键人才的发展与保留计划"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "经验不限以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "盒马鲜生招聘HRBP（BASE六安），工作地点佛山·禅城区，薪资10-12K，要求经验不限经验、本科学历。",
+      "valueScore": 2.6,
+      "salaryBreakdown": {
+        "p10": 10,
+        "p25": 10,
+        "p50": 11,
+        "p75": 12,
+        "p90": 12
+      }
+    },
+    {
+      "jobId": "aug_0106",
+      "title": "盒马鲜生高级HRBP",
+      "companyId": "盒马鲜生",
+      "companyName": "盒马鲜生",
+      "companyIndustry": "新零售",
+      "city": "绍兴",
+      "district": "",
+      "experience": "10年以上",
+      "education": "本科",
+      "salaryRange": "10-12K·14薪",
+      "salaryMin": 10,
+      "salaryMax": 12,
+      "bonusMonths": 14,
+      "tags": [
+        "大厂",
+        "管理岗",
+        "金融",
+        "弹性工作"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/36hmnV_0106FlVY.html",
+      "postedAt": "2026-08-14T05:41:50.107Z",
+      "crawledAt": "2026-08-16T14:41:50.107Z",
+      "heat": 52,
+      "growth": 49,
+      "url": "https://m.zhipin.com/job_detail/36hmnV_0106FlVY.html",
+      "benefits": [
+        "通勤班车",
+        "企业年金",
+        "员工宿舍",
+        "租房补贴",
+        "年度旅游",
+        "年度体检",
+        "带薪年假"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "盒马鲜生招聘盒马鲜生高级HRBP，工作地点绍兴，薪资10-12K·14薪，要求10年以上经验、本科学历。",
+      "valueScore": 1.3,
+      "salaryBreakdown": {
+        "p10": 10,
+        "p25": 10,
+        "p50": 11,
+        "p75": 12,
+        "p90": 12
+      }
+    },
+    {
+      "jobId": "real_022",
+      "title": "盒马鲜生HRBP",
+      "companyId": "盒马鲜生",
+      "companyName": "盒马鲜生",
+      "companyIndustry": "新零售",
+      "city": "泰州",
+      "district": "兴化市",
+      "experience": "5-10年",
+      "education": "本科",
+      "salaryRange": "9-12K·16薪",
+      "salaryMin": 9,
+      "salaryMax": 12,
+      "bonusMonths": 16,
+      "tags": [
+        "大厂",
+        "员工关系",
+        "核心业务"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/9fefa3e7d187dcf00nV93Ny0FVJR.html",
+      "postedAt": "2026-08-14T20:41:50.102Z",
+      "crawledAt": "2026-08-16T11:41:50.102Z",
+      "heat": 50,
+      "growth": 27,
+      "url": "https://m.zhipin.com/job_detail/9fefa3e7d187dcf00nV93Ny0FVJR.html",
+      "benefits": [
+        "通勤班车",
+        "商业保险",
+        "带薪年假",
+        "弹性工作",
+        "项目奖金",
+        "补充医疗",
+        "免费班车"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "5-10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "盒马鲜生招聘盒马鲜生HRBP，工作地点泰州·兴化市，薪资9-12K·16薪，要求5-10年经验、本科学历。",
+      "valueScore": 2.5,
+      "salaryBreakdown": {
+        "p10": 9,
+        "p25": 10,
+        "p50": 11,
+        "p75": 11,
+        "p90": 13
+      }
+    },
+    {
+      "jobId": "aug_0108",
+      "title": "盒马鲜生人力资源业务伙伴",
+      "companyId": "盒马鲜生",
+      "companyName": "盒马鲜生",
+      "companyIndustry": "新零售",
+      "city": "昆明",
+      "district": "",
+      "experience": "10年以上",
+      "education": "本科",
+      "salaryRange": "8-12K",
+      "salaryMin": 8,
+      "salaryMax": 12,
+      "bonusMonths": 13,
+      "tags": [
+        "大厂",
+        "管理岗",
+        "雇主品牌",
+        "战略"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/36jonV_0108FlVY.html",
+      "postedAt": "2026-08-12T20:41:50.107Z",
+      "crawledAt": "2026-08-16T12:41:50.107Z",
+      "heat": 50,
+      "growth": 50,
+      "url": "https://m.zhipin.com/job_detail/36jonV_0108FlVY.html",
+      "benefits": [
+        "商业保险",
+        "节日福利",
+        "免费三餐",
+        "租房补贴",
+        "免费班车",
+        "项目奖金"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进",
+        "主导人才盘点与高潜员工识别，制定关键人才的发展与保留计划"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "盒马鲜生招聘盒马鲜生人力资源业务伙伴，工作地点昆明，薪资8-12K，要求10年以上经验、本科学历。",
+      "valueScore": 1.2,
+      "salaryBreakdown": {
+        "p10": 8,
+        "p25": 9,
+        "p50": 10,
+        "p75": 11,
+        "p90": 13
+      }
+    },
+    {
+      "jobId": "aug_0109",
+      "title": "盒马鲜生高级HRBP",
+      "companyId": "盒马鲜生",
+      "companyName": "盒马鲜生",
+      "companyIndustry": "新零售",
+      "city": "上海",
+      "district": "浦东新区",
+      "experience": "5-10年",
+      "education": "大专",
+      "salaryRange": "8-10K",
+      "salaryMin": 8,
+      "salaryMax": 10,
+      "bonusMonths": 13,
+      "tags": [
+        "大厂",
+        "高增长",
+        "硬科技"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/36kpnV_0109FlVY.html",
+      "postedAt": "2026-08-13T14:41:50.107Z",
+      "crawledAt": "2026-08-16T13:41:50.107Z",
+      "heat": 50,
+      "growth": 40,
+      "url": "https://m.zhipin.com/job_detail/36kpnV_0109FlVY.html",
+      "benefits": [
+        "企业年金",
+        "年终奖",
+        "年度旅游",
+        "股票期权",
+        "弹性工作",
+        "年度体检",
+        "补充医疗"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进",
+        "主导人才盘点与高潜员工识别，制定关键人才的发展与保留计划"
+      ],
+      "requirements": [
+        "大专及以上学历，人力资源管理或相关专业背景",
+        "5-10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "盒马鲜生招聘盒马鲜生高级HRBP，工作地点上海·浦东新区，薪资8-10K，要求5-10年经验、大专学历。",
+      "valueScore": 2.2,
+      "salaryBreakdown": {
+        "p10": 8,
+        "p25": 8,
+        "p50": 9,
+        "p75": 10,
+        "p90": 10
+      }
+    },
+    {
+      "jobId": "aug_0111",
+      "title": "人事经理HRBP",
+      "companyId": "盒马鲜生",
+      "companyName": "盒马鲜生",
+      "companyIndustry": "新零售",
+      "city": "杭州",
+      "district": "余杭区",
+      "experience": "3-5年",
+      "education": "大专",
+      "salaryRange": "12-14K",
+      "salaryMin": 12,
+      "salaryMax": 14,
+      "bonusMonths": 13,
+      "tags": [
+        "管理岗",
+        "大厂",
+        "WLB",
+        "员工关系"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/37ejnV_0111FlVY.html",
+      "postedAt": "2026-08-12T14:41:50.107Z",
+      "crawledAt": "2026-08-16T08:41:50.107Z",
+      "heat": 50,
+      "growth": 55,
+      "url": "https://m.zhipin.com/job_detail/37ejnV_0111FlVY.html",
+      "benefits": [
+        "企业年金",
+        "免费班车",
+        "带薪年假",
+        "补充医疗",
+        "五险一金",
+        "通勤班车",
+        "六险一金"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进",
+        "主导人才盘点与高潜员工识别，制定关键人才的发展与保留计划"
+      ],
+      "requirements": [
+        "大专及以上学历，人力资源管理或相关专业背景",
+        "3-5年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "盒马鲜生招聘人事经理HRBP，工作地点杭州·余杭区，薪资12-14K，要求3-5年经验、大专学历。",
+      "valueScore": 5.2,
+      "salaryBreakdown": {
+        "p10": 12,
+        "p25": 12,
+        "p50": 13,
+        "p75": 14,
+        "p90": 14
+      }
+    }
+  ],
+  "analysis": {
+    "companyId": "盒马鲜生",
+    "atmosphereScore": 80,
+    "competitivenessScore": 66,
+    "potentialScore": 71,
+    "overall": 72,
+    "grade": "B",
+    "strengths": [
+      "团队氛围好",
+      "发展空间大",
+      "福利待遇优"
+    ],
+    "weaknesses": [
+      "部分流程待优化",
+      "行业竞争激烈"
+    ],
+    "radar": [
+      {
+        "label": "文化开放度",
+        "value": 95,
+        "key": "cultureOpenness"
+      },
+      {
+        "label": "晋升空间",
+        "value": 62,
+        "key": "promotionSpace"
+      },
+      {
+        "label": "团队稳定",
+        "value": 88,
+        "key": "teamStability"
+      },
+      {
+        "label": "领导力",
+        "value": 62,
+        "key": "leadership"
+      },
+      {
+        "label": "加班强度",
+        "value": 68,
+        "key": "overtimeIntensity"
+      }
+    ],
+    "competitors": [
+      {
+        "companyId": "盒马鲜生",
+        "metric": "薪资竞争力",
+        "value": 80,
+        "industryAvg": 65
+      },
+      {
+        "companyId": "盒马鲜生",
+        "metric": "发展潜力",
+        "value": 89,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "盒马鲜生",
+        "metric": "团队氛围",
+        "value": 96,
+        "industryAvg": 70
+      },
+      {
+        "companyId": "盒马鲜生",
+        "metric": "稳定性",
+        "value": 76,
+        "industryAvg": 55
+      },
+      {
+        "companyId": "盒马鲜生",
+        "metric": "行业地位",
+        "value": 73,
+        "industryAvg": 50
+      }
+    ],
+    "trend": [
+      {
+        "companyId": "盒马鲜生",
+        "year": "2021",
+        "revenue": 647,
+        "headcount": 95,
+        "openings": 34
+      },
+      {
+        "companyId": "盒马鲜生",
+        "year": "2022",
+        "revenue": 626,
+        "headcount": 123,
+        "openings": 41
+      },
+      {
+        "companyId": "盒马鲜生",
+        "year": "2023",
+        "revenue": 616,
+        "headcount": 147,
+        "openings": 42
+      },
+      {
+        "companyId": "盒马鲜生",
+        "year": "2024",
+        "revenue": 1233,
+        "headcount": 85,
+        "openings": 41
+      },
+      {
+        "companyId": "盒马鲜生",
+        "year": "2025",
+        "revenue": 1362,
+        "headcount": 124,
+        "openings": 25
+      }
+    ]
+  }
+}

@@ -1,0 +1,554 @@
+﻿{
+  "companyId": "00ccd6365660fc54",
+  "name": "茶百道",
+  "industry": "综合",
+  "scale": "",
+  "stage": "",
+  "logoColor": "#c53030",
+  "logoInitial": "茶",
+  "description": "茶百道 正在招聘 HRBP 相关岗位，欢迎了解。",
+  "founded": 2004,
+  "headquarters": "扬州",
+  "jobCount": 4,
+  "avgSalary": 41.3,
+  "jobs": [
+    {
+      "jobId": "d8c671f595e7d9b1",
+      "title": "营运中心HRBP总监",
+      "companyId": "00ccd6365660fc54",
+      "companyName": "茶百道",
+      "city": "扬州",
+      "district": "",
+      "experience": "5-10年",
+      "education": "本科",
+      "salaryRange": "36-62K·16薪",
+      "salaryMin": 36,
+      "salaryMax": 62,
+      "tags": [
+        "管理岗",
+        "免费三餐",
+        "新能源",
+        "大厂"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984179927.shtml",
+      "postedAt": "2026-08-13T16:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 49,
+      "growth": 23,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 432,
+        "annualMax": 992,
+        "monthlyMin": 36,
+        "monthlyMax": 62,
+        "bonus": 88.2,
+        "stocks": 29.4,
+        "yearly": 49
+      },
+      "valueScore": 196
+    },
+    {
+      "jobId": "dad521158b3bc51a",
+      "title": "营运中心HRBP总监",
+      "companyId": "00ccd6365660fc54",
+      "companyName": "茶百道",
+      "city": "绍兴",
+      "district": "",
+      "experience": "10年以上",
+      "education": "本科",
+      "salaryRange": "34-56K·14薪",
+      "salaryMin": 34,
+      "salaryMax": 56,
+      "tags": [
+        "管理岗",
+        "商业保险",
+        "战略"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984180765.shtml",
+      "postedAt": "2026-08-12T21:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 43,
+      "growth": 60,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 408,
+        "annualMax": 896,
+        "monthlyMin": 34,
+        "monthlyMax": 56,
+        "bonus": 81,
+        "stocks": 27,
+        "yearly": 45
+      },
+      "valueScore": 180
+    },
+    {
+      "jobId": "7414b5fe40c13fef",
+      "title": "营运中心HRBP总监",
+      "companyId": "00ccd6365660fc54",
+      "companyName": "茶百道",
+      "city": "成都",
+      "district": "武侯区",
+      "experience": "10年以上",
+      "education": "本科",
+      "salaryRange": "30-50K",
+      "salaryMin": 30,
+      "salaryMax": 50,
+      "tags": [
+        "管理岗",
+        "互联网",
+        "员工关系"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://m.liepin.com/city-cd/zpyyhrbpe62y/",
+      "postedAt": "2026-08-15T20:02:00.691Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 54,
+      "growth": 26,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 360,
+        "annualMax": 800,
+        "monthlyMin": 30,
+        "monthlyMax": 50,
+        "bonus": 72,
+        "stocks": 24,
+        "yearly": 40
+      },
+      "valueScore": 160
+    },
+    {
+      "jobId": "f651aecb142104c2",
+      "title": "营运中心HRBP总监",
+      "companyId": "00ccd6365660fc54",
+      "companyName": "茶百道",
+      "city": "烟台",
+      "district": "",
+      "experience": "1年以上",
+      "education": "本科",
+      "salaryRange": "24-38K",
+      "salaryMin": 24,
+      "salaryMax": 38,
+      "tags": [
+        "管理岗",
+        "免费三餐",
+        "雇主品牌",
+        "互联网"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984179508.shtml",
+      "postedAt": "2026-08-13T15:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 40,
+      "growth": 31,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 288,
+        "annualMax": 608,
+        "monthlyMin": 24,
+        "monthlyMax": 38,
+        "bonus": 55.8,
+        "stocks": 18.6,
+        "yearly": 31
+      },
+      "valueScore": 124
+    }
+  ],
+  "analysis": {
+    "summary": "茶百道（综合）当前在招 HRBP 相关岗位 4 个，平均薪资 41.3k。",
+    "salaryBenchmark": {
+      "companyAvg": 41.3,
+      "industryAvg": 18.2,
+      "cityAvg": 39.2,
+      "percentile": 70
+    },
+    "openings": [
+      {
+        "jobId": "d8c671f595e7d9b1",
+        "title": "营运中心HRBP总监",
+        "companyId": "00ccd6365660fc54",
+        "companyName": "茶百道",
+        "city": "扬州",
+        "district": "",
+        "experience": "5-10年",
+        "education": "本科",
+        "salaryRange": "36-62K·16薪",
+        "salaryMin": 36,
+        "salaryMax": 62,
+        "tags": [
+          "管理岗",
+          "免费三餐",
+          "新能源",
+          "大厂"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984179927.shtml",
+        "postedAt": "2026-08-13T16:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 49,
+        "growth": 23,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 432,
+          "annualMax": 992,
+          "monthlyMin": 36,
+          "monthlyMax": 62,
+          "bonus": 88.2,
+          "stocks": 29.4,
+          "yearly": 49
+        },
+        "valueScore": 196
+      },
+      {
+        "jobId": "dad521158b3bc51a",
+        "title": "营运中心HRBP总监",
+        "companyId": "00ccd6365660fc54",
+        "companyName": "茶百道",
+        "city": "绍兴",
+        "district": "",
+        "experience": "10年以上",
+        "education": "本科",
+        "salaryRange": "34-56K·14薪",
+        "salaryMin": 34,
+        "salaryMax": 56,
+        "tags": [
+          "管理岗",
+          "商业保险",
+          "战略"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984180765.shtml",
+        "postedAt": "2026-08-12T21:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 43,
+        "growth": 60,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 408,
+          "annualMax": 896,
+          "monthlyMin": 34,
+          "monthlyMax": 56,
+          "bonus": 81,
+          "stocks": 27,
+          "yearly": 45
+        },
+        "valueScore": 180
+      },
+      {
+        "jobId": "7414b5fe40c13fef",
+        "title": "营运中心HRBP总监",
+        "companyId": "00ccd6365660fc54",
+        "companyName": "茶百道",
+        "city": "成都",
+        "district": "武侯区",
+        "experience": "10年以上",
+        "education": "本科",
+        "salaryRange": "30-50K",
+        "salaryMin": 30,
+        "salaryMax": 50,
+        "tags": [
+          "管理岗",
+          "互联网",
+          "员工关系"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://m.liepin.com/city-cd/zpyyhrbpe62y/",
+        "postedAt": "2026-08-15T20:02:00.691Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 54,
+        "growth": 26,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 360,
+          "annualMax": 800,
+          "monthlyMin": 30,
+          "monthlyMax": 50,
+          "bonus": 72,
+          "stocks": 24,
+          "yearly": 40
+        },
+        "valueScore": 160
+      },
+      {
+        "jobId": "f651aecb142104c2",
+        "title": "营运中心HRBP总监",
+        "companyId": "00ccd6365660fc54",
+        "companyName": "茶百道",
+        "city": "烟台",
+        "district": "",
+        "experience": "1年以上",
+        "education": "本科",
+        "salaryRange": "24-38K",
+        "salaryMin": 24,
+        "salaryMax": 38,
+        "tags": [
+          "管理岗",
+          "免费三餐",
+          "雇主品牌",
+          "互联网"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984179508.shtml",
+        "postedAt": "2026-08-13T15:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 40,
+        "growth": 31,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 288,
+          "annualMax": 608,
+          "monthlyMin": 24,
+          "monthlyMax": 38,
+          "bonus": 55.8,
+          "stocks": 18.6,
+          "yearly": 31
+        },
+        "valueScore": 124
+      }
+    ],
+    "trends": [
+      {
+        "year": "2022",
+        "companyId": "00ccd6365660fc54",
+        "revenue": 130,
+        "headcount": 90,
+        "openings": 1
+      },
+      {
+        "year": "2023",
+        "companyId": "00ccd6365660fc54",
+        "revenue": 153,
+        "headcount": 107,
+        "openings": 2
+      },
+      {
+        "year": "2024",
+        "companyId": "00ccd6365660fc54",
+        "revenue": 171,
+        "headcount": 133,
+        "openings": 4
+      },
+      {
+        "year": "2025",
+        "companyId": "00ccd6365660fc54",
+        "revenue": 197,
+        "headcount": 142,
+        "openings": 6
+      },
+      {
+        "year": "2026",
+        "companyId": "00ccd6365660fc54",
+        "revenue": 225,
+        "headcount": 165,
+        "openings": 8
+      }
+    ],
+    "comparisons": [
+      {
+        "companyId": "00ccd6365660fc54",
+        "metric": "薪资竞争力",
+        "value": 136,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "00ccd6365660fc54",
+        "metric": "招聘活跃度",
+        "value": 52,
+        "industryAvg": 45
+      },
+      {
+        "companyId": "00ccd6365660fc54",
+        "metric": "组织规模",
+        "value": 50,
+        "industryAvg": 55
+      }
+    ],
+    "scoreCard": {
+      "companyId": "00ccd6365660fc54",
+      "atmosphereScore": 85,
+      "competitivenessScore": 76,
+      "potentialScore": 87,
+      "overall": 0,
+      "grade": "B",
+      "strengths": [],
+      "weaknesses": []
+    },
+    "atmosphere": {
+      "companyId": "00ccd6365660fc54",
+      "cultureOpenness": 85,
+      "overtimeIntensity": 50,
+      "promotionSpace": 80,
+      "teamStability": 74,
+      "leadership": 81
+    }
+  }
+}

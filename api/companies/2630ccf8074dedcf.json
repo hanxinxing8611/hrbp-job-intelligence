@@ -1,0 +1,666 @@
+﻿{
+  "companyId": "2630ccf8074dedcf",
+  "name": "佰维存储",
+  "industry": "综合",
+  "scale": "",
+  "stage": "",
+  "logoColor": "#2c5282",
+  "logoInitial": "佰",
+  "description": "佰维存储 正在招聘 HRBP 相关岗位，欢迎了解。",
+  "founded": 2006,
+  "headquarters": "扬州",
+  "jobCount": 5,
+  "avgSalary": 18.8,
+  "jobs": [
+    {
+      "jobId": "3acb871399a3c6e1",
+      "title": "高级HRBP",
+      "companyId": "2630ccf8074dedcf",
+      "companyName": "佰维存储",
+      "city": "扬州",
+      "district": "",
+      "experience": "5年以上",
+      "education": "本科",
+      "salaryRange": "18-30K",
+      "salaryMin": 18,
+      "salaryMax": 30,
+      "tags": [
+        "硬科技",
+        "新能源",
+        "弹性工作"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984191275.shtml",
+      "postedAt": "2026-08-12T09:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 30,
+      "growth": 50,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 216,
+        "annualMax": 480,
+        "monthlyMin": 18,
+        "monthlyMax": 30,
+        "bonus": 43.2,
+        "stocks": 14.4,
+        "yearly": 24
+      },
+      "valueScore": 96
+    },
+    {
+      "jobId": "5d0838a499c45c1c",
+      "title": "HRBP",
+      "companyId": "2630ccf8074dedcf",
+      "companyName": "佰维存储",
+      "city": "成都",
+      "district": "犀浦",
+      "experience": "3年以上",
+      "education": "本科",
+      "salaryRange": "15-25K·15薪",
+      "salaryMin": 15,
+      "salaryMax": 25,
+      "tags": [
+        "硬科技",
+        "高增长",
+        "校招"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984336485.shtml",
+      "postedAt": "2026-08-15T10:02:00.691Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 43,
+      "growth": 55,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 180,
+        "annualMax": 400,
+        "monthlyMin": 15,
+        "monthlyMax": 25,
+        "bonus": 36,
+        "stocks": 12,
+        "yearly": 20
+      },
+      "valueScore": 80
+    },
+    {
+      "jobId": "f03661aefa0bd15a",
+      "title": "HRBP",
+      "companyId": "2630ccf8074dedcf",
+      "companyName": "佰维存储",
+      "city": "哈尔滨",
+      "district": "",
+      "experience": "2年以上",
+      "education": "本科",
+      "salaryRange": "14-22K",
+      "salaryMin": 14,
+      "salaryMax": 22,
+      "tags": [
+        "硬科技",
+        "金融",
+        "硕博团队",
+        "培训"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984189599.shtml",
+      "postedAt": "2026-08-12T08:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 27,
+      "growth": 25,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 168,
+        "annualMax": 352,
+        "monthlyMin": 14,
+        "monthlyMax": 22,
+        "bonus": 32.4,
+        "stocks": 10.8,
+        "yearly": 18
+      },
+      "valueScore": 72
+    },
+    {
+      "jobId": "8fa02389e511f0e6",
+      "title": "高级HRBP",
+      "companyId": "2630ccf8074dedcf",
+      "companyName": "佰维存储",
+      "city": "佛山",
+      "district": "禅城区",
+      "experience": "5年以上",
+      "education": "本科",
+      "salaryRange": "12-22K·14薪",
+      "salaryMin": 12,
+      "salaryMax": 22,
+      "tags": [
+        "硬科技",
+        "金融",
+        "数字化",
+        "社招"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984190018.shtml",
+      "postedAt": "2026-08-14T10:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 36,
+      "growth": 84,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 144,
+        "annualMax": 352,
+        "monthlyMin": 12,
+        "monthlyMax": 22,
+        "bonus": 30.6,
+        "stocks": 10.2,
+        "yearly": 17
+      },
+      "valueScore": 68
+    },
+    {
+      "jobId": "ae0773951fa8df2a",
+      "title": "HRBP",
+      "companyId": "2630ccf8074dedcf",
+      "companyName": "佰维存储",
+      "city": "烟台",
+      "district": "",
+      "experience": "2年以上",
+      "education": "本科",
+      "salaryRange": "12-18K",
+      "salaryMin": 12,
+      "salaryMax": 18,
+      "tags": [
+        "硬科技",
+        "新能源",
+        "组织发展"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984190856.shtml",
+      "postedAt": "2026-08-15T04:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 39,
+      "growth": 32,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 144,
+        "annualMax": 288,
+        "monthlyMin": 12,
+        "monthlyMax": 18,
+        "bonus": 27,
+        "stocks": 9,
+        "yearly": 15
+      },
+      "valueScore": 60
+    }
+  ],
+  "analysis": {
+    "summary": "佰维存储（综合）当前在招 HRBP 相关岗位 5 个，平均薪资 18.8k。",
+    "salaryBenchmark": {
+      "companyAvg": 18.8,
+      "industryAvg": 18.3,
+      "cityAvg": 17.9,
+      "percentile": 70
+    },
+    "openings": [
+      {
+        "jobId": "3acb871399a3c6e1",
+        "title": "高级HRBP",
+        "companyId": "2630ccf8074dedcf",
+        "companyName": "佰维存储",
+        "city": "扬州",
+        "district": "",
+        "experience": "5年以上",
+        "education": "本科",
+        "salaryRange": "18-30K",
+        "salaryMin": 18,
+        "salaryMax": 30,
+        "tags": [
+          "硬科技",
+          "新能源",
+          "弹性工作"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984191275.shtml",
+        "postedAt": "2026-08-12T09:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 30,
+        "growth": 50,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 216,
+          "annualMax": 480,
+          "monthlyMin": 18,
+          "monthlyMax": 30,
+          "bonus": 43.2,
+          "stocks": 14.4,
+          "yearly": 24
+        },
+        "valueScore": 96
+      },
+      {
+        "jobId": "5d0838a499c45c1c",
+        "title": "HRBP",
+        "companyId": "2630ccf8074dedcf",
+        "companyName": "佰维存储",
+        "city": "成都",
+        "district": "犀浦",
+        "experience": "3年以上",
+        "education": "本科",
+        "salaryRange": "15-25K·15薪",
+        "salaryMin": 15,
+        "salaryMax": 25,
+        "tags": [
+          "硬科技",
+          "高增长",
+          "校招"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984336485.shtml",
+        "postedAt": "2026-08-15T10:02:00.691Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 43,
+        "growth": 55,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 180,
+          "annualMax": 400,
+          "monthlyMin": 15,
+          "monthlyMax": 25,
+          "bonus": 36,
+          "stocks": 12,
+          "yearly": 20
+        },
+        "valueScore": 80
+      },
+      {
+        "jobId": "f03661aefa0bd15a",
+        "title": "HRBP",
+        "companyId": "2630ccf8074dedcf",
+        "companyName": "佰维存储",
+        "city": "哈尔滨",
+        "district": "",
+        "experience": "2年以上",
+        "education": "本科",
+        "salaryRange": "14-22K",
+        "salaryMin": 14,
+        "salaryMax": 22,
+        "tags": [
+          "硬科技",
+          "金融",
+          "硕博团队",
+          "培训"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984189599.shtml",
+        "postedAt": "2026-08-12T08:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 27,
+        "growth": 25,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 168,
+          "annualMax": 352,
+          "monthlyMin": 14,
+          "monthlyMax": 22,
+          "bonus": 32.4,
+          "stocks": 10.8,
+          "yearly": 18
+        },
+        "valueScore": 72
+      },
+      {
+        "jobId": "8fa02389e511f0e6",
+        "title": "高级HRBP",
+        "companyId": "2630ccf8074dedcf",
+        "companyName": "佰维存储",
+        "city": "佛山",
+        "district": "禅城区",
+        "experience": "5年以上",
+        "education": "本科",
+        "salaryRange": "12-22K·14薪",
+        "salaryMin": 12,
+        "salaryMax": 22,
+        "tags": [
+          "硬科技",
+          "金融",
+          "数字化",
+          "社招"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984190018.shtml",
+        "postedAt": "2026-08-14T10:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 36,
+        "growth": 84,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 144,
+          "annualMax": 352,
+          "monthlyMin": 12,
+          "monthlyMax": 22,
+          "bonus": 30.6,
+          "stocks": 10.2,
+          "yearly": 17
+        },
+        "valueScore": 68
+      },
+      {
+        "jobId": "ae0773951fa8df2a",
+        "title": "HRBP",
+        "companyId": "2630ccf8074dedcf",
+        "companyName": "佰维存储",
+        "city": "烟台",
+        "district": "",
+        "experience": "2年以上",
+        "education": "本科",
+        "salaryRange": "12-18K",
+        "salaryMin": 12,
+        "salaryMax": 18,
+        "tags": [
+          "硬科技",
+          "新能源",
+          "组织发展"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984190856.shtml",
+        "postedAt": "2026-08-15T04:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 39,
+        "growth": 32,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 144,
+          "annualMax": 288,
+          "monthlyMin": 12,
+          "monthlyMax": 18,
+          "bonus": 27,
+          "stocks": 9,
+          "yearly": 15
+        },
+        "valueScore": 60
+      }
+    ],
+    "trends": [
+      {
+        "year": "2022",
+        "companyId": "2630ccf8074dedcf",
+        "revenue": 128,
+        "headcount": 91,
+        "openings": 1
+      },
+      {
+        "year": "2023",
+        "companyId": "2630ccf8074dedcf",
+        "revenue": 150,
+        "headcount": 110,
+        "openings": 3
+      },
+      {
+        "year": "2024",
+        "companyId": "2630ccf8074dedcf",
+        "revenue": 171,
+        "headcount": 126,
+        "openings": 5
+      },
+      {
+        "year": "2025",
+        "companyId": "2630ccf8074dedcf",
+        "revenue": 195,
+        "headcount": 148,
+        "openings": 7
+      },
+      {
+        "year": "2026",
+        "companyId": "2630ccf8074dedcf",
+        "revenue": 220,
+        "headcount": 170,
+        "openings": 9
+      }
+    ],
+    "comparisons": [
+      {
+        "companyId": "2630ccf8074dedcf",
+        "metric": "薪资竞争力",
+        "value": 62,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "2630ccf8074dedcf",
+        "metric": "招聘活跃度",
+        "value": 55,
+        "industryAvg": 45
+      },
+      {
+        "companyId": "2630ccf8074dedcf",
+        "metric": "组织规模",
+        "value": 50,
+        "industryAvg": 55
+      }
+    ],
+    "scoreCard": {
+      "companyId": "2630ccf8074dedcf",
+      "atmosphereScore": 85,
+      "competitivenessScore": 86,
+      "potentialScore": 67,
+      "overall": 0,
+      "grade": "B",
+      "strengths": [],
+      "weaknesses": []
+    },
+    "atmosphere": {
+      "companyId": "2630ccf8074dedcf",
+      "cultureOpenness": 85,
+      "overtimeIntensity": 50,
+      "promotionSpace": 76,
+      "teamStability": 75,
+      "leadership": 87
+    }
+  }
+}

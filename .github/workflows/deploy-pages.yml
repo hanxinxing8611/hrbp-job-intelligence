@@ -1,14 +1,16 @@
-name: Deploy to GitHub Pages
+﻿name: Deploy to GitHub Pages
 
 on:
   push:
     branches: [master]
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'
+    # 每 2 小时整点触发（UTC 时间，北京时间 = UTC+8）
+    # 例：00:00 UTC = 08:00 北京时间，02:00 UTC = 10:00 北京时间
+    - cron: '0 */2 * * *'
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -22,6 +24,7 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
+    timeout-minutes: 25
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -30,19 +33,54 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
+          cache: 'npm'
 
       - name: Install dependencies
         run: npm install --legacy-peer-deps
 
-      - name: Build static site
-        run: npm run build
+      # --------------------------
+      # 核心：实时抓取 HRBP 职位数据（智联/无忧/BOSS，失败自动 fallback 到旧数据）
+      # --------------------------
+      - name: 📡 Live crawl HRBP jobs (Zhaopin / 51job / Boss best-effort)
+        id: crawl
+        run: |
+          set +e
+          timeout 900 node scripts/scrape-live-jobs.js
+          CRAWLEXIT=$?
+          set -e
+          echo "crawl_exit=$CRAWLEXIT" >> $GITHUB_OUTPUT
+          if [ -f api/jobs.json ]; then
+            CNT=$(node -e "console.log(JSON.parse(require('fs').readFileSync('api/jobs.json','utf8').replace(/^\uFEFF/,'')).data.length)")
+            echo "抓取后 jobs.json 条数: $CNT"
+            echo "job_count=$CNT" >> $GITHUB_OUTPUT
+          else
+            echo "job_count=0" >> $GITHUB_OUTPUT
+          fi
+          # 即使抓取失败（<20条时用旧数据兜底）也继续 build，不中断部署
+          true
+        continue-on-error: true
+
+      # 兜底：如果抓取彻底失败导致 api/jobs.json 不存在/空 → 用 build-real-api.js 生成静态数据
+      - name: 🛡️ Fallback: build static api if crawl produced empty
+        if: steps.crawl.outputs.job_count == 0 || steps.crawl.outputs.job_count < 40
+        run: npm run build:api
+
+      - name: Build frontend only (no overwrite api)
+        run: npm run build:frontend
         env:
           BASE_PATH: '/hrbp-job-intelligence/'
 
-      - name: Copy real API data into dist (612 jobs / 241 companies)
+      - name: Merge live api into dist artifact
         run: |
+          # 把实时抓取/兜底生成的 api/ 目录整个复制到 dist/（Pages 发布产物）
+          if [ -d dist/api ]; then
+            rm -rf dist/api
+          fi
           cp -r api dist/api
-          rm -rf dist/api/jobs dist/api/companies
+          echo "dist/api 目录结构："
+          ls -la dist/api
+          echo "职位条数：$(node -e "console.log(JSON.parse(require('fs').readFileSync('dist/api/jobs.json','utf8').replace(/^\uFEFF/,'')).data.length)")"
+          echo "公司条数：$(node -e "console.log(JSON.parse(require('fs').readFileSync('dist/api/companies.json','utf8').replace(/^\uFEFF/,'')).length)")"
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
@@ -55,3 +93,15 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+      # --------------------------
+      # 可选：把最新抓取的 api/ 回写到仓库（下次抓取可 merge 历史、不丢失）
+      # --------------------------
+      - name: 🗃️ Commit live data back to repo (so future crawls can merge)
+        if: steps.crawl.outputs.job_count > 80
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add api/ || true
+          git diff --cached --quiet || (git commit -m "chore(api): live data snapshot @ $(date -u +%FT%TZ) [job_count=${{ steps.crawl.outputs.job_count }}]" && git push origin master || true)
+        continue-on-error: true

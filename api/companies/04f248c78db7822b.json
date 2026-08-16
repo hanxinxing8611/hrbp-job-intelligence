@@ -1,0 +1,554 @@
+﻿{
+  "companyId": "04f248c78db7822b",
+  "name": "徐州煜之伟电子科技",
+  "industry": "综合",
+  "scale": "",
+  "stage": "",
+  "logoColor": "#2c5282",
+  "logoInitial": "徐",
+  "description": "徐州煜之伟电子科技 正在招聘 HRBP 相关岗位，欢迎了解。",
+  "founded": 2009,
+  "headquarters": "南京",
+  "jobCount": 4,
+  "avgSalary": 5,
+  "jobs": [
+    {
+      "jobId": "21775f17644cefa3",
+      "title": "vivo管培生（HRBP方向）",
+      "companyId": "04f248c78db7822b",
+      "companyName": "徐州煜之伟电子科技",
+      "city": "南京",
+      "district": "鼓楼区",
+      "experience": "3-5年",
+      "education": "本科",
+      "salaryRange": "4-6K·14薪",
+      "salaryMin": 4,
+      "salaryMax": 6,
+      "tags": [
+        "校招",
+        "技术HR",
+        "社招"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/2nehnV_0005FlVY.html",
+      "postedAt": "2026-08-16T08:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 46,
+      "growth": 29,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 48,
+        "annualMax": 96,
+        "monthlyMin": 4,
+        "monthlyMax": 6,
+        "bonus": 9,
+        "stocks": 3,
+        "yearly": 5
+      },
+      "valueScore": 20
+    },
+    {
+      "jobId": "73fc10da9f07f5f9",
+      "title": "vivo管培生（HRBP方向）",
+      "companyId": "04f248c78db7822b",
+      "companyName": "徐州煜之伟电子科技",
+      "city": "潍坊",
+      "district": "潍城区",
+      "experience": "1-3年",
+      "education": "本科",
+      "salaryRange": "4-6K",
+      "salaryMin": 4,
+      "salaryMax": 6,
+      "tags": [
+        "校招",
+        "弹性工作",
+        "研究院",
+        "稳定"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/6322f24bb98b79e20nV-2Nm0FlRX.html",
+      "postedAt": "2026-08-15T22:02:00.691Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 43,
+      "growth": 36,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 48,
+        "annualMax": 96,
+        "monthlyMin": 4,
+        "monthlyMax": 6,
+        "bonus": 9,
+        "stocks": 3,
+        "yearly": 5
+      },
+      "valueScore": 20
+    },
+    {
+      "jobId": "3a60c77dd66ca850",
+      "title": "vivo管培生（HRBP方向）",
+      "companyId": "04f248c78db7822b",
+      "companyName": "徐州煜之伟电子科技",
+      "city": "西安",
+      "district": "未央区",
+      "experience": "3-5年",
+      "education": "本科",
+      "salaryRange": "4-6K·14薪",
+      "salaryMin": 4,
+      "salaryMax": 6,
+      "tags": [
+        "校招",
+        "技术HR",
+        "核心业务"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/2ndgnV_0004FlVY.html",
+      "postedAt": "2026-08-14T13:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 37,
+      "growth": 48,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 48,
+        "annualMax": 96,
+        "monthlyMin": 4,
+        "monthlyMax": 6,
+        "bonus": 9,
+        "stocks": 3,
+        "yearly": 5
+      },
+      "valueScore": 20
+    },
+    {
+      "jobId": "828fb03ed7b1b561",
+      "title": "vivo管培生（HRBP方向）",
+      "companyId": "04f248c78db7822b",
+      "companyName": "徐州煜之伟电子科技",
+      "city": "深圳",
+      "district": "福田区",
+      "experience": "3-5年",
+      "education": "大专",
+      "salaryRange": "4-6K",
+      "salaryMin": 4,
+      "salaryMax": 6,
+      "tags": [
+        "校招",
+        "出海",
+        "商业化",
+        "研究院"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/2nbenV_0002FlVY.html",
+      "postedAt": "2026-08-13T12:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 31,
+      "growth": 21,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 48,
+        "annualMax": 96,
+        "monthlyMin": 4,
+        "monthlyMax": 6,
+        "bonus": 9,
+        "stocks": 3,
+        "yearly": 5
+      },
+      "valueScore": 20
+    }
+  ],
+  "analysis": {
+    "summary": "徐州煜之伟电子科技（综合）当前在招 HRBP 相关岗位 4 个，平均薪资 5k。",
+    "salaryBenchmark": {
+      "companyAvg": 5,
+      "industryAvg": 18.3,
+      "cityAvg": 4.8,
+      "percentile": 70
+    },
+    "openings": [
+      {
+        "jobId": "21775f17644cefa3",
+        "title": "vivo管培生（HRBP方向）",
+        "companyId": "04f248c78db7822b",
+        "companyName": "徐州煜之伟电子科技",
+        "city": "南京",
+        "district": "鼓楼区",
+        "experience": "3-5年",
+        "education": "本科",
+        "salaryRange": "4-6K·14薪",
+        "salaryMin": 4,
+        "salaryMax": 6,
+        "tags": [
+          "校招",
+          "技术HR",
+          "社招"
+        ],
+        "source": "BOSS直聘",
+        "sourceUrl": "https://m.zhipin.com/job_detail/2nehnV_0005FlVY.html",
+        "postedAt": "2026-08-16T08:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 46,
+        "growth": 29,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 48,
+          "annualMax": 96,
+          "monthlyMin": 4,
+          "monthlyMax": 6,
+          "bonus": 9,
+          "stocks": 3,
+          "yearly": 5
+        },
+        "valueScore": 20
+      },
+      {
+        "jobId": "73fc10da9f07f5f9",
+        "title": "vivo管培生（HRBP方向）",
+        "companyId": "04f248c78db7822b",
+        "companyName": "徐州煜之伟电子科技",
+        "city": "潍坊",
+        "district": "潍城区",
+        "experience": "1-3年",
+        "education": "本科",
+        "salaryRange": "4-6K",
+        "salaryMin": 4,
+        "salaryMax": 6,
+        "tags": [
+          "校招",
+          "弹性工作",
+          "研究院",
+          "稳定"
+        ],
+        "source": "BOSS直聘",
+        "sourceUrl": "https://m.zhipin.com/job_detail/6322f24bb98b79e20nV-2Nm0FlRX.html",
+        "postedAt": "2026-08-15T22:02:00.691Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 43,
+        "growth": 36,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 48,
+          "annualMax": 96,
+          "monthlyMin": 4,
+          "monthlyMax": 6,
+          "bonus": 9,
+          "stocks": 3,
+          "yearly": 5
+        },
+        "valueScore": 20
+      },
+      {
+        "jobId": "3a60c77dd66ca850",
+        "title": "vivo管培生（HRBP方向）",
+        "companyId": "04f248c78db7822b",
+        "companyName": "徐州煜之伟电子科技",
+        "city": "西安",
+        "district": "未央区",
+        "experience": "3-5年",
+        "education": "本科",
+        "salaryRange": "4-6K·14薪",
+        "salaryMin": 4,
+        "salaryMax": 6,
+        "tags": [
+          "校招",
+          "技术HR",
+          "核心业务"
+        ],
+        "source": "BOSS直聘",
+        "sourceUrl": "https://m.zhipin.com/job_detail/2ndgnV_0004FlVY.html",
+        "postedAt": "2026-08-14T13:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 37,
+        "growth": 48,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 48,
+          "annualMax": 96,
+          "monthlyMin": 4,
+          "monthlyMax": 6,
+          "bonus": 9,
+          "stocks": 3,
+          "yearly": 5
+        },
+        "valueScore": 20
+      },
+      {
+        "jobId": "828fb03ed7b1b561",
+        "title": "vivo管培生（HRBP方向）",
+        "companyId": "04f248c78db7822b",
+        "companyName": "徐州煜之伟电子科技",
+        "city": "深圳",
+        "district": "福田区",
+        "experience": "3-5年",
+        "education": "大专",
+        "salaryRange": "4-6K",
+        "salaryMin": 4,
+        "salaryMax": 6,
+        "tags": [
+          "校招",
+          "出海",
+          "商业化",
+          "研究院"
+        ],
+        "source": "BOSS直聘",
+        "sourceUrl": "https://m.zhipin.com/job_detail/2nbenV_0002FlVY.html",
+        "postedAt": "2026-08-13T12:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 31,
+        "growth": 21,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 48,
+          "annualMax": 96,
+          "monthlyMin": 4,
+          "monthlyMax": 6,
+          "bonus": 9,
+          "stocks": 3,
+          "yearly": 5
+        },
+        "valueScore": 20
+      }
+    ],
+    "trends": [
+      {
+        "year": "2022",
+        "companyId": "04f248c78db7822b",
+        "revenue": 122,
+        "headcount": 95,
+        "openings": 1
+      },
+      {
+        "year": "2023",
+        "companyId": "04f248c78db7822b",
+        "revenue": 155,
+        "headcount": 120,
+        "openings": 2
+      },
+      {
+        "year": "2024",
+        "companyId": "04f248c78db7822b",
+        "revenue": 172,
+        "headcount": 134,
+        "openings": 4
+      },
+      {
+        "year": "2025",
+        "companyId": "04f248c78db7822b",
+        "revenue": 198,
+        "headcount": 155,
+        "openings": 6
+      },
+      {
+        "year": "2026",
+        "companyId": "04f248c78db7822b",
+        "revenue": 219,
+        "headcount": 171,
+        "openings": 8
+      }
+    ],
+    "comparisons": [
+      {
+        "companyId": "04f248c78db7822b",
+        "metric": "薪资竞争力",
+        "value": 16,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "04f248c78db7822b",
+        "metric": "招聘活跃度",
+        "value": 52,
+        "industryAvg": 45
+      },
+      {
+        "companyId": "04f248c78db7822b",
+        "metric": "组织规模",
+        "value": 50,
+        "industryAvg": 55
+      }
+    ],
+    "scoreCard": {
+      "companyId": "04f248c78db7822b",
+      "atmosphereScore": 78,
+      "competitivenessScore": 76,
+      "potentialScore": 66,
+      "overall": 0,
+      "grade": "B",
+      "strengths": [],
+      "weaknesses": []
+    },
+    "atmosphere": {
+      "companyId": "04f248c78db7822b",
+      "cultureOpenness": 86,
+      "overtimeIntensity": 61,
+      "promotionSpace": 75,
+      "teamStability": 86,
+      "leadership": 72
+    }
+  }
+}

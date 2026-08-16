@@ -1,0 +1,554 @@
+﻿{
+  "companyId": "f2ce831d44975752",
+  "name": "甘李药业",
+  "industry": "综合",
+  "scale": "",
+  "stage": "",
+  "logoColor": "#b7791f",
+  "logoInitial": "甘",
+  "description": "甘李药业 正在招聘 HRBP 相关岗位，欢迎了解。",
+  "founded": 2007,
+  "headquarters": "扬州",
+  "jobCount": 4,
+  "avgSalary": 19.3,
+  "jobs": [
+    {
+      "jobId": "18ea2749015cc310",
+      "title": "研发方向HRBP",
+      "companyId": "f2ce831d44975752",
+      "companyName": "甘李药业",
+      "city": "扬州",
+      "district": "",
+      "experience": "在校/应届",
+      "education": "硕士",
+      "salaryRange": "16-26K",
+      "salaryMin": 16,
+      "salaryMax": 26,
+      "tags": [
+        "技术HR",
+        "硬科技",
+        "新能源"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3PPWJ00000212.htm",
+      "postedAt": "2026-08-12T09:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 28,
+      "growth": 29,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 192,
+        "annualMax": 416,
+        "monthlyMin": 16,
+        "monthlyMax": 26,
+        "bonus": 37.8,
+        "stocks": 12.6,
+        "yearly": 21
+      },
+      "valueScore": 84
+    },
+    {
+      "jobId": "e927a1914b20eaf5",
+      "title": "研发方向HRBP",
+      "companyId": "f2ce831d44975752",
+      "companyName": "甘李药业",
+      "city": "北京",
+      "district": "通州区",
+      "experience": "经验不限",
+      "education": "硕士",
+      "salaryRange": "15-25K·13薪",
+      "salaryMin": 15,
+      "salaryMax": 25,
+      "tags": [
+        "技术HR",
+        "硬科技",
+        "社招",
+        "互联网"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC146666250J40656549910.htm",
+      "postedAt": "2026-08-14T04:02:00.691Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 35,
+      "growth": 84,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 180,
+        "annualMax": 400,
+        "monthlyMin": 15,
+        "monthlyMax": 25,
+        "bonus": 36,
+        "stocks": 12,
+        "yearly": 20
+      },
+      "valueScore": 80
+    },
+    {
+      "jobId": "7f700ea6965cdd62",
+      "title": "研发方向HRBP",
+      "companyId": "f2ce831d44975752",
+      "companyName": "甘李药业",
+      "city": "盐城",
+      "district": "",
+      "experience": "1-3年",
+      "education": "硕士",
+      "salaryRange": "14-24K",
+      "salaryMin": 14,
+      "salaryMax": 24,
+      "tags": [
+        "技术HR",
+        "硬科技",
+        "新能源",
+        "弹性工作"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3PQXJ00000213.htm",
+      "postedAt": "2026-08-14T09:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 36,
+      "growth": 64,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 168,
+        "annualMax": 384,
+        "monthlyMin": 14,
+        "monthlyMax": 24,
+        "bonus": 34.2,
+        "stocks": 11.4,
+        "yearly": 19
+      },
+      "valueScore": 76
+    },
+    {
+      "jobId": "6fb3a5cc3e2e67f0",
+      "title": "研发方向HRBP",
+      "companyId": "f2ce831d44975752",
+      "companyName": "甘李药业",
+      "city": "兰州",
+      "district": "",
+      "experience": "1-3年",
+      "education": "硕士",
+      "salaryRange": "12-22K·14薪",
+      "salaryMin": 12,
+      "salaryMax": 22,
+      "tags": [
+        "技术HR",
+        "硬科技",
+        "AI赛道"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3PSZJ00000215.htm",
+      "postedAt": "2026-08-13T00:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 28,
+      "growth": 67,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 144,
+        "annualMax": 352,
+        "monthlyMin": 12,
+        "monthlyMax": 22,
+        "bonus": 30.6,
+        "stocks": 10.2,
+        "yearly": 17
+      },
+      "valueScore": 68
+    }
+  ],
+  "analysis": {
+    "summary": "甘李药业（综合）当前在招 HRBP 相关岗位 4 个，平均薪资 19.3k。",
+    "salaryBenchmark": {
+      "companyAvg": 19.3,
+      "industryAvg": 18.3,
+      "cityAvg": 18.3,
+      "percentile": 70
+    },
+    "openings": [
+      {
+        "jobId": "18ea2749015cc310",
+        "title": "研发方向HRBP",
+        "companyId": "f2ce831d44975752",
+        "companyName": "甘李药业",
+        "city": "扬州",
+        "district": "",
+        "experience": "在校/应届",
+        "education": "硕士",
+        "salaryRange": "16-26K",
+        "salaryMin": 16,
+        "salaryMax": 26,
+        "tags": [
+          "技术HR",
+          "硬科技",
+          "新能源"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3PPWJ00000212.htm",
+        "postedAt": "2026-08-12T09:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 28,
+        "growth": 29,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 192,
+          "annualMax": 416,
+          "monthlyMin": 16,
+          "monthlyMax": 26,
+          "bonus": 37.8,
+          "stocks": 12.6,
+          "yearly": 21
+        },
+        "valueScore": 84
+      },
+      {
+        "jobId": "e927a1914b20eaf5",
+        "title": "研发方向HRBP",
+        "companyId": "f2ce831d44975752",
+        "companyName": "甘李药业",
+        "city": "北京",
+        "district": "通州区",
+        "experience": "经验不限",
+        "education": "硕士",
+        "salaryRange": "15-25K·13薪",
+        "salaryMin": 15,
+        "salaryMax": 25,
+        "tags": [
+          "技术HR",
+          "硬科技",
+          "社招",
+          "互联网"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC146666250J40656549910.htm",
+        "postedAt": "2026-08-14T04:02:00.691Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 35,
+        "growth": 84,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 180,
+          "annualMax": 400,
+          "monthlyMin": 15,
+          "monthlyMax": 25,
+          "bonus": 36,
+          "stocks": 12,
+          "yearly": 20
+        },
+        "valueScore": 80
+      },
+      {
+        "jobId": "7f700ea6965cdd62",
+        "title": "研发方向HRBP",
+        "companyId": "f2ce831d44975752",
+        "companyName": "甘李药业",
+        "city": "盐城",
+        "district": "",
+        "experience": "1-3年",
+        "education": "硕士",
+        "salaryRange": "14-24K",
+        "salaryMin": 14,
+        "salaryMax": 24,
+        "tags": [
+          "技术HR",
+          "硬科技",
+          "新能源",
+          "弹性工作"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3PQXJ00000213.htm",
+        "postedAt": "2026-08-14T09:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 36,
+        "growth": 64,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 168,
+          "annualMax": 384,
+          "monthlyMin": 14,
+          "monthlyMax": 24,
+          "bonus": 34.2,
+          "stocks": 11.4,
+          "yearly": 19
+        },
+        "valueScore": 76
+      },
+      {
+        "jobId": "6fb3a5cc3e2e67f0",
+        "title": "研发方向HRBP",
+        "companyId": "f2ce831d44975752",
+        "companyName": "甘李药业",
+        "city": "兰州",
+        "district": "",
+        "experience": "1-3年",
+        "education": "硕士",
+        "salaryRange": "12-22K·14薪",
+        "salaryMin": 12,
+        "salaryMax": 22,
+        "tags": [
+          "技术HR",
+          "硬科技",
+          "AI赛道"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3PSZJ00000215.htm",
+        "postedAt": "2026-08-13T00:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 28,
+        "growth": 67,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 144,
+          "annualMax": 352,
+          "monthlyMin": 12,
+          "monthlyMax": 22,
+          "bonus": 30.6,
+          "stocks": 10.2,
+          "yearly": 17
+        },
+        "valueScore": 68
+      }
+    ],
+    "trends": [
+      {
+        "year": "2022",
+        "companyId": "f2ce831d44975752",
+        "revenue": 127,
+        "headcount": 97,
+        "openings": 1
+      },
+      {
+        "year": "2023",
+        "companyId": "f2ce831d44975752",
+        "revenue": 154,
+        "headcount": 119,
+        "openings": 2
+      },
+      {
+        "year": "2024",
+        "companyId": "f2ce831d44975752",
+        "revenue": 177,
+        "headcount": 133,
+        "openings": 4
+      },
+      {
+        "year": "2025",
+        "companyId": "f2ce831d44975752",
+        "revenue": 197,
+        "headcount": 150,
+        "openings": 6
+      },
+      {
+        "year": "2026",
+        "companyId": "f2ce831d44975752",
+        "revenue": 211,
+        "headcount": 172,
+        "openings": 8
+      }
+    ],
+    "comparisons": [
+      {
+        "companyId": "f2ce831d44975752",
+        "metric": "薪资竞争力",
+        "value": 63,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "f2ce831d44975752",
+        "metric": "招聘活跃度",
+        "value": 52,
+        "industryAvg": 45
+      },
+      {
+        "companyId": "f2ce831d44975752",
+        "metric": "组织规模",
+        "value": 50,
+        "industryAvg": 55
+      }
+    ],
+    "scoreCard": {
+      "companyId": "f2ce831d44975752",
+      "atmosphereScore": 69,
+      "competitivenessScore": 84,
+      "potentialScore": 62,
+      "overall": 0,
+      "grade": "B",
+      "strengths": [],
+      "weaknesses": []
+    },
+    "atmosphere": {
+      "companyId": "f2ce831d44975752",
+      "cultureOpenness": 85,
+      "overtimeIntensity": 55,
+      "promotionSpace": 58,
+      "teamStability": 87,
+      "leadership": 89
+    }
+  }
+}

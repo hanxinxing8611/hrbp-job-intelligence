@@ -1,0 +1,413 @@
+﻿{
+  "companyId": "佰维存储",
+  "name": "佰维存储",
+  "industry": "半导体",
+  "scale": "500-1000人",
+  "stage": "成长期",
+  "founded": "1994",
+  "headquarters": "成都",
+  "branches": [],
+  "description": "佰维存储是半导体领域的企业。",
+  "logoColor": "#5e83e1",
+  "logoInitial": "佰",
+  "jobs": [
+    {
+      "jobId": "real_091",
+      "title": "HRBP",
+      "companyId": "佰维存储",
+      "companyName": "佰维存储",
+      "companyIndustry": "半导体",
+      "city": "成都",
+      "district": "犀浦",
+      "experience": "3年以上",
+      "education": "本科",
+      "salaryRange": "15-25K·15薪",
+      "salaryMin": 15,
+      "salaryMax": 25,
+      "bonusMonths": 15,
+      "tags": [
+        "硬科技",
+        "高增长",
+        "校招"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984336485.shtml",
+      "postedAt": "2026-08-15T11:41:50.102Z",
+      "crawledAt": "2026-08-16T11:41:50.102Z",
+      "heat": 333,
+      "growth": 41,
+      "url": "https://www.liepin.com/job/1984336485.shtml",
+      "benefits": [
+        "员工宿舍",
+        "带薪年假",
+        "补充医疗",
+        "弹性工作"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进",
+        "主导人才盘点与高潜员工识别，制定关键人才的发展与保留计划"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "3年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "佰维存储招聘HRBP，工作地点成都·犀浦，薪资15-25K·15薪，要求3年以上经验、本科学历。",
+      "valueScore": 7.5,
+      "salaryBreakdown": {
+        "p10": 15,
+        "p25": 17,
+        "p50": 20,
+        "p75": 23,
+        "p90": 27
+      }
+    },
+    {
+      "jobId": "aug_0454",
+      "title": "HRBP",
+      "companyId": "佰维存储",
+      "companyName": "佰维存储",
+      "companyIndustry": "半导体",
+      "city": "烟台",
+      "district": "",
+      "experience": "2年以上",
+      "education": "本科",
+      "salaryRange": "12-18K",
+      "salaryMin": 12,
+      "salaryMax": 18,
+      "bonusMonths": 13,
+      "tags": [
+        "硬科技",
+        "新能源",
+        "组织发展"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984190856.shtml",
+      "postedAt": "2026-08-15T05:41:50.107Z",
+      "crawledAt": "2026-08-16T11:41:50.107Z",
+      "heat": 135,
+      "growth": 38,
+      "url": "https://www.liepin.com/job/1984190856.shtml",
+      "benefits": [
+        "五险一金",
+        "免费班车",
+        "企业年金",
+        "商业保险"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进",
+        "主导人才盘点与高潜员工识别，制定关键人才的发展与保留计划"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "2年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "佰维存储招聘HRBP，工作地点烟台，薪资12-18K，要求2年以上经验、本科学历。",
+      "valueScore": 8.4,
+      "salaryBreakdown": {
+        "p10": 12,
+        "p25": 13,
+        "p50": 15,
+        "p75": 17,
+        "p90": 19
+      }
+    },
+    {
+      "jobId": "aug_0451",
+      "title": "HRBP",
+      "companyId": "佰维存储",
+      "companyName": "佰维存储",
+      "companyIndustry": "半导体",
+      "city": "哈尔滨",
+      "district": "",
+      "experience": "2年以上",
+      "education": "本科",
+      "salaryRange": "14-22K",
+      "salaryMin": 14,
+      "salaryMax": 22,
+      "bonusMonths": 13,
+      "tags": [
+        "硬科技",
+        "金融",
+        "硕博团队",
+        "培训"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984189599.shtml",
+      "postedAt": "2026-08-12T09:41:50.107Z",
+      "crawledAt": "2026-08-16T07:41:50.107Z",
+      "heat": 50,
+      "growth": 6,
+      "url": "https://www.liepin.com/job/1984189599.shtml",
+      "benefits": [
+        "五险一金",
+        "免费三餐",
+        "商业保险",
+        "补充医疗"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "2年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "佰维存储招聘HRBP，工作地点哈尔滨，薪资14-22K，要求2年以上经验、本科学历。",
+      "valueScore": 10.1,
+      "salaryBreakdown": {
+        "p10": 14,
+        "p25": 16,
+        "p50": 18,
+        "p75": 20,
+        "p90": 24
+      }
+    },
+    {
+      "jobId": "aug_0452",
+      "title": "高级HRBP",
+      "companyId": "佰维存储",
+      "companyName": "佰维存储",
+      "companyIndustry": "半导体",
+      "city": "佛山",
+      "district": "禅城区",
+      "experience": "5年以上",
+      "education": "本科",
+      "salaryRange": "12-22K·14薪",
+      "salaryMin": 12,
+      "salaryMax": 22,
+      "bonusMonths": 14,
+      "tags": [
+        "硬科技",
+        "金融",
+        "数字化",
+        "社招"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984190018.shtml",
+      "postedAt": "2026-08-14T11:41:50.107Z",
+      "crawledAt": "2026-08-16T05:41:50.107Z",
+      "heat": 50,
+      "growth": 39,
+      "url": "https://www.liepin.com/job/1984190018.shtml",
+      "benefits": [
+        "年度体检",
+        "年终奖",
+        "项目奖金",
+        "免费三餐"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进",
+        "主导人才盘点与高潜员工识别，制定关键人才的发展与保留计划"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "5年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "佰维存储招聘高级HRBP，工作地点佛山·禅城区，薪资12-22K·14薪，要求5年以上经验、本科学历。",
+      "valueScore": 3.8,
+      "salaryBreakdown": {
+        "p10": 12,
+        "p25": 14,
+        "p50": 17,
+        "p75": 20,
+        "p90": 24
+      }
+    },
+    {
+      "jobId": "aug_0455",
+      "title": "高级HRBP",
+      "companyId": "佰维存储",
+      "companyName": "佰维存储",
+      "companyIndustry": "半导体",
+      "city": "扬州",
+      "district": "",
+      "experience": "5年以上",
+      "education": "本科",
+      "salaryRange": "18-30K",
+      "salaryMin": 18,
+      "salaryMax": 30,
+      "bonusMonths": 13,
+      "tags": [
+        "硬科技",
+        "新能源",
+        "弹性工作"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984191275.shtml",
+      "postedAt": "2026-08-12T10:41:50.107Z",
+      "crawledAt": "2026-08-16T14:41:50.107Z",
+      "heat": 50,
+      "growth": 16,
+      "url": "https://www.liepin.com/job/1984191275.shtml",
+      "benefits": [
+        "年终奖",
+        "股票期权",
+        "租房补贴",
+        "企业年金"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "5年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "佰维存储招聘高级HRBP，工作地点扬州，薪资18-30K，要求5年以上经验、本科学历。",
+      "valueScore": 5.4,
+      "salaryBreakdown": {
+        "p10": 18,
+        "p25": 20,
+        "p50": 24,
+        "p75": 28,
+        "p90": 32
+      }
+    }
+  ],
+  "analysis": {
+    "companyId": "佰维存储",
+    "atmosphereScore": 85,
+    "competitivenessScore": 76,
+    "potentialScore": 72,
+    "overall": 78,
+    "grade": "B",
+    "strengths": [
+      "团队氛围好",
+      "发展空间大",
+      "福利待遇优"
+    ],
+    "weaknesses": [
+      "部分流程待优化",
+      "行业竞争激烈"
+    ],
+    "radar": [
+      {
+        "label": "文化开放度",
+        "value": 74,
+        "key": "cultureOpenness"
+      },
+      {
+        "label": "晋升空间",
+        "value": 75,
+        "key": "promotionSpace"
+      },
+      {
+        "label": "团队稳定",
+        "value": 90,
+        "key": "teamStability"
+      },
+      {
+        "label": "领导力",
+        "value": 51,
+        "key": "leadership"
+      },
+      {
+        "label": "加班强度",
+        "value": 56,
+        "key": "overtimeIntensity"
+      }
+    ],
+    "competitors": [
+      {
+        "companyId": "佰维存储",
+        "metric": "薪资竞争力",
+        "value": 91,
+        "industryAvg": 65
+      },
+      {
+        "companyId": "佰维存储",
+        "metric": "发展潜力",
+        "value": 80,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "佰维存储",
+        "metric": "团队氛围",
+        "value": 83,
+        "industryAvg": 70
+      },
+      {
+        "companyId": "佰维存储",
+        "metric": "稳定性",
+        "value": 63,
+        "industryAvg": 55
+      },
+      {
+        "companyId": "佰维存储",
+        "metric": "行业地位",
+        "value": 61,
+        "industryAvg": 50
+      }
+    ],
+    "trend": [
+      {
+        "companyId": "佰维存储",
+        "year": "2021",
+        "revenue": 1054,
+        "headcount": 105,
+        "openings": 21
+      },
+      {
+        "companyId": "佰维存储",
+        "year": "2022",
+        "revenue": 949,
+        "headcount": 123,
+        "openings": 41
+      },
+      {
+        "companyId": "佰维存储",
+        "year": "2023",
+        "revenue": 820,
+        "headcount": 123,
+        "openings": 42
+      },
+      {
+        "companyId": "佰维存储",
+        "year": "2024",
+        "revenue": 1000,
+        "headcount": 109,
+        "openings": 14
+      },
+      {
+        "companyId": "佰维存储",
+        "year": "2025",
+        "revenue": 1121,
+        "headcount": 109,
+        "openings": 42
+      }
+    ]
+  }
+}

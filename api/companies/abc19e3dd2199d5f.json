@@ -1,0 +1,662 @@
+﻿{
+  "companyId": "abc19e3dd2199d5f",
+  "name": "乾程科技",
+  "industry": "综合",
+  "scale": "",
+  "stage": "",
+  "logoColor": "#2c5282",
+  "logoInitial": "乾",
+  "description": "乾程科技 正在招聘 HRBP 相关岗位，欢迎了解。",
+  "founded": 2006,
+  "headquarters": "天津",
+  "jobCount": 5,
+  "avgSalary": 15,
+  "jobs": [
+    {
+      "jobId": "ade41e336604593a",
+      "title": "HRBP",
+      "companyId": "abc19e3dd2199d5f",
+      "companyName": "乾程科技",
+      "city": "天津",
+      "district": "和平区",
+      "experience": "5-10年",
+      "education": "本科",
+      "salaryRange": "12-20K",
+      "salaryMin": 12,
+      "salaryMax": 20,
+      "tags": [
+        "组织发展",
+        "稳定",
+        "期权激励"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/3cw1nV_0141FlVY.html",
+      "postedAt": "2026-08-15T17:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 46,
+      "growth": 87,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 144,
+        "annualMax": 320,
+        "monthlyMin": 12,
+        "monthlyMax": 20,
+        "bonus": 28.8,
+        "stocks": 9.6,
+        "yearly": 16
+      },
+      "valueScore": 64
+    },
+    {
+      "jobId": "69ff60ed86222bc6",
+      "title": "HRBP",
+      "companyId": "abc19e3dd2199d5f",
+      "companyName": "乾程科技",
+      "city": "青岛",
+      "district": "",
+      "experience": "3-5年",
+      "education": "本科",
+      "salaryRange": "12-20K",
+      "salaryMin": 12,
+      "salaryMax": 20,
+      "tags": [
+        "稳定",
+        "商业化",
+        "商业保险"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/b3de7b9f397b79510nV609W1F1NS.html",
+      "postedAt": "2026-08-14T18:02:00.691Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 41,
+      "growth": 17,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 144,
+        "annualMax": 320,
+        "monthlyMin": 12,
+        "monthlyMax": 20,
+        "bonus": 28.8,
+        "stocks": 9.6,
+        "yearly": 16
+      },
+      "valueScore": 64
+    },
+    {
+      "jobId": "8860a66d3e03e487",
+      "title": "HRBP",
+      "companyId": "abc19e3dd2199d5f",
+      "companyName": "乾程科技",
+      "city": "郑州",
+      "district": "二七区",
+      "experience": "1-3年",
+      "education": "本科",
+      "salaryRange": "12-20K·15薪",
+      "salaryMin": 12,
+      "salaryMax": 20,
+      "tags": [
+        "组织发展",
+        "员工关系",
+        "互联网"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/3cx2nV_0142FlVY.html",
+      "postedAt": "2026-08-12T10:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 29,
+      "growth": 89,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 144,
+        "annualMax": 320,
+        "monthlyMin": 12,
+        "monthlyMax": 20,
+        "bonus": 28.8,
+        "stocks": 9.6,
+        "yearly": 16
+      },
+      "valueScore": 64
+    },
+    {
+      "jobId": "c85f790434478c37",
+      "title": "HRBP",
+      "companyId": "abc19e3dd2199d5f",
+      "companyName": "乾程科技",
+      "city": "佛山",
+      "district": "三水区",
+      "experience": "3-5年",
+      "education": "本科",
+      "salaryRange": "10-18K",
+      "salaryMin": 10,
+      "salaryMax": 18,
+      "tags": [
+        "校招",
+        "硕博团队",
+        "社招"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/3cz4nV_0144FlVY.html",
+      "postedAt": "2026-08-16T15:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 49,
+      "growth": 53,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 120,
+        "annualMax": 288,
+        "monthlyMin": 10,
+        "monthlyMax": 18,
+        "bonus": 25.2,
+        "stocks": 8.4,
+        "yearly": 14
+      },
+      "valueScore": 56
+    },
+    {
+      "jobId": "d40a7c7c0796834f",
+      "title": "HRBP",
+      "companyId": "abc19e3dd2199d5f",
+      "companyName": "乾程科技",
+      "city": "无锡",
+      "district": "",
+      "experience": "5-10年",
+      "education": "本科",
+      "salaryRange": "10-16K",
+      "salaryMin": 10,
+      "salaryMax": 16,
+      "tags": [
+        "校招",
+        "数字化",
+        "技术HR"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/3d05nV_0145FlVY.html",
+      "postedAt": "2026-08-13T23:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 35,
+      "growth": 33,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 120,
+        "annualMax": 256,
+        "monthlyMin": 10,
+        "monthlyMax": 16,
+        "bonus": 23.4,
+        "stocks": 7.8,
+        "yearly": 13
+      },
+      "valueScore": 52
+    }
+  ],
+  "analysis": {
+    "summary": "乾程科技（综合）当前在招 HRBP 相关岗位 5 个，平均薪资 15k。",
+    "salaryBenchmark": {
+      "companyAvg": 15,
+      "industryAvg": 18.3,
+      "cityAvg": 14.3,
+      "percentile": 70
+    },
+    "openings": [
+      {
+        "jobId": "ade41e336604593a",
+        "title": "HRBP",
+        "companyId": "abc19e3dd2199d5f",
+        "companyName": "乾程科技",
+        "city": "天津",
+        "district": "和平区",
+        "experience": "5-10年",
+        "education": "本科",
+        "salaryRange": "12-20K",
+        "salaryMin": 12,
+        "salaryMax": 20,
+        "tags": [
+          "组织发展",
+          "稳定",
+          "期权激励"
+        ],
+        "source": "BOSS直聘",
+        "sourceUrl": "https://m.zhipin.com/job_detail/3cw1nV_0141FlVY.html",
+        "postedAt": "2026-08-15T17:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 46,
+        "growth": 87,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 144,
+          "annualMax": 320,
+          "monthlyMin": 12,
+          "monthlyMax": 20,
+          "bonus": 28.8,
+          "stocks": 9.6,
+          "yearly": 16
+        },
+        "valueScore": 64
+      },
+      {
+        "jobId": "69ff60ed86222bc6",
+        "title": "HRBP",
+        "companyId": "abc19e3dd2199d5f",
+        "companyName": "乾程科技",
+        "city": "青岛",
+        "district": "",
+        "experience": "3-5年",
+        "education": "本科",
+        "salaryRange": "12-20K",
+        "salaryMin": 12,
+        "salaryMax": 20,
+        "tags": [
+          "稳定",
+          "商业化",
+          "商业保险"
+        ],
+        "source": "BOSS直聘",
+        "sourceUrl": "https://m.zhipin.com/job_detail/b3de7b9f397b79510nV609W1F1NS.html",
+        "postedAt": "2026-08-14T18:02:00.691Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 41,
+        "growth": 17,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 144,
+          "annualMax": 320,
+          "monthlyMin": 12,
+          "monthlyMax": 20,
+          "bonus": 28.8,
+          "stocks": 9.6,
+          "yearly": 16
+        },
+        "valueScore": 64
+      },
+      {
+        "jobId": "8860a66d3e03e487",
+        "title": "HRBP",
+        "companyId": "abc19e3dd2199d5f",
+        "companyName": "乾程科技",
+        "city": "郑州",
+        "district": "二七区",
+        "experience": "1-3年",
+        "education": "本科",
+        "salaryRange": "12-20K·15薪",
+        "salaryMin": 12,
+        "salaryMax": 20,
+        "tags": [
+          "组织发展",
+          "员工关系",
+          "互联网"
+        ],
+        "source": "BOSS直聘",
+        "sourceUrl": "https://m.zhipin.com/job_detail/3cx2nV_0142FlVY.html",
+        "postedAt": "2026-08-12T10:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 29,
+        "growth": 89,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 144,
+          "annualMax": 320,
+          "monthlyMin": 12,
+          "monthlyMax": 20,
+          "bonus": 28.8,
+          "stocks": 9.6,
+          "yearly": 16
+        },
+        "valueScore": 64
+      },
+      {
+        "jobId": "c85f790434478c37",
+        "title": "HRBP",
+        "companyId": "abc19e3dd2199d5f",
+        "companyName": "乾程科技",
+        "city": "佛山",
+        "district": "三水区",
+        "experience": "3-5年",
+        "education": "本科",
+        "salaryRange": "10-18K",
+        "salaryMin": 10,
+        "salaryMax": 18,
+        "tags": [
+          "校招",
+          "硕博团队",
+          "社招"
+        ],
+        "source": "BOSS直聘",
+        "sourceUrl": "https://m.zhipin.com/job_detail/3cz4nV_0144FlVY.html",
+        "postedAt": "2026-08-16T15:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 49,
+        "growth": 53,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 120,
+          "annualMax": 288,
+          "monthlyMin": 10,
+          "monthlyMax": 18,
+          "bonus": 25.2,
+          "stocks": 8.4,
+          "yearly": 14
+        },
+        "valueScore": 56
+      },
+      {
+        "jobId": "d40a7c7c0796834f",
+        "title": "HRBP",
+        "companyId": "abc19e3dd2199d5f",
+        "companyName": "乾程科技",
+        "city": "无锡",
+        "district": "",
+        "experience": "5-10年",
+        "education": "本科",
+        "salaryRange": "10-16K",
+        "salaryMin": 10,
+        "salaryMax": 16,
+        "tags": [
+          "校招",
+          "数字化",
+          "技术HR"
+        ],
+        "source": "BOSS直聘",
+        "sourceUrl": "https://m.zhipin.com/job_detail/3d05nV_0145FlVY.html",
+        "postedAt": "2026-08-13T23:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 35,
+        "growth": 33,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 120,
+          "annualMax": 256,
+          "monthlyMin": 10,
+          "monthlyMax": 16,
+          "bonus": 23.4,
+          "stocks": 7.8,
+          "yearly": 13
+        },
+        "valueScore": 52
+      }
+    ],
+    "trends": [
+      {
+        "year": "2022",
+        "companyId": "abc19e3dd2199d5f",
+        "revenue": 120,
+        "headcount": 89,
+        "openings": 1
+      },
+      {
+        "year": "2023",
+        "companyId": "abc19e3dd2199d5f",
+        "revenue": 157,
+        "headcount": 118,
+        "openings": 3
+      },
+      {
+        "year": "2024",
+        "companyId": "abc19e3dd2199d5f",
+        "revenue": 173,
+        "headcount": 126,
+        "openings": 5
+      },
+      {
+        "year": "2025",
+        "companyId": "abc19e3dd2199d5f",
+        "revenue": 198,
+        "headcount": 147,
+        "openings": 7
+      },
+      {
+        "year": "2026",
+        "companyId": "abc19e3dd2199d5f",
+        "revenue": 208,
+        "headcount": 161,
+        "openings": 9
+      }
+    ],
+    "comparisons": [
+      {
+        "companyId": "abc19e3dd2199d5f",
+        "metric": "薪资竞争力",
+        "value": 49,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "abc19e3dd2199d5f",
+        "metric": "招聘活跃度",
+        "value": 55,
+        "industryAvg": 45
+      },
+      {
+        "companyId": "abc19e3dd2199d5f",
+        "metric": "组织规模",
+        "value": 50,
+        "industryAvg": 55
+      }
+    ],
+    "scoreCard": {
+      "companyId": "abc19e3dd2199d5f",
+      "atmosphereScore": 79,
+      "competitivenessScore": 76,
+      "potentialScore": 83,
+      "overall": 0,
+      "grade": "B",
+      "strengths": [],
+      "weaknesses": []
+    },
+    "atmosphere": {
+      "companyId": "abc19e3dd2199d5f",
+      "cultureOpenness": 78,
+      "overtimeIntensity": 60,
+      "promotionSpace": 71,
+      "teamStability": 75,
+      "leadership": 88
+    }
+  }
+}

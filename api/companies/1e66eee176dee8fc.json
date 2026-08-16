@@ -1,0 +1,330 @@
+﻿{
+  "companyId": "1e66eee176dee8fc",
+  "name": "万声信息华北区域中心",
+  "industry": "综合",
+  "scale": "",
+  "stage": "",
+  "logoColor": "#9f1239",
+  "logoInitial": "万",
+  "description": "万声信息华北区域中心 正在招聘 HRBP 相关岗位，欢迎了解。",
+  "founded": 2004,
+  "headquarters": "无锡",
+  "jobCount": 2,
+  "avgSalary": 15,
+  "jobs": [
+    {
+      "jobId": "92da1aa7f7fc9b4b",
+      "title": "HRBP（西南大区）",
+      "companyId": "1e66eee176dee8fc",
+      "companyName": "万声信息华北区域中心",
+      "city": "无锡",
+      "district": "",
+      "experience": "10年以上",
+      "education": "本科",
+      "salaryRange": "14-18K",
+      "salaryMin": 14,
+      "salaryMax": 18,
+      "tags": [
+        "互联网",
+        "社招",
+        "员工关系",
+        "WLB"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984185814.shtml",
+      "postedAt": "2026-08-12T09:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 26,
+      "growth": 85,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 168,
+        "annualMax": 288,
+        "monthlyMin": 14,
+        "monthlyMax": 18,
+        "bonus": 28.8,
+        "stocks": 9.6,
+        "yearly": 16
+      },
+      "valueScore": 64
+    },
+    {
+      "jobId": "217a82eccae29d06",
+      "title": "高级HRBP（西南大区）",
+      "companyId": "1e66eee176dee8fc",
+      "companyName": "万声信息华北区域中心",
+      "city": "南宁",
+      "district": "",
+      "experience": "10年以上",
+      "education": "本科",
+      "salaryRange": "12-16K·15薪",
+      "salaryMin": 12,
+      "salaryMax": 16,
+      "tags": [
+        "电商",
+        "薪酬",
+        "硬科技",
+        "WLB"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984187071.shtml",
+      "postedAt": "2026-08-15T05:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 39,
+      "growth": 87,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 144,
+        "annualMax": 256,
+        "monthlyMin": 12,
+        "monthlyMax": 16,
+        "bonus": 25.2,
+        "stocks": 8.4,
+        "yearly": 14
+      },
+      "valueScore": 56
+    }
+  ],
+  "analysis": {
+    "summary": "万声信息华北区域中心（综合）当前在招 HRBP 相关岗位 2 个，平均薪资 15k。",
+    "salaryBenchmark": {
+      "companyAvg": 15,
+      "industryAvg": 18.3,
+      "cityAvg": 14.3,
+      "percentile": 70
+    },
+    "openings": [
+      {
+        "jobId": "92da1aa7f7fc9b4b",
+        "title": "HRBP（西南大区）",
+        "companyId": "1e66eee176dee8fc",
+        "companyName": "万声信息华北区域中心",
+        "city": "无锡",
+        "district": "",
+        "experience": "10年以上",
+        "education": "本科",
+        "salaryRange": "14-18K",
+        "salaryMin": 14,
+        "salaryMax": 18,
+        "tags": [
+          "互联网",
+          "社招",
+          "员工关系",
+          "WLB"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984185814.shtml",
+        "postedAt": "2026-08-12T09:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 26,
+        "growth": 85,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 168,
+          "annualMax": 288,
+          "monthlyMin": 14,
+          "monthlyMax": 18,
+          "bonus": 28.8,
+          "stocks": 9.6,
+          "yearly": 16
+        },
+        "valueScore": 64
+      },
+      {
+        "jobId": "217a82eccae29d06",
+        "title": "高级HRBP（西南大区）",
+        "companyId": "1e66eee176dee8fc",
+        "companyName": "万声信息华北区域中心",
+        "city": "南宁",
+        "district": "",
+        "experience": "10年以上",
+        "education": "本科",
+        "salaryRange": "12-16K·15薪",
+        "salaryMin": 12,
+        "salaryMax": 16,
+        "tags": [
+          "电商",
+          "薪酬",
+          "硬科技",
+          "WLB"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984187071.shtml",
+        "postedAt": "2026-08-15T05:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 39,
+        "growth": 87,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 144,
+          "annualMax": 256,
+          "monthlyMin": 12,
+          "monthlyMax": 16,
+          "bonus": 25.2,
+          "stocks": 8.4,
+          "yearly": 14
+        },
+        "valueScore": 56
+      }
+    ],
+    "trends": [
+      {
+        "year": "2022",
+        "companyId": "1e66eee176dee8fc",
+        "revenue": 128,
+        "headcount": 101,
+        "openings": 1
+      },
+      {
+        "year": "2023",
+        "companyId": "1e66eee176dee8fc",
+        "revenue": 142,
+        "headcount": 109,
+        "openings": 1
+      },
+      {
+        "year": "2024",
+        "companyId": "1e66eee176dee8fc",
+        "revenue": 171,
+        "headcount": 130,
+        "openings": 2
+      },
+      {
+        "year": "2025",
+        "companyId": "1e66eee176dee8fc",
+        "revenue": 186,
+        "headcount": 153,
+        "openings": 4
+      },
+      {
+        "year": "2026",
+        "companyId": "1e66eee176dee8fc",
+        "revenue": 219,
+        "headcount": 160,
+        "openings": 6
+      }
+    ],
+    "comparisons": [
+      {
+        "companyId": "1e66eee176dee8fc",
+        "metric": "薪资竞争力",
+        "value": 49,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "1e66eee176dee8fc",
+        "metric": "招聘活跃度",
+        "value": 46,
+        "industryAvg": 45
+      },
+      {
+        "companyId": "1e66eee176dee8fc",
+        "metric": "组织规模",
+        "value": 50,
+        "industryAvg": 55
+      }
+    ],
+    "scoreCard": {
+      "companyId": "1e66eee176dee8fc",
+      "atmosphereScore": 77,
+      "competitivenessScore": 78,
+      "potentialScore": 86,
+      "overall": 0,
+      "grade": "B",
+      "strengths": [],
+      "weaknesses": []
+    },
+    "atmosphere": {
+      "companyId": "1e66eee176dee8fc",
+      "cultureOpenness": 81,
+      "overtimeIntensity": 51,
+      "promotionSpace": 61,
+      "teamStability": 68,
+      "leadership": 81
+    }
+  }
+}

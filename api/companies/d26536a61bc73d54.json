@@ -1,0 +1,556 @@
+﻿{
+  "companyId": "d26536a61bc73d54",
+  "name": "加和科技",
+  "industry": "综合",
+  "scale": "",
+  "stage": "",
+  "logoColor": "#dd6b20",
+  "logoInitial": "加",
+  "description": "加和科技 正在招聘 HRBP 相关岗位，欢迎了解。",
+  "founded": 2003,
+  "headquarters": "绍兴",
+  "jobCount": 4,
+  "avgSalary": 18.4,
+  "jobs": [
+    {
+      "jobId": "660eaca4f1dde1d1",
+      "title": "HRBP（AI方向）",
+      "companyId": "d26536a61bc73d54",
+      "companyName": "加和科技",
+      "city": "绍兴",
+      "district": "",
+      "experience": "1-3年",
+      "education": "本科",
+      "salaryRange": "18-24K·14薪",
+      "salaryMin": 18,
+      "salaryMax": 24,
+      "tags": [
+        "AI赛道",
+        "互联网",
+        "社招",
+        "商业化"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/2r25nV_0025FlVY.html",
+      "postedAt": "2026-08-13T00:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 35,
+      "growth": 33,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 216,
+        "annualMax": 384,
+        "monthlyMin": 18,
+        "monthlyMax": 24,
+        "bonus": 37.8,
+        "stocks": 12.6,
+        "yearly": 21
+      },
+      "valueScore": 84
+    },
+    {
+      "jobId": "62f7f5dfa9c5987f",
+      "title": "高级HRBP（AI方向）",
+      "companyId": "d26536a61bc73d54",
+      "companyName": "加和科技",
+      "city": "盐城",
+      "district": "",
+      "experience": "3-5年",
+      "education": "本科",
+      "salaryRange": "18-24K·14薪",
+      "salaryMin": 18,
+      "salaryMax": 24,
+      "tags": [
+        "AI赛道",
+        "互联网",
+        "社招",
+        "绩效"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/2r14nV_0024FlVY.html",
+      "postedAt": "2026-08-12T23:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 35,
+      "growth": 37,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 216,
+        "annualMax": 384,
+        "monthlyMin": 18,
+        "monthlyMax": 24,
+        "bonus": 37.8,
+        "stocks": 12.6,
+        "yearly": 21
+      },
+      "valueScore": 84
+    },
+    {
+      "jobId": "3f12967bedafa7c3",
+      "title": "HRBP（AI方向）",
+      "companyId": "d26536a61bc73d54",
+      "companyName": "加和科技",
+      "city": "北京",
+      "district": "朝阳区",
+      "experience": "1-3年",
+      "education": "本科",
+      "salaryRange": "15-20K",
+      "salaryMin": 15,
+      "salaryMax": 20,
+      "tags": [
+        "AI赛道",
+        "互联网",
+        "商业化"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/60a2cc4ffaddcaa00nd83tS1ElpQ.html",
+      "postedAt": "2026-08-15T15:02:00.691Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 46,
+      "growth": 21,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 180,
+        "annualMax": 320,
+        "monthlyMin": 15,
+        "monthlyMax": 20,
+        "bonus": 31.5,
+        "stocks": 10.5,
+        "yearly": 17.5
+      },
+      "valueScore": 70
+    },
+    {
+      "jobId": "073050907b1d70f5",
+      "title": "HRBP（AI方向）",
+      "companyId": "d26536a61bc73d54",
+      "companyName": "加和科技",
+      "city": "烟台",
+      "district": "",
+      "experience": "3-5年",
+      "education": "本科",
+      "salaryRange": "12-16K",
+      "salaryMin": 12,
+      "salaryMax": 16,
+      "tags": [
+        "AI赛道",
+        "互联网",
+        "校招",
+        "新能源"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/2qz2nV_0022FlVY.html",
+      "postedAt": "2026-08-13T08:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 33,
+      "growth": 38,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 144,
+        "annualMax": 256,
+        "monthlyMin": 12,
+        "monthlyMax": 16,
+        "bonus": 25.2,
+        "stocks": 8.4,
+        "yearly": 14
+      },
+      "valueScore": 56
+    }
+  ],
+  "analysis": {
+    "summary": "加和科技（综合）当前在招 HRBP 相关岗位 4 个，平均薪资 18.4k。",
+    "salaryBenchmark": {
+      "companyAvg": 18.4,
+      "industryAvg": 18.3,
+      "cityAvg": 17.5,
+      "percentile": 70
+    },
+    "openings": [
+      {
+        "jobId": "660eaca4f1dde1d1",
+        "title": "HRBP（AI方向）",
+        "companyId": "d26536a61bc73d54",
+        "companyName": "加和科技",
+        "city": "绍兴",
+        "district": "",
+        "experience": "1-3年",
+        "education": "本科",
+        "salaryRange": "18-24K·14薪",
+        "salaryMin": 18,
+        "salaryMax": 24,
+        "tags": [
+          "AI赛道",
+          "互联网",
+          "社招",
+          "商业化"
+        ],
+        "source": "BOSS直聘",
+        "sourceUrl": "https://m.zhipin.com/job_detail/2r25nV_0025FlVY.html",
+        "postedAt": "2026-08-13T00:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 35,
+        "growth": 33,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 216,
+          "annualMax": 384,
+          "monthlyMin": 18,
+          "monthlyMax": 24,
+          "bonus": 37.8,
+          "stocks": 12.6,
+          "yearly": 21
+        },
+        "valueScore": 84
+      },
+      {
+        "jobId": "62f7f5dfa9c5987f",
+        "title": "高级HRBP（AI方向）",
+        "companyId": "d26536a61bc73d54",
+        "companyName": "加和科技",
+        "city": "盐城",
+        "district": "",
+        "experience": "3-5年",
+        "education": "本科",
+        "salaryRange": "18-24K·14薪",
+        "salaryMin": 18,
+        "salaryMax": 24,
+        "tags": [
+          "AI赛道",
+          "互联网",
+          "社招",
+          "绩效"
+        ],
+        "source": "BOSS直聘",
+        "sourceUrl": "https://m.zhipin.com/job_detail/2r14nV_0024FlVY.html",
+        "postedAt": "2026-08-12T23:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 35,
+        "growth": 37,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 216,
+          "annualMax": 384,
+          "monthlyMin": 18,
+          "monthlyMax": 24,
+          "bonus": 37.8,
+          "stocks": 12.6,
+          "yearly": 21
+        },
+        "valueScore": 84
+      },
+      {
+        "jobId": "3f12967bedafa7c3",
+        "title": "HRBP（AI方向）",
+        "companyId": "d26536a61bc73d54",
+        "companyName": "加和科技",
+        "city": "北京",
+        "district": "朝阳区",
+        "experience": "1-3年",
+        "education": "本科",
+        "salaryRange": "15-20K",
+        "salaryMin": 15,
+        "salaryMax": 20,
+        "tags": [
+          "AI赛道",
+          "互联网",
+          "商业化"
+        ],
+        "source": "BOSS直聘",
+        "sourceUrl": "https://m.zhipin.com/job_detail/60a2cc4ffaddcaa00nd83tS1ElpQ.html",
+        "postedAt": "2026-08-15T15:02:00.691Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 46,
+        "growth": 21,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 180,
+          "annualMax": 320,
+          "monthlyMin": 15,
+          "monthlyMax": 20,
+          "bonus": 31.5,
+          "stocks": 10.5,
+          "yearly": 17.5
+        },
+        "valueScore": 70
+      },
+      {
+        "jobId": "073050907b1d70f5",
+        "title": "HRBP（AI方向）",
+        "companyId": "d26536a61bc73d54",
+        "companyName": "加和科技",
+        "city": "烟台",
+        "district": "",
+        "experience": "3-5年",
+        "education": "本科",
+        "salaryRange": "12-16K",
+        "salaryMin": 12,
+        "salaryMax": 16,
+        "tags": [
+          "AI赛道",
+          "互联网",
+          "校招",
+          "新能源"
+        ],
+        "source": "BOSS直聘",
+        "sourceUrl": "https://m.zhipin.com/job_detail/2qz2nV_0022FlVY.html",
+        "postedAt": "2026-08-13T08:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 33,
+        "growth": 38,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 144,
+          "annualMax": 256,
+          "monthlyMin": 12,
+          "monthlyMax": 16,
+          "bonus": 25.2,
+          "stocks": 8.4,
+          "yearly": 14
+        },
+        "valueScore": 56
+      }
+    ],
+    "trends": [
+      {
+        "year": "2022",
+        "companyId": "d26536a61bc73d54",
+        "revenue": 123,
+        "headcount": 95,
+        "openings": 1
+      },
+      {
+        "year": "2023",
+        "companyId": "d26536a61bc73d54",
+        "revenue": 143,
+        "headcount": 106,
+        "openings": 2
+      },
+      {
+        "year": "2024",
+        "companyId": "d26536a61bc73d54",
+        "revenue": 171,
+        "headcount": 127,
+        "openings": 4
+      },
+      {
+        "year": "2025",
+        "companyId": "d26536a61bc73d54",
+        "revenue": 187,
+        "headcount": 145,
+        "openings": 6
+      },
+      {
+        "year": "2026",
+        "companyId": "d26536a61bc73d54",
+        "revenue": 217,
+        "headcount": 172,
+        "openings": 8
+      }
+    ],
+    "comparisons": [
+      {
+        "companyId": "d26536a61bc73d54",
+        "metric": "薪资竞争力",
+        "value": 60,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "d26536a61bc73d54",
+        "metric": "招聘活跃度",
+        "value": 52,
+        "industryAvg": 45
+      },
+      {
+        "companyId": "d26536a61bc73d54",
+        "metric": "组织规模",
+        "value": 50,
+        "industryAvg": 55
+      }
+    ],
+    "scoreCard": {
+      "companyId": "d26536a61bc73d54",
+      "atmosphereScore": 70,
+      "competitivenessScore": 60,
+      "potentialScore": 83,
+      "overall": 0,
+      "grade": "B",
+      "strengths": [],
+      "weaknesses": []
+    },
+    "atmosphere": {
+      "companyId": "d26536a61bc73d54",
+      "cultureOpenness": 84,
+      "overtimeIntensity": 54,
+      "promotionSpace": 77,
+      "teamStability": 76,
+      "leadership": 84
+    }
+  }
+}

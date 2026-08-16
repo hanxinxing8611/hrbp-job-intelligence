@@ -1,0 +1,554 @@
+﻿{
+  "companyId": "8df5f816965a652f",
+  "name": "远景科技集团",
+  "industry": "综合",
+  "scale": "",
+  "stage": "",
+  "logoColor": "#319795",
+  "logoInitial": "远",
+  "description": "远景科技集团 正在招聘 HRBP 相关岗位，欢迎了解。",
+  "founded": 2003,
+  "headquarters": "金华",
+  "jobCount": 4,
+  "avgSalary": 27.5,
+  "jobs": [
+    {
+      "jobId": "1925513e1e72f898",
+      "title": "HRBP",
+      "companyId": "8df5f816965a652f",
+      "companyName": "远景科技集团",
+      "city": "金华",
+      "district": "",
+      "experience": "10年以上",
+      "education": "本科",
+      "salaryRange": "18-42K",
+      "salaryMin": 18,
+      "salaryMax": 42,
+      "tags": [
+        "新能源",
+        "出海",
+        "出海",
+        "弹性工作"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984154284.shtml",
+      "postedAt": "2026-08-15T07:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 47,
+      "growth": 73,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 216,
+        "annualMax": 672,
+        "monthlyMin": 18,
+        "monthlyMax": 42,
+        "bonus": 54,
+        "stocks": 18,
+        "yearly": 30
+      },
+      "valueScore": 120
+    },
+    {
+      "jobId": "0af4f9c5f2d7f010",
+      "title": "HRBP",
+      "companyId": "8df5f816965a652f",
+      "companyName": "远景科技集团",
+      "city": "南通",
+      "district": "",
+      "experience": "3-5年",
+      "education": "本科",
+      "salaryRange": "18-40K",
+      "salaryMin": 18,
+      "salaryMax": 40,
+      "tags": [
+        "新能源",
+        "技术HR",
+        "员工关系",
+        "专家岗"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984154703.shtml",
+      "postedAt": "2026-08-14T06:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 42,
+      "growth": 63,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 216,
+        "annualMax": 640,
+        "monthlyMin": 18,
+        "monthlyMax": 40,
+        "bonus": 52.2,
+        "stocks": 17.4,
+        "yearly": 29
+      },
+      "valueScore": 116
+    },
+    {
+      "jobId": "210b5ebe27c58354",
+      "title": "HRBP",
+      "companyId": "8df5f816965a652f",
+      "companyName": "远景科技集团",
+      "city": "哈尔滨",
+      "district": "",
+      "experience": "5-10年",
+      "education": "本科",
+      "salaryRange": "16-36K·14薪",
+      "salaryMin": 16,
+      "salaryMax": 36,
+      "tags": [
+        "新能源",
+        "技术HR",
+        "硕博团队"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984155541.shtml",
+      "postedAt": "2026-08-13T11:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 36,
+      "growth": 23,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 192,
+        "annualMax": 576,
+        "monthlyMin": 16,
+        "monthlyMax": 36,
+        "bonus": 46.8,
+        "stocks": 15.6,
+        "yearly": 26
+      },
+      "valueScore": 104
+    },
+    {
+      "jobId": "d6ec4ec22aaf2b70",
+      "title": "HRBP",
+      "companyId": "8df5f816965a652f",
+      "companyName": "远景科技集团",
+      "city": "上海",
+      "district": "新城区",
+      "experience": "5-10年",
+      "education": "本科",
+      "salaryRange": "15-35K·18薪",
+      "salaryMin": 15,
+      "salaryMax": 35,
+      "tags": [
+        "新能源",
+        "电商",
+        "组织发展"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984835169.shtml",
+      "postedAt": "2026-08-16T06:02:00.691Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 49,
+      "growth": 68,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 180,
+        "annualMax": 560,
+        "monthlyMin": 15,
+        "monthlyMax": 35,
+        "bonus": 45,
+        "stocks": 15,
+        "yearly": 25
+      },
+      "valueScore": 100
+    }
+  ],
+  "analysis": {
+    "summary": "远景科技集团（综合）当前在招 HRBP 相关岗位 4 个，平均薪资 27.5k。",
+    "salaryBenchmark": {
+      "companyAvg": 27.5,
+      "industryAvg": 18.2,
+      "cityAvg": 26.1,
+      "percentile": 70
+    },
+    "openings": [
+      {
+        "jobId": "1925513e1e72f898",
+        "title": "HRBP",
+        "companyId": "8df5f816965a652f",
+        "companyName": "远景科技集团",
+        "city": "金华",
+        "district": "",
+        "experience": "10年以上",
+        "education": "本科",
+        "salaryRange": "18-42K",
+        "salaryMin": 18,
+        "salaryMax": 42,
+        "tags": [
+          "新能源",
+          "出海",
+          "出海",
+          "弹性工作"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984154284.shtml",
+        "postedAt": "2026-08-15T07:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 47,
+        "growth": 73,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 216,
+          "annualMax": 672,
+          "monthlyMin": 18,
+          "monthlyMax": 42,
+          "bonus": 54,
+          "stocks": 18,
+          "yearly": 30
+        },
+        "valueScore": 120
+      },
+      {
+        "jobId": "0af4f9c5f2d7f010",
+        "title": "HRBP",
+        "companyId": "8df5f816965a652f",
+        "companyName": "远景科技集团",
+        "city": "南通",
+        "district": "",
+        "experience": "3-5年",
+        "education": "本科",
+        "salaryRange": "18-40K",
+        "salaryMin": 18,
+        "salaryMax": 40,
+        "tags": [
+          "新能源",
+          "技术HR",
+          "员工关系",
+          "专家岗"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984154703.shtml",
+        "postedAt": "2026-08-14T06:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 42,
+        "growth": 63,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 216,
+          "annualMax": 640,
+          "monthlyMin": 18,
+          "monthlyMax": 40,
+          "bonus": 52.2,
+          "stocks": 17.4,
+          "yearly": 29
+        },
+        "valueScore": 116
+      },
+      {
+        "jobId": "210b5ebe27c58354",
+        "title": "HRBP",
+        "companyId": "8df5f816965a652f",
+        "companyName": "远景科技集团",
+        "city": "哈尔滨",
+        "district": "",
+        "experience": "5-10年",
+        "education": "本科",
+        "salaryRange": "16-36K·14薪",
+        "salaryMin": 16,
+        "salaryMax": 36,
+        "tags": [
+          "新能源",
+          "技术HR",
+          "硕博团队"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984155541.shtml",
+        "postedAt": "2026-08-13T11:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 36,
+        "growth": 23,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 192,
+          "annualMax": 576,
+          "monthlyMin": 16,
+          "monthlyMax": 36,
+          "bonus": 46.8,
+          "stocks": 15.6,
+          "yearly": 26
+        },
+        "valueScore": 104
+      },
+      {
+        "jobId": "d6ec4ec22aaf2b70",
+        "title": "HRBP",
+        "companyId": "8df5f816965a652f",
+        "companyName": "远景科技集团",
+        "city": "上海",
+        "district": "新城区",
+        "experience": "5-10年",
+        "education": "本科",
+        "salaryRange": "15-35K·18薪",
+        "salaryMin": 15,
+        "salaryMax": 35,
+        "tags": [
+          "新能源",
+          "电商",
+          "组织发展"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984835169.shtml",
+        "postedAt": "2026-08-16T06:02:00.691Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 49,
+        "growth": 68,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 180,
+          "annualMax": 560,
+          "monthlyMin": 15,
+          "monthlyMax": 35,
+          "bonus": 45,
+          "stocks": 15,
+          "yearly": 25
+        },
+        "valueScore": 100
+      }
+    ],
+    "trends": [
+      {
+        "year": "2022",
+        "companyId": "8df5f816965a652f",
+        "revenue": 136,
+        "headcount": 93,
+        "openings": 1
+      },
+      {
+        "year": "2023",
+        "companyId": "8df5f816965a652f",
+        "revenue": 151,
+        "headcount": 116,
+        "openings": 2
+      },
+      {
+        "year": "2024",
+        "companyId": "8df5f816965a652f",
+        "revenue": 173,
+        "headcount": 131,
+        "openings": 4
+      },
+      {
+        "year": "2025",
+        "companyId": "8df5f816965a652f",
+        "revenue": 186,
+        "headcount": 148,
+        "openings": 6
+      },
+      {
+        "year": "2026",
+        "companyId": "8df5f816965a652f",
+        "revenue": 215,
+        "headcount": 160,
+        "openings": 8
+      }
+    ],
+    "comparisons": [
+      {
+        "companyId": "8df5f816965a652f",
+        "metric": "薪资竞争力",
+        "value": 91,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "8df5f816965a652f",
+        "metric": "招聘活跃度",
+        "value": 52,
+        "industryAvg": 45
+      },
+      {
+        "companyId": "8df5f816965a652f",
+        "metric": "组织规模",
+        "value": 50,
+        "industryAvg": 55
+      }
+    ],
+    "scoreCard": {
+      "companyId": "8df5f816965a652f",
+      "atmosphereScore": 86,
+      "competitivenessScore": 80,
+      "potentialScore": 86,
+      "overall": 0,
+      "grade": "B",
+      "strengths": [],
+      "weaknesses": []
+    },
+    "atmosphere": {
+      "companyId": "8df5f816965a652f",
+      "cultureOpenness": 82,
+      "overtimeIntensity": 52,
+      "promotionSpace": 75,
+      "teamStability": 86,
+      "leadership": 74
+    }
+  }
+}

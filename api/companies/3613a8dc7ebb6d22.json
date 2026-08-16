@@ -1,0 +1,556 @@
+﻿{
+  "companyId": "3613a8dc7ebb6d22",
+  "name": "正荣物业",
+  "industry": "综合",
+  "scale": "",
+  "stage": "",
+  "logoColor": "#9f1239",
+  "logoInitial": "正",
+  "description": "正荣物业 正在招聘 HRBP 相关岗位，欢迎了解。",
+  "founded": 2008,
+  "headquarters": "泉州",
+  "jobCount": 4,
+  "avgSalary": 9,
+  "jobs": [
+    {
+      "jobId": "f62a01c1a3f44e9e",
+      "title": "HRBP经理/人力行政",
+      "companyId": "3613a8dc7ebb6d22",
+      "companyName": "正荣物业",
+      "city": "泉州",
+      "district": "",
+      "experience": "10年以上",
+      "education": "本科",
+      "salaryRange": "8-10K",
+      "salaryMin": 8,
+      "salaryMax": 10,
+      "tags": [
+        "管理岗",
+        "员工关系",
+        "薪酬",
+        "硬科技"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC42KSJ00000284.htm",
+      "postedAt": "2026-08-13T18:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 28,
+      "growth": 61,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 96,
+        "annualMax": 160,
+        "monthlyMin": 8,
+        "monthlyMax": 10,
+        "bonus": 16.2,
+        "stocks": 5.4,
+        "yearly": 9
+      },
+      "valueScore": 36
+    },
+    {
+      "jobId": "30ae833e7f5c434d",
+      "title": "HRBP经理/人力行政",
+      "companyId": "3613a8dc7ebb6d22",
+      "companyName": "正荣物业",
+      "city": "天津",
+      "district": "北辰区",
+      "experience": "5-10年",
+      "education": "本科",
+      "salaryRange": "8-10K·13薪",
+      "salaryMin": 8,
+      "salaryMax": 10,
+      "tags": [
+        "管理岗",
+        "专家岗",
+        "组织发展",
+        "战略"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC264550830J40785210206.htm",
+      "postedAt": "2026-08-13T14:02:00.691Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 28,
+      "growth": 49,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 96,
+        "annualMax": 160,
+        "monthlyMin": 8,
+        "monthlyMax": 10,
+        "bonus": 16.2,
+        "stocks": 5.4,
+        "yearly": 9
+      },
+      "valueScore": 36
+    },
+    {
+      "jobId": "67f418861ec11c34",
+      "title": "HRBP经理/人力行政",
+      "companyId": "3613a8dc7ebb6d22",
+      "companyName": "正荣物业",
+      "city": "厦门",
+      "district": "",
+      "experience": "5-10年",
+      "education": "本科",
+      "salaryRange": "8-10K·14薪",
+      "salaryMin": 8,
+      "salaryMax": 10,
+      "tags": [
+        "管理岗",
+        "绩效",
+        "社招"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC42HPJ00000281.htm",
+      "postedAt": "2026-08-12T18:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 24,
+      "growth": 76,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 96,
+        "annualMax": 160,
+        "monthlyMin": 8,
+        "monthlyMax": 10,
+        "bonus": 16.2,
+        "stocks": 5.4,
+        "yearly": 9
+      },
+      "valueScore": 36
+    },
+    {
+      "jobId": "6c0474ceaf7d14fe",
+      "title": "HRBP经理/人力行政",
+      "companyId": "3613a8dc7ebb6d22",
+      "companyName": "正荣物业",
+      "city": "南宁",
+      "district": "",
+      "experience": "5-10年",
+      "education": "本科",
+      "salaryRange": "8-10K",
+      "salaryMin": 8,
+      "salaryMax": 10,
+      "tags": [
+        "管理岗",
+        "员工关系",
+        "WLB",
+        "AI赛道"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC42JRJ00000283.htm",
+      "postedAt": "2026-08-11T23:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 21,
+      "growth": 16,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 96,
+        "annualMax": 160,
+        "monthlyMin": 8,
+        "monthlyMax": 10,
+        "bonus": 16.2,
+        "stocks": 5.4,
+        "yearly": 9
+      },
+      "valueScore": 36
+    }
+  ],
+  "analysis": {
+    "summary": "正荣物业（综合）当前在招 HRBP 相关岗位 4 个，平均薪资 9k。",
+    "salaryBenchmark": {
+      "companyAvg": 9,
+      "industryAvg": 18.3,
+      "cityAvg": 8.5,
+      "percentile": 70
+    },
+    "openings": [
+      {
+        "jobId": "f62a01c1a3f44e9e",
+        "title": "HRBP经理/人力行政",
+        "companyId": "3613a8dc7ebb6d22",
+        "companyName": "正荣物业",
+        "city": "泉州",
+        "district": "",
+        "experience": "10年以上",
+        "education": "本科",
+        "salaryRange": "8-10K",
+        "salaryMin": 8,
+        "salaryMax": 10,
+        "tags": [
+          "管理岗",
+          "员工关系",
+          "薪酬",
+          "硬科技"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC42KSJ00000284.htm",
+        "postedAt": "2026-08-13T18:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 28,
+        "growth": 61,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 96,
+          "annualMax": 160,
+          "monthlyMin": 8,
+          "monthlyMax": 10,
+          "bonus": 16.2,
+          "stocks": 5.4,
+          "yearly": 9
+        },
+        "valueScore": 36
+      },
+      {
+        "jobId": "30ae833e7f5c434d",
+        "title": "HRBP经理/人力行政",
+        "companyId": "3613a8dc7ebb6d22",
+        "companyName": "正荣物业",
+        "city": "天津",
+        "district": "北辰区",
+        "experience": "5-10年",
+        "education": "本科",
+        "salaryRange": "8-10K·13薪",
+        "salaryMin": 8,
+        "salaryMax": 10,
+        "tags": [
+          "管理岗",
+          "专家岗",
+          "组织发展",
+          "战略"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC264550830J40785210206.htm",
+        "postedAt": "2026-08-13T14:02:00.691Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 28,
+        "growth": 49,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 96,
+          "annualMax": 160,
+          "monthlyMin": 8,
+          "monthlyMax": 10,
+          "bonus": 16.2,
+          "stocks": 5.4,
+          "yearly": 9
+        },
+        "valueScore": 36
+      },
+      {
+        "jobId": "67f418861ec11c34",
+        "title": "HRBP经理/人力行政",
+        "companyId": "3613a8dc7ebb6d22",
+        "companyName": "正荣物业",
+        "city": "厦门",
+        "district": "",
+        "experience": "5-10年",
+        "education": "本科",
+        "salaryRange": "8-10K·14薪",
+        "salaryMin": 8,
+        "salaryMax": 10,
+        "tags": [
+          "管理岗",
+          "绩效",
+          "社招"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC42HPJ00000281.htm",
+        "postedAt": "2026-08-12T18:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 24,
+        "growth": 76,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 96,
+          "annualMax": 160,
+          "monthlyMin": 8,
+          "monthlyMax": 10,
+          "bonus": 16.2,
+          "stocks": 5.4,
+          "yearly": 9
+        },
+        "valueScore": 36
+      },
+      {
+        "jobId": "6c0474ceaf7d14fe",
+        "title": "HRBP经理/人力行政",
+        "companyId": "3613a8dc7ebb6d22",
+        "companyName": "正荣物业",
+        "city": "南宁",
+        "district": "",
+        "experience": "5-10年",
+        "education": "本科",
+        "salaryRange": "8-10K",
+        "salaryMin": 8,
+        "salaryMax": 10,
+        "tags": [
+          "管理岗",
+          "员工关系",
+          "WLB",
+          "AI赛道"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC42JRJ00000283.htm",
+        "postedAt": "2026-08-11T23:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 21,
+        "growth": 16,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 96,
+          "annualMax": 160,
+          "monthlyMin": 8,
+          "monthlyMax": 10,
+          "bonus": 16.2,
+          "stocks": 5.4,
+          "yearly": 9
+        },
+        "valueScore": 36
+      }
+    ],
+    "trends": [
+      {
+        "year": "2022",
+        "companyId": "3613a8dc7ebb6d22",
+        "revenue": 120,
+        "headcount": 90,
+        "openings": 1
+      },
+      {
+        "year": "2023",
+        "companyId": "3613a8dc7ebb6d22",
+        "revenue": 151,
+        "headcount": 118,
+        "openings": 2
+      },
+      {
+        "year": "2024",
+        "companyId": "3613a8dc7ebb6d22",
+        "revenue": 165,
+        "headcount": 136,
+        "openings": 4
+      },
+      {
+        "year": "2025",
+        "companyId": "3613a8dc7ebb6d22",
+        "revenue": 193,
+        "headcount": 142,
+        "openings": 6
+      },
+      {
+        "year": "2026",
+        "companyId": "3613a8dc7ebb6d22",
+        "revenue": 217,
+        "headcount": 167,
+        "openings": 8
+      }
+    ],
+    "comparisons": [
+      {
+        "companyId": "3613a8dc7ebb6d22",
+        "metric": "薪资竞争力",
+        "value": 30,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "3613a8dc7ebb6d22",
+        "metric": "招聘活跃度",
+        "value": 52,
+        "industryAvg": 45
+      },
+      {
+        "companyId": "3613a8dc7ebb6d22",
+        "metric": "组织规模",
+        "value": 50,
+        "industryAvg": 55
+      }
+    ],
+    "scoreCard": {
+      "companyId": "3613a8dc7ebb6d22",
+      "atmosphereScore": 85,
+      "competitivenessScore": 74,
+      "potentialScore": 87,
+      "overall": 0,
+      "grade": "B",
+      "strengths": [],
+      "weaknesses": []
+    },
+    "atmosphere": {
+      "companyId": "3613a8dc7ebb6d22",
+      "cultureOpenness": 82,
+      "overtimeIntensity": 62,
+      "promotionSpace": 75,
+      "teamStability": 85,
+      "leadership": 85
+    }
+  }
+}

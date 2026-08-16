@@ -1,0 +1,370 @@
+﻿{
+  "companyId": "美团",
+  "name": "美团",
+  "industry": "本地生活",
+  "scale": "1000人以上",
+  "stage": "上市公司",
+  "founded": "2005",
+  "headquarters": "成都",
+  "branches": [],
+  "description": "美团是本地生活领域的企业。",
+  "logoColor": "#8d6df8",
+  "logoInitial": "美",
+  "jobs": [
+    {
+      "jobId": "real_090",
+      "title": "门店HRBP",
+      "companyId": "美团",
+      "companyName": "美团",
+      "companyIndustry": "本地生活",
+      "city": "成都",
+      "district": "五桂桥",
+      "experience": "3-5年",
+      "education": "本科",
+      "salaryRange": "10-16K·15薪",
+      "salaryMin": 10,
+      "salaryMax": 16,
+      "bonusMonths": 15,
+      "tags": [
+        "大厂",
+        "培训",
+        "技术HR",
+        "电商"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984586069.shtml",
+      "postedAt": "2026-08-15T13:41:50.102Z",
+      "crawledAt": "2026-08-16T16:41:50.102Z",
+      "heat": 188,
+      "growth": 31,
+      "url": "https://www.liepin.com/job/1984586069.shtml",
+      "benefits": [
+        "五险一金",
+        "带薪年假",
+        "弹性工作",
+        "项目奖金",
+        "租房补贴",
+        "年度旅游",
+        "免费三餐"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进",
+        "主导人才盘点与高潜员工识别，制定关键人才的发展与保留计划"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "3-5年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "美团招聘门店HRBP，工作地点成都·五桂桥，薪资10-16K·15薪，要求3-5年经验、本科学历。",
+      "valueScore": 5.2,
+      "salaryBreakdown": {
+        "p10": 10,
+        "p25": 11,
+        "p50": 13,
+        "p75": 15,
+        "p90": 17
+      }
+    },
+    {
+      "jobId": "aug_0447",
+      "title": "门店HRBP",
+      "companyId": "美团",
+      "companyName": "美团",
+      "companyIndustry": "本地生活",
+      "city": "贵阳",
+      "district": "",
+      "experience": "5-10年",
+      "education": "本科",
+      "salaryRange": "12-18K",
+      "salaryMin": 12,
+      "salaryMax": 18,
+      "bonusMonths": 13,
+      "tags": [
+        "大厂",
+        "金融",
+        "期权激励"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984187916.shtml",
+      "postedAt": "2026-08-12T03:41:50.107Z",
+      "crawledAt": "2026-08-16T11:41:50.107Z",
+      "heat": 50,
+      "growth": 28,
+      "url": "https://www.liepin.com/job/1984187916.shtml",
+      "benefits": [
+        "带薪年假",
+        "免费班车",
+        "免费三餐",
+        "年终奖",
+        "项目奖金",
+        "租房补贴",
+        "股票期权"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进",
+        "主导人才盘点与高潜员工识别，制定关键人才的发展与保留计划"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "5-10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "美团招聘门店HRBP，工作地点贵阳，薪资12-18K，要求5-10年经验、本科学历。",
+      "valueScore": 3.6,
+      "salaryBreakdown": {
+        "p10": 12,
+        "p25": 13,
+        "p50": 15,
+        "p75": 17,
+        "p90": 19
+      }
+    },
+    {
+      "jobId": "aug_0448",
+      "title": "门店高级HRBP",
+      "companyId": "美团",
+      "companyName": "美团",
+      "companyIndustry": "本地生活",
+      "city": "金华",
+      "district": "",
+      "experience": "1-3年",
+      "education": "本科",
+      "salaryRange": "10-18K·16薪",
+      "salaryMin": 10,
+      "salaryMax": 18,
+      "bonusMonths": 16,
+      "tags": [
+        "大厂",
+        "金融",
+        "组织发展",
+        "培训"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984188335.shtml",
+      "postedAt": "2026-08-13T20:41:50.107Z",
+      "crawledAt": "2026-08-16T13:41:50.107Z",
+      "heat": 50,
+      "growth": 66,
+      "url": "https://www.liepin.com/job/1984188335.shtml",
+      "benefits": [
+        "免费三餐",
+        "通勤班车",
+        "五险一金",
+        "补充医疗",
+        "项目奖金",
+        "股票期权"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进",
+        "主导人才盘点与高潜员工识别，制定关键人才的发展与保留计划"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "1-3年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "美团招聘门店高级HRBP，工作地点金华，薪资10-18K·16薪，要求1-3年经验、本科学历。",
+      "valueScore": 16.5,
+      "salaryBreakdown": {
+        "p10": 10,
+        "p25": 12,
+        "p50": 14,
+        "p75": 16,
+        "p90": 20
+      }
+    },
+    {
+      "jobId": "aug_0450",
+      "title": "门店HRBP",
+      "companyId": "美团",
+      "companyName": "美团",
+      "companyIndustry": "本地生活",
+      "city": "太原",
+      "district": "",
+      "experience": "5-10年",
+      "education": "本科",
+      "salaryRange": "10-16K·14薪",
+      "salaryMin": 10,
+      "salaryMax": 16,
+      "bonusMonths": 14,
+      "tags": [
+        "大厂",
+        "新能源",
+        "高增长",
+        "校招"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984189173.shtml",
+      "postedAt": "2026-08-14T01:41:50.107Z",
+      "crawledAt": "2026-08-16T08:41:50.107Z",
+      "heat": 50,
+      "growth": 64,
+      "url": "https://www.liepin.com/job/1984189173.shtml",
+      "benefits": [
+        "项目奖金",
+        "免费班车",
+        "员工宿舍",
+        "免费三餐",
+        "六险一金",
+        "带薪年假",
+        "年度体检"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进",
+        "主导人才盘点与高潜员工识别，制定关键人才的发展与保留计划"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "5-10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "美团招聘门店HRBP，工作地点太原，薪资10-16K·14薪，要求5-10年经验、本科学历。",
+      "valueScore": 3.1,
+      "salaryBreakdown": {
+        "p10": 10,
+        "p25": 11,
+        "p50": 13,
+        "p75": 15,
+        "p90": 17
+      }
+    }
+  ],
+  "analysis": {
+    "companyId": "美团",
+    "atmosphereScore": 80,
+    "competitivenessScore": 76,
+    "potentialScore": 81,
+    "overall": 79,
+    "grade": "B",
+    "strengths": [
+      "团队氛围好",
+      "发展空间大",
+      "福利待遇优"
+    ],
+    "weaknesses": [
+      "部分流程待优化",
+      "行业竞争激烈"
+    ],
+    "radar": [
+      {
+        "label": "文化开放度",
+        "value": 88,
+        "key": "cultureOpenness"
+      },
+      {
+        "label": "晋升空间",
+        "value": 78,
+        "key": "promotionSpace"
+      },
+      {
+        "label": "团队稳定",
+        "value": 93,
+        "key": "teamStability"
+      },
+      {
+        "label": "领导力",
+        "value": 72,
+        "key": "leadership"
+      },
+      {
+        "label": "加班强度",
+        "value": 63,
+        "key": "overtimeIntensity"
+      }
+    ],
+    "competitors": [
+      {
+        "companyId": "美团",
+        "metric": "薪资竞争力",
+        "value": 98,
+        "industryAvg": 65
+      },
+      {
+        "companyId": "美团",
+        "metric": "发展潜力",
+        "value": 73,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "美团",
+        "metric": "团队氛围",
+        "value": 90,
+        "industryAvg": 70
+      },
+      {
+        "companyId": "美团",
+        "metric": "稳定性",
+        "value": 65,
+        "industryAvg": 55
+      },
+      {
+        "companyId": "美团",
+        "metric": "行业地位",
+        "value": 66,
+        "industryAvg": 50
+      }
+    ],
+    "trend": [
+      {
+        "companyId": "美团",
+        "year": "2021",
+        "revenue": 1365,
+        "headcount": 72,
+        "openings": 23
+      },
+      {
+        "companyId": "美团",
+        "year": "2022",
+        "revenue": 761,
+        "headcount": 124,
+        "openings": 33
+      },
+      {
+        "companyId": "美团",
+        "year": "2023",
+        "revenue": 859,
+        "headcount": 93,
+        "openings": 39
+      },
+      {
+        "companyId": "美团",
+        "year": "2024",
+        "revenue": 994,
+        "headcount": 130,
+        "openings": 43
+      },
+      {
+        "companyId": "美团",
+        "year": "2025",
+        "revenue": 1426,
+        "headcount": 113,
+        "openings": 58
+      }
+    ]
+  }
+}

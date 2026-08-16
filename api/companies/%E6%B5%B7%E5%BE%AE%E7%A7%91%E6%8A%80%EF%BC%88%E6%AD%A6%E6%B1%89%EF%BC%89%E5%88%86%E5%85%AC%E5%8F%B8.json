@@ -1,0 +1,244 @@
+﻿{
+  "companyId": "海微科技（武汉）分公司",
+  "name": "海微科技（武汉）分公司",
+  "industry": "科技",
+  "scale": "500-1000人",
+  "stage": "成长期",
+  "founded": "1997",
+  "headquarters": "扬州",
+  "branches": [],
+  "description": "海微科技（武汉）分公司是科技领域的企业。",
+  "logoColor": "#4dbbe3",
+  "logoInitial": "海",
+  "jobs": [
+    {
+      "jobId": "aug_0509",
+      "title": "资深HRBP（研发团队）",
+      "companyId": "海微科技（武汉）分公司",
+      "companyName": "海微科技（武汉）分公司",
+      "companyIndustry": "科技",
+      "city": "扬州",
+      "district": "",
+      "experience": "1-3年",
+      "education": "本科",
+      "salaryRange": "16-28K·14薪",
+      "salaryMin": 16,
+      "salaryMax": 28,
+      "bonusMonths": 14,
+      "tags": [
+        "技术HR",
+        "社招",
+        "高增长",
+        "员工关系"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/57q1nV_0509FlVY.html",
+      "postedAt": "2026-08-15T19:41:50.107Z",
+      "crawledAt": "2026-08-16T09:41:50.107Z",
+      "heat": 491,
+      "growth": 49,
+      "url": "https://m.zhipin.com/job_detail/57q1nV_0509FlVY.html",
+      "benefits": [
+        "五险一金",
+        "免费班车",
+        "免费三餐",
+        "年度旅游"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "理解研发团队运作特点，支持技术团队的人才评估与技术梯队建设",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "1-3年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "海微科技（武汉）分公司招聘资深HRBP（研发团队），工作地点扬州，薪资16-28K·14薪，要求1-3年经验、本科学历。",
+      "valueScore": 24.6,
+      "salaryBreakdown": {
+        "p10": 16,
+        "p25": 18,
+        "p50": 22,
+        "p75": 26,
+        "p90": 30
+      }
+    },
+    {
+      "jobId": "aug_0506",
+      "title": "高级HRBP（研发团队）",
+      "companyId": "海微科技（武汉）分公司",
+      "companyName": "海微科技（武汉）分公司",
+      "companyIndustry": "科技",
+      "city": "佛山",
+      "district": "千灯湖",
+      "experience": "3-5年",
+      "education": "本科",
+      "salaryRange": "12-20K",
+      "salaryMin": 12,
+      "salaryMax": 20,
+      "bonusMonths": 13,
+      "tags": [
+        "技术HR",
+        "校招",
+        "核心业务"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/57mynV_0506FlVY.html",
+      "postedAt": "2026-08-14T20:41:50.107Z",
+      "crawledAt": "2026-08-16T05:41:50.107Z",
+      "heat": 70,
+      "growth": 28,
+      "url": "https://m.zhipin.com/job_detail/57mynV_0506FlVY.html",
+      "benefits": [
+        "免费班车",
+        "租房补贴",
+        "节日福利",
+        "弹性工作",
+        "企业年金"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "理解研发团队运作特点，支持技术团队的人才评估与技术梯队建设",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "3-5年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "海微科技（武汉）分公司招聘高级HRBP（研发团队），工作地点佛山·千灯湖，薪资12-20K，要求3-5年经验、本科学历。",
+      "valueScore": 6.1,
+      "salaryBreakdown": {
+        "p10": 12,
+        "p25": 14,
+        "p50": 16,
+        "p75": 18,
+        "p90": 22
+      }
+    }
+  ],
+  "analysis": {
+    "companyId": "海微科技（武汉）分公司",
+    "atmosphereScore": 89,
+    "competitivenessScore": 76,
+    "potentialScore": 74,
+    "overall": 80,
+    "grade": "A",
+    "strengths": [
+      "团队氛围好",
+      "发展空间大",
+      "福利待遇优"
+    ],
+    "weaknesses": [
+      "部分流程待优化",
+      "行业竞争激烈"
+    ],
+    "radar": [
+      {
+        "label": "文化开放度",
+        "value": 72,
+        "key": "cultureOpenness"
+      },
+      {
+        "label": "晋升空间",
+        "value": 61,
+        "key": "promotionSpace"
+      },
+      {
+        "label": "团队稳定",
+        "value": 55,
+        "key": "teamStability"
+      },
+      {
+        "label": "领导力",
+        "value": 61,
+        "key": "leadership"
+      },
+      {
+        "label": "加班强度",
+        "value": 51,
+        "key": "overtimeIntensity"
+      }
+    ],
+    "competitors": [
+      {
+        "companyId": "海微科技（武汉）分公司",
+        "metric": "薪资竞争力",
+        "value": 98,
+        "industryAvg": 65
+      },
+      {
+        "companyId": "海微科技（武汉）分公司",
+        "metric": "发展潜力",
+        "value": 92,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "海微科技（武汉）分公司",
+        "metric": "团队氛围",
+        "value": 85,
+        "industryAvg": 70
+      },
+      {
+        "companyId": "海微科技（武汉）分公司",
+        "metric": "稳定性",
+        "value": 70,
+        "industryAvg": 55
+      },
+      {
+        "companyId": "海微科技（武汉）分公司",
+        "metric": "行业地位",
+        "value": 79,
+        "industryAvg": 50
+      }
+    ],
+    "trend": [
+      {
+        "companyId": "海微科技（武汉）分公司",
+        "year": "2021",
+        "revenue": 781,
+        "headcount": 141,
+        "openings": 58
+      },
+      {
+        "companyId": "海微科技（武汉）分公司",
+        "year": "2022",
+        "revenue": 767,
+        "headcount": 125,
+        "openings": 53
+      },
+      {
+        "companyId": "海微科技（武汉）分公司",
+        "year": "2023",
+        "revenue": 1210,
+        "headcount": 133,
+        "openings": 24
+      },
+      {
+        "companyId": "海微科技（武汉）分公司",
+        "year": "2024",
+        "revenue": 1375,
+        "headcount": 116,
+        "openings": 11
+      },
+      {
+        "companyId": "海微科技（武汉）分公司",
+        "year": "2025",
+        "revenue": 1341,
+        "headcount": 131,
+        "openings": 27
+      }
+    ]
+  }
+}

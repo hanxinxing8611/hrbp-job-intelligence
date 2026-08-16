@@ -1,0 +1,363 @@
+﻿{
+  "companyId": "远景科技集团",
+  "name": "远景科技集团",
+  "industry": "新能源",
+  "scale": "150-500人",
+  "stage": "成熟期",
+  "founded": "1997",
+  "headquarters": "上海",
+  "branches": [],
+  "description": "远景科技集团是新能源领域的企业。",
+  "logoColor": "#6c2995",
+  "logoInitial": "远",
+  "jobs": [
+    {
+      "jobId": "real_074",
+      "title": "HRBP",
+      "companyId": "远景科技集团",
+      "companyName": "远景科技集团",
+      "companyIndustry": "新能源",
+      "city": "上海",
+      "district": "新城区",
+      "experience": "5-10年",
+      "education": "本科",
+      "salaryRange": "15-35K·18薪",
+      "salaryMin": 15,
+      "salaryMax": 35,
+      "bonusMonths": 18,
+      "tags": [
+        "新能源",
+        "电商",
+        "组织发展"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984835169.shtml",
+      "postedAt": "2026-08-16T07:41:50.102Z",
+      "crawledAt": "2026-08-16T16:41:50.102Z",
+      "heat": 1095,
+      "growth": 11,
+      "url": "https://www.liepin.com/job/1984835169.shtml",
+      "benefits": [
+        "项目奖金",
+        "年终奖",
+        "年度旅游",
+        "免费班车"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "熟悉新能源汽车行业人才图谱，支撑研发与制造团队的人才布局",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "5-10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "了解新能源汽车或智能制造行业，有相关领域HRBP经验者优先"
+      ],
+      "description": "远景科技集团招聘HRBP，工作地点上海·新城区，薪资15-35K·18薪，要求5-10年经验、本科学历。",
+      "valueScore": 5.6,
+      "salaryBreakdown": {
+        "p10": 15,
+        "p25": 19,
+        "p50": 25,
+        "p75": 31,
+        "p90": 39
+      }
+    },
+    {
+      "jobId": "aug_0367",
+      "title": "HRBP",
+      "companyId": "远景科技集团",
+      "companyName": "远景科技集团",
+      "companyIndustry": "新能源",
+      "city": "金华",
+      "district": "",
+      "experience": "10年以上",
+      "education": "本科",
+      "salaryRange": "18-42K",
+      "salaryMin": 18,
+      "salaryMax": 42,
+      "bonusMonths": 13,
+      "tags": [
+        "新能源",
+        "出海",
+        "出海",
+        "弹性工作"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984154284.shtml",
+      "postedAt": "2026-08-15T08:41:50.107Z",
+      "crawledAt": "2026-08-16T11:41:50.107Z",
+      "heat": 99,
+      "growth": 36,
+      "url": "https://www.liepin.com/job/1984154284.shtml",
+      "benefits": [
+        "免费班车",
+        "年度体检",
+        "项目奖金",
+        "免费三餐"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "熟悉新能源汽车行业人才图谱，支撑研发与制造团队的人才布局",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "了解新能源汽车或智能制造行业，有相关领域HRBP经验者优先"
+      ],
+      "description": "远景科技集团招聘HRBP，工作地点金华，薪资18-42K，要求10年以上经验、本科学历。",
+      "valueScore": 3.4,
+      "salaryBreakdown": {
+        "p10": 18,
+        "p25": 23,
+        "p50": 30,
+        "p75": 37,
+        "p90": 47
+      }
+    },
+    {
+      "jobId": "aug_0368",
+      "title": "HRBP",
+      "companyId": "远景科技集团",
+      "companyName": "远景科技集团",
+      "companyIndustry": "新能源",
+      "city": "南通",
+      "district": "",
+      "experience": "3-5年",
+      "education": "本科",
+      "salaryRange": "18-40K",
+      "salaryMin": 18,
+      "salaryMax": 40,
+      "bonusMonths": 13,
+      "tags": [
+        "新能源",
+        "技术HR",
+        "员工关系",
+        "专家岗"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984154703.shtml",
+      "postedAt": "2026-08-14T07:41:50.107Z",
+      "crawledAt": "2026-08-16T09:41:50.107Z",
+      "heat": 50,
+      "growth": 57,
+      "url": "https://www.liepin.com/job/1984154703.shtml",
+      "benefits": [
+        "带薪年假",
+        "补充医疗",
+        "六险一金",
+        "弹性工作",
+        "租房补贴"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "熟悉新能源汽车行业人才图谱，支撑研发与制造团队的人才布局"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "3-5年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "了解新能源汽车或智能制造行业，有相关领域HRBP经验者优先"
+      ],
+      "description": "远景科技集团招聘HRBP，工作地点南通，薪资18-40K，要求3-5年经验、本科学历。",
+      "valueScore": 11.1,
+      "salaryBreakdown": {
+        "p10": 18,
+        "p25": 22,
+        "p50": 29,
+        "p75": 36,
+        "p90": 44
+      }
+    },
+    {
+      "jobId": "aug_0370",
+      "title": "HRBP",
+      "companyId": "远景科技集团",
+      "companyName": "远景科技集团",
+      "companyIndustry": "新能源",
+      "city": "哈尔滨",
+      "district": "",
+      "experience": "5-10年",
+      "education": "本科",
+      "salaryRange": "16-36K·14薪",
+      "salaryMin": 16,
+      "salaryMax": 36,
+      "bonusMonths": 14,
+      "tags": [
+        "新能源",
+        "技术HR",
+        "硕博团队"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984155541.shtml",
+      "postedAt": "2026-08-13T12:41:50.107Z",
+      "crawledAt": "2026-08-16T07:41:50.107Z",
+      "heat": 50,
+      "growth": 43,
+      "url": "https://www.liepin.com/job/1984155541.shtml",
+      "benefits": [
+        "年终奖",
+        "免费班车",
+        "通勤班车",
+        "节日福利",
+        "股票期权"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "熟悉新能源汽车行业人才图谱，支撑研发与制造团队的人才布局",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "5-10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "了解新能源汽车或智能制造行业，有相关领域HRBP经验者优先"
+      ],
+      "description": "远景科技集团招聘HRBP，工作地点哈尔滨，薪资16-36K·14薪，要求5-10年经验、本科学历。",
+      "valueScore": 6,
+      "salaryBreakdown": {
+        "p10": 16,
+        "p25": 20,
+        "p50": 26,
+        "p75": 32,
+        "p90": 40
+      }
+    }
+  ],
+  "analysis": {
+    "companyId": "远景科技集团",
+    "atmosphereScore": 72,
+    "competitivenessScore": 73,
+    "potentialScore": 74,
+    "overall": 73,
+    "grade": "B",
+    "strengths": [
+      "团队氛围好",
+      "发展空间大",
+      "福利待遇优"
+    ],
+    "weaknesses": [
+      "部分流程待优化",
+      "行业竞争激烈"
+    ],
+    "radar": [
+      {
+        "label": "文化开放度",
+        "value": 76,
+        "key": "cultureOpenness"
+      },
+      {
+        "label": "晋升空间",
+        "value": 86,
+        "key": "promotionSpace"
+      },
+      {
+        "label": "团队稳定",
+        "value": 91,
+        "key": "teamStability"
+      },
+      {
+        "label": "领导力",
+        "value": 84,
+        "key": "leadership"
+      },
+      {
+        "label": "加班强度",
+        "value": 60,
+        "key": "overtimeIntensity"
+      }
+    ],
+    "competitors": [
+      {
+        "companyId": "远景科技集团",
+        "metric": "薪资竞争力",
+        "value": 93,
+        "industryAvg": 65
+      },
+      {
+        "companyId": "远景科技集团",
+        "metric": "发展潜力",
+        "value": 67,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "远景科技集团",
+        "metric": "团队氛围",
+        "value": 102,
+        "industryAvg": 70
+      },
+      {
+        "companyId": "远景科技集团",
+        "metric": "稳定性",
+        "value": 86,
+        "industryAvg": 55
+      },
+      {
+        "companyId": "远景科技集团",
+        "metric": "行业地位",
+        "value": 81,
+        "industryAvg": 50
+      }
+    ],
+    "trend": [
+      {
+        "companyId": "远景科技集团",
+        "year": "2021",
+        "revenue": 1487,
+        "headcount": 98,
+        "openings": 47
+      },
+      {
+        "companyId": "远景科技集团",
+        "year": "2022",
+        "revenue": 686,
+        "headcount": 130,
+        "openings": 46
+      },
+      {
+        "companyId": "远景科技集团",
+        "year": "2023",
+        "revenue": 615,
+        "headcount": 147,
+        "openings": 13
+      },
+      {
+        "companyId": "远景科技集团",
+        "year": "2024",
+        "revenue": 1492,
+        "headcount": 138,
+        "openings": 54
+      },
+      {
+        "companyId": "远景科技集团",
+        "year": "2025",
+        "revenue": 769,
+        "headcount": 134,
+        "openings": 16
+      }
+    ]
+  }
+}

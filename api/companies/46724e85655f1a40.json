@@ -1,0 +1,554 @@
+﻿{
+  "companyId": "46724e85655f1a40",
+  "name": "北京华德创业",
+  "industry": "综合",
+  "scale": "",
+  "stage": "",
+  "logoColor": "#dd6b20",
+  "logoInitial": "北",
+  "description": "北京华德创业 正在招聘 HRBP 相关岗位，欢迎了解。",
+  "founded": 2003,
+  "headquarters": "太原",
+  "jobCount": 4,
+  "avgSalary": 8.6,
+  "jobs": [
+    {
+      "jobId": "1b1574c4e7e1e8fb",
+      "title": "HRBP",
+      "companyId": "46724e85655f1a40",
+      "companyName": "北京华德创业",
+      "city": "太原",
+      "district": "",
+      "experience": "1-3年",
+      "education": "本科",
+      "salaryRange": "8-12K",
+      "salaryMin": 8,
+      "salaryMax": 12,
+      "tags": [
+        "雇主品牌",
+        "免费三餐",
+        "社招",
+        "培训"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC43GOJ00000288.htm",
+      "postedAt": "2026-08-14T18:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 33,
+      "growth": 31,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 96,
+        "annualMax": 192,
+        "monthlyMin": 8,
+        "monthlyMax": 12,
+        "bonus": 18,
+        "stocks": 6,
+        "yearly": 10
+      },
+      "valueScore": 40
+    },
+    {
+      "jobId": "25d275e9751b2dd7",
+      "title": "HRBP",
+      "companyId": "46724e85655f1a40",
+      "companyName": "北京华德创业",
+      "city": "佛山",
+      "district": "佛山新城",
+      "experience": "3-5年",
+      "education": "本科",
+      "salaryRange": "8-10K·15薪",
+      "salaryMin": 8,
+      "salaryMax": 10,
+      "tags": [
+        "数字化",
+        "社招",
+        "期权激励",
+        "高增长"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC43IQJ00000290.htm",
+      "postedAt": "2026-08-13T23:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 29,
+      "growth": 59,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 96,
+        "annualMax": 160,
+        "monthlyMin": 8,
+        "monthlyMax": 10,
+        "bonus": 16.2,
+        "stocks": 5.4,
+        "yearly": 9
+      },
+      "valueScore": 36
+    },
+    {
+      "jobId": "3a5ab1e48cbe74fc",
+      "title": "HRBP",
+      "companyId": "46724e85655f1a40",
+      "companyName": "北京华德创业",
+      "city": "天津",
+      "district": "西青区",
+      "experience": "3-5年",
+      "education": "本科",
+      "salaryRange": "7-10K",
+      "salaryMin": 7,
+      "salaryMax": 10,
+      "tags": [
+        "商业化",
+        "绩效",
+        "研究院"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC132945680J40871041801.htm",
+      "postedAt": "2026-08-13T12:02:00.691Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 27,
+      "growth": 45,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 84,
+        "annualMax": 160,
+        "monthlyMin": 7,
+        "monthlyMax": 10,
+        "bonus": 15.3,
+        "stocks": 5.1,
+        "yearly": 8.5
+      },
+      "valueScore": 34
+    },
+    {
+      "jobId": "8a973feb43f225ac",
+      "title": "HRBP",
+      "companyId": "46724e85655f1a40",
+      "companyName": "北京华德创业",
+      "city": "金华",
+      "district": "",
+      "experience": "3-5年",
+      "education": "本科",
+      "salaryRange": "6-8K",
+      "salaryMin": 6,
+      "salaryMax": 8,
+      "tags": [
+        "员工关系",
+        "期权激励",
+        "大厂"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC43EMJ00000286.htm",
+      "postedAt": "2026-08-14T12:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 32,
+      "growth": 72,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 72,
+        "annualMax": 128,
+        "monthlyMin": 6,
+        "monthlyMax": 8,
+        "bonus": 12.6,
+        "stocks": 4.2,
+        "yearly": 7
+      },
+      "valueScore": 28
+    }
+  ],
+  "analysis": {
+    "summary": "北京华德创业（综合）当前在招 HRBP 相关岗位 4 个，平均薪资 8.6k。",
+    "salaryBenchmark": {
+      "companyAvg": 8.6,
+      "industryAvg": 18.3,
+      "cityAvg": 8.2,
+      "percentile": 70
+    },
+    "openings": [
+      {
+        "jobId": "1b1574c4e7e1e8fb",
+        "title": "HRBP",
+        "companyId": "46724e85655f1a40",
+        "companyName": "北京华德创业",
+        "city": "太原",
+        "district": "",
+        "experience": "1-3年",
+        "education": "本科",
+        "salaryRange": "8-12K",
+        "salaryMin": 8,
+        "salaryMax": 12,
+        "tags": [
+          "雇主品牌",
+          "免费三餐",
+          "社招",
+          "培训"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC43GOJ00000288.htm",
+        "postedAt": "2026-08-14T18:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 33,
+        "growth": 31,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 96,
+          "annualMax": 192,
+          "monthlyMin": 8,
+          "monthlyMax": 12,
+          "bonus": 18,
+          "stocks": 6,
+          "yearly": 10
+        },
+        "valueScore": 40
+      },
+      {
+        "jobId": "25d275e9751b2dd7",
+        "title": "HRBP",
+        "companyId": "46724e85655f1a40",
+        "companyName": "北京华德创业",
+        "city": "佛山",
+        "district": "佛山新城",
+        "experience": "3-5年",
+        "education": "本科",
+        "salaryRange": "8-10K·15薪",
+        "salaryMin": 8,
+        "salaryMax": 10,
+        "tags": [
+          "数字化",
+          "社招",
+          "期权激励",
+          "高增长"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC43IQJ00000290.htm",
+        "postedAt": "2026-08-13T23:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 29,
+        "growth": 59,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 96,
+          "annualMax": 160,
+          "monthlyMin": 8,
+          "monthlyMax": 10,
+          "bonus": 16.2,
+          "stocks": 5.4,
+          "yearly": 9
+        },
+        "valueScore": 36
+      },
+      {
+        "jobId": "3a5ab1e48cbe74fc",
+        "title": "HRBP",
+        "companyId": "46724e85655f1a40",
+        "companyName": "北京华德创业",
+        "city": "天津",
+        "district": "西青区",
+        "experience": "3-5年",
+        "education": "本科",
+        "salaryRange": "7-10K",
+        "salaryMin": 7,
+        "salaryMax": 10,
+        "tags": [
+          "商业化",
+          "绩效",
+          "研究院"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC132945680J40871041801.htm",
+        "postedAt": "2026-08-13T12:02:00.691Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 27,
+        "growth": 45,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 84,
+          "annualMax": 160,
+          "monthlyMin": 7,
+          "monthlyMax": 10,
+          "bonus": 15.3,
+          "stocks": 5.1,
+          "yearly": 8.5
+        },
+        "valueScore": 34
+      },
+      {
+        "jobId": "8a973feb43f225ac",
+        "title": "HRBP",
+        "companyId": "46724e85655f1a40",
+        "companyName": "北京华德创业",
+        "city": "金华",
+        "district": "",
+        "experience": "3-5年",
+        "education": "本科",
+        "salaryRange": "6-8K",
+        "salaryMin": 6,
+        "salaryMax": 8,
+        "tags": [
+          "员工关系",
+          "期权激励",
+          "大厂"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC43EMJ00000286.htm",
+        "postedAt": "2026-08-14T12:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 32,
+        "growth": 72,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 72,
+          "annualMax": 128,
+          "monthlyMin": 6,
+          "monthlyMax": 8,
+          "bonus": 12.6,
+          "stocks": 4.2,
+          "yearly": 7
+        },
+        "valueScore": 28
+      }
+    ],
+    "trends": [
+      {
+        "year": "2022",
+        "companyId": "46724e85655f1a40",
+        "revenue": 130,
+        "headcount": 93,
+        "openings": 1
+      },
+      {
+        "year": "2023",
+        "companyId": "46724e85655f1a40",
+        "revenue": 142,
+        "headcount": 115,
+        "openings": 2
+      },
+      {
+        "year": "2024",
+        "companyId": "46724e85655f1a40",
+        "revenue": 175,
+        "headcount": 134,
+        "openings": 4
+      },
+      {
+        "year": "2025",
+        "companyId": "46724e85655f1a40",
+        "revenue": 201,
+        "headcount": 150,
+        "openings": 6
+      },
+      {
+        "year": "2026",
+        "companyId": "46724e85655f1a40",
+        "revenue": 220,
+        "headcount": 171,
+        "openings": 8
+      }
+    ],
+    "comparisons": [
+      {
+        "companyId": "46724e85655f1a40",
+        "metric": "薪资竞争力",
+        "value": 28,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "46724e85655f1a40",
+        "metric": "招聘活跃度",
+        "value": 52,
+        "industryAvg": 45
+      },
+      {
+        "companyId": "46724e85655f1a40",
+        "metric": "组织规模",
+        "value": 50,
+        "industryAvg": 55
+      }
+    ],
+    "scoreCard": {
+      "companyId": "46724e85655f1a40",
+      "atmosphereScore": 77,
+      "competitivenessScore": 76,
+      "potentialScore": 85,
+      "overall": 0,
+      "grade": "B",
+      "strengths": [],
+      "weaknesses": []
+    },
+    "atmosphere": {
+      "companyId": "46724e85655f1a40",
+      "cultureOpenness": 69,
+      "overtimeIntensity": 48,
+      "promotionSpace": 59,
+      "teamStability": 76,
+      "leadership": 87
+    }
+  }
+}

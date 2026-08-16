@@ -1,0 +1,360 @@
+﻿{
+  "companyId": "广州森大贸易",
+  "name": "广州森大贸易",
+  "industry": "国际贸易",
+  "scale": "150-500人",
+  "stage": "成熟期",
+  "founded": "2006",
+  "headquarters": "广州",
+  "branches": [],
+  "description": "广州森大贸易是国际贸易领域的企业。",
+  "logoColor": "#485249",
+  "logoInitial": "广",
+  "jobs": [
+    {
+      "jobId": "real_038",
+      "title": "供应链海外HRBP",
+      "companyId": "广州森大贸易",
+      "companyName": "广州森大贸易",
+      "companyIndustry": "国际贸易",
+      "city": "广州",
+      "district": "天河区",
+      "experience": "5-10年",
+      "education": "本科",
+      "salaryRange": "20-40K·13薪",
+      "salaryMin": 20,
+      "salaryMax": 40,
+      "bonusMonths": 13,
+      "tags": [
+        "出海",
+        "高增长",
+        "新能源"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC132723350J40876395203.htm",
+      "postedAt": "2026-08-14T14:41:50.102Z",
+      "crawledAt": "2026-08-16T11:41:50.102Z",
+      "heat": 193,
+      "growth": 50,
+      "url": "http://www.zhaopin.com/jobdetail/CC132723350J40876395203.htm",
+      "benefits": [
+        "商业保险",
+        "补充医疗",
+        "股票期权",
+        "年度体检"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "支持海外团队的本地化人力资源建设，确保跨文化团队的顺畅协作",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "5-10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "广州森大贸易招聘供应链海外HRBP，工作地点广州·天河区，薪资20-40K·13薪，要求5-10年经验、本科学历。",
+      "valueScore": 6.7,
+      "salaryBreakdown": {
+        "p10": 20,
+        "p25": 24,
+        "p50": 30,
+        "p75": 36,
+        "p90": 44
+      }
+    },
+    {
+      "jobId": "aug_0186",
+      "title": "供应链海外人力资源业务伙伴",
+      "companyId": "广州森大贸易",
+      "companyName": "广州森大贸易",
+      "companyIndustry": "国际贸易",
+      "city": "盐城",
+      "district": "",
+      "experience": "10年以上",
+      "education": "本科",
+      "salaryRange": "20-38K·14薪",
+      "salaryMin": 20,
+      "salaryMax": 38,
+      "bonusMonths": 14,
+      "tags": [
+        "出海",
+        "免费三餐",
+        "免费三餐"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3L4AJ00000186.htm",
+      "postedAt": "2026-08-15T00:41:50.107Z",
+      "crawledAt": "2026-08-16T13:41:50.107Z",
+      "heat": 191,
+      "growth": 41,
+      "url": "http://www.zhaopin.com/jobdetail/CC3L4AJ00000186.htm",
+      "benefits": [
+        "弹性工作",
+        "带薪年假",
+        "六险一金",
+        "年度旅游",
+        "通勤班车"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "支持海外团队的本地化人力资源建设，确保跨文化团队的顺畅协作",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "广州森大贸易招聘供应链海外人力资源业务伙伴，工作地点盐城，薪资20-38K·14薪，要求10年以上经验、本科学历。",
+      "valueScore": 3.3,
+      "salaryBreakdown": {
+        "p10": 20,
+        "p25": 24,
+        "p50": 29,
+        "p75": 34,
+        "p90": 42
+      }
+    },
+    {
+      "jobId": "aug_0188",
+      "title": "供应链海外HRBP",
+      "companyId": "广州森大贸易",
+      "companyName": "广州森大贸易",
+      "companyIndustry": "国际贸易",
+      "city": "兰州",
+      "district": "",
+      "experience": "10年以上",
+      "education": "本科",
+      "salaryRange": "18-36K",
+      "salaryMin": 18,
+      "salaryMax": 36,
+      "bonusMonths": 13,
+      "tags": [
+        "出海",
+        "商业保险",
+        "培训",
+        "培训"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3L6CJ00000188.htm",
+      "postedAt": "2026-08-13T15:41:50.107Z",
+      "crawledAt": "2026-08-16T11:41:50.107Z",
+      "heat": 52,
+      "growth": 45,
+      "url": "http://www.zhaopin.com/jobdetail/CC3L6CJ00000188.htm",
+      "benefits": [
+        "六险一金",
+        "员工宿舍",
+        "弹性工作",
+        "免费班车",
+        "带薪年假"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "支持海外团队的本地化人力资源建设，确保跨文化团队的顺畅协作",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "广州森大贸易招聘供应链海外HRBP，工作地点兰州，薪资18-36K，要求10年以上经验、本科学历。",
+      "valueScore": 3.1,
+      "salaryBreakdown": {
+        "p10": 18,
+        "p25": 22,
+        "p50": 27,
+        "p75": 32,
+        "p90": 40
+      }
+    },
+    {
+      "jobId": "aug_0189",
+      "title": "供应链海外人力资源业务伙伴",
+      "companyId": "广州森大贸易",
+      "companyName": "广州森大贸易",
+      "companyIndustry": "国际贸易",
+      "city": "昆明",
+      "district": "",
+      "experience": "3-5年",
+      "education": "本科",
+      "salaryRange": "16-34K",
+      "salaryMin": 16,
+      "salaryMax": 34,
+      "bonusMonths": 13,
+      "tags": [
+        "出海",
+        "商业保险",
+        "大厂",
+        "社招"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3L7DJ00000189.htm",
+      "postedAt": "2026-08-13T17:41:50.107Z",
+      "crawledAt": "2026-08-16T12:41:50.107Z",
+      "heat": 50,
+      "growth": 46,
+      "url": "http://www.zhaopin.com/jobdetail/CC3L7DJ00000189.htm",
+      "benefits": [
+        "带薪年假",
+        "通勤班车",
+        "企业年金",
+        "商业保险",
+        "弹性工作"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "支持海外团队的本地化人力资源建设，确保跨文化团队的顺畅协作"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "3-5年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "广州森大贸易招聘供应链海外人力资源业务伙伴，工作地点昆明，薪资16-34K，要求3-5年经验、本科学历。",
+      "valueScore": 9.6,
+      "salaryBreakdown": {
+        "p10": 16,
+        "p25": 20,
+        "p50": 25,
+        "p75": 30,
+        "p90": 38
+      }
+    }
+  ],
+  "analysis": {
+    "companyId": "广州森大贸易",
+    "atmosphereScore": 76,
+    "competitivenessScore": 65,
+    "potentialScore": 81,
+    "overall": 74,
+    "grade": "B",
+    "strengths": [
+      "团队氛围好",
+      "发展空间大",
+      "福利待遇优"
+    ],
+    "weaknesses": [
+      "部分流程待优化",
+      "行业竞争激烈"
+    ],
+    "radar": [
+      {
+        "label": "文化开放度",
+        "value": 71,
+        "key": "cultureOpenness"
+      },
+      {
+        "label": "晋升空间",
+        "value": 87,
+        "key": "promotionSpace"
+      },
+      {
+        "label": "团队稳定",
+        "value": 82,
+        "key": "teamStability"
+      },
+      {
+        "label": "领导力",
+        "value": 79,
+        "key": "leadership"
+      },
+      {
+        "label": "加班强度",
+        "value": 48,
+        "key": "overtimeIntensity"
+      }
+    ],
+    "competitors": [
+      {
+        "companyId": "广州森大贸易",
+        "metric": "薪资竞争力",
+        "value": 72,
+        "industryAvg": 65
+      },
+      {
+        "companyId": "广州森大贸易",
+        "metric": "发展潜力",
+        "value": 70,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "广州森大贸易",
+        "metric": "团队氛围",
+        "value": 94,
+        "industryAvg": 70
+      },
+      {
+        "companyId": "广州森大贸易",
+        "metric": "稳定性",
+        "value": 63,
+        "industryAvg": 55
+      },
+      {
+        "companyId": "广州森大贸易",
+        "metric": "行业地位",
+        "value": 56,
+        "industryAvg": 50
+      }
+    ],
+    "trend": [
+      {
+        "companyId": "广州森大贸易",
+        "year": "2021",
+        "revenue": 1098,
+        "headcount": 92,
+        "openings": 52
+      },
+      {
+        "companyId": "广州森大贸易",
+        "year": "2022",
+        "revenue": 827,
+        "headcount": 73,
+        "openings": 24
+      },
+      {
+        "companyId": "广州森大贸易",
+        "year": "2023",
+        "revenue": 662,
+        "headcount": 55,
+        "openings": 36
+      },
+      {
+        "companyId": "广州森大贸易",
+        "year": "2024",
+        "revenue": 805,
+        "headcount": 80,
+        "openings": 51
+      },
+      {
+        "companyId": "广州森大贸易",
+        "year": "2025",
+        "revenue": 1041,
+        "headcount": 107,
+        "openings": 40
+      }
+    ]
+  }
+}

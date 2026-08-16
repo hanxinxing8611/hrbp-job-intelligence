@@ -1,0 +1,550 @@
+﻿{
+  "companyId": "92bc422a989bb33c",
+  "name": "海思科医药",
+  "industry": "综合",
+  "scale": "",
+  "stage": "",
+  "logoColor": "#c53030",
+  "logoInitial": "海",
+  "description": "海思科医药 正在招聘 HRBP 相关岗位，欢迎了解。",
+  "founded": 2006,
+  "headquarters": "泉州",
+  "jobCount": 4,
+  "avgSalary": 9.8,
+  "jobs": [
+    {
+      "jobId": "08f25d8f1cc06340",
+      "title": "医药研发HRBP",
+      "companyId": "92bc422a989bb33c",
+      "companyName": "海思科医药",
+      "city": "泉州",
+      "district": "",
+      "experience": "8年以上",
+      "education": "本科",
+      "salaryRange": "10-14K",
+      "salaryMin": 10,
+      "salaryMax": 14,
+      "tags": [
+        "技术HR",
+        "硬科技",
+        "战略"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984176142.shtml",
+      "postedAt": "2026-08-15T13:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 39,
+      "growth": 54,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 120,
+        "annualMax": 224,
+        "monthlyMin": 10,
+        "monthlyMax": 14,
+        "bonus": 21.6,
+        "stocks": 7.2,
+        "yearly": 12
+      },
+      "valueScore": 48
+    },
+    {
+      "jobId": "cfec03ef74d6227b",
+      "title": "医药研发HRBP",
+      "companyId": "92bc422a989bb33c",
+      "companyName": "海思科医药",
+      "city": "成都",
+      "district": "天府",
+      "experience": "5年以上",
+      "education": "本科",
+      "salaryRange": "8-12K",
+      "salaryMin": 8,
+      "salaryMax": 12,
+      "tags": [
+        "技术HR",
+        "硬科技",
+        "薪酬"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984696329.shtml",
+      "postedAt": "2026-08-15T11:02:00.691Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 38,
+      "growth": 76,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 96,
+        "annualMax": 192,
+        "monthlyMin": 8,
+        "monthlyMax": 12,
+        "bonus": 18,
+        "stocks": 6,
+        "yearly": 10
+      },
+      "valueScore": 40
+    },
+    {
+      "jobId": "8e296e27cf57669b",
+      "title": "医药研发HRBP",
+      "companyId": "92bc422a989bb33c",
+      "companyName": "海思科医药",
+      "city": "厦门",
+      "district": "",
+      "experience": "3年以上",
+      "education": "本科",
+      "salaryRange": "8-10K·14薪",
+      "salaryMin": 8,
+      "salaryMax": 10,
+      "tags": [
+        "技术HR",
+        "硬科技",
+        "数字化"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984174885.shtml",
+      "postedAt": "2026-08-14T21:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 35,
+      "growth": 63,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 96,
+        "annualMax": 160,
+        "monthlyMin": 8,
+        "monthlyMax": 10,
+        "bonus": 16.2,
+        "stocks": 5.4,
+        "yearly": 9
+      },
+      "valueScore": 36
+    },
+    {
+      "jobId": "94dea8fbe952effe",
+      "title": "医药研发HRBP",
+      "companyId": "92bc422a989bb33c",
+      "companyName": "海思科医药",
+      "city": "济南",
+      "district": "",
+      "experience": "8年以上",
+      "education": "本科",
+      "salaryRange": "6-10K·14薪",
+      "salaryMin": 6,
+      "salaryMax": 10,
+      "tags": [
+        "技术HR",
+        "硬科技",
+        "数字化"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984175304.shtml",
+      "postedAt": "2026-08-12T22:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 26,
+      "growth": 57,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 72,
+        "annualMax": 160,
+        "monthlyMin": 6,
+        "monthlyMax": 10,
+        "bonus": 14.4,
+        "stocks": 4.8,
+        "yearly": 8
+      },
+      "valueScore": 32
+    }
+  ],
+  "analysis": {
+    "summary": "海思科医药（综合）当前在招 HRBP 相关岗位 4 个，平均薪资 9.8k。",
+    "salaryBenchmark": {
+      "companyAvg": 9.8,
+      "industryAvg": 18.3,
+      "cityAvg": 9.3,
+      "percentile": 70
+    },
+    "openings": [
+      {
+        "jobId": "08f25d8f1cc06340",
+        "title": "医药研发HRBP",
+        "companyId": "92bc422a989bb33c",
+        "companyName": "海思科医药",
+        "city": "泉州",
+        "district": "",
+        "experience": "8年以上",
+        "education": "本科",
+        "salaryRange": "10-14K",
+        "salaryMin": 10,
+        "salaryMax": 14,
+        "tags": [
+          "技术HR",
+          "硬科技",
+          "战略"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984176142.shtml",
+        "postedAt": "2026-08-15T13:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 39,
+        "growth": 54,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 120,
+          "annualMax": 224,
+          "monthlyMin": 10,
+          "monthlyMax": 14,
+          "bonus": 21.6,
+          "stocks": 7.2,
+          "yearly": 12
+        },
+        "valueScore": 48
+      },
+      {
+        "jobId": "cfec03ef74d6227b",
+        "title": "医药研发HRBP",
+        "companyId": "92bc422a989bb33c",
+        "companyName": "海思科医药",
+        "city": "成都",
+        "district": "天府",
+        "experience": "5年以上",
+        "education": "本科",
+        "salaryRange": "8-12K",
+        "salaryMin": 8,
+        "salaryMax": 12,
+        "tags": [
+          "技术HR",
+          "硬科技",
+          "薪酬"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984696329.shtml",
+        "postedAt": "2026-08-15T11:02:00.691Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 38,
+        "growth": 76,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 96,
+          "annualMax": 192,
+          "monthlyMin": 8,
+          "monthlyMax": 12,
+          "bonus": 18,
+          "stocks": 6,
+          "yearly": 10
+        },
+        "valueScore": 40
+      },
+      {
+        "jobId": "8e296e27cf57669b",
+        "title": "医药研发HRBP",
+        "companyId": "92bc422a989bb33c",
+        "companyName": "海思科医药",
+        "city": "厦门",
+        "district": "",
+        "experience": "3年以上",
+        "education": "本科",
+        "salaryRange": "8-10K·14薪",
+        "salaryMin": 8,
+        "salaryMax": 10,
+        "tags": [
+          "技术HR",
+          "硬科技",
+          "数字化"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984174885.shtml",
+        "postedAt": "2026-08-14T21:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 35,
+        "growth": 63,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 96,
+          "annualMax": 160,
+          "monthlyMin": 8,
+          "monthlyMax": 10,
+          "bonus": 16.2,
+          "stocks": 5.4,
+          "yearly": 9
+        },
+        "valueScore": 36
+      },
+      {
+        "jobId": "94dea8fbe952effe",
+        "title": "医药研发HRBP",
+        "companyId": "92bc422a989bb33c",
+        "companyName": "海思科医药",
+        "city": "济南",
+        "district": "",
+        "experience": "8年以上",
+        "education": "本科",
+        "salaryRange": "6-10K·14薪",
+        "salaryMin": 6,
+        "salaryMax": 10,
+        "tags": [
+          "技术HR",
+          "硬科技",
+          "数字化"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984175304.shtml",
+        "postedAt": "2026-08-12T22:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 26,
+        "growth": 57,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 72,
+          "annualMax": 160,
+          "monthlyMin": 6,
+          "monthlyMax": 10,
+          "bonus": 14.4,
+          "stocks": 4.8,
+          "yearly": 8
+        },
+        "valueScore": 32
+      }
+    ],
+    "trends": [
+      {
+        "year": "2022",
+        "companyId": "92bc422a989bb33c",
+        "revenue": 132,
+        "headcount": 92,
+        "openings": 1
+      },
+      {
+        "year": "2023",
+        "companyId": "92bc422a989bb33c",
+        "revenue": 152,
+        "headcount": 111,
+        "openings": 2
+      },
+      {
+        "year": "2024",
+        "companyId": "92bc422a989bb33c",
+        "revenue": 165,
+        "headcount": 136,
+        "openings": 4
+      },
+      {
+        "year": "2025",
+        "companyId": "92bc422a989bb33c",
+        "revenue": 188,
+        "headcount": 156,
+        "openings": 6
+      },
+      {
+        "year": "2026",
+        "companyId": "92bc422a989bb33c",
+        "revenue": 219,
+        "headcount": 169,
+        "openings": 8
+      }
+    ],
+    "comparisons": [
+      {
+        "companyId": "92bc422a989bb33c",
+        "metric": "薪资竞争力",
+        "value": 32,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "92bc422a989bb33c",
+        "metric": "招聘活跃度",
+        "value": 52,
+        "industryAvg": 45
+      },
+      {
+        "companyId": "92bc422a989bb33c",
+        "metric": "组织规模",
+        "value": 50,
+        "industryAvg": 55
+      }
+    ],
+    "scoreCard": {
+      "companyId": "92bc422a989bb33c",
+      "atmosphereScore": 87,
+      "competitivenessScore": 76,
+      "potentialScore": 84,
+      "overall": 0,
+      "grade": "B",
+      "strengths": [],
+      "weaknesses": []
+    },
+    "atmosphere": {
+      "companyId": "92bc422a989bb33c",
+      "cultureOpenness": 85,
+      "overtimeIntensity": 57,
+      "promotionSpace": 71,
+      "teamStability": 70,
+      "leadership": 72
+    }
+  }
+}

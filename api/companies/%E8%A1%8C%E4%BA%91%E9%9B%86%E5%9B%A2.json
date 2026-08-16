@@ -1,0 +1,361 @@
+﻿{
+  "companyId": "行云集团",
+  "name": "行云集团",
+  "industry": "互联网",
+  "scale": "150-500人",
+  "stage": "成长期",
+  "founded": "2015",
+  "headquarters": "深圳",
+  "branches": [],
+  "description": "行云集团是互联网领域的企业。",
+  "logoColor": "#d42aa4",
+  "logoInitial": "行",
+  "jobs": [
+    {
+      "jobId": "real_004",
+      "title": "HRBP（AI方向）",
+      "companyId": "行云集团",
+      "companyName": "行云集团",
+      "companyIndustry": "互联网",
+      "city": "深圳",
+      "district": "南山区",
+      "experience": "3-5年",
+      "education": "本科",
+      "salaryRange": "15-30K",
+      "salaryMin": 15,
+      "salaryMax": 30,
+      "bonusMonths": 13,
+      "tags": [
+        "AI赛道",
+        "互联网",
+        "战略",
+        "弹性工作"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/464e5687322cff8f0nJ63Ny8GVVZ.html",
+      "postedAt": "2026-08-15T17:41:50.102Z",
+      "crawledAt": "2026-08-16T15:41:50.102Z",
+      "heat": 219,
+      "growth": 48,
+      "url": "https://m.zhipin.com/job_detail/464e5687322cff8f0nJ63Ny8GVVZ.html",
+      "benefits": [
+        "股票期权",
+        "免费三餐",
+        "六险一金",
+        "项目奖金"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "关注AI领域前沿人才动态，制定针对性的人才吸引与保留策略",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "3-5年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "熟悉互联网行业运作模式与人才特点，具备快速学习与适应能力"
+      ],
+      "description": "行云集团招聘HRBP（AI方向），工作地点深圳·南山区，薪资15-30K，要求3-5年经验、本科学历。",
+      "valueScore": 8.4,
+      "salaryBreakdown": {
+        "p10": 15,
+        "p25": 18,
+        "p50": 23,
+        "p75": 27,
+        "p90": 33
+      }
+    },
+    {
+      "jobId": "aug_0017",
+      "title": "高级HRBP（AI方向）",
+      "companyId": "行云集团",
+      "companyName": "行云集团",
+      "companyIndustry": "互联网",
+      "city": "南通",
+      "district": "",
+      "experience": "5-10年",
+      "education": "本科",
+      "salaryRange": "16-32K",
+      "salaryMin": 16,
+      "salaryMax": 32,
+      "bonusMonths": 13,
+      "tags": [
+        "AI赛道",
+        "互联网",
+        "组织发展"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/2q25nV_0017FlVY.html",
+      "postedAt": "2026-08-15T01:41:50.107Z",
+      "crawledAt": "2026-08-16T13:41:50.107Z",
+      "heat": 187,
+      "growth": 4,
+      "url": "https://m.zhipin.com/job_detail/2q25nV_0017FlVY.html",
+      "benefits": [
+        "年度旅游",
+        "免费班车",
+        "企业年金",
+        "弹性工作"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "关注AI领域前沿人才动态，制定针对性的人才吸引与保留策略"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "5-10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "熟悉互联网行业运作模式与人才特点，具备快速学习与适应能力"
+      ],
+      "description": "行云集团招聘高级HRBP（AI方向），工作地点南通，薪资16-32K，要求5-10年经验、本科学历。",
+      "valueScore": 5.4,
+      "salaryBreakdown": {
+        "p10": 16,
+        "p25": 19,
+        "p50": 24,
+        "p75": 29,
+        "p90": 35
+      }
+    },
+    {
+      "jobId": "aug_0020",
+      "title": "HRBP（人工智能方向）",
+      "companyId": "行云集团",
+      "companyName": "行云集团",
+      "companyIndustry": "互联网",
+      "city": "佛山",
+      "district": "顺德区",
+      "experience": "5-10年",
+      "education": "本科",
+      "salaryRange": "14-28K·15薪",
+      "salaryMin": 14,
+      "salaryMax": 28,
+      "bonusMonths": 15,
+      "tags": [
+        "AI赛道",
+        "互联网",
+        "校招"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/2q58nV_0020FlVY.html",
+      "postedAt": "2026-08-14T16:41:50.107Z",
+      "crawledAt": "2026-08-16T09:41:50.107Z",
+      "heat": 154,
+      "growth": 22,
+      "url": "https://m.zhipin.com/job_detail/2q58nV_0020FlVY.html",
+      "benefits": [
+        "年度体检",
+        "企业年金",
+        "商业保险",
+        "节日福利",
+        "补充医疗"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "关注AI领域前沿人才动态，制定针对性的人才吸引与保留策略"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "5-10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "熟悉互联网行业运作模式与人才特点，具备快速学习与适应能力"
+      ],
+      "description": "行云集团招聘HRBP（人工智能方向），工作地点佛山·顺德区，薪资14-28K·15薪，要求5-10年经验、本科学历。",
+      "valueScore": 4.8,
+      "salaryBreakdown": {
+        "p10": 14,
+        "p25": 17,
+        "p50": 21,
+        "p75": 25,
+        "p90": 31
+      }
+    },
+    {
+      "jobId": "aug_0018",
+      "title": "HRBP（AI方向）",
+      "companyId": "行云集团",
+      "companyName": "行云集团",
+      "companyIndustry": "互联网",
+      "city": "太原",
+      "district": "",
+      "experience": "5-10年",
+      "education": "本科",
+      "salaryRange": "16-32K",
+      "salaryMin": 16,
+      "salaryMax": 32,
+      "bonusMonths": 13,
+      "tags": [
+        "AI赛道",
+        "互联网",
+        "组织发展",
+        "稳定"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/2q36nV_0018FlVY.html",
+      "postedAt": "2026-08-14T12:41:50.107Z",
+      "crawledAt": "2026-08-16T15:41:50.107Z",
+      "heat": 108,
+      "growth": 18,
+      "url": "https://m.zhipin.com/job_detail/2q36nV_0018FlVY.html",
+      "benefits": [
+        "通勤班车",
+        "企业年金",
+        "股票期权",
+        "年度体检"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "关注AI领域前沿人才动态，制定针对性的人才吸引与保留策略",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "5-10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "熟悉互联网行业运作模式与人才特点，具备快速学习与适应能力"
+      ],
+      "description": "行云集团招聘HRBP（AI方向），工作地点太原，薪资16-32K，要求5-10年经验、本科学历。",
+      "valueScore": 5.4,
+      "salaryBreakdown": {
+        "p10": 16,
+        "p25": 19,
+        "p50": 24,
+        "p75": 29,
+        "p90": 35
+      }
+    }
+  ],
+  "analysis": {
+    "companyId": "行云集团",
+    "atmosphereScore": 72,
+    "competitivenessScore": 82,
+    "potentialScore": 86,
+    "overall": 80,
+    "grade": "A",
+    "strengths": [
+      "团队氛围好",
+      "发展空间大",
+      "福利待遇优"
+    ],
+    "weaknesses": [
+      "部分流程待优化",
+      "行业竞争激烈"
+    ],
+    "radar": [
+      {
+        "label": "文化开放度",
+        "value": 93,
+        "key": "cultureOpenness"
+      },
+      {
+        "label": "晋升空间",
+        "value": 56,
+        "key": "promotionSpace"
+      },
+      {
+        "label": "团队稳定",
+        "value": 62,
+        "key": "teamStability"
+      },
+      {
+        "label": "领导力",
+        "value": 83,
+        "key": "leadership"
+      },
+      {
+        "label": "加班强度",
+        "value": 51,
+        "key": "overtimeIntensity"
+      }
+    ],
+    "competitors": [
+      {
+        "companyId": "行云集团",
+        "metric": "薪资竞争力",
+        "value": 88,
+        "industryAvg": 65
+      },
+      {
+        "companyId": "行云集团",
+        "metric": "发展潜力",
+        "value": 86,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "行云集团",
+        "metric": "团队氛围",
+        "value": 94,
+        "industryAvg": 70
+      },
+      {
+        "companyId": "行云集团",
+        "metric": "稳定性",
+        "value": 84,
+        "industryAvg": 55
+      },
+      {
+        "companyId": "行云集团",
+        "metric": "行业地位",
+        "value": 58,
+        "industryAvg": 50
+      }
+    ],
+    "trend": [
+      {
+        "companyId": "行云集团",
+        "year": "2021",
+        "revenue": 697,
+        "headcount": 101,
+        "openings": 25
+      },
+      {
+        "companyId": "行云集团",
+        "year": "2022",
+        "revenue": 1357,
+        "headcount": 69,
+        "openings": 53
+      },
+      {
+        "companyId": "行云集团",
+        "year": "2023",
+        "revenue": 1258,
+        "headcount": 99,
+        "openings": 32
+      },
+      {
+        "companyId": "行云集团",
+        "year": "2024",
+        "revenue": 1006,
+        "headcount": 92,
+        "openings": 57
+      },
+      {
+        "companyId": "行云集团",
+        "year": "2025",
+        "revenue": 1370,
+        "headcount": 51,
+        "openings": 31
+      }
+    ]
+  }
+}

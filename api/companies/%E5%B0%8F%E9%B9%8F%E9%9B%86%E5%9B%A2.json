@@ -1,0 +1,368 @@
+﻿{
+  "companyId": "小鹏集团",
+  "name": "小鹏集团",
+  "industry": "新能源汽车",
+  "scale": "500-1000人",
+  "stage": "成熟期",
+  "founded": "1994",
+  "headquarters": "上海",
+  "branches": [],
+  "description": "小鹏集团是新能源汽车领域的企业。",
+  "logoColor": "#454128",
+  "logoInitial": "小",
+  "jobs": [
+    {
+      "jobId": "real_075",
+      "title": "HRBP主管（硬件研发）",
+      "companyId": "小鹏集团",
+      "companyName": "小鹏集团",
+      "companyIndustry": "新能源汽车",
+      "city": "上海",
+      "district": "浦东新区",
+      "experience": "1年以上",
+      "education": "硕士",
+      "salaryRange": "13-18K·13薪",
+      "salaryMin": 13,
+      "salaryMax": 18,
+      "bonusMonths": 13,
+      "tags": [
+        "技术HR",
+        "管理岗",
+        "新能源",
+        "员工关系"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984834955.shtml",
+      "postedAt": "2026-08-16T05:41:50.102Z",
+      "crawledAt": "2026-08-16T11:41:50.102Z",
+      "heat": 249,
+      "growth": 19,
+      "url": "https://www.liepin.com/job/1984834955.shtml",
+      "benefits": [
+        "六险一金",
+        "节日福利",
+        "项目奖金",
+        "五险一金"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "理解研发团队运作特点，支持技术团队的人才评估与技术梯队建设",
+        "搭建并管理HRBP团队，制定团队发展计划与考核机制",
+        "熟悉新能源汽车行业人才图谱，支撑研发与制造团队的人才布局"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "1年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "了解新能源汽车或智能制造行业，有相关领域HRBP经验者优先"
+      ],
+      "description": "小鹏集团招聘HRBP主管（硬件研发），工作地点上海·浦东新区，薪资13-18K·13薪，要求1年以上经验、硕士学历。",
+      "valueScore": 17.4,
+      "salaryBreakdown": {
+        "p10": 13,
+        "p25": 14,
+        "p50": 16,
+        "p75": 17,
+        "p90": 19
+      }
+    },
+    {
+      "jobId": "aug_0375",
+      "title": "HRBP主管（硬件研发）",
+      "companyId": "小鹏集团",
+      "companyName": "小鹏集团",
+      "companyIndustry": "新能源汽车",
+      "city": "盐城",
+      "district": "",
+      "experience": "10年以上",
+      "education": "硕士",
+      "salaryRange": "10-14K",
+      "salaryMin": 10,
+      "salaryMax": 14,
+      "bonusMonths": 13,
+      "tags": [
+        "技术HR",
+        "管理岗",
+        "新能源"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984157643.shtml",
+      "postedAt": "2026-08-15T07:41:50.107Z",
+      "crawledAt": "2026-08-16T12:41:50.107Z",
+      "heat": 75,
+      "growth": 27,
+      "url": "https://www.liepin.com/job/1984157643.shtml",
+      "benefits": [
+        "弹性工作",
+        "节日福利",
+        "年度旅游",
+        "免费班车",
+        "股票期权"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "理解研发团队运作特点，支持技术团队的人才评估与技术梯队建设",
+        "搭建并管理HRBP团队，制定团队发展计划与考核机制",
+        "熟悉新能源汽车行业人才图谱，支撑研发与制造团队的人才布局"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "了解新能源汽车或智能制造行业，有相关领域HRBP经验者优先"
+      ],
+      "description": "小鹏集团招聘HRBP主管（硬件研发），工作地点盐城，薪资10-14K，要求10年以上经验、硕士学历。",
+      "valueScore": 1.4,
+      "salaryBreakdown": {
+        "p10": 10,
+        "p25": 11,
+        "p50": 12,
+        "p75": 13,
+        "p90": 15
+      }
+    },
+    {
+      "jobId": "aug_0372",
+      "title": "HRBP主管（硬件研发）",
+      "companyId": "小鹏集团",
+      "companyName": "小鹏集团",
+      "companyIndustry": "新能源汽车",
+      "city": "中山",
+      "district": "",
+      "experience": "2年以上",
+      "education": "硕士",
+      "salaryRange": "12-16K·16薪",
+      "salaryMin": 12,
+      "salaryMax": 16,
+      "bonusMonths": 16,
+      "tags": [
+        "技术HR",
+        "管理岗",
+        "新能源"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984156386.shtml",
+      "postedAt": "2026-08-13T16:41:50.107Z",
+      "crawledAt": "2026-08-16T05:41:50.107Z",
+      "heat": 50,
+      "growth": 48,
+      "url": "https://www.liepin.com/job/1984156386.shtml",
+      "benefits": [
+        "企业年金",
+        "免费三餐",
+        "弹性工作",
+        "带薪年假",
+        "项目奖金"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "理解研发团队运作特点，支持技术团队的人才评估与技术梯队建设",
+        "搭建并管理HRBP团队，制定团队发展计划与考核机制",
+        "熟悉新能源汽车行业人才图谱，支撑研发与制造团队的人才布局"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "2年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "了解新能源汽车或智能制造行业，有相关领域HRBP经验者优先"
+      ],
+      "description": "小鹏集团招聘HRBP主管（硬件研发），工作地点中山，薪资12-16K·16薪，要求2年以上经验、硕士学历。",
+      "valueScore": 8,
+      "salaryBreakdown": {
+        "p10": 12,
+        "p25": 13,
+        "p50": 14,
+        "p75": 15,
+        "p90": 17
+      }
+    },
+    {
+      "jobId": "aug_0374",
+      "title": "HRBP主管（硬件研发）",
+      "companyId": "小鹏集团",
+      "companyName": "小鹏集团",
+      "companyIndustry": "新能源汽车",
+      "city": "扬州",
+      "district": "",
+      "experience": "2年以上",
+      "education": "硕士",
+      "salaryRange": "10-14K·14薪",
+      "salaryMin": 10,
+      "salaryMax": 14,
+      "bonusMonths": 14,
+      "tags": [
+        "技术HR",
+        "管理岗",
+        "新能源"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984157224.shtml",
+      "postedAt": "2026-08-12T07:41:50.107Z",
+      "crawledAt": "2026-08-16T15:41:50.107Z",
+      "heat": 50,
+      "growth": 51,
+      "url": "https://www.liepin.com/job/1984157224.shtml",
+      "benefits": [
+        "六险一金",
+        "租房补贴",
+        "年终奖",
+        "股票期权",
+        "带薪年假"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "理解研发团队运作特点，支持技术团队的人才评估与技术梯队建设",
+        "搭建并管理HRBP团队，制定团队发展计划与考核机制",
+        "熟悉新能源汽车行业人才图谱，支撑研发与制造团队的人才布局"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "2年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "了解新能源汽车或智能制造行业，有相关领域HRBP经验者优先"
+      ],
+      "description": "小鹏集团招聘HRBP主管（硬件研发），工作地点扬州，薪资10-14K·14薪，要求2年以上经验、硕士学历。",
+      "valueScore": 6.9,
+      "salaryBreakdown": {
+        "p10": 10,
+        "p25": 11,
+        "p50": 12,
+        "p75": 13,
+        "p90": 15
+      }
+    }
+  ],
+  "analysis": {
+    "companyId": "小鹏集团",
+    "atmosphereScore": 83,
+    "competitivenessScore": 70,
+    "potentialScore": 73,
+    "overall": 75,
+    "grade": "B",
+    "strengths": [
+      "团队氛围好",
+      "发展空间大",
+      "福利待遇优"
+    ],
+    "weaknesses": [
+      "部分流程待优化",
+      "行业竞争激烈"
+    ],
+    "radar": [
+      {
+        "label": "文化开放度",
+        "value": 70,
+        "key": "cultureOpenness"
+      },
+      {
+        "label": "晋升空间",
+        "value": 77,
+        "key": "promotionSpace"
+      },
+      {
+        "label": "团队稳定",
+        "value": 60,
+        "key": "teamStability"
+      },
+      {
+        "label": "领导力",
+        "value": 70,
+        "key": "leadership"
+      },
+      {
+        "label": "加班强度",
+        "value": 48,
+        "key": "overtimeIntensity"
+      }
+    ],
+    "competitors": [
+      {
+        "companyId": "小鹏集团",
+        "metric": "薪资竞争力",
+        "value": 79,
+        "industryAvg": 65
+      },
+      {
+        "companyId": "小鹏集团",
+        "metric": "发展潜力",
+        "value": 90,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "小鹏集团",
+        "metric": "团队氛围",
+        "value": 91,
+        "industryAvg": 70
+      },
+      {
+        "companyId": "小鹏集团",
+        "metric": "稳定性",
+        "value": 61,
+        "industryAvg": 55
+      },
+      {
+        "companyId": "小鹏集团",
+        "metric": "行业地位",
+        "value": 78,
+        "industryAvg": 50
+      }
+    ],
+    "trend": [
+      {
+        "companyId": "小鹏集团",
+        "year": "2021",
+        "revenue": 767,
+        "headcount": 127,
+        "openings": 42
+      },
+      {
+        "companyId": "小鹏集团",
+        "year": "2022",
+        "revenue": 1376,
+        "headcount": 84,
+        "openings": 45
+      },
+      {
+        "companyId": "小鹏集团",
+        "year": "2023",
+        "revenue": 1208,
+        "headcount": 128,
+        "openings": 59
+      },
+      {
+        "companyId": "小鹏集团",
+        "year": "2024",
+        "revenue": 751,
+        "headcount": 69,
+        "openings": 58
+      },
+      {
+        "companyId": "小鹏集团",
+        "year": "2025",
+        "revenue": 991,
+        "headcount": 80,
+        "openings": 29
+      }
+    ]
+  }
+}

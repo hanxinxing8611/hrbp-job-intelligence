@@ -1,0 +1,554 @@
+﻿{
+  "companyId": "8ab8e2be747bf93d",
+  "name": "天成自控",
+  "industry": "综合",
+  "scale": "",
+  "stage": "",
+  "logoColor": "#2c5282",
+  "logoInitial": "天",
+  "description": "天成自控 正在招聘 HRBP 相关岗位，欢迎了解。",
+  "founded": 2007,
+  "headquarters": "贵阳",
+  "jobCount": 4,
+  "avgSalary": 11.3,
+  "jobs": [
+    {
+      "jobId": "5877d0484f0479e0",
+      "title": "HRBP",
+      "companyId": "8ab8e2be747bf93d",
+      "companyName": "天成自控",
+      "city": "贵阳",
+      "district": "",
+      "experience": "3-5年",
+      "education": "本科",
+      "salaryRange": "8-16K",
+      "salaryMin": 8,
+      "salaryMax": 16,
+      "tags": [
+        "新能源",
+        "战略",
+        "互联网",
+        "数字化"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3JBHJ00000177.htm",
+      "postedAt": "2026-08-14T22:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 35,
+      "growth": 44,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 96,
+        "annualMax": 256,
+        "monthlyMin": 8,
+        "monthlyMax": 16,
+        "bonus": 21.6,
+        "stocks": 7.2,
+        "yearly": 12
+      },
+      "valueScore": 48
+    },
+    {
+      "jobId": "0228c2a985683c93",
+      "title": "HRBP",
+      "companyId": "8ab8e2be747bf93d",
+      "companyName": "天成自控",
+      "city": "滁州",
+      "district": "南谯区",
+      "experience": "5-10年",
+      "education": "本科",
+      "salaryRange": "8-16K·13薪",
+      "salaryMin": 8,
+      "salaryMax": 16,
+      "tags": [
+        "新能源",
+        "商业保险",
+        "员工关系"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC450524010J40924835212.htm",
+      "postedAt": "2026-08-14T05:02:00.691Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 31,
+      "growth": 32,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 96,
+        "annualMax": 256,
+        "monthlyMin": 8,
+        "monthlyMax": 16,
+        "bonus": 21.6,
+        "stocks": 7.2,
+        "yearly": 12
+      },
+      "valueScore": 48
+    },
+    {
+      "jobId": "994b525364ec28a1",
+      "title": "高级HRBP",
+      "companyId": "8ab8e2be747bf93d",
+      "companyName": "天成自控",
+      "city": "南通",
+      "district": "",
+      "experience": "5-10年",
+      "education": "本科",
+      "salaryRange": "8-14K·14薪",
+      "salaryMin": 8,
+      "salaryMax": 14,
+      "tags": [
+        "新能源",
+        "专家岗",
+        "员工关系",
+        "员工关系"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3JDJJ00000179.htm",
+      "postedAt": "2026-08-14T03:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 31,
+      "growth": 83,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 96,
+        "annualMax": 224,
+        "monthlyMin": 8,
+        "monthlyMax": 14,
+        "bonus": 19.8,
+        "stocks": 6.6,
+        "yearly": 11
+      },
+      "valueScore": 44
+    },
+    {
+      "jobId": "15c1efeaf9e3c939",
+      "title": "HRBP",
+      "companyId": "8ab8e2be747bf93d",
+      "companyName": "天成自控",
+      "city": "太原",
+      "district": "",
+      "experience": "10年以上",
+      "education": "本科",
+      "salaryRange": "6-14K·14薪",
+      "salaryMin": 6,
+      "salaryMax": 14,
+      "tags": [
+        "新能源",
+        "专家岗",
+        "金融"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3JEKJ00000180.htm",
+      "postedAt": "2026-08-15T12:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 36,
+      "growth": 23,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 72,
+        "annualMax": 224,
+        "monthlyMin": 6,
+        "monthlyMax": 14,
+        "bonus": 18,
+        "stocks": 6,
+        "yearly": 10
+      },
+      "valueScore": 40
+    }
+  ],
+  "analysis": {
+    "summary": "天成自控（综合）当前在招 HRBP 相关岗位 4 个，平均薪资 11.3k。",
+    "salaryBenchmark": {
+      "companyAvg": 11.3,
+      "industryAvg": 18.3,
+      "cityAvg": 10.7,
+      "percentile": 70
+    },
+    "openings": [
+      {
+        "jobId": "5877d0484f0479e0",
+        "title": "HRBP",
+        "companyId": "8ab8e2be747bf93d",
+        "companyName": "天成自控",
+        "city": "贵阳",
+        "district": "",
+        "experience": "3-5年",
+        "education": "本科",
+        "salaryRange": "8-16K",
+        "salaryMin": 8,
+        "salaryMax": 16,
+        "tags": [
+          "新能源",
+          "战略",
+          "互联网",
+          "数字化"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3JBHJ00000177.htm",
+        "postedAt": "2026-08-14T22:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 35,
+        "growth": 44,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 96,
+          "annualMax": 256,
+          "monthlyMin": 8,
+          "monthlyMax": 16,
+          "bonus": 21.6,
+          "stocks": 7.2,
+          "yearly": 12
+        },
+        "valueScore": 48
+      },
+      {
+        "jobId": "0228c2a985683c93",
+        "title": "HRBP",
+        "companyId": "8ab8e2be747bf93d",
+        "companyName": "天成自控",
+        "city": "滁州",
+        "district": "南谯区",
+        "experience": "5-10年",
+        "education": "本科",
+        "salaryRange": "8-16K·13薪",
+        "salaryMin": 8,
+        "salaryMax": 16,
+        "tags": [
+          "新能源",
+          "商业保险",
+          "员工关系"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC450524010J40924835212.htm",
+        "postedAt": "2026-08-14T05:02:00.691Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 31,
+        "growth": 32,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 96,
+          "annualMax": 256,
+          "monthlyMin": 8,
+          "monthlyMax": 16,
+          "bonus": 21.6,
+          "stocks": 7.2,
+          "yearly": 12
+        },
+        "valueScore": 48
+      },
+      {
+        "jobId": "994b525364ec28a1",
+        "title": "高级HRBP",
+        "companyId": "8ab8e2be747bf93d",
+        "companyName": "天成自控",
+        "city": "南通",
+        "district": "",
+        "experience": "5-10年",
+        "education": "本科",
+        "salaryRange": "8-14K·14薪",
+        "salaryMin": 8,
+        "salaryMax": 14,
+        "tags": [
+          "新能源",
+          "专家岗",
+          "员工关系",
+          "员工关系"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3JDJJ00000179.htm",
+        "postedAt": "2026-08-14T03:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 31,
+        "growth": 83,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 96,
+          "annualMax": 224,
+          "monthlyMin": 8,
+          "monthlyMax": 14,
+          "bonus": 19.8,
+          "stocks": 6.6,
+          "yearly": 11
+        },
+        "valueScore": 44
+      },
+      {
+        "jobId": "15c1efeaf9e3c939",
+        "title": "HRBP",
+        "companyId": "8ab8e2be747bf93d",
+        "companyName": "天成自控",
+        "city": "太原",
+        "district": "",
+        "experience": "10年以上",
+        "education": "本科",
+        "salaryRange": "6-14K·14薪",
+        "salaryMin": 6,
+        "salaryMax": 14,
+        "tags": [
+          "新能源",
+          "专家岗",
+          "金融"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3JEKJ00000180.htm",
+        "postedAt": "2026-08-15T12:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 36,
+        "growth": 23,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 72,
+          "annualMax": 224,
+          "monthlyMin": 6,
+          "monthlyMax": 14,
+          "bonus": 18,
+          "stocks": 6,
+          "yearly": 10
+        },
+        "valueScore": 40
+      }
+    ],
+    "trends": [
+      {
+        "year": "2022",
+        "companyId": "8ab8e2be747bf93d",
+        "revenue": 134,
+        "headcount": 102,
+        "openings": 1
+      },
+      {
+        "year": "2023",
+        "companyId": "8ab8e2be747bf93d",
+        "revenue": 155,
+        "headcount": 106,
+        "openings": 2
+      },
+      {
+        "year": "2024",
+        "companyId": "8ab8e2be747bf93d",
+        "revenue": 177,
+        "headcount": 133,
+        "openings": 4
+      },
+      {
+        "year": "2025",
+        "companyId": "8ab8e2be747bf93d",
+        "revenue": 193,
+        "headcount": 153,
+        "openings": 6
+      },
+      {
+        "year": "2026",
+        "companyId": "8ab8e2be747bf93d",
+        "revenue": 220,
+        "headcount": 163,
+        "openings": 8
+      }
+    ],
+    "comparisons": [
+      {
+        "companyId": "8ab8e2be747bf93d",
+        "metric": "薪资竞争力",
+        "value": 37,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "8ab8e2be747bf93d",
+        "metric": "招聘活跃度",
+        "value": 52,
+        "industryAvg": 45
+      },
+      {
+        "companyId": "8ab8e2be747bf93d",
+        "metric": "组织规模",
+        "value": 50,
+        "industryAvg": 55
+      }
+    ],
+    "scoreCard": {
+      "companyId": "8ab8e2be747bf93d",
+      "atmosphereScore": 69,
+      "competitivenessScore": 82,
+      "potentialScore": 85,
+      "overall": 0,
+      "grade": "B",
+      "strengths": [],
+      "weaknesses": []
+    },
+    "atmosphere": {
+      "companyId": "8ab8e2be747bf93d",
+      "cultureOpenness": 82,
+      "overtimeIntensity": 59,
+      "promotionSpace": 58,
+      "teamStability": 69,
+      "leadership": 86
+    }
+  }
+}

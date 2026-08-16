@@ -1,0 +1,358 @@
+﻿{
+  "companyId": "万宝盛华",
+  "name": "万宝盛华",
+  "industry": "人力资源服务",
+  "scale": "150-500人",
+  "stage": "成长期",
+  "founded": "1991",
+  "headquarters": "大连",
+  "branches": [],
+  "description": "万宝盛华是人力资源服务领域的企业。",
+  "logoColor": "#ec2ee4",
+  "logoInitial": "万",
+  "jobs": [
+    {
+      "jobId": "real_033",
+      "title": "HRBP(偏招聘）",
+      "companyId": "万宝盛华",
+      "companyName": "万宝盛华",
+      "companyIndustry": "人力资源服务",
+      "city": "大连",
+      "district": "甘井子区",
+      "experience": "1-3年",
+      "education": "本科",
+      "salaryRange": "5-6K",
+      "salaryMin": 5,
+      "salaryMax": 6,
+      "bonusMonths": 13,
+      "tags": [
+        "社招",
+        "互联网",
+        "期权激励"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC880319660J40962517515.htm",
+      "postedAt": "2026-08-14T11:41:50.102Z",
+      "crawledAt": "2026-08-16T12:41:50.102Z",
+      "heat": 50,
+      "growth": 11,
+      "url": "http://www.zhaopin.com/jobdetail/CC880319660J40962517515.htm",
+      "benefits": [
+        "节日福利",
+        "五险一金",
+        "补充医疗",
+        "弹性工作"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "1-3年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "万宝盛华招聘HRBP(偏招聘），工作地点大连·甘井子区，薪资5-6K，要求1-3年经验、本科学历。",
+      "valueScore": 6.2,
+      "salaryBreakdown": {
+        "p10": 5,
+        "p25": 5,
+        "p50": 6,
+        "p75": 6,
+        "p90": 6
+      }
+    },
+    {
+      "jobId": "aug_0161",
+      "title": "高级HRBP(偏招聘）",
+      "companyId": "万宝盛华",
+      "companyName": "万宝盛华",
+      "companyIndustry": "人力资源服务",
+      "city": "兰州",
+      "district": "",
+      "experience": "3-5年",
+      "education": "本科",
+      "salaryRange": "4-6K·16薪",
+      "salaryMin": 4,
+      "salaryMax": 6,
+      "bonusMonths": 16,
+      "tags": [
+        "社招",
+        "员工关系",
+        "战略"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3GJPJ00000161.htm",
+      "postedAt": "2026-08-14T05:41:50.107Z",
+      "crawledAt": "2026-08-16T08:41:50.107Z",
+      "heat": 50,
+      "growth": 44,
+      "url": "http://www.zhaopin.com/jobdetail/CC3GJPJ00000161.htm",
+      "benefits": [
+        "商业保险",
+        "通勤班车",
+        "员工宿舍",
+        "带薪年假",
+        "租房补贴"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "3-5年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "万宝盛华招聘高级HRBP(偏招聘），工作地点兰州，薪资4-6K·16薪，要求3-5年经验、本科学历。",
+      "valueScore": 1.9,
+      "salaryBreakdown": {
+        "p10": 4,
+        "p25": 4,
+        "p50": 5,
+        "p75": 6,
+        "p90": 6
+      }
+    },
+    {
+      "jobId": "aug_0162",
+      "title": "HRBP(偏招聘）",
+      "companyId": "万宝盛华",
+      "companyName": "万宝盛华",
+      "companyIndustry": "人力资源服务",
+      "city": "昆明",
+      "district": "",
+      "experience": "1-3年",
+      "education": "本科",
+      "salaryRange": "4-6K·14薪",
+      "salaryMin": 4,
+      "salaryMax": 6,
+      "bonusMonths": 14,
+      "tags": [
+        "社招",
+        "员工关系",
+        "AI赛道"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3GKQJ00000162.htm",
+      "postedAt": "2026-08-12T14:41:50.107Z",
+      "crawledAt": "2026-08-16T15:41:50.107Z",
+      "heat": 50,
+      "growth": 14,
+      "url": "http://www.zhaopin.com/jobdetail/CC3GKQJ00000162.htm",
+      "benefits": [
+        "年终奖",
+        "弹性工作",
+        "补充医疗",
+        "免费班车",
+        "员工宿舍"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进",
+        "主导人才盘点与高潜员工识别，制定关键人才的发展与保留计划"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "1-3年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "万宝盛华招聘HRBP(偏招聘），工作地点昆明，薪资4-6K·14薪，要求1-3年经验、本科学历。",
+      "valueScore": 5.8,
+      "salaryBreakdown": {
+        "p10": 4,
+        "p25": 4,
+        "p50": 5,
+        "p75": 6,
+        "p90": 6
+      }
+    },
+    {
+      "jobId": "aug_0164",
+      "title": "高级HRBP(偏招聘）",
+      "companyId": "万宝盛华",
+      "companyName": "万宝盛华",
+      "companyIndustry": "人力资源服务",
+      "city": "深圳",
+      "district": "龙岗区",
+      "experience": "经验不限",
+      "education": "大专",
+      "salaryRange": "4-6K",
+      "salaryMin": 4,
+      "salaryMax": 6,
+      "bonusMonths": 13,
+      "tags": [
+        "社招",
+        "雇主品牌",
+        "免费三餐",
+        "大厂"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3GMSJ00000164.htm",
+      "postedAt": "2026-08-14T14:41:50.107Z",
+      "crawledAt": "2026-08-16T13:41:50.107Z",
+      "heat": 50,
+      "growth": 23,
+      "url": "http://www.zhaopin.com/jobdetail/CC3GMSJ00000164.htm",
+      "benefits": [
+        "年度旅游",
+        "股票期权",
+        "员工宿舍",
+        "节日福利",
+        "企业年金"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进",
+        "主导人才盘点与高潜员工识别，制定关键人才的发展与保留计划"
+      ],
+      "requirements": [
+        "大专及以上学历，人力资源管理或相关专业背景",
+        "经验不限以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "万宝盛华招聘高级HRBP(偏招聘），工作地点深圳·龙岗区，薪资4-6K，要求经验不限经验、大专学历。",
+      "valueScore": 1.2,
+      "salaryBreakdown": {
+        "p10": 4,
+        "p25": 4,
+        "p50": 5,
+        "p75": 6,
+        "p90": 6
+      }
+    }
+  ],
+  "analysis": {
+    "companyId": "万宝盛华",
+    "atmosphereScore": 72,
+    "competitivenessScore": 76,
+    "potentialScore": 70,
+    "overall": 73,
+    "grade": "B",
+    "strengths": [
+      "团队氛围好",
+      "发展空间大",
+      "福利待遇优"
+    ],
+    "weaknesses": [
+      "部分流程待优化",
+      "行业竞争激烈"
+    ],
+    "radar": [
+      {
+        "label": "文化开放度",
+        "value": 96,
+        "key": "cultureOpenness"
+      },
+      {
+        "label": "晋升空间",
+        "value": 62,
+        "key": "promotionSpace"
+      },
+      {
+        "label": "团队稳定",
+        "value": 74,
+        "key": "teamStability"
+      },
+      {
+        "label": "领导力",
+        "value": 85,
+        "key": "leadership"
+      },
+      {
+        "label": "加班强度",
+        "value": 69,
+        "key": "overtimeIntensity"
+      }
+    ],
+    "competitors": [
+      {
+        "companyId": "万宝盛华",
+        "metric": "薪资竞争力",
+        "value": 85,
+        "industryAvg": 65
+      },
+      {
+        "companyId": "万宝盛华",
+        "metric": "发展潜力",
+        "value": 82,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "万宝盛华",
+        "metric": "团队氛围",
+        "value": 100,
+        "industryAvg": 70
+      },
+      {
+        "companyId": "万宝盛华",
+        "metric": "稳定性",
+        "value": 85,
+        "industryAvg": 55
+      },
+      {
+        "companyId": "万宝盛华",
+        "metric": "行业地位",
+        "value": 62,
+        "industryAvg": 50
+      }
+    ],
+    "trend": [
+      {
+        "companyId": "万宝盛华",
+        "year": "2021",
+        "revenue": 1338,
+        "headcount": 86,
+        "openings": 56
+      },
+      {
+        "companyId": "万宝盛华",
+        "year": "2022",
+        "revenue": 578,
+        "headcount": 59,
+        "openings": 56
+      },
+      {
+        "companyId": "万宝盛华",
+        "year": "2023",
+        "revenue": 821,
+        "headcount": 137,
+        "openings": 17
+      },
+      {
+        "companyId": "万宝盛华",
+        "year": "2024",
+        "revenue": 1318,
+        "headcount": 112,
+        "openings": 12
+      },
+      {
+        "companyId": "万宝盛华",
+        "year": "2025",
+        "revenue": 786,
+        "headcount": 102,
+        "openings": 39
+      }
+    ]
+  }
+}

@@ -1,0 +1,554 @@
+﻿{
+  "companyId": "f147cf745eb02c36",
+  "name": "苏州睿新微系统",
+  "industry": "综合",
+  "scale": "",
+  "stage": "",
+  "logoColor": "#2f855a",
+  "logoInitial": "苏",
+  "description": "苏州睿新微系统 正在招聘 HRBP 相关岗位，欢迎了解。",
+  "founded": 2000,
+  "headquarters": "西安",
+  "jobCount": 4,
+  "avgSalary": 25.8,
+  "jobs": [
+    {
+      "jobId": "2f8432c810d6d2be",
+      "title": "资深HRBP（汽车方向）",
+      "companyId": "f147cf745eb02c36",
+      "companyName": "苏州睿新微系统",
+      "city": "西安",
+      "district": "未央区",
+      "experience": "8年以上",
+      "education": "本科",
+      "salaryRange": "24-36K",
+      "salaryMin": 24,
+      "salaryMax": 36,
+      "tags": [
+        "硬科技",
+        "期权激励",
+        "技术HR",
+        "技术HR"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984194641.shtml",
+      "postedAt": "2026-08-15T11:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 48,
+      "growth": 46,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 288,
+        "annualMax": 576,
+        "monthlyMin": 24,
+        "monthlyMax": 36,
+        "bonus": 54,
+        "stocks": 18,
+        "yearly": 30
+      },
+      "valueScore": 120
+    },
+    {
+      "jobId": "16ef94bf69434bd8",
+      "title": "资深人力资源业务伙伴（汽车方向）",
+      "companyId": "f147cf745eb02c36",
+      "companyName": "苏州睿新微系统",
+      "city": "天津",
+      "district": "南开区",
+      "experience": "8年以上",
+      "education": "本科",
+      "salaryRange": "22-34K·15薪",
+      "salaryMin": 22,
+      "salaryMax": 34,
+      "tags": [
+        "硬科技",
+        "期权激励",
+        "新能源"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984195479.shtml",
+      "postedAt": "2026-08-14T02:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 40,
+      "growth": 72,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 264,
+        "annualMax": 544,
+        "monthlyMin": 22,
+        "monthlyMax": 34,
+        "bonus": 50.4,
+        "stocks": 16.8,
+        "yearly": 28
+      },
+      "valueScore": 112
+    },
+    {
+      "jobId": "bd0dcf0f5e7e46e8",
+      "title": "资深HRBP（汽车方向）",
+      "companyId": "f147cf745eb02c36",
+      "companyName": "苏州睿新微系统",
+      "city": "苏州",
+      "district": "工业园区",
+      "experience": "5年以上",
+      "education": "本科",
+      "salaryRange": "20-30K·14薪",
+      "salaryMin": 20,
+      "salaryMax": 30,
+      "tags": [
+        "硬科技",
+        "社招",
+        "免费三餐",
+        "核心业务"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984476281.shtml",
+      "postedAt": "2026-08-15T06:02:00.691Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 44,
+      "growth": 32,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 240,
+        "annualMax": 480,
+        "monthlyMin": 20,
+        "monthlyMax": 30,
+        "bonus": 45,
+        "stocks": 15,
+        "yearly": 25
+      },
+      "valueScore": 100
+    },
+    {
+      "jobId": "c60149d774523fb2",
+      "title": "资深HRBP（汽车方向）",
+      "companyId": "f147cf745eb02c36",
+      "companyName": "苏州睿新微系统",
+      "city": "深圳",
+      "district": "福田区",
+      "experience": "3年以上",
+      "education": "硕士",
+      "salaryRange": "16-24K",
+      "salaryMin": 16,
+      "salaryMax": 24,
+      "tags": [
+        "硬科技",
+        "AI赛道",
+        "薪酬"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984193803.shtml",
+      "postedAt": "2026-08-12T12:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 29,
+      "growth": 41,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 192,
+        "annualMax": 384,
+        "monthlyMin": 16,
+        "monthlyMax": 24,
+        "bonus": 36,
+        "stocks": 12,
+        "yearly": 20
+      },
+      "valueScore": 80
+    }
+  ],
+  "analysis": {
+    "summary": "苏州睿新微系统（综合）当前在招 HRBP 相关岗位 4 个，平均薪资 25.8k。",
+    "salaryBenchmark": {
+      "companyAvg": 25.8,
+      "industryAvg": 18.2,
+      "cityAvg": 24.5,
+      "percentile": 70
+    },
+    "openings": [
+      {
+        "jobId": "2f8432c810d6d2be",
+        "title": "资深HRBP（汽车方向）",
+        "companyId": "f147cf745eb02c36",
+        "companyName": "苏州睿新微系统",
+        "city": "西安",
+        "district": "未央区",
+        "experience": "8年以上",
+        "education": "本科",
+        "salaryRange": "24-36K",
+        "salaryMin": 24,
+        "salaryMax": 36,
+        "tags": [
+          "硬科技",
+          "期权激励",
+          "技术HR",
+          "技术HR"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984194641.shtml",
+        "postedAt": "2026-08-15T11:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 48,
+        "growth": 46,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 288,
+          "annualMax": 576,
+          "monthlyMin": 24,
+          "monthlyMax": 36,
+          "bonus": 54,
+          "stocks": 18,
+          "yearly": 30
+        },
+        "valueScore": 120
+      },
+      {
+        "jobId": "16ef94bf69434bd8",
+        "title": "资深人力资源业务伙伴（汽车方向）",
+        "companyId": "f147cf745eb02c36",
+        "companyName": "苏州睿新微系统",
+        "city": "天津",
+        "district": "南开区",
+        "experience": "8年以上",
+        "education": "本科",
+        "salaryRange": "22-34K·15薪",
+        "salaryMin": 22,
+        "salaryMax": 34,
+        "tags": [
+          "硬科技",
+          "期权激励",
+          "新能源"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984195479.shtml",
+        "postedAt": "2026-08-14T02:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 40,
+        "growth": 72,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 264,
+          "annualMax": 544,
+          "monthlyMin": 22,
+          "monthlyMax": 34,
+          "bonus": 50.4,
+          "stocks": 16.8,
+          "yearly": 28
+        },
+        "valueScore": 112
+      },
+      {
+        "jobId": "bd0dcf0f5e7e46e8",
+        "title": "资深HRBP（汽车方向）",
+        "companyId": "f147cf745eb02c36",
+        "companyName": "苏州睿新微系统",
+        "city": "苏州",
+        "district": "工业园区",
+        "experience": "5年以上",
+        "education": "本科",
+        "salaryRange": "20-30K·14薪",
+        "salaryMin": 20,
+        "salaryMax": 30,
+        "tags": [
+          "硬科技",
+          "社招",
+          "免费三餐",
+          "核心业务"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984476281.shtml",
+        "postedAt": "2026-08-15T06:02:00.691Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 44,
+        "growth": 32,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 240,
+          "annualMax": 480,
+          "monthlyMin": 20,
+          "monthlyMax": 30,
+          "bonus": 45,
+          "stocks": 15,
+          "yearly": 25
+        },
+        "valueScore": 100
+      },
+      {
+        "jobId": "c60149d774523fb2",
+        "title": "资深HRBP（汽车方向）",
+        "companyId": "f147cf745eb02c36",
+        "companyName": "苏州睿新微系统",
+        "city": "深圳",
+        "district": "福田区",
+        "experience": "3年以上",
+        "education": "硕士",
+        "salaryRange": "16-24K",
+        "salaryMin": 16,
+        "salaryMax": 24,
+        "tags": [
+          "硬科技",
+          "AI赛道",
+          "薪酬"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984193803.shtml",
+        "postedAt": "2026-08-12T12:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 29,
+        "growth": 41,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 192,
+          "annualMax": 384,
+          "monthlyMin": 16,
+          "monthlyMax": 24,
+          "bonus": 36,
+          "stocks": 12,
+          "yearly": 20
+        },
+        "valueScore": 80
+      }
+    ],
+    "trends": [
+      {
+        "year": "2022",
+        "companyId": "f147cf745eb02c36",
+        "revenue": 134,
+        "headcount": 97,
+        "openings": 1
+      },
+      {
+        "year": "2023",
+        "companyId": "f147cf745eb02c36",
+        "revenue": 144,
+        "headcount": 112,
+        "openings": 2
+      },
+      {
+        "year": "2024",
+        "companyId": "f147cf745eb02c36",
+        "revenue": 181,
+        "headcount": 135,
+        "openings": 4
+      },
+      {
+        "year": "2025",
+        "companyId": "f147cf745eb02c36",
+        "revenue": 187,
+        "headcount": 144,
+        "openings": 6
+      },
+      {
+        "year": "2026",
+        "companyId": "f147cf745eb02c36",
+        "revenue": 223,
+        "headcount": 168,
+        "openings": 8
+      }
+    ],
+    "comparisons": [
+      {
+        "companyId": "f147cf745eb02c36",
+        "metric": "薪资竞争力",
+        "value": 85,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "f147cf745eb02c36",
+        "metric": "招聘活跃度",
+        "value": 52,
+        "industryAvg": 45
+      },
+      {
+        "companyId": "f147cf745eb02c36",
+        "metric": "组织规模",
+        "value": 50,
+        "industryAvg": 55
+      }
+    ],
+    "scoreCard": {
+      "companyId": "f147cf745eb02c36",
+      "atmosphereScore": 86,
+      "competitivenessScore": 82,
+      "potentialScore": 65,
+      "overall": 0,
+      "grade": "B",
+      "strengths": [],
+      "weaknesses": []
+    },
+    "atmosphere": {
+      "companyId": "f147cf745eb02c36",
+      "cultureOpenness": 70,
+      "overtimeIntensity": 56,
+      "promotionSpace": 78,
+      "teamStability": 74,
+      "leadership": 89
+    }
+  }
+}

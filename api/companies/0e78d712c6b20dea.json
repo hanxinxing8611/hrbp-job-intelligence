@@ -1,0 +1,550 @@
+﻿{
+  "companyId": "0e78d712c6b20dea",
+  "name": "天津源优学教育",
+  "industry": "综合",
+  "scale": "",
+  "stage": "",
+  "logoColor": "#9f1239",
+  "logoInitial": "天",
+  "description": "天津源优学教育 正在招聘 HRBP 相关岗位，欢迎了解。",
+  "founded": 2003,
+  "headquarters": "太原",
+  "jobCount": 4,
+  "avgSalary": 7.1,
+  "jobs": [
+    {
+      "jobId": "f6a64abbd5b22c38",
+      "title": "人事专员/HRBP",
+      "companyId": "0e78d712c6b20dea",
+      "companyName": "天津源优学教育",
+      "city": "太原",
+      "district": "",
+      "experience": "3-5年",
+      "education": "大专",
+      "salaryRange": "6-10K·14薪",
+      "salaryMin": 6,
+      "salaryMax": 10,
+      "tags": [
+        "组织发展",
+        "新能源",
+        "新能源"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3YU1J00000261.htm",
+      "postedAt": "2026-08-13T09:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 27,
+      "growth": 37,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 72,
+        "annualMax": 160,
+        "monthlyMin": 6,
+        "monthlyMax": 10,
+        "bonus": 14.4,
+        "stocks": 4.8,
+        "yearly": 8
+      },
+      "valueScore": 32
+    },
+    {
+      "jobId": "30373cbb3b9fafd1",
+      "title": "人事专员/HRBP",
+      "companyId": "0e78d712c6b20dea",
+      "companyName": "天津源优学教育",
+      "city": "中山",
+      "district": "",
+      "experience": "3-5年",
+      "education": "大专",
+      "salaryRange": "6-8K",
+      "salaryMin": 6,
+      "salaryMax": 8,
+      "tags": [
+        "校招",
+        "期权激励",
+        "商业化"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3YX4J00000264.htm",
+      "postedAt": "2026-08-16T08:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 40,
+      "growth": 61,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 72,
+        "annualMax": 128,
+        "monthlyMin": 6,
+        "monthlyMax": 8,
+        "bonus": 12.6,
+        "stocks": 4.2,
+        "yearly": 7
+      },
+      "valueScore": 28
+    },
+    {
+      "jobId": "fb3b5312b887cac6",
+      "title": "人事专员/人力资源业务伙伴",
+      "companyId": "0e78d712c6b20dea",
+      "companyName": "天津源优学教育",
+      "city": "佛山",
+      "district": "三水区",
+      "experience": "经验不限",
+      "education": "本科",
+      "salaryRange": "6-8K",
+      "salaryMin": 6,
+      "salaryMax": 8,
+      "tags": [
+        "组织发展",
+        "战略",
+        "绩效"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3YW3J00000263.htm",
+      "postedAt": "2026-08-12T05:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 22,
+      "growth": 17,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 72,
+        "annualMax": 128,
+        "monthlyMin": 6,
+        "monthlyMax": 8,
+        "bonus": 12.6,
+        "stocks": 4.2,
+        "yearly": 7
+      },
+      "valueScore": 28
+    },
+    {
+      "jobId": "ac050c7ace62848f",
+      "title": "人事专员/HRBP",
+      "companyId": "0e78d712c6b20dea",
+      "companyName": "天津源优学教育",
+      "city": "天津",
+      "district": "河西区",
+      "experience": "1-3年",
+      "education": "大专",
+      "salaryRange": "5-8K",
+      "salaryMin": 5,
+      "salaryMax": 8,
+      "tags": [
+        "期权激励",
+        "数字化",
+        "薪酬"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CCL1526817950J40871669001.htm",
+      "postedAt": "2026-08-13T21:02:00.691Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 29,
+      "growth": 54,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 60,
+        "annualMax": 128,
+        "monthlyMin": 5,
+        "monthlyMax": 8,
+        "bonus": 11.7,
+        "stocks": 3.9,
+        "yearly": 6.5
+      },
+      "valueScore": 26
+    }
+  ],
+  "analysis": {
+    "summary": "天津源优学教育（综合）当前在招 HRBP 相关岗位 4 个，平均薪资 7.1k。",
+    "salaryBenchmark": {
+      "companyAvg": 7.1,
+      "industryAvg": 18.3,
+      "cityAvg": 6.7,
+      "percentile": 70
+    },
+    "openings": [
+      {
+        "jobId": "f6a64abbd5b22c38",
+        "title": "人事专员/HRBP",
+        "companyId": "0e78d712c6b20dea",
+        "companyName": "天津源优学教育",
+        "city": "太原",
+        "district": "",
+        "experience": "3-5年",
+        "education": "大专",
+        "salaryRange": "6-10K·14薪",
+        "salaryMin": 6,
+        "salaryMax": 10,
+        "tags": [
+          "组织发展",
+          "新能源",
+          "新能源"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3YU1J00000261.htm",
+        "postedAt": "2026-08-13T09:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 27,
+        "growth": 37,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 72,
+          "annualMax": 160,
+          "monthlyMin": 6,
+          "monthlyMax": 10,
+          "bonus": 14.4,
+          "stocks": 4.8,
+          "yearly": 8
+        },
+        "valueScore": 32
+      },
+      {
+        "jobId": "30373cbb3b9fafd1",
+        "title": "人事专员/HRBP",
+        "companyId": "0e78d712c6b20dea",
+        "companyName": "天津源优学教育",
+        "city": "中山",
+        "district": "",
+        "experience": "3-5年",
+        "education": "大专",
+        "salaryRange": "6-8K",
+        "salaryMin": 6,
+        "salaryMax": 8,
+        "tags": [
+          "校招",
+          "期权激励",
+          "商业化"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3YX4J00000264.htm",
+        "postedAt": "2026-08-16T08:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 40,
+        "growth": 61,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 72,
+          "annualMax": 128,
+          "monthlyMin": 6,
+          "monthlyMax": 8,
+          "bonus": 12.6,
+          "stocks": 4.2,
+          "yearly": 7
+        },
+        "valueScore": 28
+      },
+      {
+        "jobId": "fb3b5312b887cac6",
+        "title": "人事专员/人力资源业务伙伴",
+        "companyId": "0e78d712c6b20dea",
+        "companyName": "天津源优学教育",
+        "city": "佛山",
+        "district": "三水区",
+        "experience": "经验不限",
+        "education": "本科",
+        "salaryRange": "6-8K",
+        "salaryMin": 6,
+        "salaryMax": 8,
+        "tags": [
+          "组织发展",
+          "战略",
+          "绩效"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3YW3J00000263.htm",
+        "postedAt": "2026-08-12T05:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 22,
+        "growth": 17,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 72,
+          "annualMax": 128,
+          "monthlyMin": 6,
+          "monthlyMax": 8,
+          "bonus": 12.6,
+          "stocks": 4.2,
+          "yearly": 7
+        },
+        "valueScore": 28
+      },
+      {
+        "jobId": "ac050c7ace62848f",
+        "title": "人事专员/HRBP",
+        "companyId": "0e78d712c6b20dea",
+        "companyName": "天津源优学教育",
+        "city": "天津",
+        "district": "河西区",
+        "experience": "1-3年",
+        "education": "大专",
+        "salaryRange": "5-8K",
+        "salaryMin": 5,
+        "salaryMax": 8,
+        "tags": [
+          "期权激励",
+          "数字化",
+          "薪酬"
+        ],
+        "source": "智联招聘",
+        "sourceUrl": "http://www.zhaopin.com/jobdetail/CCL1526817950J40871669001.htm",
+        "postedAt": "2026-08-13T21:02:00.691Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 29,
+        "growth": 54,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 60,
+          "annualMax": 128,
+          "monthlyMin": 5,
+          "monthlyMax": 8,
+          "bonus": 11.7,
+          "stocks": 3.9,
+          "yearly": 6.5
+        },
+        "valueScore": 26
+      }
+    ],
+    "trends": [
+      {
+        "year": "2022",
+        "companyId": "0e78d712c6b20dea",
+        "revenue": 132,
+        "headcount": 96,
+        "openings": 1
+      },
+      {
+        "year": "2023",
+        "companyId": "0e78d712c6b20dea",
+        "revenue": 157,
+        "headcount": 113,
+        "openings": 2
+      },
+      {
+        "year": "2024",
+        "companyId": "0e78d712c6b20dea",
+        "revenue": 173,
+        "headcount": 127,
+        "openings": 4
+      },
+      {
+        "year": "2025",
+        "companyId": "0e78d712c6b20dea",
+        "revenue": 187,
+        "headcount": 156,
+        "openings": 6
+      },
+      {
+        "year": "2026",
+        "companyId": "0e78d712c6b20dea",
+        "revenue": 209,
+        "headcount": 173,
+        "openings": 8
+      }
+    ],
+    "comparisons": [
+      {
+        "companyId": "0e78d712c6b20dea",
+        "metric": "薪资竞争力",
+        "value": 23,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "0e78d712c6b20dea",
+        "metric": "招聘活跃度",
+        "value": 52,
+        "industryAvg": 45
+      },
+      {
+        "companyId": "0e78d712c6b20dea",
+        "metric": "组织规模",
+        "value": 50,
+        "industryAvg": 55
+      }
+    ],
+    "scoreCard": {
+      "companyId": "0e78d712c6b20dea",
+      "atmosphereScore": 84,
+      "competitivenessScore": 86,
+      "potentialScore": 66,
+      "overall": 0,
+      "grade": "B",
+      "strengths": [],
+      "weaknesses": []
+    },
+    "atmosphere": {
+      "companyId": "0e78d712c6b20dea",
+      "cultureOpenness": 72,
+      "overtimeIntensity": 57,
+      "promotionSpace": 73,
+      "teamStability": 73,
+      "leadership": 86
+    }
+  }
+}

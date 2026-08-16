@@ -1,0 +1,556 @@
+﻿{
+  "companyId": "c26cc8947be46e24",
+  "name": "领慧立芯",
+  "industry": "综合",
+  "scale": "",
+  "stage": "",
+  "logoColor": "#c53030",
+  "logoInitial": "领",
+  "description": "领慧立芯 正在招聘 HRBP 相关岗位，欢迎了解。",
+  "founded": 2003,
+  "headquarters": "天津",
+  "jobCount": 4,
+  "avgSalary": 16.8,
+  "jobs": [
+    {
+      "jobId": "f664f7899e13fee0",
+      "title": "HRBP（SSC方向）",
+      "companyId": "c26cc8947be46e24",
+      "companyName": "领慧立芯",
+      "city": "天津",
+      "district": "和平区",
+      "experience": "10年以上",
+      "education": "本科",
+      "salaryRange": "14-24K",
+      "salaryMin": 14,
+      "salaryMax": 24,
+      "tags": [
+        "硬科技",
+        "培训",
+        "组织发展",
+        "商业保险"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/2stxnV_0033FlVY.html",
+      "postedAt": "2026-08-12T20:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 33,
+      "growth": 42,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 168,
+        "annualMax": 384,
+        "monthlyMin": 14,
+        "monthlyMax": 24,
+        "bonus": 34.2,
+        "stocks": 11.4,
+        "yearly": 19
+      },
+      "valueScore": 76
+    },
+    {
+      "jobId": "0679891dfd36dbe3",
+      "title": "人力资源业务伙伴（SSC方向）",
+      "companyId": "c26cc8947be46e24",
+      "companyName": "领慧立芯",
+      "city": "郑州",
+      "district": "二七区",
+      "experience": "10年以上",
+      "education": "硕士",
+      "salaryRange": "14-24K",
+      "salaryMin": 14,
+      "salaryMax": 24,
+      "tags": [
+        "硬科技",
+        "薪酬",
+        "弹性工作",
+        "免费三餐"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/2suynV_0034FlVY.html",
+      "postedAt": "2026-08-12T10:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 31,
+      "growth": 86,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 168,
+        "annualMax": 384,
+        "monthlyMin": 14,
+        "monthlyMax": 24,
+        "bonus": 34.2,
+        "stocks": 11.4,
+        "yearly": 19
+      },
+      "valueScore": 76
+    },
+    {
+      "jobId": "31833396b0340b5d",
+      "title": "HRBP（SSC方向）",
+      "companyId": "c26cc8947be46e24",
+      "companyName": "领慧立芯",
+      "city": "苏州",
+      "district": "",
+      "experience": "5-10年",
+      "education": "本科",
+      "salaryRange": "12-20K·13薪",
+      "salaryMin": 12,
+      "salaryMax": 20,
+      "tags": [
+        "硬科技",
+        "数字化",
+        "组织发展",
+        "雇主品牌"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/a6272ec81af22f6d0ndz2t-6EFdW.html",
+      "postedAt": "2026-08-15T11:02:00.691Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 44,
+      "growth": 58,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 144,
+        "annualMax": 320,
+        "monthlyMin": 12,
+        "monthlyMax": 20,
+        "bonus": 28.8,
+        "stocks": 9.6,
+        "yearly": 16
+      },
+      "valueScore": 64
+    },
+    {
+      "jobId": "e79c4b90813dfffa",
+      "title": "人力资源业务伙伴（SSC方向）",
+      "companyId": "c26cc8947be46e24",
+      "companyName": "领慧立芯",
+      "city": "西安",
+      "district": "碑林区",
+      "experience": "10年以上",
+      "education": "本科",
+      "salaryRange": "10-16K·14薪",
+      "salaryMin": 10,
+      "salaryMax": 16,
+      "tags": [
+        "硬科技",
+        "培训",
+        "战略"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/2srvnV_0031FlVY.html",
+      "postedAt": "2026-08-13T14:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 33,
+      "growth": 45,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 120,
+        "annualMax": 256,
+        "monthlyMin": 10,
+        "monthlyMax": 16,
+        "bonus": 23.4,
+        "stocks": 7.8,
+        "yearly": 13
+      },
+      "valueScore": 52
+    }
+  ],
+  "analysis": {
+    "summary": "领慧立芯（综合）当前在招 HRBP 相关岗位 4 个，平均薪资 16.8k。",
+    "salaryBenchmark": {
+      "companyAvg": 16.8,
+      "industryAvg": 18.3,
+      "cityAvg": 16,
+      "percentile": 70
+    },
+    "openings": [
+      {
+        "jobId": "f664f7899e13fee0",
+        "title": "HRBP（SSC方向）",
+        "companyId": "c26cc8947be46e24",
+        "companyName": "领慧立芯",
+        "city": "天津",
+        "district": "和平区",
+        "experience": "10年以上",
+        "education": "本科",
+        "salaryRange": "14-24K",
+        "salaryMin": 14,
+        "salaryMax": 24,
+        "tags": [
+          "硬科技",
+          "培训",
+          "组织发展",
+          "商业保险"
+        ],
+        "source": "BOSS直聘",
+        "sourceUrl": "https://m.zhipin.com/job_detail/2stxnV_0033FlVY.html",
+        "postedAt": "2026-08-12T20:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 33,
+        "growth": 42,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 168,
+          "annualMax": 384,
+          "monthlyMin": 14,
+          "monthlyMax": 24,
+          "bonus": 34.2,
+          "stocks": 11.4,
+          "yearly": 19
+        },
+        "valueScore": 76
+      },
+      {
+        "jobId": "0679891dfd36dbe3",
+        "title": "人力资源业务伙伴（SSC方向）",
+        "companyId": "c26cc8947be46e24",
+        "companyName": "领慧立芯",
+        "city": "郑州",
+        "district": "二七区",
+        "experience": "10年以上",
+        "education": "硕士",
+        "salaryRange": "14-24K",
+        "salaryMin": 14,
+        "salaryMax": 24,
+        "tags": [
+          "硬科技",
+          "薪酬",
+          "弹性工作",
+          "免费三餐"
+        ],
+        "source": "BOSS直聘",
+        "sourceUrl": "https://m.zhipin.com/job_detail/2suynV_0034FlVY.html",
+        "postedAt": "2026-08-12T10:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 31,
+        "growth": 86,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 168,
+          "annualMax": 384,
+          "monthlyMin": 14,
+          "monthlyMax": 24,
+          "bonus": 34.2,
+          "stocks": 11.4,
+          "yearly": 19
+        },
+        "valueScore": 76
+      },
+      {
+        "jobId": "31833396b0340b5d",
+        "title": "HRBP（SSC方向）",
+        "companyId": "c26cc8947be46e24",
+        "companyName": "领慧立芯",
+        "city": "苏州",
+        "district": "",
+        "experience": "5-10年",
+        "education": "本科",
+        "salaryRange": "12-20K·13薪",
+        "salaryMin": 12,
+        "salaryMax": 20,
+        "tags": [
+          "硬科技",
+          "数字化",
+          "组织发展",
+          "雇主品牌"
+        ],
+        "source": "BOSS直聘",
+        "sourceUrl": "https://m.zhipin.com/job_detail/a6272ec81af22f6d0ndz2t-6EFdW.html",
+        "postedAt": "2026-08-15T11:02:00.691Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 44,
+        "growth": 58,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 144,
+          "annualMax": 320,
+          "monthlyMin": 12,
+          "monthlyMax": 20,
+          "bonus": 28.8,
+          "stocks": 9.6,
+          "yearly": 16
+        },
+        "valueScore": 64
+      },
+      {
+        "jobId": "e79c4b90813dfffa",
+        "title": "人力资源业务伙伴（SSC方向）",
+        "companyId": "c26cc8947be46e24",
+        "companyName": "领慧立芯",
+        "city": "西安",
+        "district": "碑林区",
+        "experience": "10年以上",
+        "education": "本科",
+        "salaryRange": "10-16K·14薪",
+        "salaryMin": 10,
+        "salaryMax": 16,
+        "tags": [
+          "硬科技",
+          "培训",
+          "战略"
+        ],
+        "source": "BOSS直聘",
+        "sourceUrl": "https://m.zhipin.com/job_detail/2srvnV_0031FlVY.html",
+        "postedAt": "2026-08-13T14:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 33,
+        "growth": 45,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 120,
+          "annualMax": 256,
+          "monthlyMin": 10,
+          "monthlyMax": 16,
+          "bonus": 23.4,
+          "stocks": 7.8,
+          "yearly": 13
+        },
+        "valueScore": 52
+      }
+    ],
+    "trends": [
+      {
+        "year": "2022",
+        "companyId": "c26cc8947be46e24",
+        "revenue": 132,
+        "headcount": 100,
+        "openings": 1
+      },
+      {
+        "year": "2023",
+        "companyId": "c26cc8947be46e24",
+        "revenue": 159,
+        "headcount": 117,
+        "openings": 2
+      },
+      {
+        "year": "2024",
+        "companyId": "c26cc8947be46e24",
+        "revenue": 176,
+        "headcount": 129,
+        "openings": 4
+      },
+      {
+        "year": "2025",
+        "companyId": "c26cc8947be46e24",
+        "revenue": 202,
+        "headcount": 149,
+        "openings": 6
+      },
+      {
+        "year": "2026",
+        "companyId": "c26cc8947be46e24",
+        "revenue": 210,
+        "headcount": 163,
+        "openings": 8
+      }
+    ],
+    "comparisons": [
+      {
+        "companyId": "c26cc8947be46e24",
+        "metric": "薪资竞争力",
+        "value": 55,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "c26cc8947be46e24",
+        "metric": "招聘活跃度",
+        "value": 52,
+        "industryAvg": 45
+      },
+      {
+        "companyId": "c26cc8947be46e24",
+        "metric": "组织规模",
+        "value": 50,
+        "industryAvg": 55
+      }
+    ],
+    "scoreCard": {
+      "companyId": "c26cc8947be46e24",
+      "atmosphereScore": 69,
+      "competitivenessScore": 87,
+      "potentialScore": 66,
+      "overall": 0,
+      "grade": "B",
+      "strengths": [],
+      "weaknesses": []
+    },
+    "atmosphere": {
+      "companyId": "c26cc8947be46e24",
+      "cultureOpenness": 81,
+      "overtimeIntensity": 59,
+      "promotionSpace": 57,
+      "teamStability": 86,
+      "leadership": 69
+    }
+  }
+}

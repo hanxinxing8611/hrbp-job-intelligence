@@ -1,0 +1,554 @@
+﻿{
+  "companyId": "b9d02a7bc33607d9",
+  "name": "东风汽车",
+  "industry": "综合",
+  "scale": "",
+  "stage": "",
+  "logoColor": "#dd6b20",
+  "logoInitial": "东",
+  "description": "东风汽车 正在招聘 HRBP 相关岗位，欢迎了解。",
+  "founded": 2005,
+  "headquarters": "成都",
+  "jobCount": 4,
+  "avgSalary": 17.8,
+  "jobs": [
+    {
+      "jobId": "78fa281679101bbc",
+      "title": "猛士汽车区域HRBP",
+      "companyId": "b9d02a7bc33607d9",
+      "companyName": "东风汽车",
+      "city": "成都",
+      "district": "神仙树",
+      "experience": "3-5年",
+      "education": "本科",
+      "salaryRange": "15-25K",
+      "salaryMin": 15,
+      "salaryMax": 25,
+      "tags": [
+        "新能源",
+        "稳定",
+        "商业保险"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984779845.shtml",
+      "postedAt": "2026-08-15T15:02:00.691Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 43,
+      "growth": 15,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 180,
+        "annualMax": 400,
+        "monthlyMin": 15,
+        "monthlyMax": 25,
+        "bonus": 36,
+        "stocks": 12,
+        "yearly": 20
+      },
+      "valueScore": 80
+    },
+    {
+      "jobId": "a89af4701b98d572",
+      "title": "猛士汽车区域人力资源业务伙伴",
+      "companyId": "b9d02a7bc33607d9",
+      "companyName": "东风汽车",
+      "city": "深圳",
+      "district": "坪山区",
+      "experience": "5-10年",
+      "education": "大专",
+      "salaryRange": "14-22K",
+      "salaryMin": 14,
+      "salaryMax": 22,
+      "tags": [
+        "新能源",
+        "员工关系",
+        "高增长",
+        "高增长"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984171100.shtml",
+      "postedAt": "2026-08-13T22:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 35,
+      "growth": 78,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 168,
+        "annualMax": 352,
+        "monthlyMin": 14,
+        "monthlyMax": 22,
+        "bonus": 32.4,
+        "stocks": 10.8,
+        "yearly": 18
+      },
+      "valueScore": 72
+    },
+    {
+      "jobId": "3cab80e096f9086b",
+      "title": "猛士汽车区域HRBP",
+      "companyId": "b9d02a7bc33607d9",
+      "companyName": "东风汽车",
+      "city": "杭州",
+      "district": "临平区",
+      "experience": "3-5年",
+      "education": "本科",
+      "salaryRange": "12-22K",
+      "salaryMin": 12,
+      "salaryMax": 22,
+      "tags": [
+        "新能源",
+        "员工关系",
+        "培训"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984171519.shtml",
+      "postedAt": "2026-08-14T12:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 37,
+      "growth": 52,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 144,
+        "annualMax": 352,
+        "monthlyMin": 12,
+        "monthlyMax": 22,
+        "bonus": 30.6,
+        "stocks": 10.2,
+        "yearly": 17
+      },
+      "valueScore": 68
+    },
+    {
+      "jobId": "b2af0c4ea7f68dec",
+      "title": "猛士汽车区域人力资源业务伙伴",
+      "companyId": "b9d02a7bc33607d9",
+      "companyName": "东风汽车",
+      "city": "南京",
+      "district": "玄武区",
+      "experience": "1-3年",
+      "education": "本科",
+      "salaryRange": "12-20K·14薪",
+      "salaryMin": 12,
+      "salaryMax": 20,
+      "tags": [
+        "新能源",
+        "员工关系",
+        "稳定",
+        "期权激励"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984172357.shtml",
+      "postedAt": "2026-08-13T18:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 33,
+      "growth": 52,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 144,
+        "annualMax": 320,
+        "monthlyMin": 12,
+        "monthlyMax": 20,
+        "bonus": 28.8,
+        "stocks": 9.6,
+        "yearly": 16
+      },
+      "valueScore": 64
+    }
+  ],
+  "analysis": {
+    "summary": "东风汽车（综合）当前在招 HRBP 相关岗位 4 个，平均薪资 17.8k。",
+    "salaryBenchmark": {
+      "companyAvg": 17.8,
+      "industryAvg": 18.3,
+      "cityAvg": 16.9,
+      "percentile": 70
+    },
+    "openings": [
+      {
+        "jobId": "78fa281679101bbc",
+        "title": "猛士汽车区域HRBP",
+        "companyId": "b9d02a7bc33607d9",
+        "companyName": "东风汽车",
+        "city": "成都",
+        "district": "神仙树",
+        "experience": "3-5年",
+        "education": "本科",
+        "salaryRange": "15-25K",
+        "salaryMin": 15,
+        "salaryMax": 25,
+        "tags": [
+          "新能源",
+          "稳定",
+          "商业保险"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984779845.shtml",
+        "postedAt": "2026-08-15T15:02:00.691Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 43,
+        "growth": 15,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 180,
+          "annualMax": 400,
+          "monthlyMin": 15,
+          "monthlyMax": 25,
+          "bonus": 36,
+          "stocks": 12,
+          "yearly": 20
+        },
+        "valueScore": 80
+      },
+      {
+        "jobId": "a89af4701b98d572",
+        "title": "猛士汽车区域人力资源业务伙伴",
+        "companyId": "b9d02a7bc33607d9",
+        "companyName": "东风汽车",
+        "city": "深圳",
+        "district": "坪山区",
+        "experience": "5-10年",
+        "education": "大专",
+        "salaryRange": "14-22K",
+        "salaryMin": 14,
+        "salaryMax": 22,
+        "tags": [
+          "新能源",
+          "员工关系",
+          "高增长",
+          "高增长"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984171100.shtml",
+        "postedAt": "2026-08-13T22:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 35,
+        "growth": 78,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 168,
+          "annualMax": 352,
+          "monthlyMin": 14,
+          "monthlyMax": 22,
+          "bonus": 32.4,
+          "stocks": 10.8,
+          "yearly": 18
+        },
+        "valueScore": 72
+      },
+      {
+        "jobId": "3cab80e096f9086b",
+        "title": "猛士汽车区域HRBP",
+        "companyId": "b9d02a7bc33607d9",
+        "companyName": "东风汽车",
+        "city": "杭州",
+        "district": "临平区",
+        "experience": "3-5年",
+        "education": "本科",
+        "salaryRange": "12-22K",
+        "salaryMin": 12,
+        "salaryMax": 22,
+        "tags": [
+          "新能源",
+          "员工关系",
+          "培训"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984171519.shtml",
+        "postedAt": "2026-08-14T12:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 37,
+        "growth": 52,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 144,
+          "annualMax": 352,
+          "monthlyMin": 12,
+          "monthlyMax": 22,
+          "bonus": 30.6,
+          "stocks": 10.2,
+          "yearly": 17
+        },
+        "valueScore": 68
+      },
+      {
+        "jobId": "b2af0c4ea7f68dec",
+        "title": "猛士汽车区域人力资源业务伙伴",
+        "companyId": "b9d02a7bc33607d9",
+        "companyName": "东风汽车",
+        "city": "南京",
+        "district": "玄武区",
+        "experience": "1-3年",
+        "education": "本科",
+        "salaryRange": "12-20K·14薪",
+        "salaryMin": 12,
+        "salaryMax": 20,
+        "tags": [
+          "新能源",
+          "员工关系",
+          "稳定",
+          "期权激励"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984172357.shtml",
+        "postedAt": "2026-08-13T18:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 33,
+        "growth": 52,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 144,
+          "annualMax": 320,
+          "monthlyMin": 12,
+          "monthlyMax": 20,
+          "bonus": 28.8,
+          "stocks": 9.6,
+          "yearly": 16
+        },
+        "valueScore": 64
+      }
+    ],
+    "trends": [
+      {
+        "year": "2022",
+        "companyId": "b9d02a7bc33607d9",
+        "revenue": 135,
+        "headcount": 101,
+        "openings": 1
+      },
+      {
+        "year": "2023",
+        "companyId": "b9d02a7bc33607d9",
+        "revenue": 158,
+        "headcount": 107,
+        "openings": 2
+      },
+      {
+        "year": "2024",
+        "companyId": "b9d02a7bc33607d9",
+        "revenue": 177,
+        "headcount": 127,
+        "openings": 4
+      },
+      {
+        "year": "2025",
+        "companyId": "b9d02a7bc33607d9",
+        "revenue": 200,
+        "headcount": 148,
+        "openings": 6
+      },
+      {
+        "year": "2026",
+        "companyId": "b9d02a7bc33607d9",
+        "revenue": 225,
+        "headcount": 161,
+        "openings": 8
+      }
+    ],
+    "comparisons": [
+      {
+        "companyId": "b9d02a7bc33607d9",
+        "metric": "薪资竞争力",
+        "value": 58,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "b9d02a7bc33607d9",
+        "metric": "招聘活跃度",
+        "value": 52,
+        "industryAvg": 45
+      },
+      {
+        "companyId": "b9d02a7bc33607d9",
+        "metric": "组织规模",
+        "value": 50,
+        "industryAvg": 55
+      }
+    ],
+    "scoreCard": {
+      "companyId": "b9d02a7bc33607d9",
+      "atmosphereScore": 86,
+      "competitivenessScore": 80,
+      "potentialScore": 62,
+      "overall": 0,
+      "grade": "B",
+      "strengths": [],
+      "weaknesses": []
+    },
+    "atmosphere": {
+      "companyId": "b9d02a7bc33607d9",
+      "cultureOpenness": 68,
+      "overtimeIntensity": 51,
+      "promotionSpace": 77,
+      "teamStability": 74,
+      "leadership": 85
+    }
+  }
+}

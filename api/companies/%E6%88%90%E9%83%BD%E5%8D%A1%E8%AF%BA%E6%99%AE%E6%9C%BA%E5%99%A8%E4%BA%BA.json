@@ -1,0 +1,532 @@
+﻿{
+  "companyId": "成都卡诺普机器人",
+  "name": "成都卡诺普机器人",
+  "industry": "机器人",
+  "scale": "150-500人",
+  "stage": "成熟期",
+  "founded": "2015",
+  "headquarters": "成都",
+  "branches": [],
+  "description": "成都卡诺普机器人是机器人领域的企业。",
+  "logoColor": "#16e5a2",
+  "logoInitial": "成",
+  "jobs": [
+    {
+      "jobId": "real_067",
+      "title": "HRBP",
+      "companyId": "成都卡诺普机器人",
+      "companyName": "成都卡诺普机器人",
+      "companyIndustry": "机器人",
+      "city": "成都",
+      "district": "成华区",
+      "experience": "3年及以上",
+      "education": "本科",
+      "salaryRange": "7-10K·13薪",
+      "salaryMin": 7,
+      "salaryMax": 10,
+      "bonusMonths": 13,
+      "tags": [
+        "硕博团队",
+        "高增长",
+        "员工关系",
+        "硬科技"
+      ],
+      "source": "前程无忧",
+      "sourceUrl": "https://msearch.51job.com/jobs/chengdu-chq/173256902.html",
+      "postedAt": "2026-08-16T08:41:50.102Z",
+      "crawledAt": "2026-08-16T14:41:50.102Z",
+      "heat": 154,
+      "growth": 8,
+      "url": "https://msearch.51job.com/jobs/chengdu-chq/173256902.html",
+      "benefits": [
+        "免费班车",
+        "六险一金",
+        "年度体检",
+        "免费三餐"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "3年及以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "成都卡诺普机器人招聘HRBP，工作地点成都·成华区，薪资7-10K·13薪，要求3年及以上经验、本科学历。",
+      "valueScore": 3.2,
+      "salaryBreakdown": {
+        "p10": 7,
+        "p25": 8,
+        "p50": 9,
+        "p75": 9,
+        "p90": 11
+      }
+    },
+    {
+      "jobId": "real_085",
+      "title": "HRBP（招聘&绩效）",
+      "companyId": "成都卡诺普机器人",
+      "companyName": "成都卡诺普机器人",
+      "companyIndustry": "机器人",
+      "city": "成都",
+      "district": "龙潭寺",
+      "experience": "3-5年",
+      "education": "本科",
+      "salaryRange": "7-10K·13薪",
+      "salaryMin": 7,
+      "salaryMax": 10,
+      "bonusMonths": 13,
+      "tags": [
+        "社招",
+        "绩效",
+        "WLB"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984677999.shtml",
+      "postedAt": "2026-08-15T22:41:50.102Z",
+      "crawledAt": "2026-08-16T16:41:50.102Z",
+      "heat": 153,
+      "growth": 46,
+      "url": "https://www.liepin.com/job/1984677999.shtml",
+      "benefits": [
+        "租房补贴",
+        "带薪年假",
+        "员工宿舍",
+        "通勤班车"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进",
+        "主导人才盘点与高潜员工识别，制定关键人才的发展与保留计划"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "3-5年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "成都卡诺普机器人招聘HRBP（招聘&绩效），工作地点成都·龙潭寺，薪资7-10K·13薪，要求3-5年经验、本科学历。",
+      "valueScore": 3.2,
+      "salaryBreakdown": {
+        "p10": 7,
+        "p25": 8,
+        "p50": 9,
+        "p75": 9,
+        "p90": 11
+      }
+    },
+    {
+      "jobId": "aug_0335",
+      "title": "HRBP",
+      "companyId": "成都卡诺普机器人",
+      "companyName": "成都卡诺普机器人",
+      "companyIndustry": "机器人",
+      "city": "厦门",
+      "district": "",
+      "experience": "3年及以上",
+      "education": "本科",
+      "salaryRange": "8-10K",
+      "salaryMin": 8,
+      "salaryMax": 10,
+      "bonusMonths": 13,
+      "tags": [
+        "硬科技",
+        "硬科技",
+        "技术HR"
+      ],
+      "source": "前程无忧",
+      "sourceUrl": "https://msearch.51job.com/jobs/shanghai/170045895.html",
+      "postedAt": "2026-08-15T01:41:50.107Z",
+      "crawledAt": "2026-08-16T10:41:50.107Z",
+      "heat": 64,
+      "growth": 28,
+      "url": "https://msearch.51job.com/jobs/shanghai/170045895.html",
+      "benefits": [
+        "项目奖金",
+        "节日福利",
+        "补充医疗",
+        "年度体检",
+        "免费三餐"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进",
+        "主导人才盘点与高潜员工识别，制定关键人才的发展与保留计划"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "3年及以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "成都卡诺普机器人招聘HRBP，工作地点厦门，薪资8-10K，要求3年及以上经验、本科学历。",
+      "valueScore": 3.5,
+      "salaryBreakdown": {
+        "p10": 8,
+        "p25": 8,
+        "p50": 9,
+        "p75": 10,
+        "p90": 10
+      }
+    },
+    {
+      "jobId": "aug_0423",
+      "title": "HRBP（招聘&绩效）",
+      "companyId": "成都卡诺普机器人",
+      "companyName": "成都卡诺普机器人",
+      "companyIndustry": "机器人",
+      "city": "太原",
+      "district": "",
+      "experience": "3-5年",
+      "education": "本科",
+      "salaryRange": "8-10K",
+      "salaryMin": 8,
+      "salaryMax": 10,
+      "bonusMonths": 13,
+      "tags": [
+        "社招",
+        "绩效",
+        "弹性工作"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984177825.shtml",
+      "postedAt": "2026-08-15T22:41:50.107Z",
+      "crawledAt": "2026-08-16T13:41:50.107Z",
+      "heat": 51,
+      "growth": 19,
+      "url": "https://www.liepin.com/job/1984177825.shtml",
+      "benefits": [
+        "弹性工作",
+        "通勤班车",
+        "五险一金",
+        "租房补贴"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "3-5年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "成都卡诺普机器人招聘HRBP（招聘&绩效），工作地点太原，薪资8-10K，要求3-5年经验、本科学历。",
+      "valueScore": 3.4,
+      "salaryBreakdown": {
+        "p10": 8,
+        "p25": 8,
+        "p50": 9,
+        "p75": 10,
+        "p90": 10
+      }
+    },
+    {
+      "jobId": "aug_0332",
+      "title": "HRBP",
+      "companyId": "成都卡诺普机器人",
+      "companyName": "成都卡诺普机器人",
+      "companyIndustry": "机器人",
+      "city": "青岛",
+      "district": "崂山区",
+      "experience": "5年及以上",
+      "education": "本科",
+      "salaryRange": "8-12K",
+      "salaryMin": 8,
+      "salaryMax": 12,
+      "bonusMonths": 13,
+      "tags": [
+        "新能源",
+        "金融",
+        "互联网"
+      ],
+      "source": "前程无忧",
+      "sourceUrl": "https://msearch.51job.com/jobs/shanghai/170045484.html",
+      "postedAt": "2026-08-12T19:41:50.107Z",
+      "crawledAt": "2026-08-16T06:41:50.107Z",
+      "heat": 50,
+      "growth": 24,
+      "url": "https://msearch.51job.com/jobs/shanghai/170045484.html",
+      "benefits": [
+        "商业保险",
+        "六险一金",
+        "年度旅游",
+        "项目奖金",
+        "带薪年假"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进",
+        "主导人才盘点与高潜员工识别，制定关键人才的发展与保留计划"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "5年及以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "成都卡诺普机器人招聘HRBP，工作地点青岛·崂山区，薪资8-12K，要求5年及以上经验、本科学历。",
+      "valueScore": 2.3,
+      "salaryBreakdown": {
+        "p10": 8,
+        "p25": 9,
+        "p50": 10,
+        "p75": 11,
+        "p90": 13
+      }
+    },
+    {
+      "jobId": "aug_0421",
+      "title": "HRBP（招聘&绩效）",
+      "companyId": "成都卡诺普机器人",
+      "companyName": "成都卡诺普机器人",
+      "companyIndustry": "机器人",
+      "city": "金华",
+      "district": "",
+      "experience": "3-5年",
+      "education": "本科",
+      "salaryRange": "8-10K",
+      "salaryMin": 8,
+      "salaryMax": 10,
+      "bonusMonths": 13,
+      "tags": [
+        "社招",
+        "绩效",
+        "专家岗",
+        "培训"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984176987.shtml",
+      "postedAt": "2026-08-12T16:41:50.107Z",
+      "crawledAt": "2026-08-16T15:41:50.107Z",
+      "heat": 50,
+      "growth": 35,
+      "url": "https://www.liepin.com/job/1984176987.shtml",
+      "benefits": [
+        "免费三餐",
+        "五险一金",
+        "年终奖",
+        "企业年金",
+        "租房补贴"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进",
+        "主导人才盘点与高潜员工识别，制定关键人才的发展与保留计划"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "3-5年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "成都卡诺普机器人招聘HRBP（招聘&绩效），工作地点金华，薪资8-10K，要求3-5年经验、本科学历。",
+      "valueScore": 3.5,
+      "salaryBreakdown": {
+        "p10": 8,
+        "p25": 8,
+        "p50": 9,
+        "p75": 10,
+        "p90": 10
+      }
+    },
+    {
+      "jobId": "aug_0424",
+      "title": "HRBP（招聘&绩效）",
+      "companyId": "成都卡诺普机器人",
+      "companyName": "成都卡诺普机器人",
+      "companyIndustry": "机器人",
+      "city": "哈尔滨",
+      "district": "",
+      "experience": "5-10年",
+      "education": "本科",
+      "salaryRange": "6-10K",
+      "salaryMin": 6,
+      "salaryMax": 10,
+      "bonusMonths": 13,
+      "tags": [
+        "社招",
+        "绩效",
+        "弹性工作",
+        "电商"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984178244.shtml",
+      "postedAt": "2026-08-13T22:41:50.107Z",
+      "crawledAt": "2026-08-16T15:41:50.107Z",
+      "heat": 50,
+      "growth": 36,
+      "url": "https://www.liepin.com/job/1984178244.shtml",
+      "benefits": [
+        "通勤班车",
+        "年度体检",
+        "企业年金",
+        "租房补贴",
+        "五险一金"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进",
+        "主导人才盘点与高潜员工识别，制定关键人才的发展与保留计划"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "5-10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "成都卡诺普机器人招聘HRBP（招聘&绩效），工作地点哈尔滨，薪资6-10K，要求5-10年经验、本科学历。",
+      "valueScore": 1.8,
+      "salaryBreakdown": {
+        "p10": 6,
+        "p25": 7,
+        "p50": 8,
+        "p75": 9,
+        "p90": 11
+      }
+    }
+  ],
+  "analysis": {
+    "companyId": "成都卡诺普机器人",
+    "atmosphereScore": 75,
+    "competitivenessScore": 66,
+    "potentialScore": 87,
+    "overall": 76,
+    "grade": "B",
+    "strengths": [
+      "团队氛围好",
+      "发展空间大",
+      "福利待遇优"
+    ],
+    "weaknesses": [
+      "部分流程待优化",
+      "行业竞争激烈"
+    ],
+    "radar": [
+      {
+        "label": "文化开放度",
+        "value": 63,
+        "key": "cultureOpenness"
+      },
+      {
+        "label": "晋升空间",
+        "value": 80,
+        "key": "promotionSpace"
+      },
+      {
+        "label": "团队稳定",
+        "value": 75,
+        "key": "teamStability"
+      },
+      {
+        "label": "领导力",
+        "value": 52,
+        "key": "leadership"
+      },
+      {
+        "label": "加班强度",
+        "value": 51,
+        "key": "overtimeIntensity"
+      }
+    ],
+    "competitors": [
+      {
+        "companyId": "成都卡诺普机器人",
+        "metric": "薪资竞争力",
+        "value": 80,
+        "industryAvg": 65
+      },
+      {
+        "companyId": "成都卡诺普机器人",
+        "metric": "发展潜力",
+        "value": 66,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "成都卡诺普机器人",
+        "metric": "团队氛围",
+        "value": 80,
+        "industryAvg": 70
+      },
+      {
+        "companyId": "成都卡诺普机器人",
+        "metric": "稳定性",
+        "value": 61,
+        "industryAvg": 55
+      },
+      {
+        "companyId": "成都卡诺普机器人",
+        "metric": "行业地位",
+        "value": 69,
+        "industryAvg": 50
+      }
+    ],
+    "trend": [
+      {
+        "companyId": "成都卡诺普机器人",
+        "year": "2021",
+        "revenue": 841,
+        "headcount": 93,
+        "openings": 58
+      },
+      {
+        "companyId": "成都卡诺普机器人",
+        "year": "2022",
+        "revenue": 524,
+        "headcount": 57,
+        "openings": 37
+      },
+      {
+        "companyId": "成都卡诺普机器人",
+        "year": "2023",
+        "revenue": 763,
+        "headcount": 116,
+        "openings": 17
+      },
+      {
+        "companyId": "成都卡诺普机器人",
+        "year": "2024",
+        "revenue": 511,
+        "headcount": 65,
+        "openings": 56
+      },
+      {
+        "companyId": "成都卡诺普机器人",
+        "year": "2025",
+        "revenue": 601,
+        "headcount": 144,
+        "openings": 44
+      }
+    ]
+  }
+}

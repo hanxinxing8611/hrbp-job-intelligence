@@ -1,0 +1,358 @@
+﻿{
+  "companyId": "一智科技",
+  "name": "一智科技",
+  "industry": "科技",
+  "scale": "150-500人",
+  "stage": "成长期",
+  "founded": "2018",
+  "headquarters": "盐城",
+  "branches": [],
+  "description": "一智科技是科技领域的企业。",
+  "logoColor": "#a87682",
+  "logoInitial": "一",
+  "jobs": [
+    {
+      "jobId": "aug_0456",
+      "title": "高级HRBP leader",
+      "companyId": "一智科技",
+      "companyName": "一智科技",
+      "companyIndustry": "科技",
+      "city": "盐城",
+      "district": "",
+      "experience": "5-10年",
+      "education": "本科",
+      "salaryRange": "22-44K·14薪",
+      "salaryMin": 22,
+      "salaryMax": 44,
+      "bonusMonths": 14,
+      "tags": [
+        "硬科技",
+        "金融",
+        "薪酬"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984191701.shtml",
+      "postedAt": "2026-08-15T04:41:50.107Z",
+      "crawledAt": "2026-08-16T12:41:50.107Z",
+      "heat": 145,
+      "growth": 52,
+      "url": "https://www.liepin.com/job/1984191701.shtml",
+      "benefits": [
+        "企业年金",
+        "节日福利",
+        "商业保险",
+        "年度旅游",
+        "项目奖金"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "5-10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "一智科技招聘高级HRBP leader，工作地点盐城，薪资22-44K·14薪，要求5-10年经验、本科学历。",
+      "valueScore": 7.6,
+      "salaryBreakdown": {
+        "p10": 22,
+        "p25": 26,
+        "p50": 33,
+        "p75": 40,
+        "p90": 48
+      }
+    },
+    {
+      "jobId": "real_092",
+      "title": "HRBP leader",
+      "companyId": "一智科技",
+      "companyName": "一智科技",
+      "companyIndustry": "科技",
+      "city": "成都",
+      "district": "",
+      "experience": "5-10年",
+      "education": "本科",
+      "salaryRange": "20-40K·13薪",
+      "salaryMin": 20,
+      "salaryMax": 40,
+      "bonusMonths": 13,
+      "tags": [
+        "大厂",
+        "数字化",
+        "数字化",
+        "出海"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984127863.shtml",
+      "postedAt": "2026-08-15T09:41:50.102Z",
+      "crawledAt": "2026-08-16T12:41:50.102Z",
+      "heat": 144,
+      "growth": 49,
+      "url": "https://www.liepin.com/job/1984127863.shtml",
+      "benefits": [
+        "通勤班车",
+        "补充医疗",
+        "免费班车",
+        "五险一金",
+        "六险一金"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进",
+        "主导人才盘点与高潜员工识别，制定关键人才的发展与保留计划"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "5-10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "一智科技招聘HRBP leader，工作地点成都，薪资20-40K·13薪，要求5-10年经验、本科学历。",
+      "valueScore": 6.9,
+      "salaryBreakdown": {
+        "p10": 20,
+        "p25": 24,
+        "p50": 30,
+        "p75": 36,
+        "p90": 44
+      }
+    },
+    {
+      "jobId": "aug_0459",
+      "title": "高级HRBP leader",
+      "companyId": "一智科技",
+      "companyName": "一智科技",
+      "companyIndustry": "科技",
+      "city": "昆明",
+      "district": "",
+      "experience": "5-10年",
+      "education": "本科",
+      "salaryRange": "20-38K",
+      "salaryMin": 20,
+      "salaryMax": 38,
+      "bonusMonths": 13,
+      "tags": [
+        "AI赛道",
+        "AI赛道",
+        "金融"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984192958.shtml",
+      "postedAt": "2026-08-14T00:41:50.107Z",
+      "crawledAt": "2026-08-16T15:41:50.107Z",
+      "heat": 94,
+      "growth": 25,
+      "url": "https://www.liepin.com/job/1984192958.shtml",
+      "benefits": [
+        "员工宿舍",
+        "五险一金",
+        "带薪年假",
+        "六险一金",
+        "弹性工作"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进",
+        "主导人才盘点与高潜员工识别，制定关键人才的发展与保留计划"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "5-10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "一智科技招聘高级HRBP leader，工作地点昆明，薪资20-38K，要求5-10年经验、本科学历。",
+      "valueScore": 6.7,
+      "salaryBreakdown": {
+        "p10": 20,
+        "p25": 24,
+        "p50": 29,
+        "p75": 34,
+        "p90": 42
+      }
+    },
+    {
+      "jobId": "aug_0458",
+      "title": "人力资源业务伙伴 leader",
+      "companyId": "一智科技",
+      "companyName": "一智科技",
+      "companyIndustry": "科技",
+      "city": "兰州",
+      "district": "",
+      "experience": "10年以上",
+      "education": "硕士",
+      "salaryRange": "20-40K",
+      "salaryMin": 20,
+      "salaryMax": 40,
+      "bonusMonths": 13,
+      "tags": [
+        "AI赛道",
+        "数字化",
+        "高增长"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984192539.shtml",
+      "postedAt": "2026-08-14T09:41:50.107Z",
+      "crawledAt": "2026-08-16T10:41:50.107Z",
+      "heat": 69,
+      "growth": 31,
+      "url": "https://www.liepin.com/job/1984192539.shtml",
+      "benefits": [
+        "年度旅游",
+        "弹性工作",
+        "通勤班车",
+        "补充医疗"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "一智科技招聘人力资源业务伙伴 leader，工作地点兰州，薪资20-40K，要求10年以上经验、硕士学历。",
+      "valueScore": 3.4,
+      "salaryBreakdown": {
+        "p10": 20,
+        "p25": 24,
+        "p50": 30,
+        "p75": 36,
+        "p90": 44
+      }
+    }
+  ],
+  "analysis": {
+    "companyId": "一智科技",
+    "atmosphereScore": 70,
+    "competitivenessScore": 80,
+    "potentialScore": 88,
+    "overall": 79,
+    "grade": "B",
+    "strengths": [
+      "团队氛围好",
+      "发展空间大",
+      "福利待遇优"
+    ],
+    "weaknesses": [
+      "部分流程待优化",
+      "行业竞争激烈"
+    ],
+    "radar": [
+      {
+        "label": "文化开放度",
+        "value": 86,
+        "key": "cultureOpenness"
+      },
+      {
+        "label": "晋升空间",
+        "value": 82,
+        "key": "promotionSpace"
+      },
+      {
+        "label": "团队稳定",
+        "value": 94,
+        "key": "teamStability"
+      },
+      {
+        "label": "领导力",
+        "value": 51,
+        "key": "leadership"
+      },
+      {
+        "label": "加班强度",
+        "value": 60,
+        "key": "overtimeIntensity"
+      }
+    ],
+    "competitors": [
+      {
+        "companyId": "一智科技",
+        "metric": "薪资竞争力",
+        "value": 76,
+        "industryAvg": 65
+      },
+      {
+        "companyId": "一智科技",
+        "metric": "发展潜力",
+        "value": 94,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "一智科技",
+        "metric": "团队氛围",
+        "value": 87,
+        "industryAvg": 70
+      },
+      {
+        "companyId": "一智科技",
+        "metric": "稳定性",
+        "value": 75,
+        "industryAvg": 55
+      },
+      {
+        "companyId": "一智科技",
+        "metric": "行业地位",
+        "value": 70,
+        "industryAvg": 50
+      }
+    ],
+    "trend": [
+      {
+        "companyId": "一智科技",
+        "year": "2021",
+        "revenue": 728,
+        "headcount": 50,
+        "openings": 24
+      },
+      {
+        "companyId": "一智科技",
+        "year": "2022",
+        "revenue": 1289,
+        "headcount": 140,
+        "openings": 11
+      },
+      {
+        "companyId": "一智科技",
+        "year": "2023",
+        "revenue": 507,
+        "headcount": 62,
+        "openings": 33
+      },
+      {
+        "companyId": "一智科技",
+        "year": "2024",
+        "revenue": 785,
+        "headcount": 134,
+        "openings": 28
+      },
+      {
+        "companyId": "一智科技",
+        "year": "2025",
+        "revenue": 908,
+        "headcount": 123,
+        "openings": 51
+      }
+    ]
+  }
+}

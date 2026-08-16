@@ -1,0 +1,245 @@
+﻿{
+  "companyId": "行云集团（杭州）分公司",
+  "name": "行云集团（杭州）分公司",
+  "industry": "互联网",
+  "scale": "500-1000人",
+  "stage": "成长期",
+  "founded": "2008",
+  "headquarters": "金华",
+  "branches": [],
+  "description": "行云集团（杭州）分公司是互联网领域的企业。",
+  "logoColor": "#716619",
+  "logoInitial": "行",
+  "jobs": [
+    {
+      "jobId": "aug_0016",
+      "title": "人力资源业务伙伴（AI方向）",
+      "companyId": "行云集团（杭州）分公司",
+      "companyName": "行云集团（杭州）分公司",
+      "companyIndustry": "互联网",
+      "city": "金华",
+      "district": "",
+      "experience": "3-5年",
+      "education": "本科",
+      "salaryRange": "18-34K",
+      "salaryMin": 18,
+      "salaryMax": 34,
+      "bonusMonths": 13,
+      "tags": [
+        "AI赛道",
+        "组织发展",
+        "互联网",
+        "WLB"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/2q14nV_0016FlVY.html",
+      "postedAt": "2026-08-14T01:41:50.107Z",
+      "crawledAt": "2026-08-16T11:41:50.107Z",
+      "heat": 50,
+      "growth": 25,
+      "url": "https://m.zhipin.com/job_detail/2q14nV_0016FlVY.html",
+      "benefits": [
+        "年终奖",
+        "弹性工作",
+        "带薪年假",
+        "补充医疗",
+        "五险一金"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "关注AI领域前沿人才动态，制定针对性的人才吸引与保留策略"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "3-5年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "行云集团（杭州）分公司招聘人力资源业务伙伴（AI方向），工作地点金华，薪资18-34K，要求3-5年经验、本科学历。",
+      "valueScore": 10,
+      "salaryBreakdown": {
+        "p10": 18,
+        "p25": 21,
+        "p50": 26,
+        "p75": 31,
+        "p90": 37
+      }
+    },
+    {
+      "jobId": "aug_0019",
+      "title": "HRBP（AI方向）",
+      "companyId": "行云集团（杭州）分公司",
+      "companyName": "行云集团（杭州）分公司",
+      "companyIndustry": "互联网",
+      "city": "哈尔滨",
+      "district": "",
+      "experience": "1-3年",
+      "education": "本科",
+      "salaryRange": "16-30K",
+      "salaryMin": 16,
+      "salaryMax": 30,
+      "bonusMonths": 13,
+      "tags": [
+        "AI赛道",
+        "校招",
+        "金融",
+        "期权激励"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/2q47nV_0019FlVY.html",
+      "postedAt": "2026-08-13T00:41:50.107Z",
+      "crawledAt": "2026-08-16T15:41:50.107Z",
+      "heat": 50,
+      "growth": 35,
+      "url": "https://m.zhipin.com/job_detail/2q47nV_0019FlVY.html",
+      "benefits": [
+        "股票期权",
+        "年度旅游",
+        "免费班车",
+        "年度体检",
+        "企业年金"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "关注AI领域前沿人才动态，制定针对性的人才吸引与保留策略",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "1-3年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "行云集团（杭州）分公司招聘HRBP（AI方向），工作地点哈尔滨，薪资16-30K，要求1-3年经验、本科学历。",
+      "valueScore": 26.5,
+      "salaryBreakdown": {
+        "p10": 16,
+        "p25": 19,
+        "p50": 23,
+        "p75": 27,
+        "p90": 33
+      }
+    }
+  ],
+  "analysis": {
+    "companyId": "行云集团（杭州）分公司",
+    "atmosphereScore": 87,
+    "competitivenessScore": 82,
+    "potentialScore": 82,
+    "overall": 84,
+    "grade": "A",
+    "strengths": [
+      "团队氛围好",
+      "发展空间大",
+      "福利待遇优"
+    ],
+    "weaknesses": [
+      "部分流程待优化",
+      "行业竞争激烈"
+    ],
+    "radar": [
+      {
+        "label": "文化开放度",
+        "value": 77,
+        "key": "cultureOpenness"
+      },
+      {
+        "label": "晋升空间",
+        "value": 57,
+        "key": "promotionSpace"
+      },
+      {
+        "label": "团队稳定",
+        "value": 61,
+        "key": "teamStability"
+      },
+      {
+        "label": "领导力",
+        "value": 80,
+        "key": "leadership"
+      },
+      {
+        "label": "加班强度",
+        "value": 49,
+        "key": "overtimeIntensity"
+      }
+    ],
+    "competitors": [
+      {
+        "companyId": "行云集团（杭州）分公司",
+        "metric": "薪资竞争力",
+        "value": 93,
+        "industryAvg": 65
+      },
+      {
+        "companyId": "行云集团（杭州）分公司",
+        "metric": "发展潜力",
+        "value": 76,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "行云集团（杭州）分公司",
+        "metric": "团队氛围",
+        "value": 80,
+        "industryAvg": 70
+      },
+      {
+        "companyId": "行云集团（杭州）分公司",
+        "metric": "稳定性",
+        "value": 88,
+        "industryAvg": 55
+      },
+      {
+        "companyId": "行云集团（杭州）分公司",
+        "metric": "行业地位",
+        "value": 69,
+        "industryAvg": 50
+      }
+    ],
+    "trend": [
+      {
+        "companyId": "行云集团（杭州）分公司",
+        "year": "2021",
+        "revenue": 864,
+        "headcount": 107,
+        "openings": 22
+      },
+      {
+        "companyId": "行云集团（杭州）分公司",
+        "year": "2022",
+        "revenue": 616,
+        "headcount": 98,
+        "openings": 31
+      },
+      {
+        "companyId": "行云集团（杭州）分公司",
+        "year": "2023",
+        "revenue": 977,
+        "headcount": 85,
+        "openings": 19
+      },
+      {
+        "companyId": "行云集团（杭州）分公司",
+        "year": "2024",
+        "revenue": 621,
+        "headcount": 128,
+        "openings": 36
+      },
+      {
+        "companyId": "行云集团（杭州）分公司",
+        "year": "2025",
+        "revenue": 720,
+        "headcount": 122,
+        "openings": 34
+      }
+    ]
+  }
+}

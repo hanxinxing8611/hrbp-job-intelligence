@@ -1,0 +1,358 @@
+﻿{
+  "companyId": "云绎智创",
+  "name": "云绎智创",
+  "industry": "科技",
+  "scale": "500-1000人",
+  "stage": "成熟期",
+  "founded": "2016",
+  "headquarters": "成都",
+  "branches": [],
+  "description": "云绎智创是科技领域的企业。",
+  "logoColor": "#f0095d",
+  "logoInitial": "云",
+  "jobs": [
+    {
+      "jobId": "real_083",
+      "title": "高级HRBP(招聘)",
+      "companyId": "云绎智创",
+      "companyName": "云绎智创",
+      "companyIndustry": "科技",
+      "city": "成都",
+      "district": "新兴",
+      "experience": "5年以上",
+      "education": "本科",
+      "salaryRange": "10-15K·13薪",
+      "salaryMin": 10,
+      "salaryMax": 15,
+      "bonusMonths": 13,
+      "tags": [
+        "社招",
+        "电商",
+        "AI赛道"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984774625.shtml",
+      "postedAt": "2026-08-15T14:41:50.102Z",
+      "crawledAt": "2026-08-16T14:41:50.102Z",
+      "heat": 276,
+      "growth": 31,
+      "url": "https://www.liepin.com/job/1984774625.shtml",
+      "benefits": [
+        "商业保险",
+        "项目奖金",
+        "节日福利",
+        "员工宿舍"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进",
+        "主导人才盘点与高潜员工识别，制定关键人才的发展与保留计划"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "5年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "云绎智创招聘高级HRBP(招聘)，工作地点成都·新兴，薪资10-15K·13薪，要求5年以上经验、本科学历。",
+      "valueScore": 2.8,
+      "salaryBreakdown": {
+        "p10": 10,
+        "p25": 11,
+        "p50": 13,
+        "p75": 14,
+        "p90": 16
+      }
+    },
+    {
+      "jobId": "aug_0415",
+      "title": "高级HRBP(招聘)",
+      "companyId": "云绎智创",
+      "companyName": "云绎智创",
+      "companyIndustry": "科技",
+      "city": "无锡",
+      "district": "",
+      "experience": "5年以上",
+      "education": "大专",
+      "salaryRange": "10-14K",
+      "salaryMin": 10,
+      "salaryMax": 14,
+      "bonusMonths": 13,
+      "tags": [
+        "社招",
+        "战略",
+        "大厂",
+        "新能源"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984174459.shtml",
+      "postedAt": "2026-08-15T12:41:50.107Z",
+      "crawledAt": "2026-08-16T08:41:50.107Z",
+      "heat": 106,
+      "growth": 7,
+      "url": "https://www.liepin.com/job/1984174459.shtml",
+      "benefits": [
+        "五险一金",
+        "带薪年假",
+        "员工宿舍",
+        "租房补贴"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进",
+        "主导人才盘点与高潜员工识别，制定关键人才的发展与保留计划"
+      ],
+      "requirements": [
+        "大专及以上学历，人力资源管理或相关专业背景",
+        "5年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "云绎智创招聘高级HRBP(招聘)，工作地点无锡，薪资10-14K，要求5年以上经验、大专学历。",
+      "valueScore": 2.7,
+      "salaryBreakdown": {
+        "p10": 10,
+        "p25": 11,
+        "p50": 12,
+        "p75": 13,
+        "p90": 15
+      }
+    },
+    {
+      "jobId": "aug_0412",
+      "title": "高级HRBP(招聘)",
+      "companyId": "云绎智创",
+      "companyName": "云绎智创",
+      "companyIndustry": "科技",
+      "city": "郑州",
+      "district": "高新区",
+      "experience": "8年以上",
+      "education": "本科",
+      "salaryRange": "12-16K·15薪",
+      "salaryMin": 12,
+      "salaryMax": 16,
+      "bonusMonths": 15,
+      "tags": [
+        "社招",
+        "数字化",
+        "免费三餐"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984173202.shtml",
+      "postedAt": "2026-08-14T14:41:50.107Z",
+      "crawledAt": "2026-08-16T05:41:50.107Z",
+      "heat": 57,
+      "growth": 15,
+      "url": "https://www.liepin.com/job/1984173202.shtml",
+      "benefits": [
+        "带薪年假",
+        "项目奖金",
+        "企业年金",
+        "节日福利"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进",
+        "主导人才盘点与高潜员工识别，制定关键人才的发展与保留计划"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "8年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "云绎智创招聘高级HRBP(招聘)，工作地点郑州·高新区，薪资12-16K·15薪，要求8年以上经验、本科学历。",
+      "valueScore": 2,
+      "salaryBreakdown": {
+        "p10": 12,
+        "p25": 13,
+        "p50": 14,
+        "p75": 15,
+        "p90": 17
+      }
+    },
+    {
+      "jobId": "aug_0414",
+      "title": "高级人力资源业务伙伴(招聘)",
+      "companyId": "云绎智创",
+      "companyName": "云绎智创",
+      "companyIndustry": "科技",
+      "city": "佛山",
+      "district": "狮山镇",
+      "experience": "8年以上",
+      "education": "本科",
+      "salaryRange": "10-16K·14薪",
+      "salaryMin": 10,
+      "salaryMax": 16,
+      "bonusMonths": 14,
+      "tags": [
+        "社招",
+        "数字化",
+        "培训",
+        "AI赛道"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984174040.shtml",
+      "postedAt": "2026-08-13T05:41:50.107Z",
+      "crawledAt": "2026-08-16T15:41:50.107Z",
+      "heat": 50,
+      "growth": 14,
+      "url": "https://www.liepin.com/job/1984174040.shtml",
+      "benefits": [
+        "企业年金",
+        "员工宿舍",
+        "补充医疗",
+        "免费班车",
+        "带薪年假"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "8年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "云绎智创招聘高级人力资源业务伙伴(招聘)，工作地点佛山·狮山镇，薪资10-16K·14薪，要求8年以上经验、本科学历。",
+      "valueScore": 1.9,
+      "salaryBreakdown": {
+        "p10": 10,
+        "p25": 11,
+        "p50": 13,
+        "p75": 15,
+        "p90": 17
+      }
+    }
+  ],
+  "analysis": {
+    "companyId": "云绎智创",
+    "atmosphereScore": 88,
+    "competitivenessScore": 66,
+    "potentialScore": 87,
+    "overall": 80,
+    "grade": "A",
+    "strengths": [
+      "团队氛围好",
+      "发展空间大",
+      "福利待遇优"
+    ],
+    "weaknesses": [
+      "部分流程待优化",
+      "行业竞争激烈"
+    ],
+    "radar": [
+      {
+        "label": "文化开放度",
+        "value": 97,
+        "key": "cultureOpenness"
+      },
+      {
+        "label": "晋升空间",
+        "value": 65,
+        "key": "promotionSpace"
+      },
+      {
+        "label": "团队稳定",
+        "value": 59,
+        "key": "teamStability"
+      },
+      {
+        "label": "领导力",
+        "value": 86,
+        "key": "leadership"
+      },
+      {
+        "label": "加班强度",
+        "value": 50,
+        "key": "overtimeIntensity"
+      }
+    ],
+    "competitors": [
+      {
+        "companyId": "云绎智创",
+        "metric": "薪资竞争力",
+        "value": 85,
+        "industryAvg": 65
+      },
+      {
+        "companyId": "云绎智创",
+        "metric": "发展潜力",
+        "value": 81,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "云绎智创",
+        "metric": "团队氛围",
+        "value": 84,
+        "industryAvg": 70
+      },
+      {
+        "companyId": "云绎智创",
+        "metric": "稳定性",
+        "value": 65,
+        "industryAvg": 55
+      },
+      {
+        "companyId": "云绎智创",
+        "metric": "行业地位",
+        "value": 76,
+        "industryAvg": 50
+      }
+    ],
+    "trend": [
+      {
+        "companyId": "云绎智创",
+        "year": "2021",
+        "revenue": 1434,
+        "headcount": 90,
+        "openings": 53
+      },
+      {
+        "companyId": "云绎智创",
+        "year": "2022",
+        "revenue": 1286,
+        "headcount": 122,
+        "openings": 32
+      },
+      {
+        "companyId": "云绎智创",
+        "year": "2023",
+        "revenue": 691,
+        "headcount": 85,
+        "openings": 40
+      },
+      {
+        "companyId": "云绎智创",
+        "year": "2024",
+        "revenue": 889,
+        "headcount": 135,
+        "openings": 39
+      },
+      {
+        "companyId": "云绎智创",
+        "year": "2025",
+        "revenue": 882,
+        "headcount": 109,
+        "openings": 19
+      }
+    ]
+  }
+}

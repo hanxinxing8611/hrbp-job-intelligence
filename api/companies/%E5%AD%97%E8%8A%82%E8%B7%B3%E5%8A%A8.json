@@ -1,0 +1,371 @@
+﻿{
+  "companyId": "字节跳动",
+  "name": "字节跳动",
+  "industry": "互联网",
+  "scale": "1000人以上",
+  "stage": "上市公司",
+  "founded": "2005",
+  "headquarters": "北京",
+  "branches": [],
+  "description": "字节跳动是互联网领域的企业。",
+  "logoColor": "#fe4892",
+  "logoInitial": "字",
+  "jobs": [
+    {
+      "jobId": "real_094",
+      "title": "HRBP（日本市场）-TikTok直播",
+      "companyId": "字节跳动",
+      "companyName": "字节跳动",
+      "companyIndustry": "互联网",
+      "city": "北京",
+      "district": "",
+      "experience": "3年以上",
+      "education": "本科",
+      "salaryRange": "30-60K·15薪",
+      "salaryMin": 30,
+      "salaryMax": 60,
+      "bonusMonths": 15,
+      "tags": [
+        "出海",
+        "大厂",
+        "互联网"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984472167.shtml",
+      "postedAt": "2026-08-15T06:41:50.102Z",
+      "crawledAt": "2026-08-16T15:41:50.102Z",
+      "heat": 435,
+      "growth": 8,
+      "url": "https://www.liepin.com/job/1984472167.shtml",
+      "benefits": [
+        "股票期权",
+        "五险一金",
+        "带薪年假",
+        "弹性工作",
+        "年终奖",
+        "项目奖金",
+        "企业年金"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "支持海外团队的本地化人力资源建设，确保跨文化团队的顺畅协作"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "3年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "熟悉互联网行业运作模式与人才特点，具备快速学习与适应能力"
+      ],
+      "description": "字节跳动招聘HRBP（日本市场）-TikTok直播，工作地点北京，薪资30-60K·15薪，要求3年以上经验、本科学历。",
+      "valueScore": 18.2,
+      "salaryBreakdown": {
+        "p10": 30,
+        "p25": 36,
+        "p50": 45,
+        "p75": 54,
+        "p90": 66
+      }
+    },
+    {
+      "jobId": "aug_0468",
+      "title": "HRBP（日本市场）-TikTok直播",
+      "companyId": "字节跳动",
+      "companyName": "字节跳动",
+      "companyIndustry": "互联网",
+      "city": "佛山",
+      "district": "顺德区",
+      "experience": "5年以上",
+      "education": "本科",
+      "salaryRange": "28-56K·15薪",
+      "salaryMin": 28,
+      "salaryMax": 56,
+      "bonusMonths": 15,
+      "tags": [
+        "出海",
+        "大厂",
+        "互联网"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984196743.shtml",
+      "postedAt": "2026-08-13T21:41:50.107Z",
+      "crawledAt": "2026-08-16T10:41:50.107Z",
+      "heat": 112,
+      "growth": 40,
+      "url": "https://www.liepin.com/job/1984196743.shtml",
+      "benefits": [
+        "弹性工作",
+        "企业年金",
+        "通勤班车",
+        "股票期权",
+        "节日福利",
+        "五险一金",
+        "员工宿舍"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "支持海外团队的本地化人力资源建设，确保跨文化团队的顺畅协作",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "5年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "熟悉互联网行业运作模式与人才特点，具备快速学习与适应能力"
+      ],
+      "description": "字节跳动招聘HRBP（日本市场）-TikTok直播，工作地点佛山·顺德区，薪资28-56K·15薪，要求5年以上经验、本科学历。",
+      "valueScore": 10.2,
+      "salaryBreakdown": {
+        "p10": 28,
+        "p25": 34,
+        "p50": 42,
+        "p75": 50,
+        "p90": 62
+      }
+    },
+    {
+      "jobId": "aug_0467",
+      "title": "高级HRBP（日本市场）-TikTok直播",
+      "companyId": "字节跳动",
+      "companyName": "字节跳动",
+      "companyIndustry": "互联网",
+      "city": "青岛",
+      "district": "市北区",
+      "experience": "2年以上",
+      "education": "本科",
+      "salaryRange": "30-60K",
+      "salaryMin": 30,
+      "salaryMax": 60,
+      "bonusMonths": 13,
+      "tags": [
+        "出海",
+        "大厂",
+        "互联网"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984196324.shtml",
+      "postedAt": "2026-08-14T08:41:50.107Z",
+      "crawledAt": "2026-08-16T14:41:50.107Z",
+      "heat": 66,
+      "growth": 15,
+      "url": "https://www.liepin.com/job/1984196324.shtml",
+      "benefits": [
+        "弹性工作",
+        "年度旅游",
+        "年度体检",
+        "员工宿舍",
+        "补充医疗",
+        "六险一金",
+        "免费班车"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "支持海外团队的本地化人力资源建设，确保跨文化团队的顺畅协作",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "2年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "熟悉互联网行业运作模式与人才特点，具备快速学习与适应能力"
+      ],
+      "description": "字节跳动招聘高级HRBP（日本市场）-TikTok直播，工作地点青岛·市北区，薪资30-60K，要求2年以上经验、本科学历。",
+      "valueScore": 27.2,
+      "salaryBreakdown": {
+        "p10": 30,
+        "p25": 36,
+        "p50": 45,
+        "p75": 54,
+        "p90": 66
+      }
+    },
+    {
+      "jobId": "aug_0470",
+      "title": "高级HRBP（日本市场）-TikTok直播",
+      "companyId": "字节跳动",
+      "companyName": "字节跳动",
+      "companyIndustry": "互联网",
+      "city": "厦门",
+      "district": "",
+      "experience": "5年以上",
+      "education": "本科",
+      "salaryRange": "26-52K·14薪",
+      "salaryMin": 26,
+      "salaryMax": 52,
+      "bonusMonths": 14,
+      "tags": [
+        "出海",
+        "大厂",
+        "互联网"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984197581.shtml",
+      "postedAt": "2026-08-12T12:41:50.107Z",
+      "crawledAt": "2026-08-16T08:41:50.107Z",
+      "heat": 50,
+      "growth": 47,
+      "url": "https://www.liepin.com/job/1984197581.shtml",
+      "benefits": [
+        "通勤班车",
+        "节日福利",
+        "五险一金",
+        "补充医疗",
+        "带薪年假",
+        "商业保险",
+        "年度旅游"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "支持海外团队的本地化人力资源建设，确保跨文化团队的顺畅协作",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "5年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "熟悉互联网行业运作模式与人才特点，具备快速学习与适应能力"
+      ],
+      "description": "字节跳动招聘高级HRBP（日本市场）-TikTok直播，工作地点厦门，薪资26-52K·14薪，要求5年以上经验、本科学历。",
+      "valueScore": 9.4,
+      "salaryBreakdown": {
+        "p10": 26,
+        "p25": 31,
+        "p50": 39,
+        "p75": 47,
+        "p90": 57
+      }
+    }
+  ],
+  "analysis": {
+    "companyId": "字节跳动",
+    "atmosphereScore": 80,
+    "competitivenessScore": 84,
+    "potentialScore": 79,
+    "overall": 81,
+    "grade": "A",
+    "strengths": [
+      "团队氛围好",
+      "发展空间大",
+      "福利待遇优"
+    ],
+    "weaknesses": [
+      "部分流程待优化",
+      "行业竞争激烈"
+    ],
+    "radar": [
+      {
+        "label": "文化开放度",
+        "value": 73,
+        "key": "cultureOpenness"
+      },
+      {
+        "label": "晋升空间",
+        "value": 55,
+        "key": "promotionSpace"
+      },
+      {
+        "label": "团队稳定",
+        "value": 94,
+        "key": "teamStability"
+      },
+      {
+        "label": "领导力",
+        "value": 67,
+        "key": "leadership"
+      },
+      {
+        "label": "加班强度",
+        "value": 57,
+        "key": "overtimeIntensity"
+      }
+    ],
+    "competitors": [
+      {
+        "companyId": "字节跳动",
+        "metric": "薪资竞争力",
+        "value": 87,
+        "industryAvg": 65
+      },
+      {
+        "companyId": "字节跳动",
+        "metric": "发展潜力",
+        "value": 79,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "字节跳动",
+        "metric": "团队氛围",
+        "value": 75,
+        "industryAvg": 70
+      },
+      {
+        "companyId": "字节跳动",
+        "metric": "稳定性",
+        "value": 68,
+        "industryAvg": 55
+      },
+      {
+        "companyId": "字节跳动",
+        "metric": "行业地位",
+        "value": 56,
+        "industryAvg": 50
+      }
+    ],
+    "trend": [
+      {
+        "companyId": "字节跳动",
+        "year": "2021",
+        "revenue": 524,
+        "headcount": 141,
+        "openings": 33
+      },
+      {
+        "companyId": "字节跳动",
+        "year": "2022",
+        "revenue": 508,
+        "headcount": 108,
+        "openings": 18
+      },
+      {
+        "companyId": "字节跳动",
+        "year": "2023",
+        "revenue": 1087,
+        "headcount": 73,
+        "openings": 28
+      },
+      {
+        "companyId": "字节跳动",
+        "year": "2024",
+        "revenue": 1135,
+        "headcount": 55,
+        "openings": 41
+      },
+      {
+        "companyId": "字节跳动",
+        "year": "2025",
+        "revenue": 1238,
+        "headcount": 76,
+        "openings": 18
+      }
+    ]
+  }
+}

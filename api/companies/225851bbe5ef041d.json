@@ -1,0 +1,556 @@
+﻿{
+  "companyId": "225851bbe5ef041d",
+  "name": "海柔创新",
+  "industry": "综合",
+  "scale": "",
+  "stage": "",
+  "logoColor": "#805ad5",
+  "logoInitial": "海",
+  "description": "海柔创新 正在招聘 HRBP 相关岗位，欢迎了解。",
+  "founded": 2007,
+  "headquarters": "无锡",
+  "jobCount": 4,
+  "avgSalary": 20.4,
+  "jobs": [
+    {
+      "jobId": "dc0e8216568235ee",
+      "title": "HRBP（外派韩国）",
+      "companyId": "225851bbe5ef041d",
+      "companyName": "海柔创新",
+      "city": "无锡",
+      "district": "",
+      "experience": "1年以上",
+      "education": "本科",
+      "salaryRange": "18-26K·14薪",
+      "salaryMin": 18,
+      "salaryMax": 26,
+      "tags": [
+        "出海",
+        "稳定",
+        "技术HR",
+        "电商"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984151763.shtml",
+      "postedAt": "2026-08-13T06:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 33,
+      "growth": 57,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 216,
+        "annualMax": 416,
+        "monthlyMin": 18,
+        "monthlyMax": 26,
+        "bonus": 39.6,
+        "stocks": 13.2,
+        "yearly": 22
+      },
+      "valueScore": 88
+    },
+    {
+      "jobId": "b24b296c38238cb6",
+      "title": "HRBP（外派韩国）",
+      "companyId": "225851bbe5ef041d",
+      "companyName": "海柔创新",
+      "city": "韩国",
+      "district": "",
+      "experience": "2年以上",
+      "education": "本科",
+      "salaryRange": "18-25K·15薪",
+      "salaryMin": 18,
+      "salaryMax": 25,
+      "tags": [
+        "出海",
+        "硕博团队",
+        "稳定",
+        "核心业务"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984830893.shtml",
+      "postedAt": "2026-08-16T08:02:00.691Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 47,
+      "growth": 54,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 216,
+        "annualMax": 400,
+        "monthlyMin": 18,
+        "monthlyMax": 25,
+        "bonus": 38.7,
+        "stocks": 12.9,
+        "yearly": 21.5
+      },
+      "valueScore": 86
+    },
+    {
+      "jobId": "6aaf2eff817909b0",
+      "title": "HRBP（外派韩国）",
+      "companyId": "225851bbe5ef041d",
+      "companyName": "海柔创新",
+      "city": "济南",
+      "district": "",
+      "experience": "2年以上",
+      "education": "本科",
+      "salaryRange": "16-22K",
+      "salaryMin": 16,
+      "salaryMax": 22,
+      "tags": [
+        "出海",
+        "稳定",
+        "硬科技"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984152601.shtml",
+      "postedAt": "2026-08-16T11:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 47,
+      "growth": 54,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 192,
+        "annualMax": 352,
+        "monthlyMin": 16,
+        "monthlyMax": 22,
+        "bonus": 34.2,
+        "stocks": 11.4,
+        "yearly": 19
+      },
+      "valueScore": 76
+    },
+    {
+      "jobId": "a368c18f160bfc67",
+      "title": "HRBP（外派韩国）",
+      "companyId": "225851bbe5ef041d",
+      "companyName": "海柔创新",
+      "city": "南宁",
+      "district": "",
+      "experience": "3年以上",
+      "education": "本科",
+      "salaryRange": "16-22K",
+      "salaryMin": 16,
+      "salaryMax": 22,
+      "tags": [
+        "出海",
+        "技术HR",
+        "商业化",
+        "免费三餐"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984153020.shtml",
+      "postedAt": "2026-08-15T13:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 43,
+      "growth": 78,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 192,
+        "annualMax": 352,
+        "monthlyMin": 16,
+        "monthlyMax": 22,
+        "bonus": 34.2,
+        "stocks": 11.4,
+        "yearly": 19
+      },
+      "valueScore": 76
+    }
+  ],
+  "analysis": {
+    "summary": "海柔创新（综合）当前在招 HRBP 相关岗位 4 个，平均薪资 20.4k。",
+    "salaryBenchmark": {
+      "companyAvg": 20.4,
+      "industryAvg": 18.2,
+      "cityAvg": 19.4,
+      "percentile": 70
+    },
+    "openings": [
+      {
+        "jobId": "dc0e8216568235ee",
+        "title": "HRBP（外派韩国）",
+        "companyId": "225851bbe5ef041d",
+        "companyName": "海柔创新",
+        "city": "无锡",
+        "district": "",
+        "experience": "1年以上",
+        "education": "本科",
+        "salaryRange": "18-26K·14薪",
+        "salaryMin": 18,
+        "salaryMax": 26,
+        "tags": [
+          "出海",
+          "稳定",
+          "技术HR",
+          "电商"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984151763.shtml",
+        "postedAt": "2026-08-13T06:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 33,
+        "growth": 57,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 216,
+          "annualMax": 416,
+          "monthlyMin": 18,
+          "monthlyMax": 26,
+          "bonus": 39.6,
+          "stocks": 13.2,
+          "yearly": 22
+        },
+        "valueScore": 88
+      },
+      {
+        "jobId": "b24b296c38238cb6",
+        "title": "HRBP（外派韩国）",
+        "companyId": "225851bbe5ef041d",
+        "companyName": "海柔创新",
+        "city": "韩国",
+        "district": "",
+        "experience": "2年以上",
+        "education": "本科",
+        "salaryRange": "18-25K·15薪",
+        "salaryMin": 18,
+        "salaryMax": 25,
+        "tags": [
+          "出海",
+          "硕博团队",
+          "稳定",
+          "核心业务"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984830893.shtml",
+        "postedAt": "2026-08-16T08:02:00.691Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 47,
+        "growth": 54,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 216,
+          "annualMax": 400,
+          "monthlyMin": 18,
+          "monthlyMax": 25,
+          "bonus": 38.7,
+          "stocks": 12.9,
+          "yearly": 21.5
+        },
+        "valueScore": 86
+      },
+      {
+        "jobId": "6aaf2eff817909b0",
+        "title": "HRBP（外派韩国）",
+        "companyId": "225851bbe5ef041d",
+        "companyName": "海柔创新",
+        "city": "济南",
+        "district": "",
+        "experience": "2年以上",
+        "education": "本科",
+        "salaryRange": "16-22K",
+        "salaryMin": 16,
+        "salaryMax": 22,
+        "tags": [
+          "出海",
+          "稳定",
+          "硬科技"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984152601.shtml",
+        "postedAt": "2026-08-16T11:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 47,
+        "growth": 54,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 192,
+          "annualMax": 352,
+          "monthlyMin": 16,
+          "monthlyMax": 22,
+          "bonus": 34.2,
+          "stocks": 11.4,
+          "yearly": 19
+        },
+        "valueScore": 76
+      },
+      {
+        "jobId": "a368c18f160bfc67",
+        "title": "HRBP（外派韩国）",
+        "companyId": "225851bbe5ef041d",
+        "companyName": "海柔创新",
+        "city": "南宁",
+        "district": "",
+        "experience": "3年以上",
+        "education": "本科",
+        "salaryRange": "16-22K",
+        "salaryMin": 16,
+        "salaryMax": 22,
+        "tags": [
+          "出海",
+          "技术HR",
+          "商业化",
+          "免费三餐"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984153020.shtml",
+        "postedAt": "2026-08-15T13:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 43,
+        "growth": 78,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 192,
+          "annualMax": 352,
+          "monthlyMin": 16,
+          "monthlyMax": 22,
+          "bonus": 34.2,
+          "stocks": 11.4,
+          "yearly": 19
+        },
+        "valueScore": 76
+      }
+    ],
+    "trends": [
+      {
+        "year": "2022",
+        "companyId": "225851bbe5ef041d",
+        "revenue": 135,
+        "headcount": 89,
+        "openings": 1
+      },
+      {
+        "year": "2023",
+        "companyId": "225851bbe5ef041d",
+        "revenue": 149,
+        "headcount": 119,
+        "openings": 2
+      },
+      {
+        "year": "2024",
+        "companyId": "225851bbe5ef041d",
+        "revenue": 171,
+        "headcount": 138,
+        "openings": 4
+      },
+      {
+        "year": "2025",
+        "companyId": "225851bbe5ef041d",
+        "revenue": 187,
+        "headcount": 151,
+        "openings": 6
+      },
+      {
+        "year": "2026",
+        "companyId": "225851bbe5ef041d",
+        "revenue": 225,
+        "headcount": 167,
+        "openings": 8
+      }
+    ],
+    "comparisons": [
+      {
+        "companyId": "225851bbe5ef041d",
+        "metric": "薪资竞争力",
+        "value": 67,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "225851bbe5ef041d",
+        "metric": "招聘活跃度",
+        "value": 52,
+        "industryAvg": 45
+      },
+      {
+        "companyId": "225851bbe5ef041d",
+        "metric": "组织规模",
+        "value": 50,
+        "industryAvg": 55
+      }
+    ],
+    "scoreCard": {
+      "companyId": "225851bbe5ef041d",
+      "atmosphereScore": 84,
+      "competitivenessScore": 73,
+      "potentialScore": 87,
+      "overall": 0,
+      "grade": "B",
+      "strengths": [],
+      "weaknesses": []
+    },
+    "atmosphere": {
+      "companyId": "225851bbe5ef041d",
+      "cultureOpenness": 81,
+      "overtimeIntensity": 61,
+      "promotionSpace": 60,
+      "teamStability": 69,
+      "leadership": 87
+    }
+  }
+}

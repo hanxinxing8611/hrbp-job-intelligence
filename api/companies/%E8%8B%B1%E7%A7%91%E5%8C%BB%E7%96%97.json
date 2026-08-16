@@ -1,0 +1,303 @@
+﻿{
+  "companyId": "英科医疗",
+  "name": "英科医疗",
+  "industry": "医疗器械",
+  "scale": "150-500人",
+  "stage": "成熟期",
+  "founded": "2002",
+  "headquarters": "青岛",
+  "branches": [],
+  "description": "英科医疗是医疗器械领域的企业。",
+  "logoColor": "#dc36c7",
+  "logoInitial": "英",
+  "jobs": [
+    {
+      "jobId": "real_032",
+      "title": "hrbp",
+      "companyId": "英科医疗",
+      "companyName": "英科医疗",
+      "companyIndustry": "医疗器械",
+      "city": "青岛",
+      "district": "崂山区",
+      "experience": "1-3年",
+      "education": "本科",
+      "salaryRange": "14-20K·13薪",
+      "salaryMin": 14,
+      "salaryMax": 20,
+      "bonusMonths": 13,
+      "tags": [
+        "硬科技",
+        "WLB",
+        "互联网",
+        "雇主品牌"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/7f82a9f8a7d5de8a0nB839m0FVtY.html",
+      "postedAt": "2026-08-14T13:41:50.102Z",
+      "crawledAt": "2026-08-16T11:41:50.102Z",
+      "heat": 87,
+      "growth": 55,
+      "url": "https://m.zhipin.com/job_detail/7f82a9f8a7d5de8a0nB839m0FVtY.html",
+      "benefits": [
+        "商业保险",
+        "五险一金",
+        "免费三餐",
+        "员工宿舍"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "理解医药/医疗行业监管要求，为业务团队提供合规视角的HR支持"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "1-3年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "熟悉医药/医疗行业监管环境，有医疗健康领域HR经验者优先"
+      ],
+      "description": "英科医疗招聘hrbp，工作地点青岛·崂山区，薪资14-20K·13薪，要求1-3年经验、本科学历。",
+      "valueScore": 19,
+      "salaryBreakdown": {
+        "p10": 14,
+        "p25": 15,
+        "p50": 17,
+        "p75": 19,
+        "p90": 21
+      }
+    },
+    {
+      "jobId": "aug_0157",
+      "title": "hrbp",
+      "companyId": "英科医疗",
+      "companyName": "英科医疗",
+      "companyIndustry": "医疗器械",
+      "city": "烟台",
+      "district": "",
+      "experience": "经验不限",
+      "education": "本科",
+      "salaryRange": "16-22K",
+      "salaryMin": 16,
+      "salaryMax": 22,
+      "bonusMonths": 13,
+      "tags": [
+        "硬科技",
+        "薪酬",
+        "组织发展",
+        "新能源"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/3fntnV_0157FlVY.html",
+      "postedAt": "2026-08-14T20:41:50.107Z",
+      "crawledAt": "2026-08-16T10:41:50.107Z",
+      "heat": 50,
+      "growth": 29,
+      "url": "https://m.zhipin.com/job_detail/3fntnV_0157FlVY.html",
+      "benefits": [
+        "六险一金",
+        "弹性工作",
+        "补充医疗",
+        "节日福利"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "理解医药/医疗行业监管要求，为业务团队提供合规视角的HR支持",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "经验不限以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "熟悉医药/医疗行业监管环境，有医疗健康领域HR经验者优先"
+      ],
+      "description": "英科医疗招聘hrbp，工作地点烟台，薪资16-22K，要求经验不限经验、本科学历。",
+      "valueScore": 4.3,
+      "salaryBreakdown": {
+        "p10": 16,
+        "p25": 17,
+        "p50": 19,
+        "p75": 21,
+        "p90": 23
+      }
+    },
+    {
+      "jobId": "aug_0160",
+      "title": "hrbp",
+      "companyId": "英科医疗",
+      "companyName": "英科医疗",
+      "companyIndustry": "医疗器械",
+      "city": "绍兴",
+      "district": "",
+      "experience": "3-5年",
+      "education": "本科",
+      "salaryRange": "14-20K·14薪",
+      "salaryMin": 14,
+      "salaryMax": 20,
+      "bonusMonths": 14,
+      "tags": [
+        "硬科技",
+        "绩效",
+        "培训",
+        "大厂"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/3fqwnV_0160FlVY.html",
+      "postedAt": "2026-08-13T02:41:50.107Z",
+      "crawledAt": "2026-08-16T09:41:50.107Z",
+      "heat": 50,
+      "growth": 40,
+      "url": "https://m.zhipin.com/job_detail/3fqwnV_0160FlVY.html",
+      "benefits": [
+        "年度旅游",
+        "六险一金",
+        "股票期权",
+        "年度体检"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "理解医药/医疗行业监管要求，为业务团队提供合规视角的HR支持"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "3-5年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "熟悉医药/医疗行业监管环境，有医疗健康领域HR经验者优先"
+      ],
+      "description": "英科医疗招聘hrbp，工作地点绍兴，薪资14-20K·14薪，要求3-5年经验、本科学历。",
+      "valueScore": 6.3,
+      "salaryBreakdown": {
+        "p10": 14,
+        "p25": 15,
+        "p50": 17,
+        "p75": 19,
+        "p90": 21
+      }
+    }
+  ],
+  "analysis": {
+    "companyId": "英科医疗",
+    "atmosphereScore": 74,
+    "competitivenessScore": 73,
+    "potentialScore": 78,
+    "overall": 75,
+    "grade": "B",
+    "strengths": [
+      "团队氛围好",
+      "发展空间大",
+      "福利待遇优"
+    ],
+    "weaknesses": [
+      "部分流程待优化",
+      "行业竞争激烈"
+    ],
+    "radar": [
+      {
+        "label": "文化开放度",
+        "value": 94,
+        "key": "cultureOpenness"
+      },
+      {
+        "label": "晋升空间",
+        "value": 81,
+        "key": "promotionSpace"
+      },
+      {
+        "label": "团队稳定",
+        "value": 87,
+        "key": "teamStability"
+      },
+      {
+        "label": "领导力",
+        "value": 75,
+        "key": "leadership"
+      },
+      {
+        "label": "加班强度",
+        "value": 59,
+        "key": "overtimeIntensity"
+      }
+    ],
+    "competitors": [
+      {
+        "companyId": "英科医疗",
+        "metric": "薪资竞争力",
+        "value": 84,
+        "industryAvg": 65
+      },
+      {
+        "companyId": "英科医疗",
+        "metric": "发展潜力",
+        "value": 73,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "英科医疗",
+        "metric": "团队氛围",
+        "value": 93,
+        "industryAvg": 70
+      },
+      {
+        "companyId": "英科医疗",
+        "metric": "稳定性",
+        "value": 71,
+        "industryAvg": 55
+      },
+      {
+        "companyId": "英科医疗",
+        "metric": "行业地位",
+        "value": 79,
+        "industryAvg": 50
+      }
+    ],
+    "trend": [
+      {
+        "companyId": "英科医疗",
+        "year": "2021",
+        "revenue": 640,
+        "headcount": 88,
+        "openings": 41
+      },
+      {
+        "companyId": "英科医疗",
+        "year": "2022",
+        "revenue": 862,
+        "headcount": 81,
+        "openings": 49
+      },
+      {
+        "companyId": "英科医疗",
+        "year": "2023",
+        "revenue": 575,
+        "headcount": 128,
+        "openings": 58
+      },
+      {
+        "companyId": "英科医疗",
+        "year": "2024",
+        "revenue": 639,
+        "headcount": 135,
+        "openings": 48
+      },
+      {
+        "companyId": "英科医疗",
+        "year": "2025",
+        "revenue": 1101,
+        "headcount": 93,
+        "openings": 25
+      }
+    ]
+  }
+}

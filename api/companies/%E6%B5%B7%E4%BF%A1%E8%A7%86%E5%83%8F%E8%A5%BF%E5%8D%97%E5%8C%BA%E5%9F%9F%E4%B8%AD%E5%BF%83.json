@@ -1,0 +1,241 @@
+﻿{
+  "companyId": "海信视像西南区域中心",
+  "name": "海信视像西南区域中心",
+  "industry": "家电",
+  "scale": "500-1000人",
+  "stage": "成熟期",
+  "founded": "1993",
+  "headquarters": "上海",
+  "branches": [],
+  "description": "海信视像西南区域中心是家电领域的企业。",
+  "logoColor": "#8d3ff7",
+  "logoInitial": "海",
+  "jobs": [
+    {
+      "jobId": "aug_0136",
+      "title": "高级HRBP",
+      "companyId": "海信视像西南区域中心",
+      "companyName": "海信视像西南区域中心",
+      "companyIndustry": "家电",
+      "city": "上海",
+      "district": "静安区",
+      "experience": "5-10年",
+      "education": "本科",
+      "salaryRange": "10-12K",
+      "salaryMin": 10,
+      "salaryMax": 12,
+      "bonusMonths": 13,
+      "tags": [
+        "商业化",
+        "雇主品牌",
+        "社招"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/3bz4nV_0136FlVY.html",
+      "postedAt": "2026-08-15T02:41:50.107Z",
+      "crawledAt": "2026-08-16T10:41:50.107Z",
+      "heat": 144,
+      "growth": 38,
+      "url": "https://m.zhipin.com/job_detail/3bz4nV_0136FlVY.html",
+      "benefits": [
+        "租房补贴",
+        "年终奖",
+        "股票期权",
+        "通勤班车"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "5-10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "海信视像西南区域中心招聘高级HRBP，工作地点上海·静安区，薪资10-12K，要求5-10年经验、本科学历。",
+      "valueScore": 2.5,
+      "salaryBreakdown": {
+        "p10": 10,
+        "p25": 10,
+        "p50": 11,
+        "p75": 12,
+        "p90": 12
+      }
+    },
+    {
+      "jobId": "aug_0139",
+      "title": "HRBP",
+      "companyId": "海信视像西南区域中心",
+      "companyName": "海信视像西南区域中心",
+      "companyIndustry": "家电",
+      "city": "西安",
+      "district": "长安区",
+      "experience": "5-10年",
+      "education": "本科",
+      "salaryRange": "14-16K·14薪",
+      "salaryMin": 14,
+      "salaryMax": 16,
+      "bonusMonths": 14,
+      "tags": [
+        "组织发展",
+        "战略",
+        "互联网"
+      ],
+      "source": "BOSS直聘",
+      "sourceUrl": "https://m.zhipin.com/job_detail/3c27nV_0139FlVY.html",
+      "postedAt": "2026-08-13T22:41:50.107Z",
+      "crawledAt": "2026-08-16T13:41:50.107Z",
+      "heat": 50,
+      "growth": 14,
+      "url": "https://m.zhipin.com/job_detail/3c27nV_0139FlVY.html",
+      "benefits": [
+        "五险一金",
+        "六险一金",
+        "弹性工作",
+        "年度体检"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进",
+        "主导人才盘点与高潜员工识别，制定关键人才的发展与保留计划"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "5-10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断"
+      ],
+      "description": "海信视像西南区域中心招聘HRBP，工作地点西安·长安区，薪资14-16K·14薪，要求5-10年经验、本科学历。",
+      "valueScore": 3.4,
+      "salaryBreakdown": {
+        "p10": 14,
+        "p25": 14,
+        "p50": 15,
+        "p75": 16,
+        "p90": 16
+      }
+    }
+  ],
+  "analysis": {
+    "companyId": "海信视像西南区域中心",
+    "atmosphereScore": 86,
+    "competitivenessScore": 65,
+    "potentialScore": 72,
+    "overall": 74,
+    "grade": "B",
+    "strengths": [
+      "团队氛围好",
+      "发展空间大",
+      "福利待遇优"
+    ],
+    "weaknesses": [
+      "部分流程待优化",
+      "行业竞争激烈"
+    ],
+    "radar": [
+      {
+        "label": "文化开放度",
+        "value": 82,
+        "key": "cultureOpenness"
+      },
+      {
+        "label": "晋升空间",
+        "value": 53,
+        "key": "promotionSpace"
+      },
+      {
+        "label": "团队稳定",
+        "value": 93,
+        "key": "teamStability"
+      },
+      {
+        "label": "领导力",
+        "value": 67,
+        "key": "leadership"
+      },
+      {
+        "label": "加班强度",
+        "value": 47,
+        "key": "overtimeIntensity"
+      }
+    ],
+    "competitors": [
+      {
+        "companyId": "海信视像西南区域中心",
+        "metric": "薪资竞争力",
+        "value": 73,
+        "industryAvg": 65
+      },
+      {
+        "companyId": "海信视像西南区域中心",
+        "metric": "发展潜力",
+        "value": 65,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "海信视像西南区域中心",
+        "metric": "团队氛围",
+        "value": 104,
+        "industryAvg": 70
+      },
+      {
+        "companyId": "海信视像西南区域中心",
+        "metric": "稳定性",
+        "value": 87,
+        "industryAvg": 55
+      },
+      {
+        "companyId": "海信视像西南区域中心",
+        "metric": "行业地位",
+        "value": 64,
+        "industryAvg": 50
+      }
+    ],
+    "trend": [
+      {
+        "companyId": "海信视像西南区域中心",
+        "year": "2021",
+        "revenue": 903,
+        "headcount": 52,
+        "openings": 26
+      },
+      {
+        "companyId": "海信视像西南区域中心",
+        "year": "2022",
+        "revenue": 1327,
+        "headcount": 112,
+        "openings": 11
+      },
+      {
+        "companyId": "海信视像西南区域中心",
+        "year": "2023",
+        "revenue": 1485,
+        "headcount": 148,
+        "openings": 23
+      },
+      {
+        "companyId": "海信视像西南区域中心",
+        "year": "2024",
+        "revenue": 548,
+        "headcount": 133,
+        "openings": 26
+      },
+      {
+        "companyId": "海信视像西南区域中心",
+        "year": "2025",
+        "revenue": 734,
+        "headcount": 90,
+        "openings": 25
+      }
+    ]
+  }
+}

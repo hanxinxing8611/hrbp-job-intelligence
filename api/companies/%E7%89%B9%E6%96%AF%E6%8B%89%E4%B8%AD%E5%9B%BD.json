@@ -1,0 +1,364 @@
+﻿{
+  "companyId": "特斯拉中国",
+  "name": "特斯拉中国",
+  "industry": "新能源汽车",
+  "scale": "500-1000人",
+  "stage": "成熟期",
+  "founded": "1997",
+  "headquarters": "南通",
+  "branches": [],
+  "description": "特斯拉中国是新能源汽车领域的企业。",
+  "logoColor": "#3d049f",
+  "logoInitial": "特",
+  "jobs": [
+    {
+      "jobId": "aug_0503",
+      "title": "HRBP Manager",
+      "companyId": "特斯拉中国",
+      "companyName": "特斯拉中国",
+      "companyIndustry": "新能源汽车",
+      "city": "南通",
+      "district": "",
+      "experience": "10年以上",
+      "education": "本科",
+      "salaryRange": "38-52K",
+      "salaryMin": 38,
+      "salaryMax": 52,
+      "bonusMonths": 13,
+      "tags": [
+        "新能源",
+        "商业化",
+        "WLB"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984211457.shtml",
+      "postedAt": "2026-08-15T09:41:50.107Z",
+      "crawledAt": "2026-08-16T16:41:50.107Z",
+      "heat": 674,
+      "growth": 58,
+      "url": "https://www.liepin.com/job/1984211457.shtml",
+      "benefits": [
+        "六险一金",
+        "年终奖",
+        "商业保险",
+        "免费班车",
+        "年度体检"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "熟悉新能源汽车行业人才图谱，支撑研发与制造团队的人才布局",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "了解新能源汽车或智能制造行业，有相关领域HRBP经验者优先"
+      ],
+      "description": "特斯拉中国招聘HRBP Manager，工作地点南通，薪资38-52K，要求10年以上经验、本科学历。",
+      "valueScore": 5.2,
+      "salaryBreakdown": {
+        "p10": 38,
+        "p25": 41,
+        "p50": 45,
+        "p75": 49,
+        "p90": 55
+      }
+    },
+    {
+      "jobId": "real_101",
+      "title": "HRBP Manager",
+      "companyId": "特斯拉中国",
+      "companyName": "特斯拉中国",
+      "companyIndustry": "新能源汽车",
+      "city": "成都",
+      "district": "",
+      "experience": "5-10年",
+      "education": "本科",
+      "salaryRange": "40-55K·17薪",
+      "salaryMin": 40,
+      "salaryMax": 55,
+      "bonusMonths": 17,
+      "tags": [
+        "新能源",
+        "弹性工作",
+        "出海",
+        "技术HR"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://m.liepin.com/job/1984674853.shtml",
+      "postedAt": "2026-08-15T05:41:50.102Z",
+      "crawledAt": "2026-08-16T16:41:50.102Z",
+      "heat": 212,
+      "growth": 9,
+      "url": "https://m.liepin.com/job/1984674853.shtml",
+      "benefits": [
+        "员工宿舍",
+        "商业保险",
+        "节日福利",
+        "带薪年假"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "熟悉新能源汽车行业人才图谱，支撑研发与制造团队的人才布局"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "5-10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "了解新能源汽车或智能制造行业，有相关领域HRBP经验者优先"
+      ],
+      "description": "特斯拉中国招聘HRBP Manager，工作地点成都，薪资40-55K·17薪，要求5-10年经验、本科学历。",
+      "valueScore": 10.6,
+      "salaryBreakdown": {
+        "p10": 40,
+        "p25": 43,
+        "p50": 48,
+        "p75": 52,
+        "p90": 58
+      }
+    },
+    {
+      "jobId": "aug_0505",
+      "title": "HRBP Manager",
+      "companyId": "特斯拉中国",
+      "companyName": "特斯拉中国",
+      "companyIndustry": "新能源汽车",
+      "city": "哈尔滨",
+      "district": "",
+      "experience": "10年以上",
+      "education": "本科",
+      "salaryRange": "34-48K·14薪",
+      "salaryMin": 34,
+      "salaryMax": 48,
+      "bonusMonths": 14,
+      "tags": [
+        "新能源",
+        "组织发展",
+        "互联网",
+        "员工关系"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984212295.shtml",
+      "postedAt": "2026-08-15T00:41:50.107Z",
+      "crawledAt": "2026-08-16T14:41:50.107Z",
+      "heat": 132,
+      "growth": 61,
+      "url": "https://www.liepin.com/job/1984212295.shtml",
+      "benefits": [
+        "弹性工作",
+        "免费班车",
+        "股票期权",
+        "六险一金",
+        "五险一金"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "熟悉新能源汽车行业人才图谱，支撑研发与制造团队的人才布局"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "了解新能源汽车或智能制造行业，有相关领域HRBP经验者优先"
+      ],
+      "description": "特斯拉中国招聘HRBP Manager，工作地点哈尔滨，薪资34-48K·14薪，要求10年以上经验、本科学历。",
+      "valueScore": 4.7,
+      "salaryBreakdown": {
+        "p10": 34,
+        "p25": 37,
+        "p50": 41,
+        "p75": 45,
+        "p90": 51
+      }
+    },
+    {
+      "jobId": "aug_0501",
+      "title": "HRBP Manager",
+      "companyId": "特斯拉中国",
+      "companyName": "特斯拉中国",
+      "companyIndustry": "新能源汽车",
+      "city": "贵阳",
+      "district": "",
+      "experience": "10年以上",
+      "education": "本科",
+      "salaryRange": "42-58K",
+      "salaryMin": 42,
+      "salaryMax": 58,
+      "bonusMonths": 13,
+      "tags": [
+        "新能源",
+        "研究院",
+        "社招",
+        "弹性工作"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984210619.shtml",
+      "postedAt": "2026-08-12T18:41:50.107Z",
+      "crawledAt": "2026-08-16T06:41:50.107Z",
+      "heat": 50,
+      "growth": 51,
+      "url": "https://www.liepin.com/job/1984210619.shtml",
+      "benefits": [
+        "带薪年假",
+        "通勤班车",
+        "项目奖金",
+        "补充医疗",
+        "免费三餐"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "熟悉新能源汽车行业人才图谱，支撑研发与制造团队的人才布局",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "了解新能源汽车或智能制造行业，有相关领域HRBP经验者优先"
+      ],
+      "description": "特斯拉中国招聘HRBP Manager，工作地点贵阳，薪资42-58K，要求10年以上经验、本科学历。",
+      "valueScore": 5.8,
+      "salaryBreakdown": {
+        "p10": 42,
+        "p25": 45,
+        "p50": 50,
+        "p75": 55,
+        "p90": 61
+      }
+    }
+  ],
+  "analysis": {
+    "companyId": "特斯拉中国",
+    "atmosphereScore": 87,
+    "competitivenessScore": 73,
+    "potentialScore": 75,
+    "overall": 78,
+    "grade": "B",
+    "strengths": [
+      "团队氛围好",
+      "发展空间大",
+      "福利待遇优"
+    ],
+    "weaknesses": [
+      "部分流程待优化",
+      "行业竞争激烈"
+    ],
+    "radar": [
+      {
+        "label": "文化开放度",
+        "value": 69,
+        "key": "cultureOpenness"
+      },
+      {
+        "label": "晋升空间",
+        "value": 80,
+        "key": "promotionSpace"
+      },
+      {
+        "label": "团队稳定",
+        "value": 75,
+        "key": "teamStability"
+      },
+      {
+        "label": "领导力",
+        "value": 82,
+        "key": "leadership"
+      },
+      {
+        "label": "加班强度",
+        "value": 47,
+        "key": "overtimeIntensity"
+      }
+    ],
+    "competitors": [
+      {
+        "companyId": "特斯拉中国",
+        "metric": "薪资竞争力",
+        "value": 74,
+        "industryAvg": 65
+      },
+      {
+        "companyId": "特斯拉中国",
+        "metric": "发展潜力",
+        "value": 77,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "特斯拉中国",
+        "metric": "团队氛围",
+        "value": 100,
+        "industryAvg": 70
+      },
+      {
+        "companyId": "特斯拉中国",
+        "metric": "稳定性",
+        "value": 88,
+        "industryAvg": 55
+      },
+      {
+        "companyId": "特斯拉中国",
+        "metric": "行业地位",
+        "value": 75,
+        "industryAvg": 50
+      }
+    ],
+    "trend": [
+      {
+        "companyId": "特斯拉中国",
+        "year": "2021",
+        "revenue": 1433,
+        "headcount": 145,
+        "openings": 54
+      },
+      {
+        "companyId": "特斯拉中国",
+        "year": "2022",
+        "revenue": 932,
+        "headcount": 103,
+        "openings": 33
+      },
+      {
+        "companyId": "特斯拉中国",
+        "year": "2023",
+        "revenue": 703,
+        "headcount": 145,
+        "openings": 17
+      },
+      {
+        "companyId": "特斯拉中国",
+        "year": "2024",
+        "revenue": 1189,
+        "headcount": 133,
+        "openings": 10
+      },
+      {
+        "companyId": "特斯拉中国",
+        "year": "2025",
+        "revenue": 1440,
+        "headcount": 96,
+        "openings": 36
+      }
+    ]
+  }
+}

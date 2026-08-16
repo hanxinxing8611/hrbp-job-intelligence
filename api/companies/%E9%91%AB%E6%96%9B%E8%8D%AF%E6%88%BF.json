@@ -1,0 +1,422 @@
+﻿{
+  "companyId": "鑫斛药房",
+  "name": "鑫斛药房",
+  "industry": "医药零售",
+  "scale": "500-1000人",
+  "stage": "成熟期",
+  "founded": "2012",
+  "headquarters": "南京",
+  "branches": [],
+  "description": "鑫斛药房是医药零售领域的企业。",
+  "logoColor": "#6cf873",
+  "logoInitial": "鑫",
+  "jobs": [
+    {
+      "jobId": "aug_0491",
+      "title": "人事HRBP",
+      "companyId": "鑫斛药房",
+      "companyName": "鑫斛药房",
+      "companyIndustry": "医药零售",
+      "city": "南京",
+      "district": "栖霞区",
+      "experience": "3-5年",
+      "education": "本科",
+      "salaryRange": "6-8K·15薪",
+      "salaryMin": 6,
+      "salaryMax": 8,
+      "bonusMonths": 15,
+      "tags": [
+        "硬科技",
+        "技术HR",
+        "出海",
+        "互联网"
+      ],
+      "source": "汇博网",
+      "sourceUrl": "https://m.huibo.com/cq/job/job54w7/",
+      "postedAt": "2026-08-16T01:41:50.107Z",
+      "crawledAt": "2026-08-16T06:41:50.107Z",
+      "heat": 131,
+      "growth": 33,
+      "url": "https://m.huibo.com/cq/job/job54w7/",
+      "benefits": [
+        "年度旅游",
+        "租房补贴",
+        "员工宿舍",
+        "弹性工作"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "理解医药/医疗行业监管要求，为业务团队提供合规视角的HR支持",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "3-5年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "熟悉医药/医疗行业监管环境，有医疗健康领域HR经验者优先"
+      ],
+      "description": "鑫斛药房招聘人事HRBP，工作地点南京·栖霞区，薪资6-8K·15薪，要求3-5年经验、本科学历。",
+      "valueScore": 2.6,
+      "salaryBreakdown": {
+        "p10": 6,
+        "p25": 6,
+        "p50": 7,
+        "p75": 8,
+        "p90": 8
+      }
+    },
+    {
+      "jobId": "real_099",
+      "title": "人事HRBP",
+      "companyId": "鑫斛药房",
+      "companyName": "鑫斛药房",
+      "companyIndustry": "医药零售",
+      "city": "重庆",
+      "district": "两江新区",
+      "experience": "1-3年",
+      "education": "本科",
+      "salaryRange": "6-8K",
+      "salaryMin": 6,
+      "salaryMax": 8,
+      "bonusMonths": 13,
+      "tags": [
+        "硬科技",
+        "校招",
+        "互联网"
+      ],
+      "source": "汇博网",
+      "sourceUrl": "https://m.huibo.com/cq/job/jobi83nrc1/",
+      "postedAt": "2026-08-15T08:41:50.102Z",
+      "crawledAt": "2026-08-16T14:41:50.102Z",
+      "heat": 77,
+      "growth": 47,
+      "url": "https://m.huibo.com/cq/job/jobi83nrc1/",
+      "benefits": [
+        "年度体检",
+        "员工宿舍",
+        "五险一金",
+        "带薪年假"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "理解医药/医疗行业监管要求，为业务团队提供合规视角的HR支持",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "1-3年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "熟悉医药/医疗行业监管环境，有医疗健康领域HR经验者优先"
+      ],
+      "description": "鑫斛药房招聘人事HRBP，工作地点重庆·两江新区，薪资6-8K，要求1-3年经验、本科学历。",
+      "valueScore": 7.8,
+      "salaryBreakdown": {
+        "p10": 6,
+        "p25": 6,
+        "p50": 7,
+        "p75": 8,
+        "p90": 8
+      }
+    },
+    {
+      "jobId": "aug_0492",
+      "title": "人事HRBP",
+      "companyId": "鑫斛药房",
+      "companyName": "鑫斛药房",
+      "companyIndustry": "医药零售",
+      "city": "天津",
+      "district": "河东区",
+      "experience": "经验不限",
+      "education": "本科",
+      "salaryRange": "6-8K·14薪",
+      "salaryMin": 6,
+      "salaryMax": 8,
+      "bonusMonths": 14,
+      "tags": [
+        "硬科技",
+        "技术HR",
+        "员工关系"
+      ],
+      "source": "汇博网",
+      "sourceUrl": "https://m.huibo.com/cq/job/job54x8/",
+      "postedAt": "2026-08-12T06:41:50.107Z",
+      "crawledAt": "2026-08-16T14:41:50.107Z",
+      "heat": 50,
+      "growth": 61,
+      "url": "https://m.huibo.com/cq/job/job54x8/",
+      "benefits": [
+        "五险一金",
+        "年度旅游",
+        "弹性工作",
+        "通勤班车",
+        "免费班车"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "理解医药/医疗行业监管要求，为业务团队提供合规视角的HR支持",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "经验不限以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "熟悉医药/医疗行业监管环境，有医疗健康领域HR经验者优先"
+      ],
+      "description": "鑫斛药房招聘人事HRBP，工作地点天津·河东区，薪资6-8K·14薪，要求经验不限经验、本科学历。",
+      "valueScore": 1.6,
+      "salaryBreakdown": {
+        "p10": 6,
+        "p25": 6,
+        "p50": 7,
+        "p75": 8,
+        "p90": 8
+      }
+    },
+    {
+      "jobId": "aug_0494",
+      "title": "人事HRBP",
+      "companyId": "鑫斛药房",
+      "companyName": "鑫斛药房",
+      "companyIndustry": "医药零售",
+      "city": "青岛",
+      "district": "李沧区",
+      "experience": "1-3年",
+      "education": "本科",
+      "salaryRange": "6-8K",
+      "salaryMin": 6,
+      "salaryMax": 8,
+      "bonusMonths": 13,
+      "tags": [
+        "硬科技",
+        "硕博团队",
+        "硕博团队",
+        "免费三餐"
+      ],
+      "source": "汇博网",
+      "sourceUrl": "https://m.huibo.com/cq/job/job54za/",
+      "postedAt": "2026-08-15T11:41:50.107Z",
+      "crawledAt": "2026-08-16T12:41:50.107Z",
+      "heat": 50,
+      "growth": 40,
+      "url": "https://m.huibo.com/cq/job/job54za/",
+      "benefits": [
+        "企业年金",
+        "六险一金",
+        "节日福利",
+        "年度体检"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "理解医药/医疗行业监管要求，为业务团队提供合规视角的HR支持",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "1-3年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "熟悉医药/医疗行业监管环境，有医疗健康领域HR经验者优先"
+      ],
+      "description": "鑫斛药房招聘人事HRBP，工作地点青岛·李沧区，薪资6-8K，要求1-3年经验、本科学历。",
+      "valueScore": 7.8,
+      "salaryBreakdown": {
+        "p10": 6,
+        "p25": 6,
+        "p50": 7,
+        "p75": 8,
+        "p90": 8
+      }
+    },
+    {
+      "jobId": "aug_0495",
+      "title": "人事HRBP",
+      "companyId": "鑫斛药房",
+      "companyName": "鑫斛药房",
+      "companyIndustry": "医药零售",
+      "city": "佛山",
+      "district": "高明区",
+      "experience": "3-5年",
+      "education": "本科",
+      "salaryRange": "6-8K",
+      "salaryMin": 6,
+      "salaryMax": 8,
+      "bonusMonths": 13,
+      "tags": [
+        "硬科技",
+        "硕博团队",
+        "数字化",
+        "弹性工作"
+      ],
+      "source": "汇博网",
+      "sourceUrl": "https://m.huibo.com/cq/job/job550b/",
+      "postedAt": "2026-08-13T07:41:50.107Z",
+      "crawledAt": "2026-08-16T14:41:50.107Z",
+      "heat": 50,
+      "growth": 41,
+      "url": "https://m.huibo.com/cq/job/job550b/",
+      "benefits": [
+        "免费三餐",
+        "弹性工作",
+        "补充医疗",
+        "年度体检",
+        "节日福利"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "理解医药/医疗行业监管要求，为业务团队提供合规视角的HR支持"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "3-5年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "熟悉医药/医疗行业监管环境，有医疗健康领域HR经验者优先"
+      ],
+      "description": "鑫斛药房招聘人事HRBP，工作地点佛山·高明区，薪资6-8K，要求3-5年经验、本科学历。",
+      "valueScore": 2.7,
+      "salaryBreakdown": {
+        "p10": 6,
+        "p25": 6,
+        "p50": 7,
+        "p75": 8,
+        "p90": 8
+      }
+    }
+  ],
+  "analysis": {
+    "companyId": "鑫斛药房",
+    "atmosphereScore": 86,
+    "competitivenessScore": 66,
+    "potentialScore": 84,
+    "overall": 79,
+    "grade": "B",
+    "strengths": [
+      "团队氛围好",
+      "发展空间大",
+      "福利待遇优"
+    ],
+    "weaknesses": [
+      "部分流程待优化",
+      "行业竞争激烈"
+    ],
+    "radar": [
+      {
+        "label": "文化开放度",
+        "value": 77,
+        "key": "cultureOpenness"
+      },
+      {
+        "label": "晋升空间",
+        "value": 54,
+        "key": "promotionSpace"
+      },
+      {
+        "label": "团队稳定",
+        "value": 75,
+        "key": "teamStability"
+      },
+      {
+        "label": "领导力",
+        "value": 66,
+        "key": "leadership"
+      },
+      {
+        "label": "加班强度",
+        "value": 66,
+        "key": "overtimeIntensity"
+      }
+    ],
+    "competitors": [
+      {
+        "companyId": "鑫斛药房",
+        "metric": "薪资竞争力",
+        "value": 92,
+        "industryAvg": 65
+      },
+      {
+        "companyId": "鑫斛药房",
+        "metric": "发展潜力",
+        "value": 79,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "鑫斛药房",
+        "metric": "团队氛围",
+        "value": 78,
+        "industryAvg": 70
+      },
+      {
+        "companyId": "鑫斛药房",
+        "metric": "稳定性",
+        "value": 72,
+        "industryAvg": 55
+      },
+      {
+        "companyId": "鑫斛药房",
+        "metric": "行业地位",
+        "value": 57,
+        "industryAvg": 50
+      }
+    ],
+    "trend": [
+      {
+        "companyId": "鑫斛药房",
+        "year": "2021",
+        "revenue": 1396,
+        "headcount": 93,
+        "openings": 53
+      },
+      {
+        "companyId": "鑫斛药房",
+        "year": "2022",
+        "revenue": 1157,
+        "headcount": 147,
+        "openings": 45
+      },
+      {
+        "companyId": "鑫斛药房",
+        "year": "2023",
+        "revenue": 1365,
+        "headcount": 127,
+        "openings": 18
+      },
+      {
+        "companyId": "鑫斛药房",
+        "year": "2024",
+        "revenue": 1155,
+        "headcount": 95,
+        "openings": 56
+      },
+      {
+        "companyId": "鑫斛药房",
+        "year": "2025",
+        "revenue": 934,
+        "headcount": 123,
+        "openings": 35
+      }
+    ]
+  }
+}

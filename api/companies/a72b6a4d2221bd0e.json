@@ -1,0 +1,554 @@
+﻿{
+  "companyId": "a72b6a4d2221bd0e",
+  "name": "济南",
+  "industry": "综合",
+  "scale": "",
+  "stage": "",
+  "logoColor": "#dd6b20",
+  "logoInitial": "济",
+  "description": "济南 正在招聘 HRBP 相关岗位，欢迎了解。",
+  "founded": 2001,
+  "headquarters": "太原",
+  "jobCount": 4,
+  "avgSalary": 12.1,
+  "jobs": [
+    {
+      "jobId": "3d43bc81207d1e90",
+      "title": "人力资源业务伙伴主管",
+      "companyId": "a72b6a4d2221bd0e",
+      "companyName": "济南",
+      "city": "太原",
+      "district": "",
+      "experience": "1-3年",
+      "education": "大专",
+      "salaryRange": "10-16K·14薪",
+      "salaryMin": 10,
+      "salaryMax": 16,
+      "tags": [
+        "管理岗",
+        "薪酬",
+        "员工关系",
+        "商业化"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984166477.shtml",
+      "postedAt": "2026-08-14T18:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 36,
+      "growth": 36,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 120,
+        "annualMax": 256,
+        "monthlyMin": 10,
+        "monthlyMax": 16,
+        "bonus": 23.4,
+        "stocks": 7.8,
+        "yearly": 13
+      },
+      "valueScore": 52
+    },
+    {
+      "jobId": "c32f0ad5730e4d32",
+      "title": "HRBP主管",
+      "companyId": "a72b6a4d2221bd0e",
+      "companyName": "济南",
+      "city": "济南",
+      "district": "姚家",
+      "experience": "3-5年",
+      "education": "大专",
+      "salaryRange": "10-15K",
+      "salaryMin": 10,
+      "salaryMax": 15,
+      "tags": [
+        "管理岗",
+        "电商",
+        "培训"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984837223.shtml",
+      "postedAt": "2026-08-15T19:02:00.691Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 41,
+      "growth": 78,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 120,
+        "annualMax": 240,
+        "monthlyMin": 10,
+        "monthlyMax": 15,
+        "bonus": 22.5,
+        "stocks": 7.5,
+        "yearly": 12.5
+      },
+      "valueScore": 50
+    },
+    {
+      "jobId": "b3c0a137c72d9d61",
+      "title": "高级HRBP主管",
+      "companyId": "a72b6a4d2221bd0e",
+      "companyName": "济南",
+      "city": "哈尔滨",
+      "district": "",
+      "experience": "5-10年",
+      "education": "大专",
+      "salaryRange": "10-14K·14薪",
+      "salaryMin": 10,
+      "salaryMax": 14,
+      "tags": [
+        "管理岗",
+        "薪酬",
+        "金融"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984166896.shtml",
+      "postedAt": "2026-08-14T08:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 34,
+      "growth": 83,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 120,
+        "annualMax": 224,
+        "monthlyMin": 10,
+        "monthlyMax": 14,
+        "bonus": 21.6,
+        "stocks": 7.2,
+        "yearly": 12
+      },
+      "valueScore": 48
+    },
+    {
+      "jobId": "4c6780202c73238f",
+      "title": "人力资源业务伙伴主管",
+      "companyId": "a72b6a4d2221bd0e",
+      "companyName": "济南",
+      "city": "中山",
+      "district": "",
+      "experience": "5-10年",
+      "education": "大专",
+      "salaryRange": "8-14K",
+      "salaryMin": 8,
+      "salaryMax": 14,
+      "tags": [
+        "管理岗",
+        "绩效",
+        "数字化",
+        "技术HR"
+      ],
+      "source": "猎聘",
+      "sourceUrl": "https://www.liepin.com/job/1984167734.shtml",
+      "postedAt": "2026-08-13T02:02:00.695Z",
+      "crawledAt": "2026-08-16T16:40:20.849Z",
+      "heat": 27,
+      "growth": 30,
+      "responsibilities": [
+        "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+        "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+        "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+        "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+        "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+      ],
+      "requirements": [
+        "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+        "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+        "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+        "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+        "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+      ],
+      "benefits": [
+        "五险一金（按实际基数足额缴纳）",
+        "带薪年假 + 年度体检 + 补充商业医疗",
+        "节日福利、餐补/交通补、弹性工作制",
+        "内部培训体系 + 职业双通道晋升",
+        "年度调薪、年终奖、长期激励（视岗位）",
+        "年度Outing & 团建预算"
+      ],
+      "salaryBreakdown": {
+        "annualMin": 96,
+        "annualMax": 224,
+        "monthlyMin": 8,
+        "monthlyMax": 14,
+        "bonus": 19.8,
+        "stocks": 6.6,
+        "yearly": 11
+      },
+      "valueScore": 44
+    }
+  ],
+  "analysis": {
+    "summary": "济南（综合）当前在招 HRBP 相关岗位 4 个，平均薪资 12.1k。",
+    "salaryBenchmark": {
+      "companyAvg": 12.1,
+      "industryAvg": 18.3,
+      "cityAvg": 11.5,
+      "percentile": 70
+    },
+    "openings": [
+      {
+        "jobId": "3d43bc81207d1e90",
+        "title": "人力资源业务伙伴主管",
+        "companyId": "a72b6a4d2221bd0e",
+        "companyName": "济南",
+        "city": "太原",
+        "district": "",
+        "experience": "1-3年",
+        "education": "大专",
+        "salaryRange": "10-16K·14薪",
+        "salaryMin": 10,
+        "salaryMax": 16,
+        "tags": [
+          "管理岗",
+          "薪酬",
+          "员工关系",
+          "商业化"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984166477.shtml",
+        "postedAt": "2026-08-14T18:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 36,
+        "growth": 36,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 120,
+          "annualMax": 256,
+          "monthlyMin": 10,
+          "monthlyMax": 16,
+          "bonus": 23.4,
+          "stocks": 7.8,
+          "yearly": 13
+        },
+        "valueScore": 52
+      },
+      {
+        "jobId": "c32f0ad5730e4d32",
+        "title": "HRBP主管",
+        "companyId": "a72b6a4d2221bd0e",
+        "companyName": "济南",
+        "city": "济南",
+        "district": "姚家",
+        "experience": "3-5年",
+        "education": "大专",
+        "salaryRange": "10-15K",
+        "salaryMin": 10,
+        "salaryMax": 15,
+        "tags": [
+          "管理岗",
+          "电商",
+          "培训"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984837223.shtml",
+        "postedAt": "2026-08-15T19:02:00.691Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 41,
+        "growth": 78,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 120,
+          "annualMax": 240,
+          "monthlyMin": 10,
+          "monthlyMax": 15,
+          "bonus": 22.5,
+          "stocks": 7.5,
+          "yearly": 12.5
+        },
+        "valueScore": 50
+      },
+      {
+        "jobId": "b3c0a137c72d9d61",
+        "title": "高级HRBP主管",
+        "companyId": "a72b6a4d2221bd0e",
+        "companyName": "济南",
+        "city": "哈尔滨",
+        "district": "",
+        "experience": "5-10年",
+        "education": "大专",
+        "salaryRange": "10-14K·14薪",
+        "salaryMin": 10,
+        "salaryMax": 14,
+        "tags": [
+          "管理岗",
+          "薪酬",
+          "金融"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984166896.shtml",
+        "postedAt": "2026-08-14T08:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 34,
+        "growth": 83,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 120,
+          "annualMax": 224,
+          "monthlyMin": 10,
+          "monthlyMax": 14,
+          "bonus": 21.6,
+          "stocks": 7.2,
+          "yearly": 12
+        },
+        "valueScore": 48
+      },
+      {
+        "jobId": "4c6780202c73238f",
+        "title": "人力资源业务伙伴主管",
+        "companyId": "a72b6a4d2221bd0e",
+        "companyName": "济南",
+        "city": "中山",
+        "district": "",
+        "experience": "5-10年",
+        "education": "大专",
+        "salaryRange": "8-14K",
+        "salaryMin": 8,
+        "salaryMax": 14,
+        "tags": [
+          "管理岗",
+          "绩效",
+          "数字化",
+          "技术HR"
+        ],
+        "source": "猎聘",
+        "sourceUrl": "https://www.liepin.com/job/1984167734.shtml",
+        "postedAt": "2026-08-13T02:02:00.695Z",
+        "crawledAt": "2026-08-16T16:40:20.849Z",
+        "heat": 27,
+        "growth": 30,
+        "responsibilities": [
+          "深度参与业务部门战略规划，成为业务团队核心合作伙伴，输出组织诊断与HR解决方案",
+          "负责人才盘点、继任者计划及关键岗位招聘落地，搭建业务线人才梯队",
+          "主导绩效管理体系在业务端的落地与复盘，推动组织效能提升",
+          "结合业务节奏设计员工关系、激励、文化等专项方案，提升团队凝聚力与敬业度",
+          "推动HR相关政策、流程、系统在业务部门的执行，确保合规并持续优化"
+        ],
+        "requirements": [
+          "本科及以上学历，5年以上HRBP/人力资源综合岗位经验，有相关行业/规模企业经验优先",
+          "熟悉人才盘点、组织设计、绩效激励、招聘配置中至少两个核心模块且有成功落地项目",
+          "具备业务视角与数据化分析能力，能独立输出结构化方案并推动跨部门协同",
+          "较强的沟通协调、冲突管理和抗压能力，自驱、结果导向、善于学习新事物",
+          "具备良好的职业道德与职业操守，能处理敏感的人员与组织议题"
+        ],
+        "benefits": [
+          "五险一金（按实际基数足额缴纳）",
+          "带薪年假 + 年度体检 + 补充商业医疗",
+          "节日福利、餐补/交通补、弹性工作制",
+          "内部培训体系 + 职业双通道晋升",
+          "年度调薪、年终奖、长期激励（视岗位）",
+          "年度Outing & 团建预算"
+        ],
+        "salaryBreakdown": {
+          "annualMin": 96,
+          "annualMax": 224,
+          "monthlyMin": 8,
+          "monthlyMax": 14,
+          "bonus": 19.8,
+          "stocks": 6.6,
+          "yearly": 11
+        },
+        "valueScore": 44
+      }
+    ],
+    "trends": [
+      {
+        "year": "2022",
+        "companyId": "a72b6a4d2221bd0e",
+        "revenue": 121,
+        "headcount": 102,
+        "openings": 1
+      },
+      {
+        "year": "2023",
+        "companyId": "a72b6a4d2221bd0e",
+        "revenue": 145,
+        "headcount": 117,
+        "openings": 2
+      },
+      {
+        "year": "2024",
+        "companyId": "a72b6a4d2221bd0e",
+        "revenue": 180,
+        "headcount": 126,
+        "openings": 4
+      },
+      {
+        "year": "2025",
+        "companyId": "a72b6a4d2221bd0e",
+        "revenue": 187,
+        "headcount": 151,
+        "openings": 6
+      },
+      {
+        "year": "2026",
+        "companyId": "a72b6a4d2221bd0e",
+        "revenue": 223,
+        "headcount": 163,
+        "openings": 8
+      }
+    ],
+    "comparisons": [
+      {
+        "companyId": "a72b6a4d2221bd0e",
+        "metric": "薪资竞争力",
+        "value": 40,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "a72b6a4d2221bd0e",
+        "metric": "招聘活跃度",
+        "value": 52,
+        "industryAvg": 45
+      },
+      {
+        "companyId": "a72b6a4d2221bd0e",
+        "metric": "组织规模",
+        "value": 50,
+        "industryAvg": 55
+      }
+    ],
+    "scoreCard": {
+      "companyId": "a72b6a4d2221bd0e",
+      "atmosphereScore": 84,
+      "competitivenessScore": 77,
+      "potentialScore": 85,
+      "overall": 0,
+      "grade": "B",
+      "strengths": [],
+      "weaknesses": []
+    },
+    "atmosphere": {
+      "companyId": "a72b6a4d2221bd0e",
+      "cultureOpenness": 80,
+      "overtimeIntensity": 53,
+      "promotionSpace": 72,
+      "teamStability": 85,
+      "leadership": 71
+    }
+  }
+}

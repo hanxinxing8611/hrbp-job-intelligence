@@ -1,0 +1,361 @@
+﻿{
+  "companyId": "明济生物制药",
+  "name": "明济生物制药",
+  "industry": "医药",
+  "scale": "150-500人",
+  "stage": "成熟期",
+  "founded": "2013",
+  "headquarters": "青岛",
+  "branches": [],
+  "description": "明济生物制药是医药领域的企业。",
+  "logoColor": "#1e99cf",
+  "logoInitial": "明",
+  "jobs": [
+    {
+      "jobId": "aug_0224",
+      "title": "HRBP",
+      "companyId": "明济生物制药",
+      "companyName": "明济生物制药",
+      "companyIndustry": "医药",
+      "city": "青岛",
+      "district": "崂山区",
+      "experience": "1-3年",
+      "education": "本科",
+      "salaryRange": "12-16K",
+      "salaryMin": 12,
+      "salaryMax": 16,
+      "bonusMonths": 13,
+      "tags": [
+        "硬科技",
+        "核心业务",
+        "管理岗",
+        "互联网"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3RLSJ00000224.htm",
+      "postedAt": "2026-08-16T05:41:50.107Z",
+      "crawledAt": "2026-08-16T09:41:50.107Z",
+      "heat": 238,
+      "growth": 62,
+      "url": "http://www.zhaopin.com/jobdetail/CC3RLSJ00000224.htm",
+      "benefits": [
+        "租房补贴",
+        "员工宿舍",
+        "带薪年假",
+        "年度体检"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "理解医药/医疗行业监管要求，为业务团队提供合规视角的HR支持"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "1-3年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "熟悉医药/医疗行业监管环境，有医疗健康领域HR经验者优先"
+      ],
+      "description": "明济生物制药招聘HRBP，工作地点青岛·崂山区，薪资12-16K，要求1-3年经验、本科学历。",
+      "valueScore": 15.7,
+      "salaryBreakdown": {
+        "p10": 12,
+        "p25": 13,
+        "p50": 14,
+        "p75": 15,
+        "p90": 17
+      }
+    },
+    {
+      "jobId": "real_045",
+      "title": "HRBP",
+      "companyId": "明济生物制药",
+      "companyName": "明济生物制药",
+      "companyIndustry": "医药",
+      "city": "北京",
+      "district": "大兴区",
+      "experience": "3-5年",
+      "education": "本科",
+      "salaryRange": "15-20K",
+      "salaryMin": 15,
+      "salaryMax": 20,
+      "bonusMonths": 13,
+      "tags": [
+        "硬科技",
+        "弹性工作",
+        "稳定",
+        "大厂"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CCL1276328090J40934886208.htm",
+      "postedAt": "2026-08-14T01:41:50.102Z",
+      "crawledAt": "2026-08-16T13:41:50.102Z",
+      "heat": 50,
+      "growth": 51,
+      "url": "http://www.zhaopin.com/jobdetail/CCL1276328090J40934886208.htm",
+      "benefits": [
+        "企业年金",
+        "年度旅游",
+        "五险一金",
+        "补充医疗"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "理解医药/医疗行业监管要求，为业务团队提供合规视角的HR支持",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "3-5年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "熟悉医药/医疗行业监管环境，有医疗健康领域HR经验者优先"
+      ],
+      "description": "明济生物制药招聘HRBP，工作地点北京·大兴区，薪资15-20K，要求3-5年经验、本科学历。",
+      "valueScore": 6.5,
+      "salaryBreakdown": {
+        "p10": 15,
+        "p25": 16,
+        "p50": 18,
+        "p75": 19,
+        "p90": 21
+      }
+    },
+    {
+      "jobId": "aug_0221",
+      "title": "HRBP",
+      "companyId": "明济生物制药",
+      "companyName": "明济生物制药",
+      "companyIndustry": "医药",
+      "city": "南京",
+      "district": "江宁区",
+      "experience": "5-10年",
+      "education": "本科",
+      "salaryRange": "14-20K·15薪",
+      "salaryMin": 14,
+      "salaryMax": 20,
+      "bonusMonths": 15,
+      "tags": [
+        "硬科技",
+        "期权激励",
+        "期权激励"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3RIPJ00000221.htm",
+      "postedAt": "2026-08-13T13:41:50.107Z",
+      "crawledAt": "2026-08-16T07:41:50.107Z",
+      "heat": 50,
+      "growth": 53,
+      "url": "http://www.zhaopin.com/jobdetail/CC3RIPJ00000221.htm",
+      "benefits": [
+        "五险一金",
+        "带薪年假",
+        "免费三餐",
+        "股票期权"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "理解医药/医疗行业监管要求，为业务团队提供合规视角的HR支持"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "5-10年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "熟悉医药/医疗行业监管环境，有医疗健康领域HR经验者优先"
+      ],
+      "description": "明济生物制药招聘HRBP，工作地点南京·江宁区，薪资14-20K·15薪，要求5-10年经验、本科学历。",
+      "valueScore": 3.8,
+      "salaryBreakdown": {
+        "p10": 14,
+        "p25": 15,
+        "p50": 17,
+        "p75": 19,
+        "p90": 21
+      }
+    },
+    {
+      "jobId": "aug_0222",
+      "title": "HRBP",
+      "companyId": "明济生物制药",
+      "companyName": "明济生物制药",
+      "companyIndustry": "医药",
+      "city": "天津",
+      "district": "滨海新区",
+      "experience": "1-3年",
+      "education": "硕士",
+      "salaryRange": "14-18K·14薪",
+      "salaryMin": 14,
+      "salaryMax": 18,
+      "bonusMonths": 14,
+      "tags": [
+        "硬科技",
+        "期权激励",
+        "组织发展"
+      ],
+      "source": "智联招聘",
+      "sourceUrl": "http://www.zhaopin.com/jobdetail/CC3RJQJ00000222.htm",
+      "postedAt": "2026-08-14T16:41:50.107Z",
+      "crawledAt": "2026-08-16T12:41:50.107Z",
+      "heat": 50,
+      "growth": 58,
+      "url": "http://www.zhaopin.com/jobdetail/CC3RJQJ00000222.htm",
+      "benefits": [
+        "通勤班车",
+        "六险一金",
+        "带薪年假",
+        "弹性工作",
+        "租房补贴"
+      ],
+      "responsibilities": [
+        "深入理解所支持业务线的战略与目标，为业务部门提供全方位人力资源策略支持",
+        "负责业务团队的人才招聘与梯队建设，保障关键岗位的人才供给",
+        "主导绩效管理体系的落地执行，推动团队目标达成与持续优化",
+        "关注员工关系与组织氛围，及时诊断并解决团队协作中的问题",
+        "理解医药/医疗行业监管要求，为业务团队提供合规视角的HR支持",
+        "协助业务负责人进行组织诊断，识别组织效能提升点并推动改进"
+      ],
+      "requirements": [
+        "本科及以上学历，人力资源管理、企业管理或相关专业背景优先",
+        "1-3年以上HRBP或人力资源综合管理经验，有互联网或科技行业背景者优先",
+        "熟悉人力资源招聘、绩效、员工关系等核心模块，具备扎实的专业功底",
+        "优秀的沟通协调能力与业务理解力，能与业务团队高效协作",
+        "数据驱动思维，能通过数据分析支撑HR决策与组织诊断",
+        "熟悉医药/医疗行业监管环境，有医疗健康领域HR经验者优先"
+      ],
+      "description": "明济生物制药招聘HRBP，工作地点天津·滨海新区，薪资14-18K·14薪，要求1-3年经验、硕士学历。",
+      "valueScore": 18.4,
+      "salaryBreakdown": {
+        "p10": 14,
+        "p25": 15,
+        "p50": 16,
+        "p75": 17,
+        "p90": 19
+      }
+    }
+  ],
+  "analysis": {
+    "companyId": "明济生物制药",
+    "atmosphereScore": 77,
+    "competitivenessScore": 67,
+    "potentialScore": 85,
+    "overall": 76,
+    "grade": "B",
+    "strengths": [
+      "团队氛围好",
+      "发展空间大",
+      "福利待遇优"
+    ],
+    "weaknesses": [
+      "部分流程待优化",
+      "行业竞争激烈"
+    ],
+    "radar": [
+      {
+        "label": "文化开放度",
+        "value": 64,
+        "key": "cultureOpenness"
+      },
+      {
+        "label": "晋升空间",
+        "value": 64,
+        "key": "promotionSpace"
+      },
+      {
+        "label": "团队稳定",
+        "value": 80,
+        "key": "teamStability"
+      },
+      {
+        "label": "领导力",
+        "value": 51,
+        "key": "leadership"
+      },
+      {
+        "label": "加班强度",
+        "value": 46,
+        "key": "overtimeIntensity"
+      }
+    ],
+    "competitors": [
+      {
+        "companyId": "明济生物制药",
+        "metric": "薪资竞争力",
+        "value": 93,
+        "industryAvg": 65
+      },
+      {
+        "companyId": "明济生物制药",
+        "metric": "发展潜力",
+        "value": 68,
+        "industryAvg": 60
+      },
+      {
+        "companyId": "明济生物制药",
+        "metric": "团队氛围",
+        "value": 99,
+        "industryAvg": 70
+      },
+      {
+        "companyId": "明济生物制药",
+        "metric": "稳定性",
+        "value": 65,
+        "industryAvg": 55
+      },
+      {
+        "companyId": "明济生物制药",
+        "metric": "行业地位",
+        "value": 73,
+        "industryAvg": 50
+      }
+    ],
+    "trend": [
+      {
+        "companyId": "明济生物制药",
+        "year": "2021",
+        "revenue": 1228,
+        "headcount": 105,
+        "openings": 36
+      },
+      {
+        "companyId": "明济生物制药",
+        "year": "2022",
+        "revenue": 1295,
+        "headcount": 57,
+        "openings": 26
+      },
+      {
+        "companyId": "明济生物制药",
+        "year": "2023",
+        "revenue": 1041,
+        "headcount": 108,
+        "openings": 53
+      },
+      {
+        "companyId": "明济生物制药",
+        "year": "2024",
+        "revenue": 919,
+        "headcount": 116,
+        "openings": 29
+      },
+      {
+        "companyId": "明济生物制药",
+        "year": "2025",
+        "revenue": 1280,
+        "headcount": 116,
+        "openings": 21
+      }
+    ]
+  }
+}

@@ -214,6 +214,7 @@ export default function JobDetail() {
                     job.source === '智联招聘' ? `https://sou.zhaopin.com/?kw=${encodeURIComponent(job.title)}` :
                     job.source === '前程无忧' ? `https://we.51job.com/pc/search?keyword=${encodeURIComponent(job.title)}` :
                     job.source === '猎聘' ? `https://www.liepin.com/zhaopin/?key=${encodeURIComponent(job.title)}` :
+                    job.source === '汇博网' ? `https://www.huibo.com/cq/joblist/?keyword=${encodeURIComponent(job.title)}` :
                     `https://www.zhipin.com/web/geek/job?query=${encodeURIComponent(job.title)}`
                   )}
                   target="_blank"

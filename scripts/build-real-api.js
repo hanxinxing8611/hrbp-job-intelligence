@@ -223,12 +223,12 @@ const realJobs = [
   { title: 'HRBP', company: '立联信天津', city: '天津', district: '滨海新区', salary: '10-15K·13薪', experience: '3-5年', education: '本科', source: '猎聘', sourceUrl: 'https://m.liepin.com/job/1983639925.shtml' },
   { title: '人力资源经理/HRBP', company: '中海商业', city: '天津', district: '河西区', salary: '12-15K·16薪', experience: '3-5年', education: '本科', source: '猎聘', sourceUrl: 'https://m.liepin.com/job/1984099095.shtml' },
   { title: 'HRBP经理', company: '丽滋卡尔医院', city: '天津', district: '中山门', salary: '15-30K', experience: '5-10年', education: '本科', source: '猎聘', sourceUrl: 'https://m.liepin.com/job/1980332407.shtml' },
-  { title: '人事HRBP', company: '鑫斛药房', city: '重庆', district: '两江新区', salary: '6-8K', experience: '1-3年', education: '本科', source: '猎聘', sourceUrl: 'https://m.huibo.com/cq/job/jobi83nrc1/' },
+  { title: '人事HRBP', company: '鑫斛药房', city: '重庆', district: '两江新区', salary: '6-8K', experience: '1-3年', education: '本科', source: '汇博网', sourceUrl: 'https://m.huibo.com/cq/job/jobi83nrc1/' },
   { title: '总部职能HRBP', company: '百利天恒', city: '成都', district: '桐梓林', salary: '15-25K', experience: '5年以上', education: '大专', source: '猎聘', sourceUrl: 'https://m.liepin.com/job/1983358503.shtml' },
   { title: 'HRBP Manager', company: '特斯拉中国', city: '成都', district: '', salary: '40-55K·17薪', experience: '5-10年', education: '本科', source: '猎聘', sourceUrl: 'https://m.liepin.com/job/1984674853.shtml' },
 
   // ===== 补充数据 (1条) =====
-  { title: '高级HRBP（研发团队）', company: '海微科技', city: '武汉', district: '江夏区', salary: '', experience: '3-5年', education: '本科', source: 'BOSS直聘', sourceUrl: 'https://m.zhipin.com/job_detail/b133cfe5f6f780570nFy39y-F1tT.html' },
+  { title: '高级HRBP（研发团队）', company: '海微科技', city: '武汉', district: '江夏区', salary: '15-25K·13薪', experience: '3-5年', education: '本科', source: 'BOSS直聘', sourceUrl: 'https://m.zhipin.com/job_detail/b133cfe5f6f780570nFy39y-F1tT.html' },
 ]
 
 // ============================================================

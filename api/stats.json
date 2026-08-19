@@ -1,4 +1,4 @@
-﻿{
+{
   "sourceStats": [
     {
       "source": "BOSS直聘",
@@ -9,12 +9,12 @@
       "count": 198
     },
     {
-      "source": "前程无忧",
-      "count": 42
-    },
-    {
       "source": "智联招聘",
       "count": 168
+    },
+    {
+      "source": "前程无忧",
+      "count": 42
     },
     {
       "source": "汇博网",
@@ -27,11 +27,11 @@
       "count": 38
     },
     {
-      "city": "上海",
+      "city": "天津",
       "count": 31
     },
     {
-      "city": "天津",
+      "city": "上海",
       "count": 31
     },
     {
@@ -55,11 +55,11 @@
       "count": 20
     },
     {
-      "city": "南京",
+      "city": "郑州",
       "count": 20
     },
     {
-      "city": "郑州",
+      "city": "南京",
       "count": 20
     },
     {
@@ -67,23 +67,7 @@
       "count": 20
     },
     {
-      "city": "贵阳",
-      "count": 19
-    },
-    {
-      "city": "南通",
-      "count": 19
-    },
-    {
-      "city": "泉州",
-      "count": 19
-    },
-    {
-      "city": "昆明",
-      "count": 19
-    },
-    {
-      "city": "无锡",
+      "city": "烟台",
       "count": 19
     },
     {
@@ -91,11 +75,23 @@
       "count": 19
     },
     {
-      "city": "南宁",
+      "city": "泉州",
       "count": 19
     },
     {
-      "city": "烟台",
+      "city": "中山",
+      "count": 19
+    },
+    {
+      "city": "贵阳",
+      "count": 19
+    },
+    {
+      "city": "金华",
+      "count": 19
+    },
+    {
+      "city": "南通",
       "count": 19
     },
     {
@@ -103,7 +99,7 @@
       "count": 19
     },
     {
-      "city": "金华",
+      "city": "无锡",
       "count": 19
     },
     {
@@ -115,15 +111,19 @@
       "count": 19
     },
     {
-      "city": "中山",
+      "city": "南宁",
       "count": 19
     },
     {
-      "city": "兰州",
-      "count": 18
+      "city": "昆明",
+      "count": 19
     },
     {
       "city": "绍兴",
+      "count": 18
+    },
+    {
+      "city": "兰州",
       "count": 18
     },
     {
@@ -135,7 +135,7 @@
       "count": 15
     },
     {
-      "city": "宁波",
+      "city": "广州",
       "count": 2
     },
     {
@@ -143,11 +143,11 @@
       "count": 2
     },
     {
-      "city": "广州",
+      "city": "武汉",
       "count": 2
     },
     {
-      "city": "武汉",
+      "city": "宁波",
       "count": 2
     },
     {
@@ -163,27 +163,7 @@
       "count": 1
     },
     {
-      "city": "南昌",
-      "count": 1
-    },
-    {
-      "city": "潍坊",
-      "count": 1
-    },
-    {
       "city": "六安",
-      "count": 1
-    },
-    {
-      "city": "重庆",
-      "count": 1
-    },
-    {
-      "city": "泰州",
-      "count": 1
-    },
-    {
-      "city": "大连",
       "count": 1
     },
     {
@@ -191,15 +171,39 @@
       "count": 1
     },
     {
-      "city": "东莞",
+      "city": "泰州",
+      "count": 1
+    },
+    {
+      "city": "南昌",
       "count": 1
     },
     {
       "city": "呼和浩特",
       "count": 1
+    },
+    {
+      "city": "东莞",
+      "count": 1
+    },
+    {
+      "city": "重庆",
+      "count": 1
+    },
+    {
+      "city": "大连",
+      "count": 1
+    },
+    {
+      "city": "潍坊",
+      "count": 1
     }
   ],
   "expStats": [
+    {
+      "experience": "1年以上",
+      "count": 9
+    },
     {
       "experience": "5-10年",
       "count": 133
@@ -209,56 +213,52 @@
       "count": 79
     },
     {
-      "experience": "8年以上",
-      "count": 21
-    },
-    {
-      "experience": "1-3年",
-      "count": 85
-    },
-    {
-      "experience": "2年以上",
-      "count": 12
-    },
-    {
       "experience": "3-5年",
       "count": 150
-    },
-    {
-      "experience": "5年及以上",
-      "count": 12
     },
     {
       "experience": "5年以上",
       "count": 28
     },
     {
+      "experience": "3年以上",
+      "count": 19
+    },
+    {
+      "experience": "2年以上",
+      "count": 12
+    },
+    {
+      "experience": "1-3年",
+      "count": 85
+    },
+    {
       "experience": "10年及以上",
       "count": 8
     },
     {
-      "experience": "3年以上",
-      "count": 19
+      "experience": "8年以上",
+      "count": 21
     },
     {
       "experience": "8年及以上",
       "count": 6
     },
     {
-      "experience": "在校/应届",
-      "count": 6
-    },
-    {
-      "experience": "1年以上",
-      "count": 9
-    },
-    {
       "experience": "经验不限",
       "count": 34
     },
     {
+      "experience": "5年及以上",
+      "count": 12
+    },
+    {
       "experience": "3年及以上",
       "count": 9
+    },
+    {
+      "experience": "在校/应届",
+      "count": 6
     },
     {
       "experience": "1年及以上",
@@ -267,200 +267,8 @@
   ],
   "industryStats": [
     {
-      "industry": "互联网",
-      "count": 102
-    },
-    {
-      "industry": "科技",
-      "count": 36
-    },
-    {
-      "industry": "医药",
-      "count": 36
-    },
-    {
-      "industry": "教育",
-      "count": 24
-    },
-    {
-      "industry": "新零售",
-      "count": 24
-    },
-    {
-      "industry": "智能硬件",
-      "count": 18
-    },
-    {
-      "industry": "新能源",
-      "count": 18
-    },
-    {
-      "industry": "半导体",
-      "count": 18
-    },
-    {
-      "industry": "新能源汽车",
-      "count": 18
-    },
-    {
-      "industry": "半导体设备",
-      "count": 12
-    },
-    {
-      "industry": "人力资源服务",
-      "count": 12
-    },
-    {
-      "industry": "线缆/科技",
-      "count": 12
-    },
-    {
-      "industry": "互联网/游戏",
-      "count": 12
-    },
-    {
-      "industry": "化工",
-      "count": 12
-    },
-    {
-      "industry": "教育科技",
-      "count": 12
-    },
-    {
-      "industry": "食品/农业",
-      "count": 12
-    },
-    {
-      "industry": "企业服务",
-      "count": 12
-    },
-    {
-      "industry": "国际贸易",
-      "count": 12
-    },
-    {
-      "industry": "汽车零部件",
-      "count": 12
-    },
-    {
-      "industry": "电子",
-      "count": 12
-    },
-    {
-      "industry": "机器人",
-      "count": 12
-    },
-    {
-      "industry": "精密制造",
-      "count": 12
-    },
-    {
-      "industry": "半导体显示",
-      "count": 6
-    },
-    {
-      "industry": "餐饮",
-      "count": 6
-    },
-    {
-      "industry": "消费电子",
-      "count": 6
-    },
-    {
-      "industry": "物流科技",
-      "count": 6
-    },
-    {
-      "industry": "房地产",
-      "count": 6
-    },
-    {
-      "industry": "电气",
-      "count": 6
-    },
-    {
-      "industry": "食品",
-      "count": 6
-    },
-    {
-      "industry": "汽车",
-      "count": 6
-    },
-    {
-      "industry": "综合服务",
-      "count": 6
-    },
-    {
-      "industry": "舞台设备",
-      "count": 6
-    },
-    {
-      "industry": "服务外包",
-      "count": 6
-    },
-    {
-      "industry": "IT服务",
-      "count": 6
-    },
-    {
-      "industry": "零售",
-      "count": 6
-    },
-    {
-      "industry": "金融科技",
-      "count": 6
-    },
-    {
-      "industry": "医疗",
-      "count": 6
-    },
-    {
-      "industry": "本地生活",
-      "count": 6
-    },
-    {
-      "industry": "商业地产",
-      "count": 6
-    },
-    {
-      "industry": "家电",
-      "count": 6
-    },
-    {
-      "industry": "医疗科技",
-      "count": 6
-    },
-    {
-      "industry": "激光设备",
-      "count": 6
-    },
-    {
-      "industry": "医药零售",
-      "count": 6
-    },
-    {
-      "industry": "轮胎制造",
-      "count": 6
-    },
-    {
-      "industry": "贸易",
-      "count": 6
-    },
-    {
-      "industry": "企业管理",
-      "count": 6
-    },
-    {
-      "industry": "医疗器械",
-      "count": 6
-    },
-    {
-      "industry": "建筑工程",
-      "count": 6
-    },
-    {
-      "industry": "物业管理",
-      "count": 6
+      "industry": "综合",
+      "count": 612
     }
   ]
 }

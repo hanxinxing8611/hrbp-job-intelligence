@@ -1,8 +1,44 @@
-﻿{
+{
   "running": false,
-  "lastCrawl": "2026-08-16T16:41:50.118Z",
-  "todayNew": 612,
+  "lastCrawl": "2026-08-19T02:00:45.800Z",
+  "todayNew": 0,
   "totalJobs": 612,
-  "platforms": 4,
-  "timestamp": "2026-08-16T16:41:50.486Z"
+  "platforms": 5,
+  "timestamp": "2026-08-19T02:00:45.800Z",
+  "crawlReport": {
+    "updatedAt": "2026-08-19T02:00:45.800Z",
+    "freshCount": 0,
+    "perSource": {
+      "智联招聘": 0,
+      "前程无忧": 0,
+      "BOSS直聘": 0
+    },
+    "totalFinal": 612,
+    "companyCount": 241,
+    "failures": [
+      "[WY] error 北京/HRBP/p1: ",
+      "[WY] JSON parse 北京/HRBP/p2",
+      "[WY] JSON parse 北京/人力资源业务伙伴/p1",
+      "[WY] JSON parse 北京/人力资源业务伙伴/p2",
+      "[WY] JSON parse 上海/HRBP/p1",
+      "[WY] JSON parse 上海/HRBP/p2",
+      "[WY] JSON parse 上海/人力资源业务伙伴/p1",
+      "[WY] JSON parse 上海/人力资源业务伙伴/p2",
+      "[WY] JSON parse 广州/HRBP/p1",
+      "[WY] JSON parse 广州/HRBP/p2",
+      "[WY] JSON parse 广州/人力资源业务伙伴/p1",
+      "[WY] JSON parse 广州/人力资源业务伙伴/p2",
+      "[WY] JSON parse 深圳/HRBP/p1",
+      "[WY] JSON parse 深圳/HRBP/p2",
+      "[WY] JSON parse 深圳/人力资源业务伙伴/p1",
+      "[WY] JSON parse 深圳/人力资源业务伙伴/p2",
+      "[WY] JSON parse 杭州/HRBP/p1",
+      "[WY] JSON parse 杭州/HRBP/p2",
+      "[WY] JSON parse 杭州/人力资源业务伙伴/p1",
+      "[WY] JSON parse 杭州/人力资源业务伙伴/p2"
+    ],
+    "failureCount": 42,
+    "durationMs": 114635,
+    "mergeStrategy": "OLD_FALLBACK (新鲜仅 0，沿用历史数据 612 条)"
+  }
 }

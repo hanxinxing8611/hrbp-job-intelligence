@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "hrbp-job-intelligence",
   "version": "1.0.0",
   "description": "HRBP Job Intelligence - 求职情报站",
@@ -9,7 +9,7 @@
     "dev": "vite",
     "build:api": "node scripts/build-real-api.js",
     "scrape": "node scripts/scrape-live-jobs.js",
-    "build:frontend": "tsc && vite build",
+    "build:frontend": "vite build",
     "build": "npm run build:api && npm run build:frontend",
     "build:live": "npm run scrape && npm run build:frontend",
     "preview": "vite preview"

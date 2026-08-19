@@ -1,4 +1,4 @@
-﻿import { useState, useEffect } from 'react'
+import { useState, useEffect } from 'react'
 import { Search, SlidersHorizontal, RotateCcw, X, ChevronDown, RefreshCw } from 'lucide-react'
 import {
   getCityOptions,

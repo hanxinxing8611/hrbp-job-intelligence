@@ -41,7 +41,7 @@ jobs:
       # --------------------------
       # 核心：实时抓取 HRBP 职位数据（智联/无忧/BOSS，失败自动 fallback 到旧数据）
       # --------------------------
-      - name: 📡 Live crawl HRBP jobs (Zhaopin / 51job / Boss best-effort)
+      - name: Live crawl HRBP jobs (Zhaopin / 51job / Boss best-effort)
         id: crawl
         run: |
           set +e
@@ -61,7 +61,7 @@ jobs:
         continue-on-error: true
 
       # 兜底：如果抓取彻底失败导致 api/jobs.json 不存在/空 → 用 build-real-api.js 生成静态数据
-      - name: 🛡️ Fallback: build static api if crawl produced empty
+      - name: Fallback - build static api if crawl produced empty
         if: steps.crawl.outputs.job_count == 0 || steps.crawl.outputs.job_count < 40
         run: npm run build:api
 
@@ -97,7 +97,7 @@ jobs:
       # --------------------------
       # 可选：把最新抓取的 api/ 回写到仓库（下次抓取可 merge 历史、不丢失）
       # --------------------------
-      - name: 🗃️ Commit live data back to repo (so future crawls can merge)
+      - name: Commit live data back to repo (so future crawls can merge)
         if: steps.crawl.outputs.job_count > 80
         run: |
           git config --global user.name "github-actions[bot]"

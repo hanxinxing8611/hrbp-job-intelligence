@@ -1,12 +1,12 @@
 {
   "running": false,
-  "lastCrawl": "2026-08-19T02:00:45.800Z",
+  "lastCrawl": "2026-08-19T02:08:00.381Z",
   "todayNew": 0,
   "totalJobs": 612,
   "platforms": 5,
-  "timestamp": "2026-08-19T02:00:45.800Z",
+  "timestamp": "2026-08-19T02:08:00.381Z",
   "crawlReport": {
-    "updatedAt": "2026-08-19T02:00:45.800Z",
+    "updatedAt": "2026-08-19T02:08:00.381Z",
     "freshCount": 0,
     "perSource": {
       "智联招聘": 0,
@@ -16,7 +16,7 @@
     "totalFinal": 612,
     "companyCount": 241,
     "failures": [
-      "[WY] error 北京/HRBP/p1: ",
+      "[WY] JSON parse 北京/HRBP/p1",
       "[WY] JSON parse 北京/HRBP/p2",
       "[WY] JSON parse 北京/人力资源业务伙伴/p1",
       "[WY] JSON parse 北京/人力资源业务伙伴/p2",
@@ -38,7 +38,7 @@
       "[WY] JSON parse 杭州/人力资源业务伙伴/p2"
     ],
     "failureCount": 42,
-    "durationMs": 114635,
+    "durationMs": 118754,
     "mergeStrategy": "OLD_FALLBACK (新鲜仅 0，沿用历史数据 612 条)"
   }
 }
